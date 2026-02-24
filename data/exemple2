@@ -1,0 +1,203 @@
+Walking Wake 
+
+Base Stats 
+
+HP 
+10 
+Sp.ATK 
+13 
+Total: 
+
+ATK 
+8 
+Sp.DEF 
+8 
+59 
+
+DEF 
+9 
+SPD 
+11 
+
+Basic Information 
+
+Type: 
+Water / Dragon 
+
+Basic Ability 1: 
+Protosynthesis 
+
+Adv Ability 1: 
+Pressure 
+
+Adv Ability 2: 
+Pride 
+
+Adv Ability 3: 
+Empower 
+
+High Ability: 
+Vanguard 
+
+Evolution 
+
+1 - Walking Wake 
+
+Other Information 
+
+Size: 
+11’06” / 3.5m 
+
+617.3lbs / 280kg 
+
+(Huge) 
+
+(Weight Class 6) 
+
+Genders: 
+Unknown 
+
+Diet: 
+Carnivore 
+
+Habitat: 
+Beach, Grassland, Mountain 
+
+156 
+Unofficial Homebrew 
+
+
+Capabilities 
+
+Overland 9, Swim 8, Jump 3/3, Power 12, Mountable 2, 
+Fountain, Naturewalk (Ocean) 
+
+Skill List 
+
+Athl 5d6+2, Acro 3d6, Combat 4d6+2, Stealth 1d6 , Percep 
+3d6+1, Focus 5d6+3 
+
+Move List 
+
+1 - Water Gun - Water 
+1 - Water Gun - Water 
+name : 
+1 - Draco Jet - Dragon 
+1 - Draco Jet - Dragon 
+name : 
+1 - Roar - Normal 
+1 - Roar - Normal 
+name : 
+1 - Leer - Normal 
+1 - Leer - Normal 
+name : 
+4 - Bite - Dark 
+4 - Bite - Dark 
+name : 
+8 - Fire Spin - Fire 
+8 - Fire Spin - Fire 
+name : 
+10 - Dragon Breath - Dragon 
+10 - Dragon Breath - Dragon 
+name : 
+12 - Noble Roar - Normal 
+12 - Noble Roar - Normal 
+name : 
+14 - Water Pulse - Water 
+14 - Water Pulse - Water 
+name : 
+16 - Twister - Dragon 
+16 - Twister - Dragon 
+name : 
+20 - Nasty Plot - Dark 
+20 - Nasty Plot - Dark 
+name : 
+22 - Snarl - Dark 
+22 - Snarl - Dark 
+name : 
+24 - Flame Burst - Fire 
+24 - Flame Burst - Fire 
+name : 
+28 - Smokescreen - Normal 
+28 - Smokescreen - Normal 
+name : 
+32 - Hydro Steam - Water 
+32 - Hydro Steam - Water 
+name : 
+36 - Dragon Pulse - Dragon 
+36 - Dragon Pulse - Dragon 
+name : 
+38 - Energy Ball - Grass 
+38 - Energy Ball - Grass 
+name : 
+40 - Flamethrower - Fire 
+40 - Flamethrower - Fire 
+name : 
+44 - Glare - Normal 
+44 - Glare - Normal 
+name : 
+48 - Hydro Pump - Water 
+48 - Hydro Pump - Water 
+name : 
+50 - Solar Beam - Grass 
+50 - Solar Beam - Grass 
+name : 
+52 - Draco Meteor - Dragon 
+52 - Draco Meteor - Dragon 
+name : 
+
+TM/Tutor Moves 
+TM/Tutor Moves 
+
+Agility, Aqua Jet (N), Attract, Aurora Beam (N), 
+Agility, Aqua Jet (N), Attract, Aurora Beam (N), 
+Blizzard, Body Slam, Breaking Swipe (N), 
+Blizzard, Body Slam, Breaking Swipe (N), 
+Chilling Water, Confide, Crunch, Double Team, 
+Chilling Water, Confide, Crunch, Double Team, 
+Double-Edge, Dragon Cheer, Dragon Claw, 
+Double-Edge, Dragon Cheer, Dragon Claw, 
+Dragon Dance, Dragon Rush (N), Dragon Tail, 
+Dragon Dance, Dragon Rush (N), Dragon Tail, 
+Endure, Facade, Fire Fang, Flip Turn, Frustration, 
+Endure, Facade, Fire Fang, Flip Turn, Frustration, 
+Giga Impact, Hidden Power, Hone Claws (N), 
+Giga Impact, Hidden Power, Hone Claws (N), 
+Hurricane, Hyper Beam, Knock Off, Liquidation, 
+Hurricane, Hyper Beam, Knock Off, Liquidation, 
+Low Kick, Mud Shot, Outrage (N), Protect, 
+Low Kick, Mud Shot, Outrage (N), Protect, 
+Rain Dance, Rest, Return, Round, Scald, 
+Rain Dance, Rest, Return, Round, Scald, 
+Scary Face, Sleep Talk, Substitute, Sunny Day (N), 
+Scary Face, Sleep Talk, Substitute, Sunny Day (N), 
+Surf, Swagger, Swift, Take Down, Tera Blast, Toxic, 
+Surf, Swagger, Swift, Take Down, Tera Blast, Toxic, 
+Waterfall, Weather Ball, Whirlpool, Cement Throw
+Waterfall, Weather Ball, Whirlpool, Cement Throw
+
+walking wake
+10
+8
+13
+8
+59
+9
+
+[]
+['']
+['', '', '']
+['']
+
+
+-1
+-1
+
+
+
+[Capability(name='', value='')]
+[Skill(name='Athl', roll='5d6+2'), Skill(name='Acro', roll='3d6'), Skill(name='Combat', roll='4d6+2'), Skill(name='Stealth', roll='1d6'), Skill(name='Percep', roll='3d6+1'), Skill(name='Focus', roll='5d6+3')]
+[Move(name='', level=1, type='Water Gun'), Move(name='', level=1, type='Draco Jet'), Move(name='', level=1, type='Roar'), Move(name='', level=1, type='Leer'), Move(name='', level=4, type='Bite'), Move(name='', level=8, type='Fire Spin'), Move(name='', level=10, type='Dragon Breath'), Move(name='', level=12, type='Noble Roar'), Move(name='', level=14, type='Water Pulse'), Move(name='', level=16, type='Twister'), Move(name='', level=20, type='Nasty Plot'), Move(name='', level=22, type='Snarl'), Move(name='', level=24, type='Flame Burst'), Move(name='', level=28, type='Smokescreen'), Move(name='', level=32, type='Hydro Steam'), Move(name='', level=36, type='Dragon Pulse'), Move(name='', level=38, type='Energy Ball'), Move(name='', level=40, type='Flamethrower'), Move(name='', level=44, type='Glare'), Move(name='', level=48, type='Hydro Pump'), Move(name='', level=50, type='Solar Beam'), Move(name='', level=52, type='Draco Meteor')]
+[]
+[]
+[]
