@@ -1252,7 +1252,7 @@ def parse_extracted_text_gen9(input_pdf,index):
 
 def parse_full_moves(filepath):
     pattern = r"Damage Base ([1-9]\d?):\s*(.*)"
-    moves = []
+    moves = {}
     f = open(filepath)
     lines = f.readlines()
     f.close()
@@ -1391,11 +1391,10 @@ def parse_full_moves(filepath):
             if cleaned_line.strip().startswith("----"):
                 # print("found move to store : "+move_name)
                 if not bypass_current_move and move_name.strip() != "":
-                    moves.append(
-                        FullMove(move_name, move_type, move_frequency, move_ac, move_damage_base, move_roll, move_classe,
+                    moves[move_name]=FullMove(move_name, move_type, move_frequency, move_ac, move_damage_base, move_roll, move_classe,
                              move_range,
                              move_effect, move_blessing, move_special_effect, move_contest_type, move_contest_effect,
-                             move_extra_lines))
+                             move_extra_lines)
                 move_name = ""
                 move_type = ""
                 move_frequency = ""
