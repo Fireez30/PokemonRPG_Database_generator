@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-
+import json
 @dataclass
 class Capability:
     name: str
@@ -44,3 +44,44 @@ class Pokemon:
         self.tm_moves = tm_moves
         self.tutor_moves = tutor_moves
         self.egg_moves = egg_moves
+
+class FullMove:
+    def __init__(self,move,type_val,frequency,ac,damage_base,roll,classe,range_val,effect,blessing,special_effect,contest_type,contest_effect,extra_lines):
+        self.move = move
+        self.type = type_val
+        self.frequency = frequency
+        self.AC = ac
+        self.damage_base = damage_base
+        self.roll = roll
+        self.classe = classe
+        self.range = range_val
+        self.effect = effect
+        self.blessing = blessing
+        self.special_effect = special_effect
+        self.contest_type = contest_type
+        self.contest_effect = contest_effect
+        self.extra_lines = []
+        if self.AC == "":
+            self.AC = "None"
+        if self.AC == "Static":
+            self.frequency = "Static"
+            self.AC ="None"
+            self.classe = "Static"
+    def to_csv(self):
+
+        # this is used to override default formating
+        print_classe = ""
+        if self.classe.lower() == "special":
+            print_classe = "Spec"
+        elif self.classe.lower() == "physical":
+            print_classe = "Phys"
+        else: # contains case like Status, Static, and weird ones
+            print_classe = self.classe
+        print_ac = self.AC
+        if self.AC.isdigit():
+            print_ac = self.AC
+        elif self.AC.lower() == "none":
+            print_ac = "/"
+        csv =  self.move+","+self.frequency+","+print_ac+","+self.type+","+self.roll.split("/")[0]+","+print_classe+","+'"'+self.range+'"'+","+'"'+self.effect+'"'
+        print(csv.replace(",", " | "))
+        return csv
