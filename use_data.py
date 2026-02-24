@@ -80,7 +80,7 @@ if __name__ == "__main__":
         if pokemon.name == pokemon_to_find.lower():
             level = -1
             while level <= 0 :
-                level = int(input("Please input the level of the pokamon : "))
+                level = int(input("Please input the level of the pokemon : "))
             pokemon_rarity = ""
             while pokemon_rarity not in ["Normal","Shiny","Platine"]:
                 pokemon_rarity = input("Please input the pokemon rarity (Normal, Shiny or Platine) : ")
@@ -244,7 +244,7 @@ if __name__ == "__main__":
             points_to_give = points_to_give - point_in_spdef
 
             while point_in_speed < 0 and point_in_speed <= points_to_give:
-                point_in_speed = int(input("Please input the number of point in SP DEF stat (max "+str(points_to_give)+") : "))
+                point_in_speed = int(input("Please input the number of point in SPEED stat (max "+str(points_to_give)+") : "))
                 if point_in_speed < 0:
                     print("Please input a positive point number")
                     point_in_speed = -1
@@ -383,19 +383,50 @@ if __name__ == "__main__":
             final_str += f"|-------------|------------------|-----------|-------------|-------------|--------------------|--------------|-------------------|\n"
             poke_moves = reversed(sorted(pokemon.moves, key=lambda item: item["level"]))
             filtered_moves = [m for m in poke_moves if int(m["level"]) <= level]
-            filtered_moves = filtered_moves[:6]
-            print(filtered_moves)
+            #filtered_moves = filtered_moves[:6]
+            print("here is the list of move available for the pokemon : ")
             for move in filtered_moves:
+                if move["name"] in moves_by_name:
+                    print(f"| {move["name"]} | {moves_by_name[move["name"]].get_frequency()} | {moves_by_name[move["name"]].get_AC()} | {moves_by_name[move["name"]].get_type()} | {moves_by_name[move["name"]].get_roll()} | {moves_by_name[move["name"]].get_classe()} | {moves_by_name[move["name"]].get_range()} | {moves_by_name[move["name"]].get_effect()}     |")
+            chosen_moves = []
+            current_move = ""
+            while current_move != "stop" and current_move != "default" and len(chosen_moves) < 6:
+                current_move = input("Please input a move to add by name (case sensitive). If you want to stop, write stop. If you want the tool to fill automatically, input 'default' : ")
+                if current_move != "stop" and current_move != "default":
+                    for move_f in filtered_moves:
+                        if move_f["name"] == current_move:
+                            chosen_moves.append(move_f)
+                    current_move = ""
+                if current_move == "default":
+                    chosen_moves = filtered_moves[:6]
+                    break
+            print(chosen_moves)
+            for move in chosen_moves:
                 if move["name"] in moves_by_name:
                     final_str += f"| {move["name"]} | {moves_by_name[move["name"]].get_frequency()} | {moves_by_name[move["name"]].get_AC()} | {moves_by_name[move["name"]].get_type()} | {moves_by_name[move["name"]].get_roll()} | {moves_by_name[move["name"]].get_classe()} | {moves_by_name[move["name"]].get_range()} | {moves_by_name[move["name"]].get_effect()}     |\n"
                 else:
                     final_str += f"| {move["name"]} |  |  |  |  |  |  |      |\n"
+
+            egg_moves = []
+            print("You will now choose egg moves. Here is the list of availables ones : ")
+            for move in pokemon.egg_moves:
+                print(move + " , ")
+            current_egg_move = ""
+            while current_egg_move != "stop" and len(egg_moves) < 3:
+                current_egg_move = input("Please input the egg move name (case sensitive). If you want to stop, please enter 'stop'")
+                if current_egg_move != "stop":
+                    for move_name in moves_by_name:
+                        if move_name == current_egg_move:
+                            egg_moves.append(moves_by_name[move_name])
             final_str += f"\n"
             final_str += f"|               |   |   |   |   |   |   |   |\n"
             final_str += f"|---------------| - | - | - | - | - | - | - |\n"
-            final_str += f"|               |   |   |   |   |   |   |   |\n"
-            final_str += f"|               |   |   |   |   |   |   |   |\n"
-            final_str += f"|               |   |   |   |   |   |   |   |\n"
+            added_count=0
+            for move in egg_moves:
+                final_str += f"| {move.name} | {move.get_frequency()} | {move.get_AC()} | {move.get_type()} | {move.get_roll()} | {move.get_classe()} | {move.get_range()} | {move.get_effect()}     |\n"
+                added_count += 1
+            for i in range(added_count,3):
+                final_str += f"|               |   |   |   |   |   |   |   |\n"
             final_str += f"\n"
             tutor_point_count = math.floor(level/5)
             final_str += f"Tutor points = {tutor_point_count}\n"

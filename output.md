@@ -3,7 +3,7 @@
 Card: None
 Gender: Unknown
 Item: 
-Nature: Impish (+DEF/-SPATK)
+Nature: Timid (+SPD/-ATK)
 Level: 34
 Rarity: Normal
 Type: Dark,Fighting
@@ -14,7 +14,7 @@ Weight: 14.3 lbs / 6.5kg (6)
 | **Ability** | **Effect** |
 | ---------------- | ------------------ |
 | Filter |  |
-| Own Tempo |  |
+| Hypnotic |  |
 | Magician |  | 
 
 
@@ -47,14 +47,14 @@ Weight: 14.3 lbs / 6.5kg (6)
 
 ## **Stats**
 
-| **Hit Points Max :104**                           | **Hit Points: 104/104** |
+| **Hit Points Max :101**                           | **Hit Points: 101/101** |
 |------------------------------------------------------------|------------------------------------------|
-| **Max HP**: 12+0+8=20              | **Current HP**:20                  |
-| **Max ATK**: 16+0+5=21              | **Current ATK**:21                  |
-| **Max DEF**: 9+1+7=17              | **Current DEF**:17                  |
-| **Max SP.ATK**: 8-1+6=13              | **Current SP.ATK**:13                  |
-| **Max SP.DEF**: 8+0+9=17              | **Current SP.DEF**:17                  |
-| **Max SPEED**: 16+0+9=25              | **Current SPEED**:25                  |
+| **Max HP**: 12+0+7=19              | **Current HP**:19                  |
+| **Max ATK**: 16-1+7=22              | **Current ATK**:22                  |
+| **Max DEF**: 9+0+7=16              | **Current DEF**:16                  |
+| **Max SP.ATK**: 8+0+7=15              | **Current SP.ATK**:15                  |
+| **Max SP.DEF**: 8+0+7=15              | **Current SP.DEF**:15                  |
+| **Max SPEED**: 16+1+9=26              | **Current SPEED**:26                  |
 
 | **Derived stats** |                |
 |-------------------|----------------|
