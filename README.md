@@ -30,6 +30,5 @@ python extract_database.py
 
 TODO : 
 
-- Parsing of gen 9 
-- for parsing gen7/8 and 9  : find all moves with "-", and replace it by "&" before parse, and replace "&"->"-" after
-- for parsing gen 9 : update stats to aggregate and do post processing
+- Parsing of abilities from doc, and including it in the pokemon sheets
+- ask user for the list of 6 moves to include, and allow user to input the egg moves
