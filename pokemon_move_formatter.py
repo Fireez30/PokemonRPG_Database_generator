@@ -20,7 +20,7 @@ def export_moves(moves,output_csv):
     csv = "Move,Freq,AC,Type,Roll,Dmg. Type,Range,Special Effect"
     print(csv.replace(",", " | "))
     for move in moves:
-        csv += "\n"+move.to_csv()
+        csv += "\n"+moves[move].to_csv()
     f = open(output_csv,"w+")
     f.write(csv)
     f.close()
