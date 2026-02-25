@@ -11,6 +11,10 @@ class Skill:
     roll: str
 
 @dataclass
+class Ability:
+    name:str
+    effect:str
+@dataclass
 class Move:
     name: str
     level: int = -1
