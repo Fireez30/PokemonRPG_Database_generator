@@ -1,5 +1,5 @@
 from pokemon_data import Pokemon
-from parsers import parse_full_moves
+from parsers import parse_full_moves,parse_full_abilities
 import json
 from random import randint
 
@@ -76,6 +76,7 @@ if __name__ == "__main__":
     pokemon_to_find = "meloetta delta magician form"
     pokemons = [Pokemon.from_dict(p) for p in raw_data]
     moves_by_name = parse_full_moves("data/Moves.html")
+    abilities_by_name = parse_full_abilities("data/Abilities.pdf")
     for pokemon in pokemons:
         if pokemon.name == pokemon_to_find.lower():
             level = -1
@@ -164,17 +165,17 @@ if __name__ == "__main__":
             final_str+= f"| ---------------- | ------------------ |\n"
             ability_choice=randint(0,len(pokemon.base_abilities)-1)
             print("Rolled basic ability : "+pokemon.base_abilities[ability_choice])
-            final_str+= f"| {pokemon.base_abilities[ability_choice]} |  |\n"
+            final_str+= f"| {pokemon.base_abilities[ability_choice]} | {abilities_by_name[pokemon.base_abilities[ability_choice]].effect} |\n"
             if level >= 20  and len(pokemon.advanced_abilities) > 0:
                 print("Rolling advanced ability")
                 advanced_ability_choice = randint(0,len(pokemon.advanced_abilities)-1)
                 print("Rolled advanced ability : "+pokemon.advanced_abilities[advanced_ability_choice])
-                final_str += f"| {pokemon.advanced_abilities[advanced_ability_choice]} |  |\n"
+                final_str += f"| {pokemon.advanced_abilities[advanced_ability_choice]} | {abilities_by_name[pokemon.advanced_abilities[advanced_ability_choice]].effect} |\n"
             if level >= 30 and len(pokemon.high_abilities) > 0:
                 print("Rolling high ability")
                 high_ability_choice = randint(0,len(pokemon.high_abilities)-1)
                 print("Rolled high ability : "+pokemon.high_abilities[high_ability_choice])
-                final_str += f"| {pokemon.high_abilities[high_ability_choice]} |  | \n"
+                final_str += f"| {pokemon.high_abilities[high_ability_choice]} | {abilities_by_name[pokemon.high_abilities[high_ability_choice]].effect} | \n"
 
 
             points_to_give = 10+level

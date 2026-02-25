@@ -29,5 +29,3 @@ python extract_database.py
 
 
 TODO : 
-
-- Parsing of abilities from doc, and including it in the pokemon sheets

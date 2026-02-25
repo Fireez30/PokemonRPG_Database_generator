@@ -14,79 +14,72 @@ def replace_dash_in_move_names(text):
     for k, v in mapping.items():
         output = output.replace(k, v)
     return output
-def get_horizontal_separators(page, width_ratio=0.7, tol=2):
-    width = page.rect.width
-    lines = []
 
-    for drawing in page.get_drawings():
-        for item in drawing["items"]:
-            if item[0] == "l":
-                (x1, y1), (x2, y2) = item[1], item[2]
-                if abs(y1 - y2) < tol and abs(x2 - x1) > width * width_ratio:
-                    lines.append(y1)
+def is_bold_span(span):
+    # Most reliable check
+    if "bold" in span["font"].lower():
+        return True
 
-            elif item[0] == "re":
-                rect = fitz.Rect(item[1])
-                if rect.height < tol and rect.width > width * width_ratio:
-                    lines.append(rect.y0)
+    # Backup: flags bitmask (bold is bit 2^4 = 16)
+    if span["flags"] & 16:
+        return True
 
-    return sorted(lines)
+    return False
+def first_line_is_bold(block):
+    if block["type"] != 0:  # not text
+        return False
 
+    if not block["lines"]:
+        return False
 
-def split_page_into_sections(page):
-    separators = get_horizontal_separators(page)
-    blocks = sorted(page.get_text("blocks"), key=lambda b: b[1])
+    first_line = block["lines"][0]
+    spans = first_line["spans"]
 
-    sections = []
-    current = []
-    sep_index = 0
-    current_limit = separators[sep_index] if separators else None
+    if not spans:
+        return False
 
-    for block in blocks:
-        y0 = block[1]
+    bold_spans = sum(is_bold_span(span) for span in spans)
 
-        while current_limit is not None and y0 > current_limit:
-            sections.append(current)
-            current = []
-            sep_index += 1
-            current_limit = (
-                separators[sep_index]
-                if sep_index < len(separators)
-                else None
-            )
-
-        current.append(block)
-
-    if current:
-        sections.append(current)
-
-    return sections, separators
+    # You can tune this rule:
+    # - all spans bold
+    # - or majority bold
+    return bold_spans >= len(spans) / 2
 
 def extract_one_column_text(pdf_path):
     global stop_read
     doc = fitz.open(pdf_path)
-    all_sections = []
-    previous_page_had_trailing_separator = False
+    sections = []
+    current_section = []
 
     for page in doc:
-        sections, separators = split_page_into_sections(page)
+        data = page.get_text("dict")
 
-        page_height = page.rect.height
+        for block in data["blocks"]:
+            if block["type"] != 0:
+                continue
 
-        # Check if separator is near bottom
-        page_has_trailing_separator = (
-                separators and separators[-1] > page_height * 0.9
-        )
+            block_text = ""
+            for line in block["lines"]:
+                for span in line["spans"]:
+                    block_text += span["text"]
+                block_text += "\n"
 
-        # Merge with previous if no trailing separator
-        if all_sections and not previous_page_had_trailing_separator:
-            all_sections[-1].extend(sections[0])
-            all_sections.extend(sections[1:])
-        else:
-            all_sections.extend(sections)
+            block_text = block_text.strip()
+            if not block_text:
+                continue
 
-        previous_page_had_trailing_separator = page_has_trailing_separator
-    return all_sections
+            if first_line_is_bold(block):
+                # Start new section
+                if current_section:
+                    sections.append("\n".join(current_section))
+                current_section = [block_text]
+            else:
+                current_section.append(block_text)
+
+    if current_section:
+        sections.append("\n".join(current_section))
+
+    return sections
 
 def extract_two_columns_text(pdf_path, page_number=0):
     global stop_read
@@ -1341,31 +1334,24 @@ def sections_to_text(all_sections):
     return extracted
 def parse_full_abilities(filepath="data/Abilities.pdf"):
     all_sections = extract_one_column_text(filepath)
-
-    section_texts = sections_to_text(all_sections)
-    filtered_sections = []
-    keep_for_next_section = ""
-    for section in section_texts:
-        final_text = ""
-        added_line_count = 0
+    abilities = {}
+    #section_texts = sections_to_text(all_sections)
+    for section in all_sections:
+        name = ""
+        effect = ""
         lines = section.split("\n")
+        index = 0
         for line in lines:
             if "Abilities" in line or "Ability list " in line or " / 110" in line or "2024-08-13" in line or "DocumentationJDR.md" in line:
                 continue
-            if line.strip() != "":
-                final_text += line+"\n"
-                added_line_count += 1
-        if final_text != "":
-            final_text = final_text[:-1]
-            if added_line_count < 2:
-                keep_for_next_section = final_text
+            if index == 0:
+                name = line.replace("Ability:","").strip()
             else:
-                filtered_sections.append(keep_for_next_section + "\n" + final_text)
-                keep_for_next_section = ""
-    for section in filtered_sections:
-        print(section)
-        print("-----------")
-
+                effect += line+"\n"
+            index += 1
+        effect = effect[:-1]
+        abilities[name]=Ability(name=name,effect=effect.replace('"',"'").replace("\n"," "))
+    return abilities
 
 def parse_full_moves(filepath):
     pattern = r"Damage Base ([1-9]\d?):\s*(.*)"

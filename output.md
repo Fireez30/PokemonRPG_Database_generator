@@ -3,7 +3,7 @@
 Card: None
 Gender: Unknown
 Item: 
-Nature: Brave (+ATK/-SPD)
+Nature: Timid (+SPD/-ATK)
 Level: 34
 Rarity: Normal
 Type: Dark,Fighting
@@ -13,9 +13,9 @@ Weight: 14.3 lbs / 6.5kg (6)
 
 | **Ability** | **Effect** |
 | ---------------- | ------------------ |
-| Filter |  |
-| Hypnotic |  |
-| Magician |  | 
+| Filter | Static Effect: When the user is hit by a Super-Effective attack, the attack deals x1.25 damage instead of x1.5 damage. If the user is hit by a Super-Super-Effective attack, the attack deals x1.5 damage instead of x2 damage. . If you have both Solid Rock and Filter, you gain 5 Damage Reduction against Super-Effective Damage. Defensive. |
+| Hypnotic | Static Effect: Connection - Hypnosis. When used by the user, Hypnosis cannot miss. |
+| Magician | Scene – Free Action Trigger: The user hits a foe with a damaging SingleTarget attack Effect: The user takes the target’s Held Item. This Ability may not be triggered if the user is already holding a Held Item. | 
 
 
 ## **Capabilities**
@@ -47,14 +47,14 @@ Weight: 14.3 lbs / 6.5kg (6)
 
 ## **Stats**
 
-| **Hit Points Max :107**                           | **Hit Points: 107/107** |
+| **Hit Points Max :101**                           | **Hit Points: 101/101** |
 |------------------------------------------------------------|------------------------------------------|
-| **Max HP**: 12+0+9=21              | **Current HP**:21                  |
-| **Max ATK**: 16+1+10=27              | **Current ATK**:27                  |
-| **Max DEF**: 9+0+5=14              | **Current DEF**:14                  |
+| **Max HP**: 12+0+7=19              | **Current HP**:19                  |
+| **Max ATK**: 16-1+11=26              | **Current ATK**:26                  |
+| **Max DEF**: 9+0+6=15              | **Current DEF**:15                  |
 | **Max SP.ATK**: 8+0+5=13              | **Current SP.ATK**:13                  |
 | **Max SP.DEF**: 8+0+5=13              | **Current SP.DEF**:13                  |
-| **Max SPEED**: 16-1+10=25              | **Current SPEED**:25                  |
+| **Max SPEED**: 16+1+10=27              | **Current SPEED**:27                  |
 
 | **Derived stats** |                |
 |-------------------|----------------|
