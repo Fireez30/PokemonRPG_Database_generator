@@ -14,6 +14,80 @@ def replace_dash_in_move_names(text):
     for k, v in mapping.items():
         output = output.replace(k, v)
     return output
+def get_horizontal_separators(page, width_ratio=0.7, tol=2):
+    width = page.rect.width
+    lines = []
+
+    for drawing in page.get_drawings():
+        for item in drawing["items"]:
+            if item[0] == "l":
+                (x1, y1), (x2, y2) = item[1], item[2]
+                if abs(y1 - y2) < tol and abs(x2 - x1) > width * width_ratio:
+                    lines.append(y1)
+
+            elif item[0] == "re":
+                rect = fitz.Rect(item[1])
+                if rect.height < tol and rect.width > width * width_ratio:
+                    lines.append(rect.y0)
+
+    return sorted(lines)
+
+
+def split_page_into_sections(page):
+    separators = get_horizontal_separators(page)
+    blocks = sorted(page.get_text("blocks"), key=lambda b: b[1])
+
+    sections = []
+    current = []
+    sep_index = 0
+    current_limit = separators[sep_index] if separators else None
+
+    for block in blocks:
+        y0 = block[1]
+
+        while current_limit is not None and y0 > current_limit:
+            sections.append(current)
+            current = []
+            sep_index += 1
+            current_limit = (
+                separators[sep_index]
+                if sep_index < len(separators)
+                else None
+            )
+
+        current.append(block)
+
+    if current:
+        sections.append(current)
+
+    return sections, separators
+
+def extract_one_column_text(pdf_path):
+    global stop_read
+    doc = fitz.open(pdf_path)
+    all_sections = []
+    previous_page_had_trailing_separator = False
+
+    for page in doc:
+        sections, separators = split_page_into_sections(page)
+
+        page_height = page.rect.height
+
+        # Check if separator is near bottom
+        page_has_trailing_separator = (
+                separators and separators[-1] > page_height * 0.9
+        )
+
+        # Merge with previous if no trailing separator
+        if all_sections and not previous_page_had_trailing_separator:
+            all_sections[-1].extend(sections[0])
+            all_sections.extend(sections[1:])
+        else:
+            all_sections.extend(sections)
+
+        previous_page_had_trailing_separator = page_has_trailing_separator
+    return all_sections
+
 def extract_two_columns_text(pdf_path, page_number=0):
     global stop_read
     doc = fitz.open(pdf_path)
@@ -1249,6 +1323,49 @@ def parse_extracted_text_gen9(input_pdf,index):
     print("Egg moves : ")
     print(egg_moves)
     return Pokemon(name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves)
+def sections_to_text(all_sections):
+    extracted = []
+
+    for section in all_sections:
+        # Sort blocks top-to-bottom inside section
+        sorted_blocks = sorted(section, key=lambda b: (b[1], b[0]))
+
+        text = "\n".join(
+            block[4].strip()
+            for block in sorted_blocks
+            if block[4].strip()
+        )
+
+        extracted.append(text)
+
+    return extracted
+def parse_full_abilities(filepath="data/Abilities.pdf"):
+    all_sections = extract_one_column_text(filepath)
+
+    section_texts = sections_to_text(all_sections)
+    filtered_sections = []
+    keep_for_next_section = ""
+    for section in section_texts:
+        final_text = ""
+        added_line_count = 0
+        lines = section.split("\n")
+        for line in lines:
+            if "Abilities" in line or "Ability list " in line or " / 110" in line or "2024-08-13" in line or "DocumentationJDR.md" in line:
+                continue
+            if line.strip() != "":
+                final_text += line+"\n"
+                added_line_count += 1
+        if final_text != "":
+            final_text = final_text[:-1]
+            if added_line_count < 2:
+                keep_for_next_section = final_text
+            else:
+                filtered_sections.append(keep_for_next_section + "\n" + final_text)
+                keep_for_next_section = ""
+    for section in filtered_sections:
+        print(section)
+        print("-----------")
+
 
 def parse_full_moves(filepath):
     pattern = r"Damage Base ([1-9]\d?):\s*(.*)"
