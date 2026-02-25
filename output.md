@@ -3,7 +3,7 @@
 Card: None
 Gender: Unknown
 Item: 
-Nature: Timid (+SPD/-ATK)
+Nature: Brave (+ATK/-SPD)
 Level: 34
 Rarity: Normal
 Type: Dark,Fighting
@@ -47,14 +47,14 @@ Weight: 14.3 lbs / 6.5kg (6)
 
 ## **Stats**
 
-| **Hit Points Max :101**                           | **Hit Points: 101/101** |
+| **Hit Points Max :107**                           | **Hit Points: 107/107** |
 |------------------------------------------------------------|------------------------------------------|
-| **Max HP**: 12+0+7=19              | **Current HP**:19                  |
-| **Max ATK**: 16-1+7=22              | **Current ATK**:22                  |
-| **Max DEF**: 9+0+7=16              | **Current DEF**:16                  |
-| **Max SP.ATK**: 8+0+7=15              | **Current SP.ATK**:15                  |
-| **Max SP.DEF**: 8+0+7=15              | **Current SP.DEF**:15                  |
-| **Max SPEED**: 16+1+9=26              | **Current SPEED**:26                  |
+| **Max HP**: 12+0+9=21              | **Current HP**:21                  |
+| **Max ATK**: 16+1+10=27              | **Current ATK**:27                  |
+| **Max DEF**: 9+0+5=14              | **Current DEF**:14                  |
+| **Max SP.ATK**: 8+0+5=13              | **Current SP.ATK**:13                  |
+| **Max SP.DEF**: 8+0+5=13              | **Current SP.DEF**:13                  |
+| **Max SPEED**: 16-1+10=25              | **Current SPEED**:25                  |
 
 | **Derived stats** |                |
 |-------------------|----------------|

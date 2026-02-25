@@ -191,67 +191,181 @@ if __name__ == "__main__":
             point_in_spatk = -1
             point_in_spdef = -1
             point_in_speed = -1
+            stop = False
             print("Give the pokemon point")
-            while point_in_hp < 0 and point_in_hp <= points_to_give:
-                point_in_hp = int(input("Please input the number of point in HP stat (max "+str(points_to_give)+") : "))
+            while point_in_hp < 0 and point_in_hp <= points_to_give and not stop:
+                point_in_hp = input("Please input the number of point in HP stat (max "+str(points_to_give)+"). If you want the code to automatically set points, enter 'default': ")
+                if point_in_hp == "default":
+                    stop = True
+                    break
+                point_in_hp = int(point_in_hp)
                 if point_in_hp < 0:
                     print("Please input a positive point number")
                     point_in_hp = -1
                 if point_in_hp > points_to_give:
                     print("you can't give more point than you have ("+str(points_to_give)+")")
                     point_in_hp = -1
-            points_to_give = points_to_give - point_in_hp
+            if not stop:
+                points_to_give = points_to_give - point_in_hp
 
-            while point_in_atk < 0 and point_in_atk <= points_to_give:
-                point_in_atk = int(input("Please input the number of point in ATK stat (max "+str(points_to_give)+") : "))
+            while point_in_atk < 0 and point_in_atk <= points_to_give and not stop:
+                point_in_atk = input("Please input the number of point in ATK stat (max "+str(points_to_give)+"). If you want the code to automatically set points, enter 'default': ")
+                if point_in_atk == "default":
+                    stop = True
+                    break
+                point_in_atk = int(point_in_atk)
                 if point_in_atk < 0:
                     print("Please input a positive point number")
                     point_in_atk = -1
                 if point_in_atk > points_to_give:
                     print("you can't give more point than you have ("+str(points_to_give)+")")
                     point_in_atk = -1
-            points_to_give = points_to_give - point_in_atk
+            if not stop:
+                points_to_give = points_to_give - point_in_atk
 
-            while point_in_def < 0 and point_in_def <= points_to_give:
-                point_in_def = int(input("Please input the number of point in DEF stat (max "+str(points_to_give)+") : "))
+            while point_in_def < 0 and point_in_def <= points_to_give and not stop:
+                point_in_def = input("Please input the number of point in DEF stat (max "+str(points_to_give)+"). If you want the code to automatically set points, enter 'default': ")
+                if point_in_def == "default":
+                    stop = True
+                    break
+                point_in_def = int(point_in_def)
                 if point_in_def < 0:
                     print("Please input a positive point number")
                     point_in_def = -1
                 if point_in_def > points_to_give:
                     print("you can't give more point than you have ("+str(points_to_give)+")")
                     point_in_def = -1
-            points_to_give = points_to_give - point_in_def
+            if not stop:
+                points_to_give = points_to_give - point_in_def
 
-            while point_in_spatk < 0 and point_in_spatk <= points_to_give:
-                point_in_spatk = int(input("Please input the number of point in SP ATK stat (max "+str(points_to_give)+") : "))
+            while point_in_spatk < 0 and point_in_spatk <= points_to_give and not stop:
+                point_in_spatk = input("Please input the number of point in SP ATK stat (max "+str(points_to_give)+"). If you want the code to automatically set points, enter 'default' : ")
+                if point_in_spatk == "default":
+                    stop = True
+                    break
+                point_in_spatk = int(point_in_spatk)
                 if point_in_spatk < 0:
                     print("Please input a positive point number")
                     point_in_spatk = -1
                 if point_in_spatk > points_to_give:
                     print("you can't give more point than you have ("+str(points_to_give)+")")
                     point_in_spatk = -1
-            points_to_give = points_to_give - point_in_spatk
+            if not stop:
+                points_to_give = points_to_give - point_in_spatk
 
 
-            while point_in_spdef < 0 and point_in_spdef <= points_to_give:
-                point_in_spdef = int(input("Please input the number of point in SP DEF stat (max "+str(points_to_give)+") : "))
+            while point_in_spdef < 0 and point_in_spdef <= points_to_give and not stop:
+                point_in_spdef = input("Please input the number of point in SP DEF stat (max "+str(points_to_give)+"). If you want the code to automatically set points, enter 'default': ")
+                if point_in_spdef == "default":
+                    stop = True
+                    break
+                point_in_spdef = int(point_in_spdef)
                 if point_in_spdef < 0:
                     print("Please input a positive point number")
                     point_in_spdef = -1
                 if point_in_spdef > points_to_give:
                     print("you can't give more point than you have ("+str(points_to_give)+")")
                     point_in_spdef = -1
-            points_to_give = points_to_give - point_in_spdef
+            if not stop:
+                points_to_give = points_to_give - point_in_spdef
 
-            while point_in_speed < 0 and point_in_speed <= points_to_give:
-                point_in_speed = int(input("Please input the number of point in SPEED stat (max "+str(points_to_give)+") : "))
+            while point_in_speed < 0 and point_in_speed <= points_to_give and not stop:
+                point_in_speed = input("Please input the number of point in SPEED stat (max "+str(points_to_give)+"). If you want the code to automatically set points, enter 'default': ")
+                if point_in_speed == "default":
+                    stop = True
+                    break
+                point_in_speed = int(point_in_speed)
                 if point_in_speed < 0:
                     print("Please input a positive point number")
                     point_in_speed = -1
                 if point_in_speed > points_to_give:
                     print("you can't give more point than you have ("+str(points_to_give)+")")
                     point_in_speed = -1
-            points_to_give = points_to_give - point_in_speed
+            if not stop:
+                points_to_give = points_to_give - point_in_speed
+
+            if stop:
+                points_to_give = 10 + level
+                init_points_to_give = points_to_give
+                sum_pokepoints = pokemon.stat_hp + pokemon.stat_atk + pokemon.stat_def + pokemon.stat_sp_atk + pokemon.stat_sp_def + pokemon.stat_spd
+                print("Points to give = "+str(points_to_give))
+                point_in_hp = -1
+                point_in_atk = -1
+                point_in_def = -1
+                point_in_spatk = -1
+                point_in_spdef = -1
+                point_in_speed = -1
+                hp_weight = float(pokemon.stat_hp) / float(sum_pokepoints)
+                print("hp weight = ")
+                print(hp_weight)
+                atk_weight = float(pokemon.stat_atk) / float(sum_pokepoints)
+                print("atk weight = ")
+                print(atk_weight)
+                def_weight = float(pokemon.stat_def) / float(sum_pokepoints)
+                print("def weight = ")
+                print(def_weight)
+                spatk_weight = float(pokemon.stat_sp_atk) / float(sum_pokepoints)
+                print("spatk weight = ")
+                print(spatk_weight)
+                spdef_weight = float(pokemon.stat_sp_def) / float(sum_pokepoints)
+                print("spdef weight = ")
+                print(spdef_weight)
+                spd_weight = float(pokemon.stat_spd) / float(sum_pokepoints)
+                print("spd weight = ")
+                print(spd_weight)
+                point_in_hp = int(init_points_to_give*hp_weight)
+                print("Given "+str(point_in_hp)+" points in hp")
+                points_to_give = points_to_give - point_in_hp
+                point_in_atk = int(init_points_to_give * atk_weight)
+                print("Given "+str(point_in_atk)+" points in atk")
+                points_to_give = points_to_give - point_in_atk
+                point_in_def = int(init_points_to_give * def_weight)
+                print("Given "+str(point_in_def)+" points in def")
+                points_to_give = points_to_give - point_in_def
+                point_in_spatk = int(init_points_to_give * spatk_weight)
+                print("Given "+str(point_in_spatk)+" points in sp atk")
+                points_to_give = points_to_give - point_in_spatk
+                point_in_spdef = int(init_points_to_give * spdef_weight)
+                print("Given "+str(point_in_spdef)+" points in sp def")
+                points_to_give = points_to_give - point_in_spdef
+                point_in_speed = int(init_points_to_give * spd_weight)
+                print("Given "+str(point_in_speed)+" points in sp speed")
+                points_to_give = points_to_give - point_in_speed
+                print("Remaining point : "+str(points_to_give))
+                print("Those remaining points will be spread using weights")
+                roll_for_hp = int(hp_weight*100)
+                roll_for_atk = int(atk_weight*100)+roll_for_hp
+                roll_for_def = int(def_weight*100)+roll_for_atk
+                roll_for_spatk = int(spatk_weight*100)+roll_for_def
+                roll_for_spdef = int(spdef_weight*100)+roll_for_spatk
+                roll_for_speed = min(100,int(spd_weight*100)+roll_for_spdef)
+                while points_to_give > 0:
+                    roll = randint(1,100)
+                    if roll < roll_for_hp:
+                        print("Added 1 remaining point to HP")
+                        point_in_hp += 1
+                        points_to_give -= 1
+                    elif roll < roll_for_atk:
+                        print("Added 1 remaining point to ATK")
+                        point_in_atk += 1
+                        points_to_give -= 1
+                    elif roll < roll_for_def:
+                        print("Added 1 remaining point to DEF")
+                        point_in_def += 1
+                        points_to_give -= 1
+                    elif roll < roll_for_spatk:
+                        print("Added 1 remaining point to SPATK")
+                        point_in_spatk += 1
+                        points_to_give -= 1
+                    elif roll < roll_for_spdef:
+                        print("Added 1 remaining point to SPDEF")
+                        point_in_spdef += 1
+                        points_to_give -= 1
+                    elif roll < roll_for_speed:
+                        print("Added 1 remaining point to SPD")
+                        point_in_spdef += 1
+                        points_to_give -= 1
+
 
 
             bonus_point_in_hp = 0
