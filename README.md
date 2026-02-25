@@ -31,4 +31,3 @@ python extract_database.py
 TODO : 
 
 - Parsing of abilities from doc, and including it in the pokemon sheets
-- ask user for the list of 6 moves to include, and allow user to input the egg moves
