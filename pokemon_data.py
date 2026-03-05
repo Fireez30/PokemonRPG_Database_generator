@@ -14,6 +14,13 @@ class Skill:
 class Ability:
     name:str
     effect:str
+
+    @classmethod
+    def from_dict(cls, data: dict):
+        return cls(
+            name=data.get("name"),
+            effect=data.get("effect")
+        )
 @dataclass
 class Move:
     name: str
@@ -102,6 +109,26 @@ class FullMove:
             self.frequency = "Static"
             self.AC ="None"
             self.classe = "Static"
+
+    @classmethod
+    def from_dict(cls, data: dict):
+        return cls(
+            move=data.get("move"),
+            type=data.get("type"),
+            frequency=data.get("frequency"),
+            AC=data.get("AC"),
+            damage_base=data.get("damage_base"),
+            roll=data.get("roll"),
+            classe=data.get("classe"),
+            range=data.get("range"),
+            effect=data.get("effect"),
+            special_effect=data.get("special_effect",""),
+            blessing=data.get("blessing"),
+            contest_type=data.get("contest_type",""),
+            contest_effect=data.get("contest_effect",""),
+            extra_lines=data.get("extra_lines", [])
+        )
+
     def get_frequency(self):
         return self.frequency
     def get_AC(self):
@@ -129,10 +156,7 @@ class FullMove:
     def get_effect(self):
         return self.effect
     def to_csv(self):
-
         # this is used to override default formating
-
-
         csv =  self.move+","+self.get_frequency()+","+self.get_AC()+","+self.get_type()+","+self.get_roll()+","+self.get_classe()+","+'"'+self.get_range()+'"'+","+'"'+self.get_effect()+'"'
         print(csv.replace(",", " | "))
         return csv

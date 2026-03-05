@@ -1,18 +1,6 @@
-from parsers import parse_extracted_text_gen8,parse_extracted_text_gen9
+from parsers import parse_extracted_text_gen8,parse_extracted_text_gen9,to_serializable
 import json
-from dataclasses import asdict, is_dataclass
-def to_serializable(obj):
-    if is_dataclass(obj):
-        return asdict(obj)
-    elif isinstance(obj, list):
-        return [to_serializable(item) for item in obj]
-    elif hasattr(obj, "__dict__"):
-        return {
-            key: to_serializable(value)
-            for key, value in obj.__dict__.items()
-        }
-    else:
-        return obj
+
 if __name__ == "__main__":
     to_skip = [865,866,1015,1016,1017,987]
     stop_at = 1353

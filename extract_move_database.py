@@ -1,6 +1,7 @@
 # This is a sample Python script.
 import argparse
-from parsers import parse_full_moves
+import json
+from parsers import parse_full_moves,to_serializable
 
 parser = argparse.ArgumentParser(
                     prog='PTUMoveFormatter',
@@ -24,6 +25,14 @@ def export_moves(moves,output_csv):
     f = open(output_csv,"w+")
     f.write(csv)
     f.close()
+
+    with open("data/moves.json", "w", encoding="utf-8") as f_json:
+        json.dump(
+            to_serializable(list(moves.values())),
+            f_json,
+            indent=2,  # pretty print
+            ensure_ascii=False
+        )
 
 
 # Press the green button in the gutter to run the script.

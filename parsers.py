@@ -3,6 +3,21 @@ from pokemon_data import *
 import re
 
 stop_read = False
+
+from dataclasses import asdict, is_dataclass
+def to_serializable(obj):
+    if is_dataclass(obj):
+        return asdict(obj)
+    elif isinstance(obj, list):
+        return [to_serializable(item) for item in obj]
+    elif hasattr(obj, "__dict__"):
+        return {
+            key: to_serializable(value)
+            for key, value in obj.__dict__.items()
+        }
+    else:
+        return obj
+
 def should_skip_line(line,page_number):
     return line.strip() == "" or "Unofficial Gen 7" in line or line.strip() == page_number
 def remove_html_tags(text):

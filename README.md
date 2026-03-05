@@ -6,11 +6,26 @@ This repository contains code for generation of a Json base of the pokemon extra
 You need to install python first, and than open a command prompt (windows) or a terminal (linux) inside this folder.
 
 The code can be installed
+
+Linux : 
 ```
 python -m venv my_env 
 source my_env/bin/activate
 pip install pymupdf
 ```
+
+Windows : 
+
+First, you will need to deactivate the code execution protection on windows 
+`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser` 
+
+Than you can install
+```
+python -m venv my_env 
+cd my_env/Scripts ; .\activate ; cd ../..
+pip install pymupdf
+```
+
 
 ## Usage : 
 
@@ -23,9 +38,15 @@ you don't need to provide any path to any file.
 
 `source my_env/bin/activate.fish`
 
-*for other shells :*
+*for other shells (linux):*
 
 `source my_env/bin/activate`
+
+*for windows :*
+
+```
+cd my_env/Scripts ; .\activate ; cd ../..
+```
 
 than you can start the code:
 
@@ -55,11 +76,12 @@ The code will ask for the following informations, in this order :
   - !!! Or, if you prefer to automatically apply balanced points from base stats, enter 'default' 
 - Than you will be asked the list of moves for your pokemon, the code will list all move available for your pokemon level.
   - You can either : 
-    - give moves one by one among the list
-    - type 'default', and the code will give the last 6 learnt moves by the pokemon
+    - give moves one by one among the list. You can stop at any point typing 'stop'
+    - at any time, you can type 'fill', and the code will fill up to 6 moves. If you entered moves before, they will be kept in the final list.
 - And finally you will be able to add up to 3 egg move. You will be provided no lists. Enter the move one by one, and if you want to stop at any time, enter 'stop'.
 
 
 The sheet will be generated in the same folder, with the name like this :
 
 "pokemon_name_timestamp.md"
+
