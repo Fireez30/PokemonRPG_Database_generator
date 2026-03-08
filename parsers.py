@@ -104,8 +104,14 @@ def extract_two_columns_text(pdf_path, page_number=0):
         return None
     page = doc[page_number]
 
-    blocks = page.get_text("blocks")
-
+    #blocks = page.get_text("blocks")
+    width2 = page.rect.width / 2  # half of the page width
+    left = page.rect + (0, 0, -width2, 0)  # the left half page
+    right = page.rect + (width2, 0, 0, 0)  # the right half page
+    # now extract the 2 halves spearately:
+    lblocks = page.get_text("blocks", clip=left, sort=True)
+    rblocks = page.get_text("blocks", clip=right, sort=True)
+    blocks = lblocks + rblocks
     page_width = page.rect.width
     mid_x = page_width / 2.25
 
@@ -557,6 +563,10 @@ def parse_extracted_text_gen8(input_pdf,index):
     tutor_moves_aggr = ""
     egg_moves_aggr = ""
     previous_line = ""
+    mega_evolution = False
+    mega_evolution_type_aggr = ""
+    mega_evolution_stats_aggr = ""
+    mega_evolution_ability_aggr = ""
     for line in text.split("\n"):
         print(line)
         if line.strip() == "":
@@ -567,6 +577,26 @@ def parse_extracted_text_gen8(input_pdf,index):
             continue
         if line.strip().lower()=="base stats" or line.strip().lower() == "base stats:":
             current_status = "base_stats"
+            previous_line = line
+            continue
+        if line.strip().lower() == "mega evolution" or line.strip().lower() == "mega evolution:":
+            mega_evolution = True
+            current_status = "mega_evolution_nothing"
+            previous_line = line
+            continue
+        if "mega_evolution" in current_status and line.strip().lower().startswith("type:"):
+            current_status = "mega_evolution_type"
+            mega_evolution_type_aggr = line.split(':')[1].strip()
+            previous_line = line
+            continue
+        if "mega_evolution" in current_status and line.strip().lower().startswith("ability:"):
+            current_status = "mega_evolution_ability"
+            previous_line = line
+            mega_evolution_ability_aggr = line.split(':')[1].strip()
+            continue
+        if "mega_evolution" in current_status and line.strip().lower().startswith("stats:"):
+            current_status = "mega_evolution_stats"
+            mega_evolution_stats_aggr = line.split(':')[1].strip()
             previous_line = line
             continue
         if line.strip().lower() == "basic information" or line.strip().lower() == "basic lnformation":
@@ -652,6 +682,7 @@ def parse_extracted_text_gen8(input_pdf,index):
                         speed=int(cleaned)
 
 
+
         if current_status == "basic_information":
             if line.strip().lower().startswith("type:"):
                 splitted = line.split(':')[1].strip()
@@ -714,6 +745,17 @@ def parse_extracted_text_gen8(input_pdf,index):
             if line.strip() != "":
                 capabilities_aggr += line.strip() + " "
 
+
+        if current_status == "mega_evolution_type":
+            if line.strip() != "":
+                mega_evolution_type_aggr += line.strip() + " "
+        if current_status == "mega_evolution_ability":
+            if line.strip() != "":
+                mega_evolution_ability_aggr += line.strip() + " "
+
+        if current_status == "mega_evolution_stats":
+            if line.strip() != "":
+                mega_evolution_stats_aggr += line.strip() + " "
 
         if current_status == "skills":
             if line.strip() != "":
@@ -884,6 +926,17 @@ def parse_extracted_text_gen8(input_pdf,index):
         spdefense = int(not_treated.pop(0).strip())
     if speed == -1 and len(not_treated) > 0:
         speed = int(not_treated.pop(0).strip())
+
+    print(mega_evolution_type_aggr)
+    mega_evolution_types = []
+    if "," in mega_evolution_type_aggr:
+        mega_evolution_types = mega_evolution_type_aggr.split(',')
+    else :
+        mega_evolution_types = [mega_evolution_type_aggr]
+
+    print(mega_evolution_ability_aggr)
+    print(mega_evolution_stats_aggr)
+    mega_evolution_obj = MegaEvolution(mega_evolution_types, mega_evolution_ability_aggr, mega_evolution_stats_aggr)
     print("name: "+name)
     print("hp: "+str(hp))
     print("attack: "+str(attack))
@@ -927,7 +980,7 @@ def parse_extracted_text_gen8(input_pdf,index):
     print(tutor_moves)
     print("Egg moves : ")
     print(egg_moves)
-    return Pokemon(name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves)
+    return Pokemon(name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves,mega_evolution,mega_evolution_obj)
 
 
 def parse_extracted_text_gen9(input_pdf,index):
@@ -968,6 +1021,10 @@ def parse_extracted_text_gen9(input_pdf,index):
     tutor_moves_aggr = ""
     egg_moves_aggr = ""
     previous_line = ""
+    mega_evolution = False
+    mega_evolution_type_aggr = ""
+    mega_evolution_stats_aggr = ""
+    mega_evolution_ability_aggr = ""
     text = text.replace(": \n",":")
     for line in text.split("\n"):
         print(line)
@@ -983,6 +1040,26 @@ def parse_extracted_text_gen9(input_pdf,index):
             continue
         if line.strip().lower() == "basic information" or line.strip().lower() == "basic lnformation":
             current_status = "basic_information"
+            previous_line = line
+            continue
+        if line.strip().lower() == "mega evolution" or line.strip().lower() == "mega evolution:":
+            mega_evolution = True
+            current_status = "mega_evolution_nothing"
+            previous_line = line
+            continue
+        if "mega_evolution" in current_status and line.strip().lower().startswith("type:"):
+            current_status = "mega_evolution_type"
+            mega_evolution_type_aggr = line.split(':')[1].strip()
+            previous_line = line
+            continue
+        if "mega_evolution" in current_status and line.strip().lower().startswith("ability:"):
+            current_status = "mega_evolution_ability"
+            previous_line = line
+            mega_evolution_ability_aggr = line.split(':')[1].strip()
+            continue
+        if "mega_evolution" in current_status and line.strip().lower().startswith("stats:"):
+            current_status = "mega_evolution_stats"
+            mega_evolution_stats_aggr = line.split(':')[1].strip()
             previous_line = line
             continue
         if line.strip().lower().startswith("evolution"):
@@ -1100,6 +1177,17 @@ def parse_extracted_text_gen9(input_pdf,index):
                 capabilities_aggr += line.strip() + " "
 
 
+        if current_status == "mega_evolution_ability":
+            if line.strip() != "":
+                mega_evolution_ability_aggr += line.strip() + " "
+
+        if current_status == "mega_evolution_stats":
+            if line.strip() != "":
+                mega_evolution_stats_aggr += line.strip() + " "
+
+        if current_status == "mega_evolution_type":
+            if line.strip() != "":
+                mega_evolution_type_aggr += line.strip() + " "
         if current_status == "skills":
             if line.strip() != "":
                 skills_aggr += line.strip() + " "
@@ -1287,6 +1375,17 @@ def parse_extracted_text_gen9(input_pdf,index):
 
         for cap in out_tutor_moves.split(';'):
             tutor_moves.append(cap.strip())
+
+    print(mega_evolution_type_aggr)
+    mega_evolution_types = []
+    if "," in mega_evolution_type_aggr:
+        mega_evolution_types = mega_evolution_type_aggr.split(',')
+    else :
+        mega_evolution_types = [mega_evolution_type_aggr]
+
+    print(mega_evolution_ability_aggr)
+    print(mega_evolution_stats_aggr)
+    mega_evolution_obj = MegaEvolution(mega_evolution_types, mega_evolution_ability_aggr, mega_evolution_stats_aggr)
     print("name: "+name)
     print("hp: "+str(hp))
     print("attack: "+str(attack))
@@ -1330,7 +1429,7 @@ def parse_extracted_text_gen9(input_pdf,index):
     print(tutor_moves)
     print("Egg moves : ")
     print(egg_moves)
-    return Pokemon(name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves)
+    return Pokemon(name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves,mega_evolution,mega_evolution_obj)
 def sections_to_text(all_sections):
     extracted = []
 

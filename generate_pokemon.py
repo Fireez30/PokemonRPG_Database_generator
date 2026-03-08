@@ -71,7 +71,7 @@ if __name__ == "__main__":
             "SPD": "Neutral (+SPD/-SPD)",
         },
     }
-    input_jsons = "data/pokemon.json"
+    input_jsons = "data/pokemon_old.json"
     with open(input_jsons, "r", encoding="utf-8") as f:
         raw_data = json.load(f)
     pokemons = [Pokemon.from_dict(p) for p in raw_data]

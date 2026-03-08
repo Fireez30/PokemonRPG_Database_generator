@@ -9,7 +9,7 @@ if __name__ == "__main__":
     range_gen_9 = range(1132,1150)
     range_gen_7_2 = range(1153,1353)
     input_pdf = "data/PokedexDocumentation.pdf"
-    output_json = "database.json"
+    output_json = "data/pokemon.json"
     pokemons = []
     for index in range_gen_7_1:
         if index not in to_skip:
@@ -23,7 +23,7 @@ if __name__ == "__main__":
     for index in range_gen_9:
         if index not in to_skip:
             pokemons.append(parse_extracted_text_gen9(input_pdf, index))
-    with open("output.json", "w", encoding="utf-8") as f:
+    with open(output_json, "w", encoding="utf-8") as f:
         json.dump(
             to_serializable(pokemons),
             f,

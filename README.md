@@ -12,6 +12,8 @@ Linux :
 python -m venv my_env 
 source my_env/bin/activate
 pip install pymupdf
+pip install requests
+pip install reportlab
 ```
 
 Windows : 
