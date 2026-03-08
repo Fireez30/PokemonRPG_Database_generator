@@ -11,6 +11,12 @@ class Skill:
     roll: str
 
 @dataclass
+class MegaEvolution:
+    type: list
+    ability: str
+    stats: str
+
+@dataclass
 class Ability:
     name:str
     effect:str
@@ -28,7 +34,7 @@ class Move:
     type: str = None
 
 class Pokemon:
-    def __init__(self,name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves):
+    def __init__(self,name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves,has_mega_evolution,mega_evolution_obj):
         self.name = name
         self.stat_hp = hp
         self.stat_atk = attack
@@ -55,6 +61,7 @@ class Pokemon:
         self.tm_moves = tm_moves
         self.tutor_moves = tutor_moves
         self.egg_moves = egg_moves
+        self.mega_evolution = (mega_evolution_obj if has_mega_evolution else None)
 
     @classmethod
     def from_dict(cls, data: dict):
@@ -84,7 +91,8 @@ class Pokemon:
             moves=data.get("moves", []),
             tm_moves=data.get("tm_moves", []),
             tutor_moves=data.get("tutor_moves", []),
-            egg_moves=data.get("egg_moves", [])
+            egg_moves=data.get("egg_moves", []),
+            mega_evolution=data.get("mega_evolution", None)
         )
 
 class FullMove:

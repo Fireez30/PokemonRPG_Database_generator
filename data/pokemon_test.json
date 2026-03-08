@@ -1,0 +1,282 @@
+[
+  {
+    "name": "alakazam",
+    "stat_hp": 6,
+    "stat_atk": 5,
+    "stat_def": 5,
+    "stat_sp_atk": 14,
+    "stat_sp_def": 10,
+    "stat_spd": 12,
+    "pokemon_types": "Psychic",
+    "base_abilities": [
+      "Synchronize",
+      "Inner Focus"
+    ],
+    "advanced_abilities": [
+      "Transporter",
+      "Magic Guard",
+      "Psychic Mind"
+    ],
+    "high_abilities": [
+      "Life Force"
+    ],
+    "evolutions": [
+      "Abra",
+      "Kadabra Minimum 15",
+      "Alakazam Minimum 35"
+    ],
+    "height": "4' 11\" / 1.5m (Medium)",
+    "weight": "105.8 lbs / 48kg (3)",
+    "gender_ratio_m": "75",
+    "gender_ratio_f": "25",
+    "egg_group": "Humanshape",
+    "average_hatch_rate": -1,
+    "diet": "Omnivore",
+    "habitat": "Urban",
+    "capabilities": [
+      {
+        "name": "Overland",
+        "value": "6"
+      },
+      {
+        "name": "Swim",
+        "value": "3"
+      },
+      {
+        "name": "Teleporter",
+        "value": "3"
+      },
+      {
+        "name": "Jump",
+        "value": "2/1"
+      },
+      {
+        "name": "Power",
+        "value": "4"
+      },
+      {
+        "name": "Naturewalk (Forest, Urban)",
+        "value": ""
+      },
+      {
+        "name": "Telekinetic",
+        "value": ""
+      },
+      {
+        "name": "Telepath",
+        "value": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athl",
+        "roll": "2d6+2"
+      },
+      {
+        "name": "Acro",
+        "roll": "2d6"
+      },
+      {
+        "name": "Combat",
+        "roll": "3d6"
+      },
+      {
+        "name": "Stealth",
+        "roll": "2d6"
+      },
+      {
+        "name": "Percep",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Focus",
+        "roll": "6d6"
+      }
+    ],
+    "moves": [
+      {
+        "name": "Kinesis",
+        "level": 0,
+        "type": "Psychic"
+      },
+      {
+        "name": "Confusion",
+        "level": 16,
+        "type": "Psychic"
+      },
+      {
+        "name": "Disable",
+        "level": 18,
+        "type": "Normal"
+      },
+      {
+        "name": "Disorient",
+        "level": 21,
+        "type": "Dark"
+      },
+      {
+        "name": "Psybeam",
+        "level": 24,
+        "type": "Psychic"
+      },
+      {
+        "name": "Miracle Eye",
+        "level": 27,
+        "type": "Psychic"
+      },
+      {
+        "name": "Reflect",
+        "level": 30,
+        "type": "Psychic"
+      },
+      {
+        "name": "Psycho Cut",
+        "level": 33,
+        "type": "Psychic"
+      },
+      {
+        "name": "Vertigo",
+        "level": 36,
+        "type": "Psychic"
+      },
+      {
+        "name": "Recover",
+        "level": 39,
+        "type": "Normal"
+      },
+      {
+        "name": "Telekinesis",
+        "level": 42,
+        "type": "Psychic"
+      },
+      {
+        "name": "Ally Switch",
+        "level": 45,
+        "type": "Psychic"
+      },
+      {
+        "name": "Psychic",
+        "level": 48,
+        "type": "Psychic"
+      },
+      {
+        "name": "Laser Vision",
+        "level": 51,
+        "type": "Light"
+      },
+      {
+        "name": "Role Play",
+        "level": 54,
+        "type": "Psychic"
+      },
+      {
+        "name": "Future Sight",
+        "level": 57,
+        "type": "Psychic"
+      },
+      {
+        "name": "Trick",
+        "level": 60,
+        "type": "Psychic"
+      },
+      {
+        "name": "Spoon Bend",
+        "level": 63,
+        "type": "Psychic"
+      }
+    ],
+    "tm_moves": [
+      "03 Psyshock",
+      "04 Calm Mind",
+      "06 Toxic",
+      "10 Hidden Power",
+      "11 Sunny Day",
+      "12 Taunt",
+      "15 Hyper Beam",
+      "16 Light Screen",
+      "17 Protect",
+      "18 Rain Dance",
+      "20 Safeguard",
+      "21 Frustration",
+      "27 Return",
+      "29 Psychic",
+      "30 Shadow Ball",
+      "32 Double Team",
+      "33 Reflect",
+      "41 Torment",
+      "42 Facade",
+      "44 Rest",
+      "45 Attract",
+      "46 Thief",
+      "48 Round",
+      "52 Focus Blast",
+      "53 Energy Ball",
+      "56 Fling",
+      "57 Charge Beam",
+      "63 Embargo",
+      "68 Giga Impact",
+      "73 Thunder Wave",
+      "77 Psych Up",
+      "85 Dream Eater",
+      "86 Grass Knot",
+      "87 Swagger",
+      "88 Sleep Talk",
+      "90 Substitute",
+      "92 Trick Room",
+      "99 Dazzling Gleam",
+      "100 Confide",
+      "Radiant Shield",
+      "Burning Thunder",
+      "Psychic Noise",
+      "Light Pulse"
+    ],
+    "tutor_moves": [
+      "Ally Switch",
+      "Body Slam",
+      "Counter",
+      "Double-Edge",
+      "Drain Punch",
+      "Dynamic Punch",
+      "Fire Punch",
+      "Focus Punch",
+      "Foul Play",
+      "Gravity",
+      "Ice Punch",
+      "Iron Tail",
+      "Knock Off",
+      "Laser Focus",
+      "Magic Coat",
+      "Magic Room",
+      "Mega Kick",
+      "Mega Punch",
+      "Metronome",
+      "Recycle",
+      "Role Play",
+      "Seismic Toss",
+      "Shock Wave",
+      "Signal Beam",
+      "Skill Swap",
+      "Snatch",
+      "Snore",
+      "Telekinesis",
+      "Thunder Punch",
+      "Trick",
+      "Wonder Room",
+      "Zen Headbutt",
+      "Aura Sphere",
+      "Encore",
+      "Expandin gggggg Force",
+      "",
+      "Lightray Puls",
+      "e Mind Step"
+    ],
+    "egg_moves": [],
+    "mega_evolution": {
+      "type": [
+        "Unchanged"
+      ],
+      "ability": "Trace",
+      "stats": "+2 Def, +4 Sp.Atk, +1 Sp. Def, +3 Speed "
+    }
+  }
+]
