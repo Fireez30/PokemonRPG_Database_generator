@@ -4,6 +4,7 @@ from io import BytesIO
 import os
 from reportlab.platypus import (
     SimpleDocTemplate,
+    Table,
     Paragraph,
     Spacer,
     Image,
@@ -58,7 +59,7 @@ def get_pokemon_image(name):
 
             return img
         else:
-            url = f"https://forwardfeed.github.io/ER-nextdex/sprites/{name.upper()}.png"
+            url = f"https://forwardfeed.github.io/ER-nextdex/sprites/{name.upper().replace(" ","_")}.png"
             r = requests.get(url, timeout=10)
 
             if r.status_code == 200:
@@ -443,11 +444,40 @@ def create_pdf(data, output="pokemon.pdf"):
         )
     )
 
+    if data["mega_evolution"] is not None:
+        story.append(Spacer(1, 10))
+        mega_name = data["name"]+"-mega"
+        if "redux" in data["name"].lower():
+            mega_name = data["name"].replace("Redux","Mega Redux")
+
+        img = get_pokemon_image(mega_name)
+        if type(data["mega_evolution"]["type"]) == str:
+            mega_evo_types = data["mega_evolution"]["type"]
+        else:
+            mega_evo_types = ' / '.join(data["mega_evolution"]["type"])
+        mega_evo_ability = data["mega_evolution"]["ability"]
+        mega_evo_stats = data["mega_evolution"]["stats"].replace("Speed PokéDex Update. ","")
+        title = Paragraph("Mega Evolution", styles["Heading3"])
+        data_text = "Type : "+str(mega_evo_types)+"<br></br>"
+        data_text += "Ability : "+str(mega_evo_ability)+"<br></br><br></br>"
+        data_text += "Stats : "+str(mega_evo_stats)+"<br></br>"
+        mega_data = Paragraph(data_text, styles["Normal"])
+        # Création d'un tableau pour aligner l'image et le texte
+        final_table_data = [
+            [img, [title,mega_data]]
+        ]
+
+        final_table = Table(final_table_data, colWidths=[3.5 * cm, 5.5 * cm])
+        story.append(
+            final_table
+        )
+
     doc.build(story)
+
 
 
 if __name__ == "__main__":
 
-    pokemon = load_pokemon("data/pokemon.json")
+    pokemon = load_pokemon("data/pokemon_test.json")
     for poke in pokemon:
         create_pdf(poke, "output_pdf/"+poke["name"]+".pdf")

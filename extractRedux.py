@@ -37,7 +37,7 @@ explore_json(data)
 redux_abilities = []
 for ability in data["abilities"]:
     if ability["name"] != "-------":
-        redux_abilities.append({"name":ability["name"],"effect":ability["desc"],"id":ability["id"]})
+        redux_abilities.append({"name":ability["name"],"effect":ability["desc"],"id":ability["id"],"update":"TBD"})
 
 for rability in redux_abilities:
     already_exist = list(filter(lambda x:x["name"].lower() == rability["name"].lower(), abilities))
@@ -62,15 +62,16 @@ for rmove in data["moves"]:
                 for typem in rmove["types"]:
                     types.append(data["typeT"][typem])
             #   < ---- Frequency ---- >
-            freq = ""
+            freq = "TBD"
             #   < ---- AC ---- >
-            AC = ""
+            AC = "TBD"
             #   < ---- Damage Base + Roll ---- >
             damage_base = -1
+            roll = "TBD"
             #   < ---- classe ---- > (split)
             classe = data["splitT"][rmove["split"]]
             #   < ---- Range ---- > (target ?)
-            range = ""
+            range = "TBD"
             #   < ---- Effect ---- > (desc ?)
             effect = rmove["desc"]
             #   < ---- Blessing ---- >
@@ -81,7 +82,7 @@ for rmove in data["moves"]:
             contest_type = ""
             #   < ---- Contest Effect ---- >
             contest_effect = ""
-            move_to_add = {"move":rmove["name"],"type":types,"frequency":freq,"AC":AC,"damage_base":damage_base,
+            move_to_add = {"move":rmove["name"],"type":types,"frequency":freq,"AC":AC,"roll":roll,"damage_base":damage_base,
                            "classe":classe,"range":range,"effect":effect,"blessing":blessing,"special_effect":special_effect,
                            "contest_type":contest_type,"contest_effect":contest_effect,"extra_lines":[],"id":rmove["id"]}
             moves.append(move_to_add)
@@ -138,8 +139,9 @@ for mon in data["species"]:
                         high_abilities.append(exist[0]["name"])
         #   < ---- Evolutions ---- >
         evolutions = []
-        evolutions.append(pokemon_name)
+        evolutions.append("TBD")
         to_work = []
+        """
         found_evos = [x for x in mon["evolutions"] if x["kd"] == 0]
         for evo in found_evos:
             pokeexist = list(filter(lambda x: x["id"] == evo["in"], data["species"]))
@@ -159,6 +161,7 @@ for mon in data["species"]:
                         name_to_add = pokeexist[0]["name"] + " Minimum " + str(evo["rs"])
                         if name_to_add not in evolutions:
                             evolutions.append(name_to_add)
+        """
         # for poke , evolutions. Get all with kd = 0
         height = ""
         weight = ""
