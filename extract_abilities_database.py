@@ -18,6 +18,7 @@ def export_abilities(abilities,output_csv):
         )
 
 if __name__ == "__main__":
+
     input_pdf = "data/Abilities.pdf"
     output_csv = "abilities.csv"
     abilities = parse_full_abilities(input_pdf)
