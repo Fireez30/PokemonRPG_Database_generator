@@ -30,12 +30,12 @@ def get_pokemon_image(name):
     # --- 1. Vérifie si image locale existe
 
     if os.path.exists(local_jpg):
-        img = Image(local_jpg, width=5 * cm, height=5 * cm)
+        img = Image(local_jpg, width=3 * cm, height=3 * cm)
         img.hAlign = "CENTER"
         return img
 
     if os.path.exists(local_png):
-        img = Image(local_png, width=5 * cm, height=5 * cm)
+        img = Image(local_png, width=3 * cm, height=3 * cm)
         img.hAlign = "CENTER"
         return img
 
@@ -53,10 +53,25 @@ def get_pokemon_image(name):
             with open(local_jpg, "wb") as f:
                 f.write(r.content)
 
-            img = Image(BytesIO(r.content), width=6 * cm, height=6 * cm)
+            img = Image(BytesIO(r.content), width=3 * cm, height=3 * cm)
             img.hAlign = "CENTER"
 
             return img
+        else:
+            url = f"https://forwardfeed.github.io/ER-nextdex/sprites/{name.upper()}.png"
+            r = requests.get(url, timeout=10)
+
+            if r.status_code == 200:
+                os.makedirs(folder, exist_ok=True)
+
+                # sauvegarde locale (cache)
+                with open(local_png, "wb") as f:
+                    f.write(r.content)
+
+                img = Image(BytesIO(r.content), width=3 * cm, height=3 * cm)
+                img.hAlign = "CENTER"
+
+                return img
 
     except Exception:
         pass
@@ -86,8 +101,116 @@ def format_skills(skills):
 
 
 def create_pdf(data, output="pokemon.pdf"):
+    from reportlab.lib.colors import white, black
+    from reportlab.lib.enums import TA_LEFT, TA_CENTER
+    from reportlab.lib.styles import ParagraphStyle,StyleSheet1
+    from reportlab.lib.fonts import tt2ps
+    from reportlab.rl_config import canvas_basefontname as _baseFontName
+    _baseFontNameB = tt2ps(_baseFontName, 1, 0)
+    _baseFontNameI = tt2ps(_baseFontName, 0, 1)
+    _baseFontNameBI = tt2ps(_baseFontName, 1, 1)
+    styles = StyleSheet1()
 
-    styles = getSampleStyleSheet()
+    styles.add(ParagraphStyle(name='Normal',
+                                  fontName=_baseFontName,
+                                  fontSize=8,
+                                  leading=12)
+                   )
+
+    styles.add(ParagraphStyle(name='BodyText',
+                                  parent=styles['Normal'],
+                                  spaceBefore=6)
+                   )
+    styles.add(ParagraphStyle(name='Italic',
+                                  parent=styles['BodyText'],
+                                  fontName = _baseFontNameI)
+                   )
+
+    styles.add(ParagraphStyle(name='Heading1',
+                                  parent=styles['Normal'],
+                                  fontName = _baseFontNameB,
+                                  fontSize=18,
+                                  leading=22,
+                                  spaceAfter=6),
+                                    alias='h1')
+
+    styles.add(ParagraphStyle(name='Title',
+                                  parent=styles['Normal'],
+                                  fontName = _baseFontNameB,
+                                  fontSize=18,
+                                  leading=22,
+                                  alignment=TA_CENTER,
+                                  spaceAfter=6),
+                   alias='title')
+
+    styles.add(ParagraphStyle(name='Heading2',
+                                  parent=styles['Normal'],
+                                  fontName = _baseFontNameB,
+                                  fontSize=14,
+                                  leading=18,
+                                  spaceBefore=12,
+                                  spaceAfter=6),
+                   alias='h2')
+
+    styles.add(ParagraphStyle(name='Heading3',
+                                  parent=styles['Normal'],
+                                  fontName = _baseFontNameBI,
+                                  fontSize=12,
+                                  leading=14,
+                                  spaceBefore=12,
+                                  spaceAfter=6),
+                   alias='h3')
+
+    styles.add(ParagraphStyle(name='Heading4',
+                                  parent=styles['Normal'],
+                                  fontName = _baseFontNameBI,
+                                  fontSize=10,
+                                  leading=12,
+                                  spaceBefore=10,
+                                  spaceAfter=4),
+                   alias='h4')
+
+    styles.add(ParagraphStyle(name='Heading5',
+                                  parent=styles['Normal'],
+                                  fontName = _baseFontNameB,
+                                  fontSize=9,
+                                  leading=10.8,
+                                  spaceBefore=8,
+                                  spaceAfter=4),
+                   alias='h5')
+
+    styles.add(ParagraphStyle(name='Heading6',
+                                  parent=styles['Normal'],
+                                  fontName = _baseFontNameB,
+                                  fontSize=7,
+                                  leading=8.4,
+                                  spaceBefore=6,
+                                  spaceAfter=2),
+                   alias='h6')
+
+    styles.add(ParagraphStyle(name='Bullet',
+                                  parent=styles['Normal'],
+                                  firstLineIndent=0,
+                                  spaceBefore=3),
+                   alias='bu')
+
+    styles.add(ParagraphStyle(name='Definition',
+                                  parent=styles['Normal'],
+                                  firstLineIndent=0,
+                                  leftIndent=36,
+                                  bulletIndent=0,
+                                  spaceBefore=6,
+                                  bulletFontName=_baseFontNameBI),
+                   alias='df')
+
+    styles.add(ParagraphStyle(name='Code',
+                                  parent=styles['Normal'],
+                                  fontName='Courier',
+                                  fontSize=8,
+                                  leading=8.8,
+                                  firstLineIndent=0,
+                                  leftIndent=36))
+
 
     doc = SimpleDocTemplate(
         output,
@@ -120,19 +243,19 @@ def create_pdf(data, output="pokemon.pdf"):
     ])
 
     story = []
+    # -------- NAME --------
 
+    story.append(Paragraph(f"<b>{data['name'].capitalize()}</b>", styles["Title"]))
+    story.append(Spacer(1,5))
     # -------- IMAGE --------
 
     img = get_pokemon_image(data["name"])
 
     if img:
         story.append(img)
-        story.append(Spacer(1,10))
+        story.append(Spacer(1,5))
 
-    # -------- NAME --------
 
-    story.append(Paragraph(f"<b>{data['name'].upper()}</b>", styles["Title"]))
-    story.append(Spacer(1,10))
 
     # -------- BASE STATS --------
 
@@ -150,18 +273,26 @@ def create_pdf(data, output="pokemon.pdf"):
     for s in stats:
         story.append(Paragraph(s, styles["Normal"]))
 
-    story.append(Spacer(1,10))
+    story.append(Spacer(1,5))
 
     # -------- BASIC INFO --------
 
     story.append(Paragraph("<b>Basic Information</b>", styles["Heading3"]))
 
-    story.append(
-        Paragraph(
-            f"Type: {' / '.join(data['pokemon_types'])}",
-            styles["Normal"]
+    if type(data['pokemon_types']) == str:
+        story.append(
+            Paragraph(
+                f"Type: {data['pokemon_types']}",
+                styles["Normal"]
+            )
         )
-    )
+    else:
+        story.append(
+            Paragraph(
+                f"Type: {' / '.join(data['pokemon_types'])}",
+                styles["Normal"]
+            )
+        )
 
     for i, a in enumerate(data["base_abilities"], 1):
         story.append(
@@ -178,7 +309,7 @@ def create_pdf(data, output="pokemon.pdf"):
             Paragraph(f"High Ability: {a}", styles["Normal"])
         )
 
-    story.append(Spacer(1,10))
+    story.append(Spacer(1,5))
 
     # -------- EVOLUTION --------
 
@@ -187,7 +318,7 @@ def create_pdf(data, output="pokemon.pdf"):
     for e in data["evolutions"]:
         story.append(Paragraph(e, styles["Normal"]))
 
-    story.append(Spacer(1,10))
+    story.append(Spacer(1,5))
 
     # -------- SIZE --------
 
@@ -201,7 +332,7 @@ def create_pdf(data, output="pokemon.pdf"):
         Paragraph(f"Weight: {data['weight']}", styles["Normal"])
     )
 
-    story.append(Spacer(1,10))
+    story.append(Spacer(1,5))
 
     # -------- BREEDING --------
 
@@ -235,10 +366,6 @@ def create_pdf(data, output="pokemon.pdf"):
         )
     )
 
-    # -------- COLONNE DROITE --------
-
-    story.append(FrameBreak())
-
     # -------- CAPABILITIES --------
 
     story.append(Paragraph("<b>Capability List</b>", styles["Heading3"]))
@@ -250,10 +377,8 @@ def create_pdf(data, output="pokemon.pdf"):
         )
     )
 
-    story.append(Spacer(1,10))
-
+    story.append(Spacer(1,5))
     # -------- SKILLS --------
-
     story.append(Paragraph("<b>Skill List</b>", styles["Heading3"]))
 
     story.append(
@@ -263,11 +388,12 @@ def create_pdf(data, output="pokemon.pdf"):
         )
     )
 
-    story.append(Spacer(1,10))
+    # -------- COLONNE DROITE --------
 
+    story.append(FrameBreak())
     # -------- MOVE LIST --------
 
-    story.append(Paragraph("<b>Level Up Move List</b>", styles["Heading3"]))
+    story.append(Paragraph("<b>Move List</b>", styles["Heading3"]))
 
     for m in data["moves"]:
         story.append(
@@ -277,7 +403,7 @@ def create_pdf(data, output="pokemon.pdf"):
             )
         )
 
-    story.append(Spacer(1,10))
+    story.append(Spacer(1,5))
 
     # -------- EGG MOVES --------
 
@@ -291,7 +417,7 @@ def create_pdf(data, output="pokemon.pdf"):
             )
         )
 
-        story.append(Spacer(1,10))
+        story.append(Spacer(1,5))
 
     # -------- TM MOVES --------
 
@@ -304,7 +430,7 @@ def create_pdf(data, output="pokemon.pdf"):
         )
     )
 
-    story.append(Spacer(1,10))
+    story.append(Spacer(1,5))
 
     # -------- TUTOR MOVES --------
 
@@ -322,6 +448,6 @@ def create_pdf(data, output="pokemon.pdf"):
 
 if __name__ == "__main__":
 
-    pokemon = load_pokemon("data/pokemon_test.json")
+    pokemon = load_pokemon("data/pokemon.json")
     for poke in pokemon:
         create_pdf(poke, "output_pdf/"+poke["name"]+".pdf")

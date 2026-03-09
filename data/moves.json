@@ -8008,7 +8008,7 @@
     "roll": "2d8+10 / 19",
     "classe": "Physical",
     "range": "Melee, 1 Target",
-    "effect": "Ice Punch Freezes the target on 19+ duringAccuracy Check.",
+    "effect": "Ice Punch Freezes the target on 19+ during Accuracy Check.",
     "blessing": "",
     "special_effect": "",
     "contest_type": "Beauty",
