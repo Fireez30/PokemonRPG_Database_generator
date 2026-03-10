@@ -1,5 +1,9 @@
 [
   {
+    "name": "",
+    "effect": ""
+  },
+  {
     "name": "Abominable",
     "effect": "Static Effect:The user's Base HP is increased by +5and user ignores the Recoil Keyword when attacking, and does not gain injuries from Massive Damage.Defensive."
   },

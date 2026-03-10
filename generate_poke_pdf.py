@@ -1,6 +1,9 @@
 import json
 import requests
 from io import BytesIO
+from reportlab.lib import utils
+from pypdf import PdfWriter
+import glob
 import os
 from reportlab.platypus import (
     SimpleDocTemplate,
@@ -21,6 +24,11 @@ def load_pokemon(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
+def get_image(path, width=1*cm):
+    img = utils.ImageReader(path)
+    iw, ih = img.getSize()
+    aspect = ih / float(iw)
+    return Image(path, width=width, height=(width * aspect))
 
 def get_pokemon_image(name):
     folder = "images"
@@ -31,12 +39,12 @@ def get_pokemon_image(name):
     # --- 1. Vérifie si image locale existe
 
     if os.path.exists(local_jpg):
-        img = Image(local_jpg, width=3 * cm, height=3 * cm)
+        img = get_image(local_jpg, width=3 * cm)
         img.hAlign = "CENTER"
         return img
 
     if os.path.exists(local_png):
-        img = Image(local_png, width=3 * cm, height=3 * cm)
+        img =  get_image(local_png, width=3 * cm)
         img.hAlign = "CENTER"
         return img
 
@@ -478,6 +486,18 @@ def create_pdf(data, output="pokemon.pdf"):
 
 if __name__ == "__main__":
 
-    pokemon = load_pokemon("data/pokemon_test.json")
+    pokemon = load_pokemon("data/final_pokemons.json")
     for poke in pokemon:
         create_pdf(poke, "output_pdf/"+poke["name"]+".pdf")
+
+    merger = PdfWriter()
+
+    pdfs = list(filter(os.path.isfile, glob.glob("output_pdf/*.pdf")))
+    pdfs.sort(key=os.path.basename)
+
+    for pdf in pdfs:
+        if pdf != "output_pdf/'.pdf":
+            merger.append(pdf)
+
+    merger.write("output_pdf/merged_dex.pdf")
+    merger.close()

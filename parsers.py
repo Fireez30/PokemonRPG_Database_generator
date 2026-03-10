@@ -60,36 +60,38 @@ def first_line_is_bold(block):
     # - or majority bold
     return bold_spans >= len(spans) / 2
 
-def extract_one_column_text(pdf_path):
+def extract_one_column_text(pdf_path,page_to_read=None):
     global stop_read
     doc = fitz.open(pdf_path)
     sections = []
     current_section = []
-
+    index = 0
     for page in doc:
-        data = page.get_text("dict")
+        if page_to_read is None or index in page_to_read:
+            data = page.get_text("dict")
 
-        for block in data["blocks"]:
-            if block["type"] != 0:
-                continue
+            for block in data["blocks"]:
+                if block["type"] != 0:
+                    continue
 
-            block_text = ""
-            for line in block["lines"]:
-                for span in line["spans"]:
-                    block_text += span["text"]
-                block_text += "\n"
+                block_text = ""
+                for line in block["lines"]:
+                    for span in line["spans"]:
+                        block_text += span["text"]
+                    block_text += "\n"
 
-            block_text = block_text.strip()
-            if not block_text:
-                continue
+                block_text = block_text.strip()
+                if not block_text:
+                    continue
 
-            if first_line_is_bold(block):
-                # Start new section
-                if current_section:
-                    sections.append("\n".join(current_section))
-                current_section = [block_text]
-            else:
-                current_section.append(block_text)
+                if first_line_is_bold(block):
+                    # Start new section
+                    if current_section:
+                        sections.append("\n".join(current_section))
+                    current_section = [block_text]
+                else:
+                    current_section.append(block_text)
+        index += 1
 
     if current_section:
         sections.append("\n".join(current_section))
@@ -526,7 +528,7 @@ def UNUSED_parse_extracted_text_gen7(input_pdf,index):
     print(egg_moves)
     return Pokemon(name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves)
 
-def parse_extracted_text_gen8(input_pdf,index):
+def parse_extracted_text_gen8(input_pdf,index,db_pokemon_names):
     text = extract_two_columns_text(input_pdf, page_number=index)
     name = ""
     hp = -1
@@ -640,7 +642,26 @@ def parse_extracted_text_gen8(input_pdf,index):
             previous_line = line
             continue
         if current_status == "name" and line.strip() != "":
-            name = line.strip().lower()
+            temp_name = line.strip().lower()
+            added = False
+            if temp_name in db_pokemon_names:
+                added = True
+                name = temp_name
+            elif 'l' in temp_name:
+                indexes_l = [i for i, c in enumerate(temp_name) if c == 'l']
+                for idc in indexes_l:
+                    if not added:
+                        replaced_name = temp_name[:idc]+'i'+temp_name[idc+1:]
+                        if replaced_name in db_pokemon_names:
+                            name = replaced_name
+                            added = True
+                if not added:
+                    replaced_name = temp_name.replace("l","i")
+                    if replaced_name in db_pokemon_names:
+                        name = replaced_name
+                        added = True
+            if not added:
+                name = temp_name
         if current_status == "base_stats":
             if ':' in line:
                 # cleaned = re.sub(r'[^0-9]', '', line.split(':')[1])
@@ -983,7 +1004,80 @@ def parse_extracted_text_gen8(input_pdf,index):
     return Pokemon(name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves,mega_evolution,mega_evolution_obj)
 
 
-def parse_extracted_text_gen9(input_pdf,index):
+def parse_mega_evolutions(input_pdf,range_to_read):
+    text = extract_one_column_text(input_pdf,range_to_read)
+    mega_evols = {}
+    final_text = ""
+    for textline in text:
+        final_text += textline
+
+    lines = final_text.split("\n")
+    current_poke_name = ""
+    current_stats = ""
+    current_ability = ""
+    current_type = ""
+    previous_line = ""
+    for line in lines:
+        stripped_line = line.strip()
+        if stripped_line != "Kanto Mega Pokemon":
+            if stripped_line.startswith("Mega")  and stripped_line != "Mega Ability":
+                if previous_line == "":
+                    current_poke_name = stripped_line.replace("Mega","").lower().strip()
+                else:
+                    print("todo")
+                    mega_evo = {
+                        "type":current_type,
+                        "ability":current_ability,
+                        "stats":current_stats
+                    }
+                    mega_evols[current_poke_name] = mega_evo
+                    current_poke_name = ""
+                    current_stats = ""
+                    current_ability = ""
+                    current_type = ""
+                    previous_line = ""
+                    current_poke_name = stripped_line.replace("Mega", "").lower().strip()
+                    continue
+            else:
+                if stripped_line.startswith("HP:"):
+                    split_line = stripped_line.split(":")[1]
+                    current_stats += split_line.strip()+ " HP "
+                elif stripped_line.startswith("Attack:"):
+                    split_line = stripped_line.split(":")[1]
+                    current_stats += split_line.strip()+ " Atk "
+                elif stripped_line.startswith("Defense:"):
+                    split_line = stripped_line.split(":")[1]
+                    current_stats += split_line.strip()+ " Def "
+                elif stripped_line.startswith("Special Attack:"):
+                    split_line = stripped_line.split(":")[1]
+                    current_stats += split_line.strip()+ " SpAtk "
+                elif stripped_line.startswith("Special Defense:"):
+                    split_line = stripped_line.split(":")[1]
+                    current_stats += split_line.strip()+ " SpDef "
+                elif stripped_line.startswith("Speed:"):
+                    split_line = stripped_line.split(":")[1]
+                    current_stats += split_line.strip()+ " Spd "
+                elif previous_line == "Mega Ability":
+                    current_ability = stripped_line
+                elif previous_line == "Pokemon Type":
+                    if "/" in stripped_line:
+                        tyoes = stripped_line.split("/")
+                        current_type = []
+                        for typem in tyoes:
+                            if not typem.strip() in current_type:
+                                current_type.append(typem.strip())
+                    else:
+                        current_type = stripped_line
+            previous_line = stripped_line
+    if current_poke_name not in mega_evols:
+        mega_evo = {
+            "type": current_type,
+            "ability": current_ability,
+            "stats": current_stats
+        }
+        mega_evols[current_poke_name] = mega_evo
+    return mega_evols
+def parse_extracted_text_gen9(input_pdf,index,db_pokemon_names):
     text = extract_two_columns_text(input_pdf, page_number=index)
     name = ""
     stats_aggr = ""
@@ -1095,7 +1189,26 @@ def parse_extracted_text_gen9(input_pdf,index):
             previous_line = line
             continue
         if current_status == "name" and line.strip() != "":
-            name = line.strip().lower()
+            temp_name = line.strip().lower()
+            added = False
+            if temp_name in db_pokemon_names:
+                added = True
+                name = temp_name
+            elif 'l' in temp_name:
+                indexes_l = [i for i, c in enumerate(temp_name) if c == 'l']
+                for idc in indexes_l:
+                    if not added:
+                        replaced_name = temp_name[:idc]+'i'+temp_name[idc+1:]
+                        if replaced_name in db_pokemon_names:
+                            name = replaced_name
+                            added = True
+                if not added:
+                    replaced_name = temp_name.replace("l","i")
+                    if replaced_name in db_pokemon_names:
+                        name = replaced_name
+                        added = True
+            if not added:
+                name = temp_name
         if current_status == "base_stats":
             if line.strip().isdigit():
                 stats_aggr += line.strip()+","

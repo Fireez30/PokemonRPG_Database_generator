@@ -1,0 +1,1972 @@
+[
+  {
+    "name": "automateon",
+    "stat_hp": 10,
+    "stat_atk": 7,
+    "stat_def": 13,
+    "stat_sp_atk": 7,
+    "stat_sp_def": 11,
+    "stat_spd": 6,
+    "pokemon_types": "Steel",
+    "base_abilities": [
+      "Sturdy",
+      "Clear Body"
+    ],
+    "advanced_abilities": [
+      "Type Aura (Steel)",
+      "Magnet Pull"
+    ],
+    "high_abilities": [
+      "Heatproof"
+    ],
+    "evolutions": [
+      "Eevee",
+      "Automateon Minimum 20"
+    ],
+    "height": "3’ 3” / 1m (Medium)",
+    "weight": "72.7 lbs / 33kg (3)",
+    "gender_ratio_m": "87.5",
+    "gender_ratio_f": "12.5",
+    "egg_group": "Field",
+    "average_hatch_rate": -1,
+    "diet": "Omnivore",
+    "habitat": "Urban",
+    "capabilities": [
+      {
+        "name": "Overland",
+        "value": "6"
+      },
+      {
+        "name": "Swim",
+        "value": "3"
+      },
+      {
+        "name": "Jump",
+        "value": "1/2"
+      },
+      {
+        "name": "Power",
+        "value": "5"
+      },
+      {
+        "name": "Magnetic",
+        "value": ""
+      },
+      {
+        "name": "Tracker",
+        "value": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athl",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Acro",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Combat",
+        "roll": "3d6+2"
+      },
+      {
+        "name": "Stealth",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Percep",
+        "roll": "3d6+2"
+      },
+      {
+        "name": "Focus",
+        "roll": "5d6+2"
+      }
+    ],
+    "moves": [
+      {
+        "name": "Bullet Punch",
+        "level": 0,
+        "type": "Steel"
+      },
+      {
+        "name": "Sand Attack",
+        "level": 5,
+        "type": "Ground"
+      },
+      {
+        "name": "Baby-Doll Eyes",
+        "level": 9,
+        "type": "Fairy"
+      },
+      {
+        "name": "Quick Attack",
+        "level": 13,
+        "type": "Normal"
+      },
+      {
+        "name": "Magnet Bomb",
+        "level": 17,
+        "type": "Steel"
+      },
+      {
+        "name": "Flash Cannon",
+        "level": 20,
+        "type": "Steel"
+      },
+      {
+        "name": "Iron Head",
+        "level": 25,
+        "type": "Steel"
+      },
+      {
+        "name": "Iron Defense",
+        "level": 29,
+        "type": "Steel"
+      },
+      {
+        "name": "Metal Sound",
+        "level": 33,
+        "type": "Steel"
+      },
+      {
+        "name": "Shift Gear",
+        "level": 37,
+        "type": "Steel"
+      },
+      {
+        "name": "Last Resort",
+        "level": 41,
+        "type": "Normal"
+      },
+      {
+        "name": "Metal Burst",
+        "level": 45,
+        "type": "Steel"
+      }
+    ],
+    "tm_moves": [
+      "01 Work Up",
+      "06 Toxic",
+      "10 Hidden Power",
+      "11 Sunny Day",
+      "15 Hyper Beam",
+      "17 Protect",
+      "18 Rain Dance",
+      "21 Frustration",
+      "24 Thunderbolt",
+      "27 Return",
+      "30 Shadow Ball",
+      "32 Double Team",
+      "42 Facade",
+      "44 Rest",
+      "45 Attract",
+      "48 Round",
+      "49 Echoed Voice",
+      "68 Giga Impact",
+      "74 Gyro Ball",
+      "87 Swagger",
+      "88 Sleep Talk",
+      "90 Substitute",
+      "93 Wild Charge",
+      "91 Flash Cannon",
+      "100 Confide"
+    ],
+    "tutor_moves": [
+      "Body Slam",
+      "Double-Edge",
+      "Heal Bell",
+      "Helping Hand (N)",
+      "Hyper Voice",
+      "Iron Defense",
+      "Iron Head",
+      "Iron Tail",
+      "Laser Focus",
+      "Last Resort",
+      "Mud-Slap",
+      "Shock Wave",
+      "Snore",
+      "Swift"
+    ],
+    "egg_moves": [],
+    "mega_evolution": null
+  },
+  {
+    "name": "aviateon",
+    "stat_hp": 10,
+    "stat_atk": 7,
+    "stat_def": 6,
+    "stat_sp_atk": 11,
+    "stat_sp_def": 7,
+    "stat_spd": 13,
+    "pokemon_types": "Flying",
+    "base_abilities": [
+      "Windveiled",
+      "Cloud Nine"
+    ],
+    "advanced_abilities": [
+      "Type Aura (Flying)",
+      "Blow Away"
+    ],
+    "high_abilities": [
+      "Confidence"
+    ],
+    "evolutions": [
+      "Eevee",
+      "Aviateon Minimum 20"
+    ],
+    "height": "2’ 11” / 0.9m (Small)",
+    "weight": "46.3 lbs / 21kg (2)",
+    "gender_ratio_m": "87.5",
+    "gender_ratio_f": "12.5",
+    "egg_group": "Field",
+    "average_hatch_rate": -1,
+    "diet": "Omnivore",
+    "habitat": "Forest, Grassland",
+    "capabilities": [
+      {
+        "name": "Overland",
+        "value": "6"
+      },
+      {
+        "name": "Swim",
+        "value": "3"
+      },
+      {
+        "name": "Sky",
+        "value": "7"
+      },
+      {
+        "name": "Jump",
+        "value": "2/2"
+      },
+      {
+        "name": "Power",
+        "value": "4"
+      },
+      {
+        "name": "Guster",
+        "value": ""
+      },
+      {
+        "name": "Tracker",
+        "value": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athl",
+        "roll": "4d6"
+      },
+      {
+        "name": "Acro",
+        "roll": "5d6+2"
+      },
+      {
+        "name": "Combat",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Stealth",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Percep",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Focus",
+        "roll": "3d6+1"
+      }
+    ],
+    "moves": [
+      {
+        "name": "Gust",
+        "level": 0,
+        "type": "Flying"
+      },
+      {
+        "name": "Sand Attack",
+        "level": 5,
+        "type": "Ground"
+      },
+      {
+        "name": "Baby-Doll Eyes",
+        "level": 9,
+        "type": "Fairy"
+      },
+      {
+        "name": "Quick Attack",
+        "level": 13,
+        "type": "Normal"
+      },
+      {
+        "name": "Air Cutter",
+        "level": 17,
+        "type": "Flying"
+      },
+      {
+        "name": "Mirror Move",
+        "level": 20,
+        "type": "Flying"
+      },
+      {
+        "name": "Tailwind",
+        "level": 25,
+        "type": "Flying"
+      },
+      {
+        "name": "Roost",
+        "level": 29,
+        "type": "Flying"
+      },
+      {
+        "name": "Whirlwind",
+        "level": 33,
+        "type": "Normal"
+      },
+      {
+        "name": "Air Slash",
+        "level": 37,
+        "type": "Flying"
+      },
+      {
+        "name": "Last Resort",
+        "level": 41,
+        "type": "Normal"
+      },
+      {
+        "name": "Hurricane",
+        "level": 45,
+        "type": "Flying"
+      }
+    ],
+    "tm_moves": [
+      "01 Work Up",
+      "06 Toxic",
+      "10 Hidden Power",
+      "11 Sunny Day",
+      "15 Hyper Beam",
+      "17 Protect",
+      "18 Rain Dance",
+      "19 Roost",
+      "21 Frustration",
+      "27 Return",
+      "30 Shadow Ball",
+      "32 Double Team",
+      "40 Aerial Ace",
+      "42 Facade",
+      "44 Rest",
+      "45 Attract",
+      "48 Round",
+      "49 Echoed Voice",
+      "58 Sky Drop",
+      "62 Acrobatics",
+      "68 Giga Impact",
+      "76 Fly",
+      "87 Swagger",
+      "88 Sleep Talk",
+      "90 Substitute",
+      "100 Confide"
+    ],
+    "tutor_moves": [
+      "Air Cutter",
+      "Body Slam",
+      "Bounce",
+      "Double-Edge",
+      "Heal Bell",
+      "Helping Hand (N)",
+      "Hyper Voice",
+      "Iron Tail",
+      "Laser Focus",
+      "Last Resort",
+      "Mud-Slap",
+      "Silver Wind",
+      "Sky Attack",
+      "Snore",
+      "Swift",
+      "Twister"
+    ],
+    "egg_moves": [],
+    "mega_evolution": null
+  },
+  {
+    "name": "champeon",
+    "stat_hp": 11,
+    "stat_atk": 10,
+    "stat_def": 13,
+    "stat_sp_atk": 6,
+    "stat_sp_def": 7,
+    "stat_spd": 7,
+    "pokemon_types": "Fighting",
+    "base_abilities": [
+      "Inner Focus",
+      "Limber"
+    ],
+    "advanced_abilities": [
+      "Type Aura (Fighting)",
+      "Defiant"
+    ],
+    "high_abilities": [
+      "No Guard"
+    ],
+    "evolutions": [
+      "Eevee",
+      "Champeon Minimum 20"
+    ],
+    "height": "2’ 7” / 0.8m (Small)",
+    "weight": "55.1 lbs / 25kg (3)",
+    "gender_ratio_m": "87.5",
+    "gender_ratio_f": "12.5",
+    "egg_group": "Field",
+    "average_hatch_rate": -1,
+    "diet": "Omnivore",
+    "habitat": "Urban",
+    "capabilities": [
+      {
+        "name": "Overland",
+        "value": "7"
+      },
+      {
+        "name": "Swim",
+        "value": "4"
+      },
+      {
+        "name": "Jump",
+        "value": "2/3"
+      },
+      {
+        "name": "Power",
+        "value": "5"
+      },
+      {
+        "name": "Tracker",
+        "value": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athl",
+        "roll": "5d6+2"
+      },
+      {
+        "name": "Acro",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Combat",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Stealth",
+        "roll": "3d6"
+      },
+      {
+        "name": "Percep",
+        "roll": "3d6"
+      },
+      {
+        "name": "Focus",
+        "roll": "3d6+2"
+      }
+    ],
+    "moves": [
+      {
+        "name": "Double Kick",
+        "level": 0,
+        "type": "Fighting"
+      },
+      {
+        "name": "Sand Attack",
+        "level": 5,
+        "type": "Ground"
+      },
+      {
+        "name": "Baby-Doll Eyes",
+        "level": 9,
+        "type": "Fairy"
+      },
+      {
+        "name": "Quick Attack",
+        "level": 13,
+        "type": "Normal"
+      },
+      {
+        "name": "Bite",
+        "level": 17,
+        "type": "Dark"
+      },
+      {
+        "name": "Jump Kick",
+        "level": 20,
+        "type": "Fighting"
+      },
+      {
+        "name": "Detect",
+        "level": 25,
+        "type": "Fighting"
+      },
+      {
+        "name": "Revenge",
+        "level": 29,
+        "type": "Fighting"
+      },
+      {
+        "name": "Reversal",
+        "level": 33,
+        "type": "Fighting"
+      },
+      {
+        "name": "Counter",
+        "level": 37,
+        "type": "Fighting"
+      },
+      {
+        "name": "Last Resort",
+        "level": 41,
+        "type": "Normal"
+      },
+      {
+        "name": "High Jump Kick",
+        "level": 45,
+        "type": "Fighting"
+      }
+    ],
+    "tm_moves": [
+      "01 Work Up",
+      "05 Roar",
+      "06 Toxic",
+      "08 Bulk Up",
+      "10 Hidden Power",
+      "11 Sunny Day",
+      "15 Hyper Beam",
+      "17 Protect",
+      "18 Rain Dance",
+      "21 Frustration",
+      "27 Return",
+      "30 Shadow Ball",
+      "31 Brick Break",
+      "32 Double Team",
+      "42 Facade",
+      "44 Rest",
+      "45 Attract",
+      "47 Low Sweep",
+      "48 Round",
+      "49 Echoed Voice",
+      "52 Focus Blast",
+      "68 Giga Impact",
+      "75 Swords Dance",
+      "87 Swagger",
+      "88 Sleep Talk",
+      "90 Substitute",
+      "100 Confide"
+    ],
+    "tutor_moves": [
+      "Block",
+      "Body Slam",
+      "Counter",
+      "Double-Edge",
+      "Heal Bell",
+      "Helping Hand (N)",
+      "Hyper Voice",
+      "Iron Tail",
+      "Laser Focus",
+      "Last Resort",
+      "Low Kick",
+      "Mega Kick",
+      "Mud-Slap",
+      "Rock Climb",
+      "Superpower",
+      "Snore",
+      "Swift",
+      "Throat Chop",
+      "Vacuum Wave"
+    ],
+    "egg_moves": [],
+    "mega_evolution": null
+  },
+  {
+    "name": "companeon",
+    "stat_hp": 13,
+    "stat_atk": 10,
+    "stat_def": 7,
+    "stat_sp_atk": 7,
+    "stat_sp_def": 11,
+    "stat_spd": 6,
+    "pokemon_types": "Normal",
+    "base_abilities": [
+      "Bodyguard",
+      "Friend Guard"
+    ],
+    "advanced_abilities": [
+      "Type Aura (Normal)",
+      "Anticipation"
+    ],
+    "high_abilities": [
+      "Courage"
+    ],
+    "evolutions": [
+      "Eevee",
+      "Companeon Minimum 20"
+    ],
+    "height": "2’ 11” / 0.9m (Small)",
+    "weight": "58.4 lbs / 26.5kg (3)",
+    "gender_ratio_m": "87.5",
+    "gender_ratio_f": "12.5",
+    "egg_group": "Field",
+    "average_hatch_rate": -1,
+    "diet": "Omnivore",
+    "habitat": "Grassland, Urban",
+    "capabilities": [
+      {
+        "name": "Overland",
+        "value": "6"
+      },
+      {
+        "name": "Swim",
+        "value": "3"
+      },
+      {
+        "name": "Jump",
+        "value": "1/2"
+      },
+      {
+        "name": "Power",
+        "value": "4"
+      },
+      {
+        "name": "Tracker",
+        "value": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athl",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Acro",
+        "roll": "4d6"
+      },
+      {
+        "name": "Combat",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Stealth",
+        "roll": "3d6+2"
+      },
+      {
+        "name": "Percep",
+        "roll": "4d6"
+      },
+      {
+        "name": "Focus",
+        "roll": "4d6"
+      }
+    ],
+    "moves": [
+      {
+        "name": "Assist",
+        "level": 0,
+        "type": "Normal"
+      },
+      {
+        "name": "Sand Attack",
+        "level": 5,
+        "type": "Ground"
+      },
+      {
+        "name": "Baby-Doll Eyes",
+        "level": 9,
+        "type": "Fairy"
+      },
+      {
+        "name": "Quick Attack",
+        "level": 13,
+        "type": "Normal"
+      },
+      {
+        "name": "Bite",
+        "level": 17,
+        "type": "Dark"
+      },
+      {
+        "name": "Baton Pass",
+        "level": 20,
+        "type": "Normal"
+      },
+      {
+        "name": "Take Down",
+        "level": 25,
+        "type": "Normal"
+      },
+      {
+        "name": "Rest",
+        "level": 29,
+        "type": "Psychic"
+      },
+      {
+        "name": "Trump Card",
+        "level": 33,
+        "type": "Fighting"
+      },
+      {
+        "name": "Copycat",
+        "level": 37,
+        "type": "Normal"
+      },
+      {
+        "name": "Last Resort",
+        "level": 41,
+        "type": "Normal"
+      },
+      {
+        "name": "Giga Impact",
+        "level": 45,
+        "type": "Fighting"
+      }
+    ],
+    "tm_moves": [
+      "01 Work Up",
+      "06 Toxic",
+      "10 Hidden Power",
+      "11 Sunny Day",
+      "13 Ice Beam",
+      "15 Hyper Beam",
+      "16 Light Screen",
+      "17 Protect",
+      "18 Rain Dance",
+      "20 Safeguard",
+      "21 Frustration",
+      "24 Thunderbolt",
+      "27 Return",
+      "30 Shadow Ball",
+      "32 Double Team",
+      "33 Reflect",
+      "35 Flamethrower",
+      "42 Facade",
+      "44 Rest",
+      "45 Attract",
+      "48 Round",
+      "49 Echoed Voice",
+      "67 Smart Strike",
+      "68 Giga Impact",
+      "87 Swagger",
+      "88 Sleep Talk",
+      "90 Substitute",
+      "100 Confide"
+    ],
+    "tutor_moves": [
+      "After You",
+      "Ally Switch",
+      "Body Slam",
+      "Double-Edge",
+      "Endure",
+      "Heal Bell",
+      "Helping Hand (N)",
+      "Hyper Voice",
+      "Iron Tail",
+      "Knock Off",
+      "Laser Focus",
+      "Last Resort",
+      "Mega Kick",
+      "Metronome",
+      "Mud-Slap",
+      "Snore",
+      "Swift",
+      "Zen Headbutt"
+    ],
+    "egg_moves": [],
+    "mega_evolution": null
+  },
+  {
+    "name": "corroseon",
+    "stat_hp": 10,
+    "stat_atk": 7,
+    "stat_def": 6,
+    "stat_sp_atk": 13,
+    "stat_sp_def": 7,
+    "stat_spd": 11,
+    "pokemon_types": "Poison",
+    "base_abilities": [
+      "Poison Touch",
+      "Liquid Ooze"
+    ],
+    "advanced_abilities": [
+      "Type Aura (Poison)",
+      "Stench"
+    ],
+    "high_abilities": [
+      "Corrosion"
+    ],
+    "evolutions": [
+      "Eevee",
+      "Corroseon Minimum 20"
+    ],
+    "height": "2’ 11” / 0.9m (Small)",
+    "weight": "54 lbs / 24.5kg (2)",
+    "gender_ratio_m": "87.5",
+    "gender_ratio_f": "12.5",
+    "egg_group": "Field",
+    "average_hatch_rate": -1,
+    "diet": "Omnivore",
+    "habitat": "Marsh",
+    "capabilities": [
+      {
+        "name": "Overland",
+        "value": "6"
+      },
+      {
+        "name": "Swim",
+        "value": "3"
+      },
+      {
+        "name": "Jump",
+        "value": "1/2"
+      },
+      {
+        "name": "Power",
+        "value": "4"
+      },
+      {
+        "name": "Amorphous",
+        "value": ""
+      },
+      {
+        "name": "Tracker",
+        "value": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athl",
+        "roll": "3d6+2"
+      },
+      {
+        "name": "Acro",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Combat",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Stealth",
+        "roll": "5d6+2"
+      },
+      {
+        "name": "Percep",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Focus",
+        "roll": "4d6+2"
+      }
+    ],
+    "moves": [
+      {
+        "name": "Smog",
+        "level": 0,
+        "type": "Poison"
+      },
+      {
+        "name": "Sand Attack",
+        "level": 5,
+        "type": "Ground"
+      },
+      {
+        "name": "Baby-Doll Eyes",
+        "level": 9,
+        "type": "Fairy"
+      },
+      {
+        "name": "Quick Attack",
+        "level": 13,
+        "type": "Normal"
+      },
+      {
+        "name": "Sludge",
+        "level": 17,
+        "type": "Poison"
+      },
+      {
+        "name": "Acid Spray",
+        "level": 20,
+        "type": "Poison"
+      },
+      {
+        "name": "Haze",
+        "level": 25,
+        "type": "Ice"
+      },
+      {
+        "name": "Venoshock",
+        "level": 29,
+        "type": "Poison"
+      },
+      {
+        "name": "Toxic Spikes",
+        "level": 33,
+        "type": "Poison"
+      },
+      {
+        "name": "Gastro Acid",
+        "level": 37,
+        "type": "Poison"
+      },
+      {
+        "name": "Last Resort",
+        "level": 41,
+        "type": "Normal"
+      },
+      {
+        "name": "Sludge Wave",
+        "level": 45,
+        "type": "Poison"
+      }
+    ],
+    "tm_moves": [
+      "01 Work Up",
+      "06 Toxic",
+      "09 Venoshock",
+      "10 Hidden Power",
+      "11 Sunny Day",
+      "15 Hyper Beam",
+      "17 Protect",
+      "18 Rain Dance",
+      "21 Frustration",
+      "27 Return",
+      "30 Shadow Ball",
+      "32 Double Team",
+      "34 Sludge Wave",
+      "36 Sludge Bomb",
+      "42 Facade",
+      "44 Rest",
+      "45 Attract",
+      "48 Round",
+      "49 Echoed Voice",
+      "66 Payback",
+      "68 Giga Impact",
+      "84 Poison Jab",
+      "87 Swagger",
+      "88 Sleep Talk",
+      "90 Substitute",
+      "100 Confide"
+    ],
+    "tutor_moves": [
+      "Aqua Tail",
+      "Body Slam",
+      "Double-Edge",
+      "Heal Bell",
+      "Gastro Acid",
+      "Gunk Shot",
+      "Helping Hand (N)",
+      "Hyper Voice",
+      "Iron Tail",
+      "Laser Focus",
+      "Last Resort",
+      "Liquidation",
+      "Mud-Slap",
+      "Snore",
+      "Swift"
+    ],
+    "egg_moves": [],
+    "mega_evolution": null
+  },
+  {
+    "name": "draconeon",
+    "stat_hp": 10,
+    "stat_atk": 7,
+    "stat_def": 11,
+    "stat_sp_atk": 7,
+    "stat_sp_def": 6,
+    "stat_spd": 13,
+    "pokemon_types": "Dragon",
+    "base_abilities": [
+      "Steadfast",
+      "Vital Spirit"
+    ],
+    "advanced_abilities": [
+      "Type Aura (Dragon)",
+      "Mold Breaker"
+    ],
+    "high_abilities": [
+      "Sheer Force"
+    ],
+    "evolutions": [
+      "Eevee",
+      "Draconeon Minimum 20"
+    ],
+    "height": "3’ 3” / 1m (Medium)",
+    "weight": "63.9 lbs / 29kg (3)",
+    "gender_ratio_m": "87.5",
+    "gender_ratio_f": "12.5",
+    "egg_group": "Field",
+    "average_hatch_rate": -1,
+    "diet": "Omnivore",
+    "habitat": "Mountain",
+    "capabilities": [
+      {
+        "name": "Overland",
+        "value": "8"
+      },
+      {
+        "name": "Swim",
+        "value": "4"
+      },
+      {
+        "name": "Sky",
+        "value": "4"
+      },
+      {
+        "name": "Jump",
+        "value": "1/2"
+      },
+      {
+        "name": "Power",
+        "value": "5"
+      },
+      {
+        "name": "Tracker",
+        "value": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athl",
+        "roll": "5d6+2"
+      },
+      {
+        "name": "Acro",
+        "roll": "4d6"
+      },
+      {
+        "name": "Combat",
+        "roll": "4d6"
+      },
+      {
+        "name": "Stealth",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Percep",
+        "roll": "3d6+2"
+      },
+      {
+        "name": "Focus",
+        "roll": "3d6+2"
+      }
+    ],
+    "moves": [
+      {
+        "name": "Dragon Rage",
+        "level": 0,
+        "type": "Dragon"
+      },
+      {
+        "name": "Sand Attack",
+        "level": 5,
+        "type": "Ground"
+      },
+      {
+        "name": "Baby-Doll Eyes",
+        "level": 9,
+        "type": "Fairy"
+      },
+      {
+        "name": "Quick Attack",
+        "level": 13,
+        "type": "Normal"
+      },
+      {
+        "name": "Dragon Tail",
+        "level": 17,
+        "type": "Dragon"
+      },
+      {
+        "name": "Dragon Breath",
+        "level": 20,
+        "type": "Dragon"
+      },
+      {
+        "name": "Dragon Claw",
+        "level": 25,
+        "type": "Dragon"
+      },
+      {
+        "name": "Dragon Dance",
+        "level": 29,
+        "type": "Dragon"
+      },
+      {
+        "name": "Dual Chop",
+        "level": 33,
+        "type": "Dragon"
+      },
+      {
+        "name": "Dragon Rush",
+        "level": 37,
+        "type": "Dragon"
+      },
+      {
+        "name": "Last Resort",
+        "level": 41,
+        "type": "Normal"
+      },
+      {
+        "name": "Outrage",
+        "level": 45,
+        "type": "Dragon"
+      }
+    ],
+    "tm_moves": [
+      "01 Work Up",
+      "02 Dragon Claw",
+      "05 Roar",
+      "06 Toxic",
+      "10 Hidden Power",
+      "11 Sunny Day",
+      "15 Hyper Beam",
+      "17 Protect",
+      "18 Rain Dance",
+      "19 Roost",
+      "21 Frustration",
+      "27 Return",
+      "30 Shadow Ball",
+      "32 Double Team",
+      "35 Flamethrower",
+      "42 Facade",
+      "44 Rest",
+      "45 Attract",
+      "48 Round",
+      "49 Echoed Voice",
+      "51 Steel Wing",
+      "68 Giga Impact",
+      "82 Dragon Tail",
+      "87 Swagger",
+      "88 Sleep Talk",
+      "90 Substitute",
+      "95 Snarl",
+      "100 Confide"
+    ],
+    "tutor_moves": [
+      "Body Slam",
+      "Double-Edge",
+      "Dragon Pulse",
+      "Dual Chop",
+      "Heal Bell",
+      "Helping Hand (N)",
+      "Hyper Voice",
+      "Iron Tail",
+      "Laser Focus",
+      "Last Resort",
+      "Mud-Slap",
+      "Outrage",
+      "Snore",
+      "Stomping Tantrum",
+      "Swift",
+      "Twister"
+    ],
+    "egg_moves": [],
+    "mega_evolution": null
+  },
+  {
+    "name": "dungeon",
+    "stat_hp": 11,
+    "stat_atk": 10,
+    "stat_def": 13,
+    "stat_sp_atk": 7,
+    "stat_sp_def": 6,
+    "stat_spd": 7,
+    "pokemon_types": "Ground",
+    "base_abilities": [
+      "Sand Veil",
+      "Sand Rush"
+    ],
+    "advanced_abilities": [
+      "Type Aura (Ground)",
+      "Arena Trap"
+    ],
+    "high_abilities": [
+      "Sand Stream"
+    ],
+    "evolutions": [
+      "Eevee",
+      "Dungeon Minimum 20"
+    ],
+    "height": "2’ 11” / 0.9m (Small)",
+    "weight": "58.4 lbs / 26.5kg (3)",
+    "gender_ratio_m": "87.5",
+    "gender_ratio_f": "12.5",
+    "egg_group": "Field",
+    "average_hatch_rate": -1,
+    "diet": "Omnivore",
+    "habitat": "Cave, Mountain",
+    "capabilities": [
+      {
+        "name": "Overland",
+        "value": "6"
+      },
+      {
+        "name": "Swim",
+        "value": "3"
+      },
+      {
+        "name": "Burrow",
+        "value": "5"
+      },
+      {
+        "name": "Jump",
+        "value": "1/2"
+      },
+      {
+        "name": "Power",
+        "value": "4"
+      },
+      {
+        "name": "Groundshaper",
+        "value": ""
+      },
+      {
+        "name": "Tracker",
+        "value": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athl",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Acro",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Combat",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Stealth",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Percep",
+        "roll": "4d6"
+      },
+      {
+        "name": "Focus",
+        "roll": "4d6"
+      }
+    ],
+    "moves": [
+      {
+        "name": "Mud Shot",
+        "level": 0,
+        "type": "Ground"
+      },
+      {
+        "name": "Sand Attack",
+        "level": 5,
+        "type": "Ground"
+      },
+      {
+        "name": "Baby-Doll Eyes",
+        "level": 9,
+        "type": "Fairy"
+      },
+      {
+        "name": "Quick Attack",
+        "level": 13,
+        "type": "Normal"
+      },
+      {
+        "name": "Bite",
+        "level": 17,
+        "type": "Dark"
+      },
+      {
+        "name": "Bulldoze",
+        "level": 20,
+        "type": "Ground"
+      },
+      {
+        "name": "Dig",
+        "level": 25,
+        "type": "Ground"
+      },
+      {
+        "name": "Spikes",
+        "level": 29,
+        "type": "Ground"
+      },
+      {
+        "name": "Sand Tomb",
+        "level": 33,
+        "type": "Ground"
+      },
+      {
+        "name": "Earthquake",
+        "level": 37,
+        "type": "Ground"
+      },
+      {
+        "name": "Last Resort",
+        "level": 41,
+        "type": "Normal"
+      },
+      {
+        "name": "Fissure",
+        "level": 45,
+        "type": "Ground"
+      }
+    ],
+    "tm_moves": [
+      "01 Work Up",
+      "06 Toxic",
+      "10 Hidden Power",
+      "11 Sunny Day",
+      "15 Hyper Beam",
+      "17 Protect",
+      "18 Rain Dance",
+      "21 Frustration",
+      "26 Earthquake",
+      "27 Return",
+      "30 Shadow Ball",
+      "32 Double Team",
+      "37 Sandstorm",
+      "39 Rock Tomb",
+      "42 Facade",
+      "44 Rest",
+      "45 Attract",
+      "48 Round",
+      "49 Echoed Voice",
+      "60 Quash",
+      "63 Embargo",
+      "68 Giga Impact",
+      "78 Bulldoze",
+      "87 Swagger",
+      "88 Sleep Talk",
+      "90 Substitute",
+      "100 Confide"
+    ],
+    "tutor_moves": [
+      "Block",
+      "Body Slam",
+      "Double-Edge",
+      "Earth Power",
+      "Heal Bell",
+      "Helping Hand (N)",
+      "Hyper Voice",
+      "Iron Tail",
+      "Knock Off",
+      "Laser Focus",
+      "Last Resort",
+      "Mud-Slap",
+      "Snore",
+      "Stomping Tantrum",
+      "Swift"
+    ],
+    "egg_moves": [],
+    "mega_evolution": null
+  },
+  {
+    "name": "illuseon",
+    "stat_hp": 6,
+    "stat_atk": 10,
+    "stat_def": 13,
+    "stat_sp_atk": 7,
+    "stat_sp_def": 7,
+    "stat_spd": 11,
+    "pokemon_types": "Ghost",
+    "base_abilities": [
+      "Cursed Body",
+      "Omen"
+    ],
+    "advanced_abilities": [
+      "Type Aura (Ghost)",
+      "Pressure"
+    ],
+    "high_abilities": [
+      "Mojo"
+    ],
+    "evolutions": [
+      "Eevee",
+      "Illuseon Minimum 20"
+    ],
+    "height": "2’ 11” / 0.9m (Small)",
+    "weight": "54 lbs / 24.5kg (2)",
+    "gender_ratio_m": "87.5",
+    "gender_ratio_f": "12.5",
+    "egg_group": "Field",
+    "average_hatch_rate": -1,
+    "diet": "Omnivore",
+    "habitat": "Forest",
+    "capabilities": [
+      {
+        "name": "Overland",
+        "value": "6"
+      },
+      {
+        "name": "Swim",
+        "value": "3"
+      },
+      {
+        "name": "Jump",
+        "value": "1/2"
+      },
+      {
+        "name": "Power",
+        "value": "4"
+      },
+      {
+        "name": "Invisibility",
+        "value": ""
+      },
+      {
+        "name": "Phasing",
+        "value": ""
+      },
+      {
+        "name": "Tracker",
+        "value": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athl",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Acro",
+        "roll": "4d6"
+      },
+      {
+        "name": "Combat",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Stealth",
+        "roll": "5d6+2"
+      },
+      {
+        "name": "Percep",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Focus",
+        "roll": "3d6+2"
+      }
+    ],
+    "moves": [
+      {
+        "name": "Shadow Sneak",
+        "level": 0,
+        "type": "Ghost"
+      },
+      {
+        "name": "Sand Attack",
+        "level": 5,
+        "type": "Ground"
+      },
+      {
+        "name": "Baby-Doll Eyes",
+        "level": 9,
+        "type": "Fairy"
+      },
+      {
+        "name": "Quick Attack",
+        "level": 13,
+        "type": "Normal"
+      },
+      {
+        "name": "Bite",
+        "level": 17,
+        "type": "Dark"
+      },
+      {
+        "name": "Shadow Claw",
+        "level": 20,
+        "type": "Ghost"
+      },
+      {
+        "name": "Hypnosis",
+        "level": 25,
+        "type": "Psychic"
+      },
+      {
+        "name": "Destiny Bond",
+        "level": 29,
+        "type": "Ghost"
+      },
+      {
+        "name": "Will-O-Wisp",
+        "level": 33,
+        "type": "Fire"
+      },
+      {
+        "name": "Nightmare",
+        "level": 37,
+        "type": "Ghost"
+      },
+      {
+        "name": "Last Resort",
+        "level": 41,
+        "type": "Normal"
+      },
+      {
+        "name": "Perish Song",
+        "level": 45,
+        "type": "Normal"
+      }
+    ],
+    "tm_moves": [
+      "01 Work Up",
+      "06 Toxic",
+      "10 Hidden Power",
+      "11 Sunny Day",
+      "15 Hyper Beam",
+      "17 Protect",
+      "18 Rain Dance",
+      "21 Frustration",
+      "27 Return",
+      "30 Shadow Ball",
+      "32 Double Team",
+      "41 Torment",
+      "42 Facade",
+      "44 Rest",
+      "45 Attract",
+      "48 Round",
+      "49 Echoed Voice",
+      "60 Quash",
+      "61 Will-O-Wisp",
+      "63 Embargo",
+      "65 Shadow Claw",
+      "66 Payback",
+      "68 Giga Impact",
+      "87 Swagger",
+      "88 Sleep Talk",
+      "90 Substitute",
+      "97 Dark Pulse",
+      "100 Confide"
+    ],
+    "tutor_moves": [
+      "Body Slam",
+      "Double-Edge",
+      "Foul Play",
+      "Heal Bell",
+      "Helping Hand (N)",
+      "Hyper Voice",
+      "Iron Tail",
+      "Laser Focus",
+      "Last Resort",
+      "Mud-Slap",
+      "Ominous Wind",
+      "Pain Split",
+      "Snore",
+      "Spite",
+      "Swift",
+      "Telekinesis",
+      "Trick"
+    ],
+    "egg_moves": [],
+    "mega_evolution": null
+  },
+  {
+    "name": "obsideon",
+    "stat_hp": 7,
+    "stat_atk": 10,
+    "stat_def": 11,
+    "stat_sp_atk": 7,
+    "stat_sp_def": 13,
+    "stat_spd": 6,
+    "pokemon_types": "Rock",
+    "base_abilities": [
+      "Battle Armor",
+      "Sturdy"
+    ],
+    "advanced_abilities": [
+      "Type Aura (Rock)",
+      "Rock Head"
+    ],
+    "high_abilities": [
+      "Rough Skin"
+    ],
+    "evolutions": [
+      "Eevee",
+      "Obsideon Minimum 20"
+    ],
+    "height": "2’ 7” / 0.8m (Small)",
+    "weight": "59.3 lbs / 27kg (3)",
+    "gender_ratio_m": "87.5",
+    "gender_ratio_f": "12.5",
+    "egg_group": "Field",
+    "average_hatch_rate": -1,
+    "diet": "Omnivore",
+    "habitat": "Cave, Mountain",
+    "capabilities": [
+      {
+        "name": "Overland",
+        "value": "6"
+      },
+      {
+        "name": "Swim",
+        "value": "3"
+      },
+      {
+        "name": "Jump",
+        "value": "1/1"
+      },
+      {
+        "name": "Power",
+        "value": "5"
+      },
+      {
+        "name": "Materializer",
+        "value": ""
+      },
+      {
+        "name": "Tracker",
+        "value": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athl",
+        "roll": "5d6+2"
+      },
+      {
+        "name": "Acro",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Combat",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Stealth",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Percep",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Focus",
+        "roll": "4d6"
+      }
+    ],
+    "moves": [
+      {
+        "name": "Rock Throw",
+        "level": 0,
+        "type": "Rock"
+      },
+      {
+        "name": "Sand Attack",
+        "level": 5,
+        "type": "Ground"
+      },
+      {
+        "name": "Baby-Doll Eyes",
+        "level": 9,
+        "type": "Fairy"
+      },
+      {
+        "name": "Quick Attack",
+        "level": 13,
+        "type": "Normal"
+      },
+      {
+        "name": "Defense Curl",
+        "level": 17,
+        "type": "Normal"
+      },
+      {
+        "name": "Rollout",
+        "level": 20,
+        "type": "Ghost"
+      },
+      {
+        "name": "Smack Down",
+        "level": 25,
+        "type": "Rock"
+      },
+      {
+        "name": "Stealth Rock",
+        "level": 29,
+        "type": "Rock"
+      },
+      {
+        "name": "Rock Slide",
+        "level": 33,
+        "type": "Rock"
+      },
+      {
+        "name": "Wide Guard",
+        "level": 37,
+        "type": "Rock"
+      },
+      {
+        "name": "Last Resort",
+        "level": 41,
+        "type": "Normal"
+      },
+      {
+        "name": "Head Smash",
+        "level": 45,
+        "type": "Rock"
+      }
+    ],
+    "tm_moves": [
+      "01 Work Up",
+      "06 Toxic",
+      "10 Hidden Power",
+      "11 Sunny Day",
+      "15 Hyper Beam",
+      "17 Protect",
+      "18 Rain Dance",
+      "21 Frustration",
+      "23 Smack Down",
+      "27 Return",
+      "30 Shadow Ball",
+      "32 Double Team",
+      "37 Sandstorm",
+      "39 Rock Tomb",
+      "42 Facade",
+      "44 Rest",
+      "45 Attract",
+      "48 Round",
+      "49 Echoed Voice",
+      "68 Giga Impact",
+      "69 Rock Polish",
+      "71 Stone Edge",
+      "80 Rock Slide",
+      "87 Swagger",
+      "88 Sleep Talk",
+      "90 Substitute",
+      "100 Confide"
+    ],
+    "tutor_moves": [
+      "Ancient Power",
+      "Body Slam",
+      "Defense Curl",
+      "Double- Edge",
+      "Heal Bell",
+      "Helping Hand (N)",
+      "Hyper Voice",
+      "Iron Defense",
+      "Iron Tail",
+      "Laser Focus",
+      "Last Resort",
+      "Mud- Slap",
+      "Rock Climb",
+      "Rollout",
+      "Snore",
+      "Stealth Rock",
+      "Swift"
+    ],
+    "egg_moves": [],
+    "mega_evolution": null
+  },
+  {
+    "name": "scorpeon",
+    "stat_hp": 11,
+    "stat_atk": 6,
+    "stat_def": 10,
+    "stat_sp_atk": 7,
+    "stat_sp_def": 13,
+    "stat_spd": 7,
+    "pokemon_types": "Bug",
+    "base_abilities": [
+      "Sniper",
+      "Technician"
+    ],
+    "advanced_abilities": [
+      "Type Aura (Bug)",
+      "Unnerve"
+    ],
+    "high_abilities": [
+      "Pack Hunt"
+    ],
+    "evolutions": [
+      "Eevee",
+      "Scorpeon Minimum 20"
+    ],
+    "height": "2’ 11” / 0.9m (Small)",
+    "weight": "54 lbs / 24.5kg (3)",
+    "gender_ratio_m": "87.5",
+    "gender_ratio_f": "12.5",
+    "egg_group": "Field",
+    "average_hatch_rate": -1,
+    "diet": "Omnivore",
+    "habitat": "Forest",
+    "capabilities": [
+      {
+        "name": "Overland",
+        "value": "6"
+      },
+      {
+        "name": "Swim",
+        "value": "3"
+      },
+      {
+        "name": "Burrow",
+        "value": "2"
+      },
+      {
+        "name": "Jump",
+        "value": "1/1"
+      },
+      {
+        "name": "Power",
+        "value": "4"
+      },
+      {
+        "name": "Threaded",
+        "value": ""
+      },
+      {
+        "name": "Tracker",
+        "value": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Athl",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Acro",
+        "roll": "4d6"
+      },
+      {
+        "name": "Combat",
+        "roll": "3d6+1"
+      },
+      {
+        "name": "Stealth",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Percep",
+        "roll": "4d6+2"
+      },
+      {
+        "name": "Focus",
+        "roll": "4d6"
+      }
+    ],
+    "moves": [
+      {
+        "name": "Twineedle",
+        "level": 0,
+        "type": "Bug"
+      },
+      {
+        "name": "Sand Attack",
+        "level": 5,
+        "type": "Ground"
+      },
+      {
+        "name": "Baby-Doll Eyes",
+        "level": 9,
+        "type": "Fairy"
+      },
+      {
+        "name": "Quick Attack",
+        "level": 13,
+        "type": "Normal"
+      },
+      {
+        "name": "Bug Bite",
+        "level": 17,
+        "type": "Bug"
+      },
+      {
+        "name": "Pin Missile",
+        "level": 20,
+        "type": "Bug"
+      },
+      {
+        "name": "Steamroller",
+        "level": 25,
+        "type": "Bug"
+      },
+      {
+        "name": "U-Turn",
+        "level": 29,
+        "type": "Bug"
+      },
+      {
+        "name": "Spider Web",
+        "level": 33,
+        "type": "Bug"
+      },
+      {
+        "name": "Heal Order",
+        "level": 37,
+        "type": "Bug"
+      },
+      {
+        "name": "Last Resort",
+        "level": 41,
+        "type": "Normal"
+      },
+      {
+        "name": "Attack Order",
+        "level": 45,
+        "type": "Bug"
+      }
+    ],
+    "tm_moves": [
+      "01 Work Up",
+      "06 Toxic",
+      "10 Hidden Power",
+      "11 Sunny Day",
+      "15 Hyper Beam",
+      "17 Protect",
+      "18 Rain Dance",
+      "21 Frustration",
+      "27 Return",
+      "28 Leech Life",
+      "30 Shadow Ball",
+      "32 Double Team",
+      "42 Facade",
+      "44 Rest",
+      "45 Attract",
+      "48 Round",
+      "49 Echoed Voice",
+      "68 Giga Impact",
+      "75 Swords Dance",
+      "81 X-Scissor",
+      "83 Infestation",
+      "84 Poison Jab",
+      "86 Grass Knot",
+      "87 Swagger",
+      "88 Sleep Talk",
+      "89 U-Turn",
+      "90 Substitute",
+      "100 Confide"
+    ],
+    "tutor_moves": [
+      "Body Slam",
+      "Bug Bite",
+      "Double-Edge",
+      "Electroweb",
+      "Fury Cutter",
+      "Heal Bell",
+      "Helping Hand (N)",
+      "Hyper Voice",
+      "Iron Tail",
+      "Laser Focus",
+      "Last Resort",
+      "Mud-Slap",
+      "Snore",
+      "String Shot",
+      "Swift"
+    ],
+    "egg_moves": [],
+    "mega_evolution": null
+  }
+]
