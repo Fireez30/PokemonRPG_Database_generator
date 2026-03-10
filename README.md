@@ -14,6 +14,7 @@ source my_env/bin/activate
 pip install pymupdf
 pip install requests
 pip install reportlab
+pip install pypdf
 ```
 
 Windows : 
@@ -26,6 +27,9 @@ Than you can install
 python -m venv my_env 
 cd my_env/Scripts ; .\activate ; cd ../..
 pip install pymupdf
+pip install requests
+pip install reportlab
+pip install pypdf
 ```
 
 

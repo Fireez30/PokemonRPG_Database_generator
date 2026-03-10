@@ -31,7 +31,7 @@ with open("data/reduxData.json", "r") as f:
 
 with open("data/abilities.json","r") as f:
     abilities = json.load(f)
-explore_json(data)
+#explore_json(data)
 #print("abilities before : "+str(len(abilities)))
 
 redux_abilities = []
@@ -43,6 +43,9 @@ for rability in redux_abilities:
     already_exist = list(filter(lambda x:x["name"].lower() == rability["name"].lower(), abilities))
     if len(already_exist) == 0:
         abilities.append(rability)
+    else:
+        found_move = already_exist[0]
+        found_move["id"] = rability["id"]
 
 final_abilities = sorted(abilities, key = lambda x: x["name"])
 
@@ -53,7 +56,6 @@ for rmove in data["moves"]:
     if rmove["name"] != "-":
         already_exist = list(filter(lambda x: x["move"].lower() == rmove["name"].lower(), moves))
         if len(already_exist) == 0:
-            print(rmove)
             #   < ---- Type ---- >
             types = []
             if len(rmove["types"]) == 1:
@@ -86,6 +88,9 @@ for rmove in data["moves"]:
                            "classe":classe,"range":range,"effect":effect,"blessing":blessing,"special_effect":special_effect,
                            "contest_type":contest_type,"contest_effect":contest_effect,"extra_lines":[],"id":rmove["id"]}
             moves.append(move_to_add)
+        else:
+            found_move = already_exist[0]
+            found_move["id"] = rmove["id"]
 
 final_moves = sorted(moves, key = lambda x: x["move"])
 
@@ -110,30 +115,32 @@ for mon in data["species"]:
                 types = data["typeT"][mon["stats"]["types"][0]]
         elif len(mon["stats"]["types"]) > 1:
             for typem in mon["stats"]["types"]:
-                types.append(data["typeT"][typem])
+                if not data["typeT"][typem] in types:
+                    types.append(data["typeT"][typem])
         #   < ---- Abilities ---- >
         base_abilities = []
         adv_abilities = []
         high_abilities = []
-        if "inns" in mon.keys():
-            inns_ids = mon["inns"]
+        if "inns" in mon["stats"].keys():
+            inns_ids = mon["stats"]["inns"]
+            print(inns_ids)
             for id_i in inns_ids:
-                exist = list(filter(lambda x: x["id"] == int(id_i), abilities))
+                exist = list(filter(lambda x:"id" in x.keys() and x["id"] == int(id_i), final_abilities))
                 if len(exist) > 0:
                     if len(base_abilities) < 2:
                         base_abilities.append(exist[0]["name"])
-                    elif len(adv_abilities) < 2:
+                    elif len(adv_abilities) < 3:
                         adv_abilities.append(exist[0]["name"])
                     else:
                         high_abilities.append(exist[0]["name"])
-        if "abis" in mon.keys():
-            inns_ids = mon["abis"]
+        if "abis" in mon["stats"].keys():
+            inns_ids = mon["stats"]["abis"]
             for id_i in inns_ids:
-                exist = list(filter(lambda x: x["id"] == int(id_i), abilities))
+                exist = list(filter(lambda x:"id" in x.keys() and x["id"] == int(id_i), final_abilities))
                 if len(exist) > 0:
                     if len(base_abilities) < 2:
                         base_abilities.append(exist[0]["name"])
-                    elif len(adv_abilities) < 2:
+                    elif len(adv_abilities) < 3:
                         adv_abilities.append(exist[0]["name"])
                     else:
                         high_abilities.append(exist[0]["name"])
@@ -174,8 +181,11 @@ for mon in data["species"]:
         capabilities = []
         skills = []
         #   < ---- extracted from normal ---- >
-        matching_poke_name = pokemon_name.strip().lower().replace("redux_","").replace("redux","").strip()
+        matching_poke_name = pokemon_name.strip().lower().replace("redux_", "").replace("redux", "").replace("alola_", "").replace("alola", "").replace("hisuian_", "").replace("hisuian", "").replace("therian_", "").replace("therian", "").strip()
         found_matchings = list(filter(lambda x: x["name"] == matching_poke_name, pokemons))
+        if len(found_matchings) == 0:
+            matching_poke_name = pokemon_name.strip().lower().replace("redux_", "").replace("redux", "").replace("alola_", "").replace("alola", "").replace("hisuian_", "").replace("hisuian", "").replace("therian_", "").replace("therian", "").strip().split(" ")[0]
+            found_matchings = list(filter(lambda x: x["name"] == matching_poke_name, pokemons))
         if len(found_matchings) > 0:
             pokeobj = found_matchings[0]
             height = pokeobj["height"]
@@ -193,31 +203,30 @@ for mon in data["species"]:
         for move_oj in mon["levelUpMoves"]:
             move_id = move_oj["id"]
             move_level = move_oj["lv"]
-            move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == move_id, moves))
+            move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == move_id, final_moves))
             if len(move_exist) > 0:
                 pokemoves.append({"name":move_exist[0]["move"],"level":move_level,"type":move_exist[0]["type"]})
         #   < ---- TM Moves ---- >
         tm_moves = []
         if len(mon["TMHMMoves"]) > 0:
             for id_tm in mon["TMHMMoves"]:
-                move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, moves))
+                move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, final_moves))
                 if len(move_exist) > 0:
-                    tm_moves.append((str(id_tm) if id_tm > 10 else "0"+str(id_tm))+" "+str(move_exist[0]["move"].capitalize()))
+                    tm_moves.append(str(move_exist[0]["move"].capitalize()))
         #   < ---- Tutor Moves ---- >
         tutor = []
         if len(mon["tutor"]) > 0:
             for id_tm in mon["tutor"]:
-                move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, moves))
+                move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, final_moves))
                 if len(move_exist) > 0:
-                    tutor.append((str(id_tm) if id_tm > 10 else "0"+str(id_tm))+" "+str(move_exist[0]["move"].capitalize()))
+                    tutor.append(str(move_exist[0]["move"].capitalize()))
         #   < ---- Tutor Moves ---- >
         egg_moves = []
         if len(mon["eggMoves"]) > 0:
             for id_tm in mon["eggMoves"]:
-                move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, moves))
+                move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, final_moves))
                 if len(move_exist) > 0:
-                    egg_moves.append((str(id_tm) if id_tm > 10 else "0" + str(id_tm)) + " " + str(
-                        move_exist[0]["move"].capitalize()))
+                    egg_moves.append(str(move_exist[0]["move"].capitalize()))
         pokemon_to_add = {
             "name": pokemon_name,
             "stat_hp": stat_hp,
@@ -249,9 +258,14 @@ for mon in data["species"]:
         }
         redux_mons.append(pokemon_to_add)
 for rmon in redux_mons:
-    already_exist = list(filter(lambda x:x["name"].lower() == rmon["name"].lower(), pokemons))
-    if len(already_exist) == 0:
-        pokemons.append(rmon)
+    mon_name = rmon["name"]
+    mon_name = mon_name.replace("Galarian","Galar")
+    mon_name = mon_name.replace("Alolan","Alola")
+    mon_name = mon_name.replace("Corvisquir","Corvisquire")
+    if not mon_name.lower().startswith("nidoran") and not mon_name.lower().startswith("zygarde") and not mon_name.lower().startswith("sirfetch") and not mon_name.lower().startswith("farfetch") and not mon_name.lower().startswith("tauros paldean combat breed") and not mon_name.lower().startswith("arceus"):
+        already_exist = list(filter(lambda x:x["name"].lower() == mon_name.lower(), pokemons))
+        if len(already_exist) == 0:
+            pokemons.append(rmon)
 
 final_pokemons = sorted(pokemons, key = lambda x: x["name"])
 
