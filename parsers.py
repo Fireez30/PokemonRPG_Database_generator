@@ -59,7 +59,52 @@ def first_line_is_bold(block):
     # - all spans bold
     # - or majority bold
     return bold_spans >= len(spans) / 2
+def extract_one_column_imgs(pdf_path,page_to_read=None):
+    global stop_read
+    doc = fitz.open(pdf_path)
+    sections = []
+    current_section = []
+    index = 0
+    for page in doc:
+        if page_to_read is None or index in page_to_read:
+            images = []
 
+            for img in page.get_images():
+                xref = img[0]
+
+                rects = page.get_image_rects(xref)
+
+                for rect in rects:
+                    images.append({
+                        "xref": xref,
+                        "rect": rect
+                    })
+
+            # sort top → bottom
+            images.sort(key=lambda i: i["rect"].y0)
+
+            for i in range(0,len(images)):
+                xref = images[i]["xref"]
+
+                base = doc.extract_image(xref)
+
+                width = base["width"]
+                height = base["height"]
+                if (width == 294 and height == 287) or (width == 420 and height == 288) or (width == 615 and height == 153) or (width == 634 and height == 74):
+                    continue
+                image_bytes = base["image"]
+                ext = base["ext"]
+                sections.append({
+                    "type": "image",
+                    "image":image_bytes,
+                    "ext": base["ext"]
+                })
+                filename = f"images_test/page_{str(index)}_img_{str(i)}.{base["ext"]}"
+                print(str(xref) + " => "+filename)
+                with open(filename, "wb") as f:
+                    f.write(image_bytes)
+        index += 1
+    return sections
 def extract_one_column_text(pdf_path,page_to_read=None):
     global stop_read
     doc = fitz.open(pdf_path)
@@ -1005,7 +1050,11 @@ def parse_extracted_text_gen8(input_pdf,index,db_pokemon_names):
 
 
 def parse_mega_evolutions(input_pdf,range_to_read):
+    import string
     text = extract_one_column_text(input_pdf,range_to_read)
+    imgs = extract_one_column_imgs(input_pdf,range_to_read)
+    print(len(imgs))
+    img_index = 0
     mega_evols = {}
     final_text = ""
     for textline in text:
@@ -1019,18 +1068,25 @@ def parse_mega_evolutions(input_pdf,range_to_read):
     previous_line = ""
     for line in lines:
         stripped_line = line.strip()
+        print(stripped_line)
         if stripped_line != "Kanto Mega Pokemon":
-            if stripped_line.startswith("Mega")  and stripped_line != "Mega Ability":
+            if stripped_line.startswith("Mega")  and stripped_line != "Mega Ability" and len(stripped_line.strip().split(" ")) == 2:
                 if previous_line == "":
                     current_poke_name = stripped_line.replace("Mega","").lower().strip()
                 else:
                     print("todo")
                     mega_evo = {
                         "type":current_type,
-                        "ability":current_ability,
-                        "stats":current_stats
+                        "ability":current_ability.rstrip(string.digits),
+                        "stats":current_stats,
+                        "img_path": f"images/megadex_{current_poke_name.lower()}.{imgs[img_index]["ext"]}"
                     }
                     mega_evols[current_poke_name] = mega_evo
+                    if imgs[img_index] is not None:
+                        filename = f"images/megadex_{current_poke_name.lower()}.{imgs[img_index]["ext"]}"
+                        with open(filename, "wb") as f:
+                            f.write(imgs[img_index]["image"])
+                        img_index += 1
                     current_poke_name = ""
                     current_stats = ""
                     current_ability = ""
