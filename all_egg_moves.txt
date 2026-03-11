@@ -1,0 +1,541 @@
+Amnesia:Psychic
+Charm:Fairy
+Curse:Ghost
+Endure:Normal
+Giga Drain:Grass
+Grass Whistle:Grass
+Grassy Terrain:Grass
+Ingrain:Grass
+Leaf Storm:Grass
+Light Screen:Psychic
+Magical Leaf:Grass
+Nature Power:Normal
+Petal Dance:Grass
+Power Whip:Grass
+Safeguard:Normal
+Skull Bash:Normal
+Sludge:Poison
+Solar Therapy:Light
+Ancient Power:Rock
+Aromatherapy:Grass
+Body Slam:Normal
+Counter:Fighting
+Flail:Normal
+Heal Pulse:Psychic
+Leech Seed:Grass
+Refresh:Normal
+Vine Whip:Grass
+Wring Out:Normal
+Synthesis:Grass
+Overgrowth:Grass
+Bullet Seed:Grass
+Crunch:Dark
+Crush Claw:Normal
+Double Kick:Fighting
+Dragon Breath:Dragon
+Endeavor:Normal
+Mud Sport:Ground
+Natural Gift:Normal
+Razor Wind:Normal
+Worry Seed:Grass
+Grassy Glide:Grass
+Double-Edge:Normal
+Earth Power:Ground
+Growth:Normal
+Heavy Slam:Steel
+Sand Tomb:Ground
+Seed Bomb:Grass
+Spit Up:Normal
+Stockpile:Normal
+Superpower:Fighting
+Swallow:Normal
+Thrash:Normal
+Tickle:Normal
+Wide Guard:Rock
+Captivate:Normal
+Glare:Normal
+Mean Look:Normal
+Mirror Coat:Psychic
+Pursuit:Dark
+Sweet Scent:Normal
+Twister:Dragon
+Crush:Fairy
+Belly Drum:Normal
+Defense Curl:Normal
+Quick Guard:Fighting
+Power-Up Punch:Fighting
+Rollout:Rock
+Spikes:Ground
+Steamroller:Bug
+Steel Roller:Steel
+Baton Pass:Normal
+Confuse Ray:Ghost
+Defog:Flying
+Haze:Ice
+Ominous Wind:Ghost
+Dual Wingbeat:Flying
+Air Cutter:Flying
+Beat Up:Dark
+Bite:Dark
+Dragon Dance:Dragon
+Dragon Pulse:Dragon
+Dragon Rush:Dragon
+Flare Blitz:Fire
+Focus Punch:Fighting
+Metal Claw:Steel
+Outrage:Dragon
+Rock Slide:Rock
+Swords Dance:Normal
+Bright Punch:Light
+Draco Jet:Dragon
+Covet:Fairy
+Extrasensory:Psychic
+Flame Burst:Fire
+Foresight:Normal
+Fury Swipes:Normal
+Howl:Normal
+Quick Attack:Normal
+Reversal:Fighting
+Sparkling Flare:Light
+Agility:Psychic
+Feather Dance:Flying
+Feint:Normal
+Last Resort:Normal
+Low Kick:Fighting
+Night Slash:Dark
+Smelling Salts:Normal
+Swagger:Normal
+Assist:Normal
+Blaze Kick:Fire
+Encore:Normal
+Fake Out:Normal
+Fire Punch:Fire
+Focus Energy:Normal
+Heat Wave:Fire
+Helping Hand:Normal
+Submission:Fighting
+Thunder Punch:Electric
+Swift:Normal
+White Punch:Light
+Heaven Force:Light
+Burn Up:Fire
+Magnitude:Ground
+Sleep Talk:Normal
+Sucker Punch:Dark
+Yawn:Normal
+Hypnosis:Psychic
+Magic Coat:Psychic
+Psychic Terrain:Psychic
+Wish:Normal
+Fired Up:Fire
+Nasty Plot:Dark
+Power Trip:Dark
+Revenge:Fighting
+Parting Shot:Dark
+Aqua Jet:Water
+Aqua Ring:Water
+Aura Sphere:Fighting
+Brine:Water
+Mist:Ice
+Muddy Water:Water
+Water Spout:Water
+Wash Away:Water
+Chilling Water:Water
+Block:Normal
+Dragon Claw:Dragon
+Fake Tears:Dark
+Flatter:Dark
+Hydro Pump:Water
+Water Pulse:Water
+Water Sport:Water
+Lovely Bite:Fairy
+Avalanche:Ice
+Barrier:Psychic
+Mud Bomb:Ground
+Stomp:Normal
+Uproar:Normal
+Whirlpool:Water
+Bide:Normal
+Double Hit:Normal
+Mud-Slap:Ground
+Snore:Normal
+Supersonic:Normal
+Hurricane:Flying
+Gale Force:Flying
+Air Slash:Flying
+Assurance:Dark
+Copycat:Normal
+Detect:Fighting
+Sacred Sword:Fighting
+Screech:Normal
+Trump Card:Normal
+Aqua Cutter:Water
+Bestow:Normal
+Camouflage:Normal
+Mind Reader:Normal
+Toxic Spikes:Poison
+Mud Slide:Rock
+Aromatic Mist:Fairy
+Perish Song:Normal
+Wonder Room:Psychic
+Triple Axel:Ice
+Triple Dive:Water
+Me First:Normal
+Silver Wind:Bug
+Silk Trap:Bug
+Pin Missile:Bug
+Rock Climb:Rock
+Take Down:Normal
+Twineedle:Bug
+Poison Fang:Poison
+Corrode:Poison
+Sediment Smack:Rock
+Poison Powder:Poison
+Rage Powder:Bug
+Stun Spore:Grass
+Electroweb:Electric
+Harden:Normal
+Dash Attack:Light
+Fury Cutter:Bug
+Leech Life:Bug
+Scale Shot:Dragon
+Vise Grip:Bug
+Boulder Bash:
+Charge:Electric
+Disarming Voice:Fairy
+Double Slap:Normal
+Electric Terrain:Electric
+Lucky Chant:Normal
+Present:Normal
+Volt Tackle:Electric
+Cross Chop:Fighting
+Dynamic Punch:Fighting
+Hammer Arm:Fighting
+Karate Chop:Fighting
+Meditate:Psychic
+Rolling Kick:Fighting
+After You:Normal
+Odor Sleuth:Normal
+Reflect:Psychic
+Sand Attack:Ground
+Shining Ray:Light
+Gleam:Light
+Fair Play:Fairy
+Fire Fang:Fire
+Shock Wave:Electric
+Signal Beam:Bug
+Thunder Fang:Electric
+Metronome:Normal
+Mimic:Normal
+Misty Terrain:Fairy
+Splash:Normal
+Stored Power:Psychic
+Alluring Voice:Fairy
+Heal Charge:Light
+Star Daze:Light
+Shimmer:Light
+Future Sight:Psychic
+Mirror Move:Flying
+Morning Sun:Normal
+Peck:Flying
+Psych Up:Normal
+Psycho Shift:Psychic
+Secret Power:Normal
+Tearful Look:Normal
+Bullet Punch:Steel
+Close Combat:Fighting
+Knock Off:Dark
+Power Trick:Psychic
+Comet Punch:Normal
+Drain Punch:Fighting
+Force Palm:Fighting
+Mach Punch:Fighting
+Belch:Poison
+Mega Punch:Normal
+Power Swap:Psychic
+Snatch:Dark
+Tailwind:Flying
+Astonish:Ghost
+Clear Smog:Poison
+Disable:Normal
+Explosion:Normal
+Grudge:Ghost
+Psywave:Psychic
+Reflect Type:Normal
+Scary Face:Normal
+Smog:Poison
+Will-O-Wisp:Fire
+Dark Pulse:Dark
+Destiny Bond:Ghost
+Feint Attack:Dark
+Memento:Dark
+Pain Split:Normal
+Skill Swap:Psychic
+Poltergeist:Ghost
+Acid:Poison
+Acid Armor:Poison
+Power Split:Psychic
+Crimson Glow:Light
+Razor Leaf:Grass
+Strength Sap:Grass
+Teeter Dance:Normal
+Pestilence:Poison
+Acid Spray:Poison
+Weather Ball:Normal
+Confusion:Psychic
+Cotton Guard:Grass
+False Swipe:Normal
+Foul Play:Dark
+Cotton Spore:Grass
+Sleep Powder:Grass
+Acupressure:Normal
+Play Rough:Fairy
+Guard Split:Psychic
+Metal Burst:Steel
+Rototiller:Ground
+Seismic Fist:Ground
+High Jump Kick:Fighting
+Rapid Spin:Normal
+Vacuum Wave:Fighting
+Chip Away:Normal
+Second Wind:Fighting
+Guard Swap:Psychic
+Ice Punch:Ice
+Psycho Cut:Psychic
+Astral Assault:Psychic
+Circle Throw:Fighting
+Iron Defense:Steel
+Meteor Mash:Steel
+Sky Uppercut:Fighting
+Follow Me:Normal
+Psy Kick:Psychic
+Mind Step:Psychic
+Ally Switch:Psychic
+Vital Throw:Fighting
+Quash:Dark
+Storm Throw:Fighting
+Spite:Ghost
+Tail Slap:Normal
+Fire Spin:Fire
+Iron Tail:Steel
+Jagged Fangs:Rock
+Iron Fangs:Steel
+Shadow Fangs:Ghost
+High Horsepower:Ground
+Horn Drill:Normal
+Inferno:Fire
+Smokescreen:Normal
+Bug Bite:Bug
+Gust:Flying
+Mud Shot:Ground
+First Impression:Bug
+Fissure:Ground
+Freeze-Dry:Ice
+Icicle Crash:Ice
+Icicle Spear:Ice
+Stealth Rock:Rock
+Autotomize:Steel
+Ice Shard:Ice
+Imprison:Psychic
+Magnet Rise:Electric
+Powder Snow:Ice
+Aurora Veil:Ice
+Brave Bird:Flying
+Steel Wing:Steel
+Gravity:Psychic
+Punishment:Dark
+Misty Explosion:Fairy
+Heal Bell:Normal
+Seismic Toss:Fighting
+Soothing Light:Light
+Slash:Normal
+Whirlwind:Normal
+Fury Attack:Normal
+V Formation:Flying
+Ice Fang:Ice
+Lick:Ghost
+Psychic Fangs:Psychic
+Fey Wild:Fairy
+Boomburst:Normal
+Poison Tail:Poison
+Venom Drench:Poison
+Head Smash:Rock
+Zen Headbutt:Psychic
+Shadow Sneak:Ghost
+Synchronoise:Psychic
+Force Field:Light
+Miracle Eye:Psychic
+Night Shade:Ghost
+Trick:Psychic
+Lock-On:Normal
+Rock Tomb:Rock
+Metal Sound:Steel
+Enchanted Blade:Fairy
+New Moon:Dark
+Ice Ball:Ice
+Bubble Beam:Water
+Aurora Beam:Ice
+Dragon Rage:Dragon
+Octazooka:Water
+Sing:Normal
+Slam:Normal
+Soak:Water
+Water Gun:Water
+Cross Poison:Poison
+Fell Stinger:Bug
+Psybeam:Psychic
+Bug Buzz:Bug
+Dizzy Punch:Normal
+Lunge:Bug
+Megahorn:Bug
+Sonic Boom:Normal
+Final Gambit:Fighting
+Drill Run:Ground
+Horn Attack:Normal
+Poison Sting:Poison
+Moonblast:Fairy
+Powder:Bug
+Speed Swap:Psychic
+Sticky Web:Bug
+Drill Peck:Flying
+Sky Attack:Flying
+Roost:Flying
+Wing Attack:Flying
+Throat Chop:Dark
+Rage:Normal
+Leer:Normal
+Pay Day:Normal
+Etheral Claw:Light
+Headbutt:Normal
+Iron Maiden:Steel
+Simple Beam:Normal
+Sparkling Spin:Fairy
+Eerie Impulse:Electric
+Electro Ball:Electric
+Switcheroo:Dark
+Rainbow Beam:Light
+Devotion Dance:Fairy
+Iron Head:Steel
+Slack Off:Normal
+Role Play:Psychic
+Flame Wheel:Fire
+Entrainment:Normal
+Gunk Shot:Poison
+Phantom Force:Ghost
+Beckon:Ghost
+Crafty Shield:Fairy
+Heal Block:Psychic
+Nightmare:Ghost
+Dazzle:Light
+Moonlight:Fairy
+Wake-Up Slap:Fighting
+Flower Shield:Fairy
+Healing Wish:Psychic
+Spiky Shield:Grass
+Gastro Acid:Poison
+Infected Injection:Poison
+Butterfly Knife:Fairy
+Hone Claws:Dark
+Body Press:Fighting
+Draining Kiss:Fairy
+Hex:Ghost
+Sugar Rush:Fairy
+Recover:Normal
+Tri Attack:Normal
+Tail Whip:Normal
+Laser Beam:Light
+Self-Destruct:Normal
+Baby-Doll Eyes:Fairy
+Tidy Up:Normal
+Bounce:Flying
+Extreme Speed:Normal
+Cosmic Power:Psychic
+Hyper Voice:Normal
+Photon Beam:Light
+Sweet Kiss:Fairy
+Upper Hand:Fighting
+Aqua Tail:Water
+Flash Step:Light
+Mega Kick:Normal
+Stomping Tantrum:Ground
+Shadow Punch:Ghost
+Rock Blast:Rock
+Icy Wind:Ice
+Magic Room:Psychic
+Dazzling Gleam:Fairy
+Angel Ring:Light
+Teleport:Psychic
+Laser Vision:Light
+Bubble:Water
+Lightray Pulse:Light
+Ice Hammer:Ice
+Photonic Bite:Light
+Spark:Electric
+Light Pulse:Light
+Constrict:Normal
+Crabhammer:Water
+Flip Turn:Water
+Volt Switch:Electric
+Ion Deluge:Electric
+Eruption:Fire
+Wrap:Normal
+Melting Boulder:
+Flash:Light
+Wood Hammer:Grass
+Dragon Hammer:Dragon
+Leaf Blade:Grass
+Ice Spinner:Ice
+Heart Stamp:Psychic
+Spotlight:Normal
+Shadow Ball:Ghost
+Thief:Dark
+Liquidation:Water
+Aqua Fang:Water
+Quicksilver:Steel
+Dig:Ground
+Mega Drain:Grass
+Rock Throw:Rock
+Discharge:Electric
+Dragon Cheer:Dragon
+Strength:Rock
+Super Fang:Normal
+Rock Smash:Fighting
+Infestation:Bug
+Torment:Dark
+Taunt:Dark
+Dragon Tail:Dragon
+Flame Charge:Fire
+Outburst:Normal
+Smite:Light
+Flame Slam:Fire
+Recycle:Normal
+Aerial Ace:Flying
+Struggle Bug:Bug
+Nuzzle:Electric
+Scald:Water
+Fairy Wind:Fairy
+Vertigo:Psychic
+Incinerate:Fire
+Bind:Normal
+Strobe:Light
+Protect:Normal
+Snarl:Dark
+Rain Dance:Water
+Snowscape:Ice
+Rest:Psychic
+Substitute:Normal
+Calm Mind:Psychic
+Giga Impact:Normal
+Hyper Beam:Normal
+Skitter Smack:Bug
+Petal Blizzard:Grass
+Stuff Cheeks:Normal
+Shining Fangs:Light
+Parabolic Charge:Electric
+Toxic:Poison
+Coil:Poison
+Light Tail:Light
+Talon Shred:Flying
+Double Team:Normal
+Power Gem:Rock
+Retaliate:Normal

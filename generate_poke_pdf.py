@@ -426,7 +426,7 @@ def create_pdf(data, output="pokemon.pdf"):
     for m in data["moves"]:
         story.append(
             Paragraph(
-                f"{m['level']} {m['name']} - {m['type'].strip()}",
+                f"{m['level'] if m['level'] > 0 else "Evo"} {m['name']} - {m['type'].strip()}",
                 styles["Normal"]
             )
         )
@@ -515,7 +515,6 @@ if __name__ == "__main__":
     merger = PdfWriter()
 
     pdfs = list(filter(os.path.isfile, glob.glob("output_pdf/*.pdf")))
-    pdfs.sort(key=os.path.basename)
 
     for pdf in pdfs:
         if pdf != "output_pdf/'.pdf":

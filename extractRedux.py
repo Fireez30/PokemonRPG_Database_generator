@@ -267,8 +267,8 @@ for rmon in redux_mons:
         if len(already_exist) == 0:
             pokemons.append(rmon)
 
-final_pokemons = sorted(pokemons, key = lambda x: x["name"])
-
+#final_pokemons = sorted(pokemons, key = lambda x: x["name"])
+final_pokemons = pokemons
 with open("data/final_pokemons.json", "w", encoding="utf-8") as f:
     json.dump(
         to_serializable(final_pokemons),
