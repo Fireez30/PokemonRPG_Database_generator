@@ -30,24 +30,43 @@ def get_image(path, width=1*cm):
     aspect = ih / float(iw)
     return Image(path, width=width, height=(width * aspect))
 
-def get_pokemon_image(name):
+def get_pokemon_image(name,path=""):
     folder = "images"
+    img_max_size = 2
+    if path == "":
+        local_jpg = os.path.join(folder, f"{name}.jpg")
+        mega_name_replaced = name.replace("-mega","")
+        mega_name_replaced = "megadex_"+name
+        local_mega_jpg = os.path.join(folder, f"{mega_name_replaced}.jpg")
+        local_png = os.path.join(folder, f"{name}.png")
+        local_mega_png = os.path.join(folder, f"{mega_name_replaced}.png")
 
-    local_jpg = os.path.join(folder, f"{name}.jpg")
-    local_png = os.path.join(folder, f"{name}.png")
+        # --- 1. Vérifie si image locale existe
 
-    # --- 1. Vérifie si image locale existe
+        if os.path.exists(local_jpg):
+            img = get_image(local_jpg, width=img_max_size * cm)
+            img.hAlign = "CENTER"
+            return img
 
-    if os.path.exists(local_jpg):
-        img = get_image(local_jpg, width=3 * cm)
-        img.hAlign = "CENTER"
-        return img
+        if os.path.exists(local_png):
+            img =  get_image(local_png, width=img_max_size * cm)
+            img.hAlign = "CENTER"
+            return img
 
-    if os.path.exists(local_png):
-        img =  get_image(local_png, width=3 * cm)
-        img.hAlign = "CENTER"
-        return img
-
+        if "mega" in name.lower():
+            if os.path.exists(local_mega_jpg):
+                img = get_image(local_mega_jpg, width=img_max_size * cm)
+                img.hAlign = "CENTER"
+                return img
+            if os.path.exists(local_mega_png):
+                img = get_image(local_mega_png, width=img_max_size * cm)
+                img.hAlign = "CENTER"
+                return img
+    else:
+        if os.path.exists(path):
+            img =  get_image(path, width=img_max_size * cm)
+            img.hAlign = "CENTER"
+            return img
     # --- 2. Sinon télécharger
 
     url = f"https://img.pokemondb.net/artwork/{name}.jpg"
@@ -62,7 +81,7 @@ def get_pokemon_image(name):
             with open(local_jpg, "wb") as f:
                 f.write(r.content)
 
-            img = Image(BytesIO(r.content), width=3 * cm, height=3 * cm)
+            img = Image(BytesIO(r.content), width=img_max_size * cm, height=img_max_size * cm)
             img.hAlign = "CENTER"
 
             return img
@@ -77,7 +96,7 @@ def get_pokemon_image(name):
                 with open(local_png, "wb") as f:
                     f.write(r.content)
 
-                img = Image(BytesIO(r.content), width=3 * cm, height=3 * cm)
+                img = Image(BytesIO(r.content), width=img_max_size * cm, height=img_max_size * cm)
                 img.hAlign = "CENTER"
 
                 return img
@@ -454,11 +473,14 @@ def create_pdf(data, output="pokemon.pdf"):
 
     if data["mega_evolution"] is not None:
         story.append(Spacer(1, 10))
+        path = ""
+        if "img_path" in data["mega_evolution"].keys():
+            path = data["mega_evolution"]["img_path"]
         mega_name = data["name"]+"-mega"
         if "redux" in data["name"].lower():
             mega_name = data["name"].replace("Redux","Mega Redux")
 
-        img = get_pokemon_image(mega_name)
+        img = get_pokemon_image(mega_name,path)
         if type(data["mega_evolution"]["type"]) == str:
             mega_evo_types = data["mega_evolution"]["type"]
         else:
