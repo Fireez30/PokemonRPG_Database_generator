@@ -242,10 +242,10 @@ def create_pdf(data, output="pokemon.pdf"):
 
     doc = SimpleDocTemplate(
         output,
-        leftMargin=1.5 * cm,
-        rightMargin=1.5 * cm,
-        topMargin=1.5 * cm,
-        bottomMargin=1.5 * cm
+        leftMargin=0.5 * cm,
+        rightMargin=0.5 * cm,
+        topMargin=0.5 * cm,
+        bottomMargin=0.5 * cm
     )
 
     # --- 2 COLONNES
@@ -416,6 +416,37 @@ def create_pdf(data, output="pokemon.pdf"):
         )
     )
 
+    if data["mega_evolution"] is not None and (data["name"] == "gallade" or data["name"] == "lunatone"):
+        story.append(Spacer(1, 10))
+        path = ""
+        if "img_path" in data["mega_evolution"].keys():
+            path = data["mega_evolution"]["img_path"]
+        mega_name = data["name"]+"-mega"
+        if "redux" in data["name"].lower():
+            mega_name = data["name"].replace("Redux","Mega Redux")
+
+        #img = get_pokemon_image(mega_name,path)
+        if type(data["mega_evolution"]["type"]) == str:
+            mega_evo_types = data["mega_evolution"]["type"]
+        else:
+            mega_evo_types = ' / '.join(data["mega_evolution"]["type"])
+        mega_evo_ability = data["mega_evolution"]["ability"]
+        mega_evo_stats = data["mega_evolution"]["stats"].replace("Speed PokéDex Update. ","")
+        title = Paragraph("Mega Evolution", styles["Heading3"])
+        data_text = "Type : "+str(mega_evo_types)+"<br></br>"
+        data_text += "Ability : "+str(mega_evo_ability)+"<br></br><br></br>"
+        data_text += "Stats : "+str(mega_evo_stats)+"<br></br>"
+        mega_data = Paragraph(data_text, styles["Normal"])
+        # Création d'un tableau pour aligner l'image et le texte
+        final_table_data = [
+            [[], [title,mega_data]]
+        ]
+
+        final_table = Table(final_table_data, colWidths=[3.5 * cm, 5.5 * cm])
+        story.append(
+            final_table
+        )
+
     # -------- COLONNE DROITE --------
 
     story.append(FrameBreak())
@@ -471,7 +502,7 @@ def create_pdf(data, output="pokemon.pdf"):
         )
     )
 
-    if data["mega_evolution"] is not None:
+    if data["mega_evolution"] is not None and data["name"] != "gallade" and data["name"] != "lunatone":
         story.append(Spacer(1, 10))
         path = ""
         if "img_path" in data["mega_evolution"].keys():
@@ -480,7 +511,7 @@ def create_pdf(data, output="pokemon.pdf"):
         if "redux" in data["name"].lower():
             mega_name = data["name"].replace("Redux","Mega Redux")
 
-        img = get_pokemon_image(mega_name,path)
+        #img = get_pokemon_image(mega_name,path)
         if type(data["mega_evolution"]["type"]) == str:
             mega_evo_types = data["mega_evolution"]["type"]
         else:
@@ -494,7 +525,7 @@ def create_pdf(data, output="pokemon.pdf"):
         mega_data = Paragraph(data_text, styles["Normal"])
         # Création d'un tableau pour aligner l'image et le texte
         final_table_data = [
-            [img, [title,mega_data]]
+            [[], [title,mega_data]]
         ]
 
         final_table = Table(final_table_data, colWidths=[3.5 * cm, 5.5 * cm])

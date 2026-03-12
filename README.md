@@ -15,6 +15,7 @@ pip install pymupdf
 pip install requests
 pip install reportlab
 pip install pypdf
+pip install PyPDF2
 ```
 
 Windows : 
@@ -30,6 +31,7 @@ pip install pymupdf
 pip install requests
 pip install reportlab
 pip install pypdf
+pip install PyPDF2
 ```
 
 
