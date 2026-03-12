@@ -123,7 +123,7 @@ for mon in data["species"]:
         high_abilities = []
         if "inns" in mon["stats"].keys():
             inns_ids = mon["stats"]["inns"]
-            print(inns_ids)
+            #print(inns_ids)
             for id_i in inns_ids:
                 exist = list(filter(lambda x:"id" in x.keys() and x["id"] == int(id_i), final_abilities))
                 if len(exist) > 0:
@@ -228,7 +228,7 @@ for mon in data["species"]:
                 if len(move_exist) > 0:
                     egg_moves.append(str(move_exist[0]["move"].capitalize()))
         pokemon_to_add = {
-            "name": pokemon_name,
+            "name": pokemon_name.lower(),
             "stat_hp": stat_hp,
             "stat_atk": stat_atk,
             "stat_def": stat_def,
@@ -259,12 +259,14 @@ for mon in data["species"]:
         redux_mons.append(pokemon_to_add)
 for rmon in redux_mons:
     mon_name = rmon["name"]
-    mon_name = mon_name.replace("Galarian","Galar")
-    mon_name = mon_name.replace("Alolan","Alola")
-    mon_name = mon_name.replace("Corvisquir","Corvisquire")
+    mon_name = mon_name.replace("galarian","galar")
+    mon_name = mon_name.replace("alolan","alola")
+    mon_name = mon_name.replace("corvisquir","corvisquire")
     if not mon_name.lower().startswith("nidoran") and not mon_name.lower().startswith("zygarde") and not mon_name.lower().startswith("sirfetch") and not mon_name.lower().startswith("farfetch") and not mon_name.lower().startswith("tauros paldean combat breed") and not mon_name.lower().startswith("arceus"):
         already_exist = list(filter(lambda x:x["name"].lower() == mon_name.lower(), pokemons))
         if len(already_exist) == 0:
+            if not ("mega " in mon_name.lower() or " mega" in mon_name.lower() or " redux" in mon_name.lower() or "redux " in mon_name.lower()):
+                print("added : "+mon_name)
             pokemons.append(rmon)
 
 #final_pokemons = sorted(pokemons, key = lambda x: x["name"])
