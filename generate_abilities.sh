@@ -1,0 +1,2 @@
+python extract_abilities_database.py
+python extract_abilities_ptu_csv.py

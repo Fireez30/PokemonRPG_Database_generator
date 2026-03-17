@@ -1,0 +1,2 @@
+raichu => retirer last TM/HM List
+Charizard => 2 mega a mettre (3 avec redux z)

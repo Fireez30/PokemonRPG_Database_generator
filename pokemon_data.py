@@ -20,12 +20,14 @@ class MegaEvolution:
 class Ability:
     name:str
     effect:str
+    id:int = -1
 
     @classmethod
     def from_dict(cls, data: dict):
         return cls(
             name=data.get("name"),
-            effect=data.get("effect")
+            effect=data.get("effect"),
+            id=data.get("id",-1)
         )
 @dataclass
 class Move:
@@ -96,7 +98,7 @@ class Pokemon:
         )
 
 class FullMove:
-    def __init__(self,move,type_val,frequency,ac,damage_base,roll,classe,range_val,effect,blessing,special_effect,contest_type,contest_effect,extra_lines):
+    def __init__(self,move,type_val,frequency,ac,damage_base,roll,classe,range_val,effect,blessing,special_effect,contest_type,contest_effect,extra_lines,id=-1):
         self.move = move
         self.type = type_val
         self.frequency = frequency
@@ -117,6 +119,7 @@ class FullMove:
             self.frequency = "Static"
             self.AC ="None"
             self.classe = "Static"
+        self.id = id
 
     @classmethod
     def from_dict(cls, data: dict):
@@ -134,7 +137,8 @@ class FullMove:
             blessing=data.get("blessing"),
             contest_type=data.get("contest_type",""),
             contest_effect=data.get("contest_effect",""),
-            extra_lines=data.get("extra_lines", [])
+            extra_lines=data.get("extra_lines", []),
+            id=data.get("id", -1)
         )
 
     def get_frequency(self):
@@ -166,5 +170,4 @@ class FullMove:
     def to_csv(self):
         # this is used to override default formating
         csv =  self.move+","+self.get_frequency()+","+self.get_AC()+","+self.get_type()+","+self.get_roll()+","+self.get_classe()+","+'"'+self.get_range()+'"'+","+'"'+self.get_effect()+'"'
-        print(csv.replace(",", " | "))
         return csv
