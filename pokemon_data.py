@@ -1,5 +1,11 @@
 from dataclasses import dataclass
 import json
+
+accepted_ACs = ["--","/","TBD"]
+accepted_freqs = ["2x Daily","At-Will","EOT","Scene","Scene x2","Daily","Daily x1","Daily x1 Quick Action","Daily x3","Scene x3","TBD"]
+accepted_types = ["Bug","Dark","Dragon","Electric","Fairy","Fighting","Fire","Flying","Ghost","Grass","Ground","Ice","Light","Normal","Poison","Psychic","Rock","Steel","Water"]
+accepted_classes = ["Phys","Spec","STATUS","Status"]
+
 @dataclass
 class Capability:
     name: str

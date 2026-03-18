@@ -37,7 +37,7 @@ if __name__ == '__main__':
     f.write(csv)
     f.close()
 
-    with open("data/abilities.json", "w", encoding="utf-8") as f_json:
+    with open("data/final_abilities_ptu.json", "w", encoding="utf-8") as f_json:
         json.dump(
             to_serializable(moves),
             f_json,

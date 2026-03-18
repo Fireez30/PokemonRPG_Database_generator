@@ -5,14 +5,11 @@ from parsers import to_serializable
 import pandas as pd
 import json
 
-from pokemon_data import FullMove
+from pokemon_data import FullMove,accepted_classes,accepted_ACs,accepted_freqs,accepted_types
 def is_two_digit_number(s):
     return s.isdigit() and len(s) <= 2
 
-accepted_ACs = ["--","/","TBD"]
-accepted_freqs = ["2x Daily","At-Will","EOT","Scene","Scene x2","Daily","Daily x1","Daily x1 Quick Action","Daily x3","Scene x3","TBD"]
-accepted_types = ["Bug","Dark","Dragon","Electric","Fairy","Fighting","Fire","Flying","Ghost","Grass","Ground","Ice","Light","Normal","Poison","Psychic","Rock","Steel","Water"]
-accepted_classes = ["Phys","Spec","STATUS","Status"]
+
 if __name__ == '__main__':
     """
     Index(['Attack Name', 'Type', 'Class', 'Frequency', 'Range', 'AC', 'DB',

@@ -2,7 +2,7 @@ import json
 import os,sys
 import math
 from parsers import to_serializable
-
+from pokemon_data import accepted_classes,accepted_ACs,accepted_freqs,accepted_types
 def explore_json(obj, path="root", max_list_samples=3):
     """
     Recursively explore JSON structure and print keys/types.
@@ -170,42 +170,7 @@ for mon in data["species"]:
                             evolutions.append(name_to_add)
         """
         # for poke , evolutions. Get all with kd = 0
-        height = ""
-        weight = ""
-        gender_ratio_m = ""
-        gender_ratio_f = ""
-        egg_group = ""
-        average_hatch_rate = -1
-        diet = ""
-        habitat = ""
-        capabilities = []
-        skills = []
-        #   < ---- extracted from normal ---- >
-        matching_poke_name = pokemon_name.strip().lower().replace("redux_", "").replace("redux", "").replace("alola_", "").replace("alola", "").replace("hisuian_", "").replace("hisuian", "").replace("therian_", "").replace("therian", "").strip()
-        found_matchings = list(filter(lambda x: x["name"] == matching_poke_name, pokemons))
-        if len(found_matchings) == 0:
-            matching_poke_name = pokemon_name.strip().lower().replace("redux_", "").replace("redux", "").replace("alola_", "").replace("alola", "").replace("hisuian_", "").replace("hisuian", "").replace("therian_", "").replace("therian", "").strip().split(" ")[0]
-            found_matchings = list(filter(lambda x: x["name"] == matching_poke_name, pokemons))
-        if len(found_matchings) > 0:
-            pokeobj = found_matchings[0]
-            height = pokeobj["height"]
-            weight = pokeobj["weight"]
-            gender_ratio_m = pokeobj["gender_ratio_m"]
-            gender_ratio_f = pokeobj["gender_ratio_f"]
-            egg_group = pokeobj["egg_group"]
-            average_hatch_rate = pokeobj["average_hatch_rate"]
-            diet = pokeobj["diet"]
-            habitat = pokeobj["habitat"]
-            capabilities = pokeobj["capabilities"]
-            skills = pokeobj["skills"]
-        #   < ---- Moves ---- >
-        pokemoves = []
-        for move_oj in mon["levelUpMoves"]:
-            move_id = move_oj["id"]
-            move_level = move_oj["lv"]
-            move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == move_id, final_moves))
-            if len(move_exist) > 0:
-                pokemoves.append({"name":move_exist[0]["move"],"level":move_level,"type":move_exist[0]["type"]})
+
         #   < ---- TM Moves ---- >
         tm_moves = []
         if len(mon["TMHMMoves"]) > 0:
@@ -227,6 +192,55 @@ for mon in data["species"]:
                 move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, final_moves))
                 if len(move_exist) > 0:
                     egg_moves.append(str(move_exist[0]["move"].capitalize()))
+
+        height = ""
+        weight = ""
+        gender_ratio_m = ""
+        gender_ratio_f = ""
+        egg_group = ""
+        average_hatch_rate = -1
+        diet = ""
+        habitat = ""
+        capabilities = []
+        skills = []
+        #   < ---- extracted from normal ---- >
+        matching_poke_name = pokemon_name.strip().lower().replace("redux_", "").replace("redux", "").replace("alola_",
+                                                                                                             "").replace(
+            "alola", "").replace("hisuian_", "").replace("hisuian", "").replace("therian_", "").replace("therian",
+                                                                                                        "").strip()
+        found_matchings = list(filter(lambda x: x["name"] == matching_poke_name, pokemons))
+        if len(found_matchings) == 0:
+            matching_poke_name = \
+            pokemon_name.strip().lower().replace("redux_", "").replace("redux", "").replace("alola_", "").replace(
+                "alola", "").replace("hisuian_", "").replace("hisuian", "").replace("therian_", "").replace("therian",
+                                                                                                            "").strip().split(
+                " ")[0]
+            found_matchings = list(filter(lambda x: x["name"] == matching_poke_name, pokemons))
+        if len(found_matchings) > 0:
+            pokeobj = found_matchings[0]
+            height = pokeobj["height"]
+            weight = pokeobj["weight"]
+            gender_ratio_m = pokeobj["gender_ratio_m"]
+            gender_ratio_f = pokeobj["gender_ratio_f"]
+            egg_group = pokeobj["egg_group"]
+            average_hatch_rate = pokeobj["average_hatch_rate"]
+            diet = pokeobj["diet"]
+            habitat = pokeobj["habitat"]
+            capabilities = pokeobj["capabilities"]
+            skills = pokeobj["skills"]
+        #   < ---- Moves ---- >
+        pokemoves = []
+        for move_oj in mon["levelUpMoves"]:
+            move_id = move_oj["id"]
+            move_level = move_oj["lv"]
+            move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == move_id, final_moves))
+            if len(move_exist) > 0:
+                pokemoves.append({"name": move_exist[0]["move"], "level": move_level, "type": move_exist[0]["type"]})
+        uncorrect_types = False
+        for ptype in types:
+            if ptype not in accepted_types:
+                uncorrect_types = True
+
         pokemon_to_add = {
             "name": pokemon_name.lower(),
             "stat_hp": stat_hp,
