@@ -75,8 +75,8 @@ if __name__ == "__main__":
     with open(input_jsons, "r", encoding="utf-8") as f:
         raw_data = json.load(f)
     pokemons = [Pokemon.from_dict(p) for p in raw_data]
-    moves_by_name = parse_full_moves("data/Moves.html")
-    abilities_by_name = parse_full_abilities("data/Abilities.pdf")
+    moves_by_name = parse_full_moves("../data/Moves.html")
+    abilities_by_name = parse_full_abilities("../data/Abilities.pdf")
 
     found = False
     pokemon = None

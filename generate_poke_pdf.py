@@ -539,17 +539,17 @@ def create_pdf(data, output="pokemon.pdf"):
 
 if __name__ == "__main__":
 
-    pokemon = load_pokemon("data/final_pokemons.json")
+    pokemon = load_pokemon("output/pte/pokemons.json")
     for poke in pokemon:
-        create_pdf(poke, "output_pdf/"+poke["name"]+".pdf")
+        create_pdf(poke, "output/pdf_temp/"+poke["name"]+".pdf")
 
     merger = PdfWriter()
 
-    pdfs = list(filter(os.path.isfile, glob.glob("output_pdf/*.pdf")))
+    pdfs = list(filter(os.path.isfile, glob.glob("output/pdf_temp/*.pdf")))
 
     for pdf in pdfs:
-        if pdf != "output_pdf/'.pdf":
+        if pdf != "output/pdf_temp/'.pdf":
             merger.append(pdf)
 
-    merger.write("output_pdf/merged_dex.pdf")
+    merger.write("output/pdf/pokedex.pdf")
     merger.close()

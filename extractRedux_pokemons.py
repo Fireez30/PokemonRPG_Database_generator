@@ -3,100 +3,19 @@ import os,sys
 import math
 from parsers import to_serializable
 from pokemon_data import accepted_classes,accepted_ACs,accepted_freqs,accepted_types
-def explore_json(obj, path="root", max_list_samples=3):
-    """
-    Recursively explore JSON structure and print keys/types.
-    """
 
-    if isinstance(obj, dict):
-        print(f"\n{path} -> dict with keys: {list(obj.keys())}")
-        #for key, value in obj.items():
-        #    explore_json(value, f"{path}.{key}")
-
-    elif isinstance(obj, list):
-        print(f"\n{path} -> list (length={len(obj)})")
-
-        # Only inspect first few elements to infer structure
-        #for i, item in enumerate(obj[:max_list_samples]):
-        #    explore_json(item, f"{path}[{i}]")
-
-        if len(obj) > max_list_samples:
-            print(f"{path} -> ... {len(obj) - max_list_samples} more items")
-
-    else:
-        print(f"{path} -> {type(obj).__name__}: {repr(obj)[:60]}")
 
 with open("data/reduxData.json", "r") as f:
     data = json.load(f)
 
-with open("data/abilities.json","r") as f:
-    abilities = json.load(f)
-#explore_json(data)
-#print("abilities before : "+str(len(abilities)))
+with open("output/redux/abilities.json","r") as f:
+    final_abilities = json.load(f)
 
-redux_abilities = []
-for ability in data["abilities"]:
-    if ability["name"] != "-------":
-        redux_abilities.append({"name":ability["name"],"effect":ability["desc"],"id":ability["id"],"update":"TBD"})
-
-for rability in redux_abilities:
-    already_exist = list(filter(lambda x:x["name"].lower() == rability["name"].lower(), abilities))
-    if len(already_exist) == 0:
-        abilities.append(rability)
-    else:
-        found_move = already_exist[0]
-        found_move["id"] = rability["id"]
-
-final_abilities = sorted(abilities, key = lambda x: x["name"])
-
-
-with open("data/moves.json","r") as f:
-    moves = json.load(f)
-for rmove in data["moves"]:
-    if rmove["name"] != "-":
-        already_exist = list(filter(lambda x: x["move"].lower() == rmove["name"].lower(), moves))
-        if len(already_exist) == 0:
-            #   < ---- Type ---- >
-            types = []
-            if len(rmove["types"]) == 1:
-                types = data["typeT"][rmove["types"][0]]
-            elif len(rmove["types"]) > 1:
-                for typem in rmove["types"]:
-                    types.append(data["typeT"][typem])
-            #   < ---- Frequency ---- >
-            freq = "TBD"
-            #   < ---- AC ---- >
-            AC = "TBD"
-            #   < ---- Damage Base + Roll ---- >
-            damage_base = -1
-            roll = "TBD"
-            #   < ---- classe ---- > (split)
-            classe = data["splitT"][rmove["split"]]
-            #   < ---- Range ---- > (target ?)
-            range = "TBD"
-            #   < ---- Effect ---- > (desc ?)
-            effect = rmove["desc"]
-            #   < ---- Blessing ---- >
-            blessing = ""
-            #   < ---- Special Effect ---- >
-            special_effect = ""
-            #   < ---- Contest Type ---- >
-            contest_type = ""
-            #   < ---- Contest Effect ---- >
-            contest_effect = ""
-            move_to_add = {"move":rmove["name"],"type":types,"frequency":freq,"AC":AC,"roll":roll,"damage_base":damage_base,
-                           "classe":classe,"range":range,"effect":effect,"blessing":blessing,"special_effect":special_effect,
-                           "contest_type":contest_type,"contest_effect":contest_effect,"extra_lines":[],"id":rmove["id"]}
-            moves.append(move_to_add)
-        else:
-            found_move = already_exist[0]
-            found_move["id"] = rmove["id"]
-
-final_moves = sorted(moves, key = lambda x: x["move"])
-
+with open("output/redux/moves.json","r") as f:
+    final_moves = json.load(f)
 
 redux_mons = []
-with open("data/pokemon.json","r") as f:
+with open("output/initials/pokemon.json","r") as f:
     pokemons = json.load(f)
 for mon in data["species"]:
     if mon["name"] != "??????????":
@@ -285,7 +204,7 @@ for rmon in redux_mons:
 
 #final_pokemons = sorted(pokemons, key = lambda x: x["name"])
 final_pokemons = pokemons
-with open("data/final_pokemons.json", "w", encoding="utf-8") as f:
+with open("output/redux/pokemons.json", "w", encoding="utf-8") as f:
     json.dump(
         to_serializable(final_pokemons),
         f,
@@ -293,18 +212,10 @@ with open("data/final_pokemons.json", "w", encoding="utf-8") as f:
         ensure_ascii=False
     )
 
-with open("data/final_abilities.json", "w", encoding="utf-8") as f_json:
+with open("output/pte/pokemons.json", "w", encoding="utf-8") as f:
     json.dump(
-        to_serializable(final_abilities),
-        f_json,
+        to_serializable(final_pokemons),
+        f,
         indent=4,  # pretty print
         ensure_ascii=False
     )
-
-    with open("data/final_moves.json", "w", encoding="utf-8") as f_json:
-        json.dump(
-            to_serializable(moves),
-            f_json,
-            indent=4,  # pretty print
-            ensure_ascii=False
-        )

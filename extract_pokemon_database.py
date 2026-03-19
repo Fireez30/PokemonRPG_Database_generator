@@ -183,7 +183,7 @@ if __name__ == "__main__":
         for poke in pokemons:
             if poke["name"] == to_replace:
                 poke["name"] = replace_with
-    with open(output_json, "w", encoding="utf-8") as f:
+    with open("output/initials/pokemons.json", "w", encoding="utf-8") as f:
         json.dump(
             to_serializable(pokemons),
             f,

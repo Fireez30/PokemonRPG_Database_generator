@@ -13,7 +13,7 @@ if __name__ == '__main__':
        'Effect', 'Versatile Effect', 'Attack Tier'],
       dtype='str')
     """
-    with open("data/final_abilities.json", "r") as f:
+    with open("output/redux/abilities.json", "r") as f:
         db_pokemons = json.load(f)
     df = pd.read_csv('data/ptuabilities.csv',header=0)
     moves = []
@@ -33,11 +33,11 @@ if __name__ == '__main__':
     for abili in moves:
         if abili is not None and abili != "":
             csv += "\n"+abili.name+",\""+abili.effect+"\""
-    f = open("data/final_abilities_ptu.csv","w+")
+    f = open("output/pte/abilities.csv","w+")
     f.write(csv)
     f.close()
 
-    with open("data/final_abilities_ptu.json", "w", encoding="utf-8") as f_json:
+    with open("output/pte/abilities.json", "w", encoding="utf-8") as f_json:
         json.dump(
             to_serializable(moves),
             f_json,

@@ -18,6 +18,7 @@ parser.add_argument('-o','--output',required=True,default="output.csv",help='Pat
 import re
 
 def export_moves(moves,output_csv):
+    """
     csv = "Move,Freq,AC,Type,Roll,Dmg. Type,Range,Special Effect"
     print(csv.replace(",", " | "))
     for move in moves:
@@ -25,8 +26,8 @@ def export_moves(moves,output_csv):
     f = open(output_csv,"w+")
     f.write(csv)
     f.close()
-
-    with open("data/moves.json", "w", encoding="utf-8") as f_json:
+    """
+    with open("output/initials/moves.json", "w", encoding="utf-8") as f_json:
         json.dump(
             to_serializable(list(moves.values())),
             f_json,

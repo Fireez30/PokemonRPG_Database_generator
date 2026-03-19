@@ -6,8 +6,8 @@ def load_pokemon(path):
         return json.load(f)
 
 if __name__ == "__main__":
-    pokemons = load_pokemon("data/final_pokemons.json")
-    moves = load_pokemon("data/final_moves.json")
+    pokemons = load_pokemon("../data/final_pokemons.json")
+    moves = load_pokemon("../data/final_moves.json")
     egg_moves = []
     final_str = ""
     for poke in pokemons:
