@@ -219,3 +219,11 @@ with open("output/pte/pokemons.json", "w", encoding="utf-8") as f:
         indent=4,  # pretty print
         ensure_ascii=False
     )
+
+with open("output/finals/pokemons.json", "w", encoding="utf-8") as f:
+    json.dump(
+        to_serializable(final_pokemons),
+        f,
+        indent=4,  # pretty print
+        ensure_ascii=False
+    )

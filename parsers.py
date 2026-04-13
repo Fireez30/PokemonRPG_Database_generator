@@ -1649,7 +1649,7 @@ def parse_full_abilities(filepath="data/Abilities.pdf"):
                 effect += line+"\n"
             index += 1
         effect = effect[:-1]
-        abilities[name]=Ability(name=name,effect=effect.replace('"',"'").replace("\n"," "))
+        abilities[name]=Ability(name=name,effect=effect.replace('"',"'"))
     return abilities
 
 def parse_full_moves(filepath):

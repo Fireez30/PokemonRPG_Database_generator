@@ -15,6 +15,7 @@ pip install pymupdf
 pip install requests
 pip install reportlab
 pip install pypdf
+pip install pandas
 pip install PyPDF2
 ```
 

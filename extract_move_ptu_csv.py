@@ -89,3 +89,18 @@ if __name__ == '__main__':
             indent=4,  # pretty print
             ensure_ascii=False
         )
+
+    csv = "Move,Freq,AC,Type,Roll,Dmg. Type,Range,Special Effect"
+    for move in moves:
+        csv += "\n"+move.to_csv()
+    f = open("output/finals/moves.csv","w+")
+    f.write(csv)
+    f.close()
+
+    with open("output/finals/moves.json", "w", encoding="utf-8") as f_json:
+        json.dump(
+            to_serializable(moves),
+            f_json,
+            indent=4,  # pretty print
+            ensure_ascii=False
+        )

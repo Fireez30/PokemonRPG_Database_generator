@@ -119,11 +119,11 @@ if __name__ == "__main__":
         db_pokemons = json.load(f)
     db_pokemons_names = list(filter(lambda x: x["name"]["english"].lower(),db_pokemons))
     range_gen_7 = range(14,866)
-    pdf_gen_7 = "data/pokedex1_7_final_version.pdf"
+    pdf_gen_7 = "data/pokedex1-7_final_version.pdf"
     range_gen_galar = range(2,121)
-    pdf_galar = "data/GalarDex_Armor_Crown.pdf"
+    pdf_galar = "data/GalarDex + Armor_Crown.pdf"
     range_gen_9 = range(3,117)
-    pdf_gen_9 = "data/Gen 9_Homebrew_Dex.pdf"
+    pdf_gen_9 = "data/Gen 9 Homebrew Dex.pdf"
     range_gen_9_dlc = range(1,20)
     pdf_gen_9_dlc = "data/Gen9 DLC.pdf"
     range_insurgence = range(3,207)

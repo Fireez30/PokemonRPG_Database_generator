@@ -1,4 +1,4 @@
-source my_env/bin/activate.fish
+source my_env/bin/activate
 python extract_abilities_database.py
 python extractRedux_abilities.py
 python extract_abilities_ptu_csv.py
