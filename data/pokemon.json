@@ -726,15 +726,7 @@
       "Wild Growth"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Poison"
-      ],
-      "ability": "Thick Fat",
-      "stats": "+2 HP +1 Atk +3 Def +1 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_venusaur.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "chikorita",
@@ -2305,12 +2297,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Grass",
-        "Dragon"
+        "Grass /Dragon Ability: Lightning Rod "
       ],
-      "ability": "Lightning Rod",
-      "stats": "+2 Atk +1 Def +4 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_sceptile.jpeg"
+      "ability": "",
+      "stats": "+2 Atk, +1Def, +4 Sp. Atk, +3 Speed "
     }
   },
   {
@@ -3020,15 +3010,7 @@
       "Tectonic Burst"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Ground"
-      ],
-      "ability": "Abominable + Huge Size",
-      "stats": "+3 Atk +4 Def +1 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_torterra.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "snivy",
@@ -3785,15 +3767,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Dragon"
-      ],
-      "ability": "Mold Breaker",
-      "stats": "+2 Atk +2 Def +4 SpAtk +0 SpDef +2 Spd ",
-      "img_path": "images/megadex_serperior.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "chespin",
@@ -4563,15 +4537,7 @@
       "Double Lariat"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Fighting"
-      ],
-      "ability": "Battle Armor",
-      "stats": "+3 Atk +3 Def +1 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_chesnaught.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "rowlet",
@@ -5369,15 +5335,7 @@
       "Feather Storm"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Ghost"
-      ],
-      "ability": "Vanguard",
-      "stats": "+3 Atk +1 Def +3 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_decidueye.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "charmander",
@@ -6245,15 +6203,7 @@
       "Aerial Combat"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fire",
-        "Flying"
-      ],
-      "ability": "Drought",
-      "stats": "+2 Atk +0 Def +5 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_charizard.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "cyndaquil",
@@ -7110,12 +7060,7 @@
       "Fire Wall"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fire",
-      "ability": "Drought",
-      "stats": "+3 Atk +1 Def +3 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_typhlosion.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "torchic",
@@ -7889,12 +7834,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Fire",
-        "Fighting"
+        "Unchanged"
       ],
-      "ability": "Reckless",
-      "stats": "+3 Atk +1 Def +2 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_blaziken.jpeg"
+      "ability": "Speed Boost",
+      "stats": "+2 Atk, +1 Def,+2 Sp. Atk, +1 Sp. Def, +2 Speed "
     }
   },
   {
@@ -8702,15 +8645,7 @@
       "Double Lariat Nasty  P"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fire",
-        "Fighting"
-      ],
-      "ability": "Fiery Crash",
-      "stats": "+3 Atk +0 Def +3 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_infernape.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "tepig",
@@ -9517,15 +9452,7 @@
       "Jagged Punch"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fire",
-        "Fighting"
-      ],
-      "ability": "Discipline",
-      "stats": "+4 Atk +3 Def +3 SpAtk +0 SpDef +0 Spd ",
-      "img_path": "images/megadex_emboar.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "fennekin",
@@ -10331,15 +10258,7 @@
       "Future Sight (N , Heat Wave, lron Tail, Laser Focus, Low Kick, Magic Coat, Magic Room, Recycle, Role Play (N, Shadow Ball (N, Shock Wave, Signal Beam, Skill Swap, Snatch, Snore, Switcheroo (N, Telekinesis, Thunder Punch, Trick, WonderRoom, Zen Headbutt, Signal Beam, Aura Sphere, Mystical Fire, Nasty Plot, Fire Fang, Thuunder Fang, Scorching Sands, Expanding Force, Radiant Force, Lightray Pulse, Shinning Storm, Radiant Shield, Astral Assault , Energy wave, Scornful Vortex, Shadow Bolt ,Mystic Circle"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fire",
-        "Psychic"
-      ],
-      "ability": "Magic Guard",
-      "stats": "+1 Atk +0 Def +5 SpAtk +3 SpDef +1 Spd ",
-      "img_path": "images/megadex_delphox.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "litten",
@@ -11117,15 +11036,7 @@
       "Fire Wall"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fire",
-        "Dark"
-      ],
-      "ability": "Guts",
-      "stats": "+3 Atk +3 Def +2 SpAtk +1 SpDef +1 Spd ",
-      "img_path": "images/megadex_incineroar.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "squirtle",
@@ -11886,10 +11797,11 @@
     ],
     "egg_moves": [],
     "mega_evolution": {
-      "type": "Water",
-      "ability": "",
-      "stats": "+2 HP +1 Atk +1 Def +5 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_blastoise.jpeg"
+      "type": [
+        "Unchanged"
+      ],
+      "ability": "MegaLauncher ",
+      "stats": "+2 Atk, +2 Def,+5 Sp. Atk, +1 Sp. Def "
     }
   },
   {
@@ -12727,12 +12639,7 @@
       "Geyser Surge"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Rough Skin",
-      "stats": "+3 Atk +4 Def +0 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_feraligatr.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "mudkip",
@@ -13553,12 +13460,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Water",
-        "Ground"
+        "Unchanged"
       ],
-      "ability": "Absorb Force",
-      "stats": "+4 Atk +3 Def +0 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_swampert.jpeg"
+      "ability": "Swift Swim",
+      "stats": "+4 Atk, +2 Def,+1 Sp. Atk, +2 Sp. Def, +1 Speed "
     }
   },
   {
@@ -14324,15 +14229,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Steel"
-      ],
-      "ability": "Regal Challenge",
-      "stats": "+2 Atk +3 Def +2 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_empoleon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "oshawott",
@@ -15088,15 +14985,7 @@
       "Aura Burst"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Fighting"
-      ],
-      "ability": "Justified",
-      "stats": "+4 Atk +3 Def +0 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_samurott.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "froakie",
@@ -15852,15 +15741,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Dark"
-      ],
-      "ability": "Ambush + Dead Silent",
-      "stats": "+2 Atk +2 Def +3 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_greninja.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "popplio",
@@ -16620,15 +16501,7 @@
       "Magical Bomb"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Fairy"
-      ],
-      "ability": "Competitive",
-      "stats": "+0 Atk +1 Def +4 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_primarina.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "caterpie",
@@ -17183,15 +17056,7 @@
       "Concussive Burst"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Flying"
-      ],
-      "ability": "Wonder Skin",
-      "stats": "+2 HP +0 Atk +2 Def +1 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_butterfree.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "weedle",
@@ -17713,15 +17578,7 @@
       "Blighted Touch"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Poison"
-      ],
-      "ability": "Adaptability",
-      "stats": "+5 Atk +0 Def -2 SpAtk +0 SpDef +7 Spd ",
-      "img_path": "images/megadex_beedrill.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "wurmple",
@@ -18286,15 +18143,7 @@
       "Silver Cyclone"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Flying"
-      ],
-      "ability": "Serene Grace",
-      "stats": "+1 Atk +2 Def +3 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_beautifly.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "cascoon",
@@ -18714,15 +18563,7 @@
       "Tempest"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Poison"
-      ],
-      "ability": "Prankster",
-      "stats": "+2 Atk +2 Def +2 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_dustox.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sewaddle",
@@ -19474,15 +19315,7 @@
       ""
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Grass"
-      ],
-      "ability": "Empower",
-      "stats": "",
-      "img_path": "images/megadex_leavanny.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "venipede",
@@ -20188,15 +20021,7 @@
       "Megahorn (N , Signal Beam, Snatch, Snore, Stomping Tantrum, Superpower, Throat Chop, Spikes, Pin Missil, Toxic Spikes, Sediment Smack , Rampage , Boulder Bash ,  Karma, Numbing Venom, Locust Swarm,Wrathful Blitz, Acidic Impact"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Poison"
-      ],
-      "ability": "Razor Edge",
-      "stats": "+3 Atk +2 Def +2 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_scolipede.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "scatterbug",
@@ -20724,15 +20549,7 @@
       "Silver Cyclone"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Flying"
-      ],
-      "ability": "Tinted Lens",
-      "stats": "+0 Atk +2 Def +2 SpAtk +3 SpDef +3 Spd ",
-      "img_path": "images/megadex_vivillon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "grubbin",
@@ -21464,15 +21281,7 @@
       "Volt Crush"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Electric"
-      ],
-      "ability": "Speed Boost",
-      "stats": "+0 Atk +0 Def +3 SpAtk +1 SpDef +6 Spd ",
-      "img_path": "images/megadex_vikavolt.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "axew",
@@ -22251,12 +22060,7 @@
       "Outrage (N, Shock Wave, Snore, Stomping Tantrum, Superpower, Bug Bite, First lmpression, Furry Cutter, Hone Claws, Psycho Cut, Scale Shot, Rampage, Boulder Bash , Brutal Beatdown , Shocking Edge, Seismic Blade,Ancestral Fury, Draconic Aura, Dragon Force, Imposing Stare, Primal Storm"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Dragon",
-      "ability": "Sheer Force",
-      "stats": "+4 Atk +3 Def +0 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_haxorus.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pichu",
@@ -23022,12 +22826,7 @@
       "Thunderbolt (N   , Thunder Punch, Uproar, Volt Tackle, Play Rough, Aurora Beam, Rising Voltage, Agility, Electric Terrain,Encore, Endeavor, Radiant Shield , Cutsie Slap, Charged Velocity, Gigavolt, Plasma Storm, Plasma Tail, Volt Crush, Sparkling Slam"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Electric",
-      "ability": "Sheer Force",
-      "stats": "+1 HP +3 Atk +2 Def +2 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_raichu.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "raichu alola",
@@ -24167,15 +23966,7 @@
       "Zap Cannon (N , Body Press, Rising Voltage, Signal Beam, Self Destruct, Swift, Teleport, Radiant Shield ,  Energy Wave, Lightning Lance, Plasma Bolt, Plasma Storm, Ferrous Flash"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Electric",
-        "Steel"
-      ],
-      "ability": "Electric Surge",
-      "stats": "+0 Atk +2 Def +2 SpAtk +4 SpDef +2 Spd ",
-      "img_path": "images/megadex_magnezone.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "elekid",
@@ -24961,12 +24752,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Electric",
-      "ability": "Mold Breaker",
-      "stats": "+3 Atk +2 Def +3 SpAtk +0 SpDef +2 Spd ",
-      "img_path": "images/megadex_electivire.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "mareep",
@@ -25797,12 +25583,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Electric",
-        "Dragon"
+        "Electric / Dragon"
       ],
       "ability": "Mold Breaker",
-      "stats": "+2 Atk +2 Def +5 SpAtk +2 SpDef -1 Spd ",
-      "img_path": "images/megadex_ampharos.jpeg"
+      "stats": "+2 Atk, +2 Def,+5 Sp. Atk, +2 Sp. Def, -1 Speed "
     }
   },
   {
@@ -26566,15 +26350,7 @@
       "Electric Terrain (N, Fury Cutter, lron Tail, Laser Focus, Magnet Rise, Mud-Slap, Shock Wave, Signal Beam, Snore, Superpower, Throat Chop, Agility, Body Slam, Counter, Furry Cutter, Play Rough, Revenge, Reversal, Rising Voltage, Superpower, Swagger, Swift, Shining Fang , Jagged Fangs, Shadow Fangs, Iron Fangs, Brutal Beatdown, Umbral Assault, Imposing Stare, Charged Velocity, Gigavolt, Plasma Storm, Plasma Tail, Volt Crush, Sparkling Slam"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Electric",
-        "Dark"
-      ],
-      "ability": "Vicious",
-      "stats": "+1 Atk +2 Def +1 SpAtk +2 SpDef +4 Spd ",
-      "img_path": "images/megadex_luxray.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "tynamo",
@@ -27249,12 +27025,7 @@
       "Zap Cannon (N, Agility , Agility, Body Slam, Electric Terrain, Fire Punch, Hone Claws, Throat Chop, Thunder Punch, Accrobatics, Shield Breaker, Sparkling Flare, Rampage, Brutal Beatdown , Sediment Smack , Mud Shot ,  Karma,Numbing Venom , Giga Leech, Gigavolt, Lightning Lance, Plasma Bolt, Plasma Storm, Plasma Tail, Volt Crush, Acidic Impact"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Electric",
-      "ability": "Mini-Noses",
-      "stats": "+3 Atk +1 Def +3 SpAtk +1 SpDef +2 Spd +3 Atk +3 Def +1 SpAtk +3 SpDef +081 Spd ",
-      "img_path": "images/megadex_eelektross.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "cleffa",
@@ -28078,15 +27849,7 @@
       "Meteor Shower"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fairy",
-        "Psychic"
-      ],
-      "ability": "Starlight",
-      "stats": "+0 Atk +3 Def +4 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_clefable.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "togepi",
@@ -28886,15 +28649,7 @@
       "Sky Attack (N , Snore, Soft-Boiled, Swift, Tailwind, Telekinesis, Trick, Uproar, Water Pulse, Zen Headbutt, Fey Wild , Sparklin Spin, Glittering Mist, Magical Bomb, Aura Burst"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fairy",
-        "Flying"
-      ],
-      "ability": "Misty Surge",
-      "stats": "+0 Atk +2 Def +3 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_togekiss.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "flabébé",
@@ -29661,15 +29416,7 @@
       ""
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fairy",
-        "Grass"
-      ],
-      "ability": "Blessed Touch",
-      "stats": "+1 Atk +2 Def +4 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_florges.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "machop",
@@ -30430,12 +30177,7 @@
       "Double Lariat"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Moxie",
-      "stats": "+5 Atk +2 Def +0 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_machamp.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "timburr",
@@ -31181,12 +30923,7 @@
       "Double Lariat"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Anger Point",
-      "stats": "",
-      "img_path": "images/megadex_conkeldurr.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "magby",
@@ -32030,12 +31767,7 @@
       "Fire Wall"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fire",
-      "ability": "Drought",
-      "stats": "+2 Atk +1 Def +4 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_magmortar.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "fletchling",
@@ -32791,15 +32523,7 @@
       "Aerial Combat"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fire",
-        "Flying"
-      ],
-      "ability": "Moxie",
-      "stats": "",
-      "img_path": "images/megadex_talonflame.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "gastly",
@@ -33713,12 +33437,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Ghost",
-        "Poison"
+        "Unchanged"
       ],
       "ability": "Shadow Tag",
-      "stats": "+0 Atk +2 Def +4 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_gengar.jpeg"
+      "stats": "+2 Def, +4 Sp.Atk, +2 Sp. Def, +2 Speed "
     }
   },
   {
@@ -34584,15 +34306,7 @@
       "Wrathful Blitz"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ghost",
-        "Dark"
-      ],
-      "ability": "Weird Power",
-      "stats": "+4 Atk +0 Def +4 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_dusknoir.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "litwick",
@@ -35552,15 +35266,7 @@
       "Light Daze"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ghost",
-        "Fire"
-      ],
-      "ability": "Fox Fire",
-      "stats": "",
-      "img_path": "images/megadex_chandelure.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "oddish",
@@ -36281,15 +35987,7 @@
       "Powder Strom "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Poison"
-      ],
-      "ability": "Deadly Poison",
-      "stats": "+0 Atk +4 Def +4 SpAtk +4 SpDef -2 Spd ",
-      "img_path": "images/megadex_vileplume.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "bellossom",
@@ -36599,15 +36297,7 @@
       "Mystic Circle"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Fairy"
-      ],
-      "ability": "Flower Veil",
-      "stats": "+0 Atk +2 Def +3 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_bellossom.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "bellsprout",
@@ -37320,15 +37010,7 @@
       "Spit Up (N, Stockpile (N, Sucker Punch, Swallow (N, Sweet Scent (N, Synthesis, Worry Seed,Encore, Body Slam, lnfestation,Gunk Shot, Pestilence, Rampage , Karma, Fertile Fangs, Seismic Blade, Numbing Venom, Wild Swing "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Poison"
-      ],
-      "ability": "Mini-Noses",
-      "stats": "+3 Atk +0 Def +3 SpAtk +0 SpDef +4 Spd ",
-      "img_path": "images/megadex_victreebel.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "hoppip",
@@ -38097,15 +37779,7 @@
       "Silver Cyclone"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Flying"
-      ],
-      "ability": "Effect Spore",
-      "stats": "+2 Atk +3 Def +2 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_jumpluff.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "seedot",
@@ -38812,15 +38486,7 @@
       "Umbral Assault"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Dark"
-      ],
-      "ability": "Windveiled",
-      "stats": "+3 Atk +0 Def +3 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_shiftry.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "budew",
@@ -39562,15 +39228,7 @@
       "Numbing Venom"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Poison"
-      ],
-      "ability": "Flower Power",
-      "stats": "+6 Atk +0 Def +2 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_roserade.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "bounsweet",
@@ -40265,12 +39923,7 @@
       "Butterfly Knife"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Grass",
-      "ability": "Parry",
-      "stats": "+4 Atk +1 Def +2 SpAtk +0 SpDef +3 Spd +1 Atk +0 Def +4 SpAtk +3 SpDef +2100 Spd ",
-      "img_path": "images/megadex_tsareena.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "rhyhorn",
@@ -41068,12 +40721,7 @@
       "Mystic Circle "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fairy",
-      "ability": "Celebrate",
-      "stats": "+0 Atk +3 Def +1 SpAtk +3 SpDef +3 Spd +2 Atk +2 Def +2 SpAtk +2 SpDef +290 Spd ",
-      "img_path": "images/megadex_slurpuff.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "mankey",
@@ -41611,15 +41259,7 @@
       "Jagged Punch "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fighting",
-        "Dark"
-      ],
-      "ability": "Bully",
-      "stats": "+5 Atk +2 Def +0 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_primeape.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "tyrogue",
@@ -42054,12 +41694,7 @@
       "Chakra Block "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Scrappy",
-      "stats": "+4 Atk +0 Def +0 SpAtk +0 SpDef +6 Spd ",
-      "img_path": "images/megadex_hitmonlee.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "hitmonchan",
@@ -42295,12 +41930,7 @@
       "Focus Punch (N, Ice Punch, Helping Hand, Laser Focus, Low Kick, Mega Kick, Metronome, Mud- Slap, Revenge (N, Role Play, Seismic Toss, Snore, Swift, Throat Chop, Thunder Punch, Uproar, Vacuum Wave, White Punch, Bright Punch , Boulder Bash , Brutal Beatdown , Fair Play, Second Wind , Jagged Punch, Chakra Block , Phantom Fury "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Speed Boost",
-      "stats": "+4 Atk +2 Def +0 SpAtk +0 SpDef +4 Spd ",
-      "img_path": "images/megadex_hitmonchan.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "hitmontop",
@@ -42554,12 +42184,7 @@
       "Scornful Vortex "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Quick Feet",
-      "stats": "+3 Atk +2 Def +0 SpAtk +1 SpDef +4 Spd ",
-      "img_path": "images/megadex_hitmontop.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "makuhita",
@@ -43063,12 +42688,7 @@
       "Second Wind"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Technician",
-      "stats": "+5 Atk +2 Def +1 SpAtk +1 SpDef +1 Spd ",
-      "img_path": "images/megadex_hariyama.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "meditite",
@@ -43621,12 +43241,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Fighting",
-        "Psychic"
+        "Unchanged"
       ],
-      "ability": "Dodge",
-      "stats": "+4 Atk +1 Def +2 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_medicham.jpeg"
+      "ability": "Pure Power",
+      "stats": "+4 Atk, +1 Def,+2 Sp. Atk, +1 Sp. Def, +2 Speed "
     }
   },
   {
@@ -44137,12 +43755,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Fighting",
-        "Steel"
+        "Unchanged"
       ],
       "ability": "Adaptability",
-      "stats": "+4 Atk +1 Def +4 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_lucario.png"
+      "stats": "+4 Atk, +2 Def,"
     }
   },
   {
@@ -44719,12 +44335,7 @@
       "Pressure Point"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Dodge",
-      "stats": "+2 Atk +2 Def +2 SpAtk +1 SpDef +3 Spd +0 Atk +1 Def +3 SpAtk +2 SpDef +483 Spd ",
-      "img_path": "images/megadex_mienshao.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pancham",
@@ -45279,15 +44890,7 @@
       "Wrathful Blitz"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Dark",
-        "Fighting"
-      ],
-      "ability": "Defiant",
-      "stats": "+3 Atk +0 Def +3 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_pangoro.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "crabrawler",
@@ -45743,15 +45346,7 @@
       "Icicle Storm "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ice",
-        "Fighting"
-      ],
-      "ability": "Sheer Force",
-      "stats": "+5 Atk +3 Def +0 SpAtk +2 SpDef +0 Spd +2 Atk +2 Def +1 SpAtk +2 SpDef +397 Spd ",
-      "img_path": "images/megadex_crabominable.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "vulpix",
@@ -46380,12 +45975,7 @@
       "Fire Wall"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fire",
-      "ability": "Heat Mirage",
-      "stats": "+2 HP +0 Atk +0 Def +4 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_ninetales.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "growlithe",
@@ -46902,12 +46492,7 @@
       "Fire Wall "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fire",
-      "ability": "Fiery Crash",
-      "stats": "+4 Atk +1 Def +0 SpAtk +1 SpDef +4 Spd ",
-      "img_path": "images/megadex_arcanine.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "ponyta",
@@ -47465,15 +47050,7 @@
       "Fire Wall"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fire",
-        "Fairy"
-      ],
-      "ability": "Levitate",
-      "stats": "+1 Atk +2 Def +0 SpAtk +2 SpDef +5 Spd ",
-      "img_path": "images/megadex_rapidash.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "slugma",
@@ -48014,15 +47591,7 @@
       "Fire Wall"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fire",
-        "Rock"
-      ],
-      "ability": "Solid Rock",
-      "stats": "+2 Atk +3 Def +2 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_magcargo.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "rhyperior",
@@ -48344,15 +47913,7 @@
       "Tectonic Burst"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ground",
-        "Rock"
-      ],
-      "ability": "Bodyguard",
-      "stats": "+1 Atk +2 Def +1 SpAtk +2 SpDef +4 Spd ",
-      "img_path": "images/megadex_rhyperior.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "trapinch",
@@ -49170,15 +48731,7 @@
       "Dragon Dance (N, Dragon Pulse, Earth Power, Fire Punch, Fury Cutter, Giga Drain, Heat Wave, Iron Tail, Laser Focus, Mud-Slap,Ominous Wind, Outrage, Signal Beam, Silver Wind, Snore, Sonic Boom, Superpower, Swift, Tailwind, Throat Chop, Thunder Punch, Twister , Stealth Rock, Air Slash, Crunch, Scorching Sands, Scorching sand, Scale Shot, Etheral Claw, Bould er Bash , Cediment Smack , Tectonic Fangs, Silver Cyclone, Scorched Lands ,Tempest, Dust Cloud, Shifting Soil"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ground",
-        "Dragon"
-      ],
-      "ability": "Vanguard",
-      "stats": "+3 Atk +0 Def +2 SpAtk +0 SpDef +5 Spd ",
-      "img_path": "images/megadex_flygon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sandile",
@@ -49980,15 +49533,7 @@
       "Power Trip (N , Snatch, Snore, Spite, Stealth Rock, Stomping Tantrum, Superpower, Throat Chop, Uproar, Body Slam, Close Combat, Fury Cutter, High Horsepower, Hone Claws, Fire Fang, Ice Fang, Thunder Fang, Psychic Fangs, Skitter Smack, Rampage, Brutal Beatdown, Boulder Bash, Sediment Smack , Seismic Blade,Jagged Punch, Tectonic Fangs , Jagged Fangs , Chaos Strike, Scornful Vortex , Ancestral Fury, Dragon Force"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ground",
-        "Dark"
-      ],
-      "ability": "Frighten",
-      "stats": "+3 Atk +2 Def +0 SpAtk +0 SpDef +5 Spd ",
-      "img_path": "images/megadex_krookodile.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "swinub",
@@ -50748,15 +50293,7 @@
       "Icicle Storm"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ice",
-        "Ground"
-      ],
-      "ability": "Frostbite",
-      "stats": "+4 Atk +3 Def +0 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_mamoswine.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "spheal",
@@ -51468,15 +51005,7 @@
       "Icicle Storm "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Ice"
-      ],
-      "ability": "Slush Rush",
-      "stats": "+2 Atk +2 Def +2 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_walrein.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "vanillite",
@@ -52244,12 +51773,7 @@
       "Ferrous Flash"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Ice",
-      "ability": "Cluster Mind",
-      "stats": "",
-      "img_path": "images/megadex_vanilluxe.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pidgey",
@@ -52909,12 +52433,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Normal",
-        "Flying"
+        "Unchanged"
       ],
-      "ability": "Gale Wings",
-      "stats": "+2 Atk +0 Def +5 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_pidgeot.jpeg"
+      "ability": "No Guard",
+      "stats": "+7 Sp. Atk, +1Sp. Def, +2 Speed "
     }
   },
   {
@@ -53770,15 +53292,7 @@
       "Sparkling Slam"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Fairy"
-      ],
-      "ability": "Absorb Force",
-      "stats": "+0 Atk +4 Def +3 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_wigglytuff.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "happiny",
@@ -54487,12 +54001,7 @@
       "Final Flash"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Confidence",
-      "stats": "+2 Atk +4 Def +0 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_blissey.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "porygon",
@@ -55284,12 +54793,7 @@
       "Prismatic Shot"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Color Change",
-      "stats": "+2 Atk +2 Def +2 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_porygon-z.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "slakoth",
@@ -55991,15 +55495,7 @@
       "Tectonic Burst"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Fighting"
-      ],
-      "ability": "Instead loses Truant",
-      "stats": "+0 Atk +0 Def +0 SpAtk +0 SpDef +0 Spd ",
-      "img_path": "images/megadex_slaking.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "whismur",
@@ -56710,12 +56206,7 @@
       "Tectonic Burst"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Sound Lance",
-      "stats": "+3 Atk +2 Def +3 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_exploud.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "starly",
@@ -57395,15 +56886,7 @@
       "Aerial Combat "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Flying"
-      ],
-      "ability": "Scrappy",
-      "stats": "+3 Atk +1 Def +1 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_staraptor.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "lillipup",
@@ -58103,12 +57586,7 @@
       "Wild Swing "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Conqueror",
-      "stats": "",
-      "img_path": "images/megadex_stoutland.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pidove",
@@ -58804,15 +58282,7 @@
       "Aerial Combat "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Flying"
-      ],
-      "ability": "Guts",
-      "stats": "+4 Atk +2 Def +0 SpAtk +1 SpDef +3 Spd +2 Atk +3 Def +2 SpAtk +3 SpDef +071 Spd ",
-      "img_path": "images/megadex_unfezant.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pikipek",
@@ -59474,15 +58944,7 @@
       "Aerial Combat "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Flying"
-      ],
-      "ability": "Anger Point",
-      "stats": "+1 Atk +2 Def +1 SpAtk +2 SpDef +4 Spd ",
-      "img_path": "images/megadex_toucannon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "nidoran (f)",
@@ -60223,15 +59685,7 @@
       "Acidic Impact"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Poison",
-        "Ground"
-      ],
-      "ability": "Regal Challenge",
-      "stats": "+2 Atk +4 Def +0 SpAtk +4 SpDef +0 Spd ",
-      "img_path": "images/megadex_nidoqueen.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "nidoran (m)",
@@ -60964,15 +60418,7 @@
       "Acidic Impact"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Poison",
-        "Ground"
-      ],
-      "ability": "Regal Challenge",
-      "stats": "+4 HP +4 Atk +2 Def +0 SpAtk +0 SpDef +0 Spd ",
-      "img_path": "images/megadex_nidoking.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "zubat",
@@ -61809,15 +61255,7 @@
       "Blighted Touch"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Poison",
-        "Flying"
-      ],
-      "ability": "Tough Claws",
-      "stats": "+4 Atk +2 Def +0 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_crobat.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "abra",
@@ -62582,10 +62020,11 @@
     ],
     "egg_moves": [],
     "mega_evolution": {
-      "type": "Psychic",
-      "ability": "Trace",
-      "stats": "+0 Atk +2 Def +4 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_alakazam.jpeg"
+      "type": [
+        ""
+      ],
+      "ability": "",
+      "stats": ""
     }
   },
   {
@@ -63383,12 +62822,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Psychic",
-        "Fairy"
+        "Unchanged"
       ],
       "ability": "Pixilate",
-      "stats": "+2 Atk +0 Def +4 SpAtk +4 SpDef +0 Spd ",
-      "img_path": "images/megadex_gardevoir.jpeg"
+      "stats": "+2 Atk, +4 Sp.Atk, +2 Sp. Def, +2 Speed "
     }
   },
   {
@@ -63734,12 +63171,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Psychic",
-        "Fighting"
+        "Unchanged"
       ],
       "ability": "Inner Focus",
-      "stats": "+4 Atk +3 Def +0 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_gallade.jpeg"
+      "stats": "+4 Atk, +3 Def,+3 Speed "
     }
   },
   {
@@ -64526,12 +63961,7 @@
       "Play Nice (N, Recycle, Role Play, Shock Wave, Signal Beam, Skill Swap, Snatch, Snore, Telekinesis, Trick, Uproar, Zen Headbutt , Devotion Dance,Mind Step , Energy Wave  , Mind Break , Ripping Abyss, Shadow Bolt, Shadow Veil"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Psychic",
-      "ability": "Magic Guard",
-      "stats": "+0 Atk +1 Def +2 SpAtk +4 SpDef +3 Spd ",
-      "img_path": "images/megadex_gothitelle.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "solosis",
@@ -65012,7 +64442,7 @@
     "mega_evolution": null
   },
   {
-    "name": "reuniclus",
+    "name": "speed:3",
     "stat_hp": 241,
     "stat_atk": -1,
     "stat_def": -1,
@@ -66053,15 +65483,7 @@
       "Tectonic Burst "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Fire"
-      ],
-      "ability": "Magma Armor",
-      "stats": "+0 Atk +5 Def +0 SpAtk +5 SpDef +0 Spd ",
-      "img_path": "images/megadex_golem.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "roggenrolla",
@@ -66889,15 +66311,7 @@
       "Scrap Shield"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Ground"
-      ],
-      "ability": "Sand Veil",
-      "stats": "",
-      "img_path": "images/megadex_gigalith.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "aron",
@@ -67738,12 +67152,7 @@
       "+2 Sp. Def"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Steel",
-      "ability": "Battle Armor",
-      "stats": "+3 Atk +5 Def +0 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_aggron.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "klink",
@@ -68511,15 +67920,7 @@
       "Scrap Shield "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Steel",
-        "Poison"
-      ],
-      "ability": "Stench",
-      "stats": "+3 Atk +2 Def +3 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_klinklang.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "honedge",
@@ -69335,15 +68736,7 @@
       "Metallurgy"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Steel",
-        "Ghost"
-      ],
-      "ability": "Mold Breaker",
-      "stats": "",
-      "img_path": "images/megadex_aegislash.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "poliwag",
@@ -70101,15 +69494,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Fighting"
-      ],
-      "ability": "Water Bubble",
-      "stats": "+4 Atk +2 Def +0 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_poliwrath.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "politoed",
@@ -70368,12 +69753,7 @@
       "Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Absorb Force",
-      "stats": "+1 Atk +3 Def +4 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_politoed.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "horsea",
@@ -71079,15 +70459,7 @@
       "Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Dragon"
-      ],
-      "ability": "Swift Swim",
-      "stats": "+2 Atk +1 Def +3 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_kingdra.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "azurill",
@@ -71864,15 +71236,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Fairy"
-      ],
-      "ability": "Guts",
-      "stats": "+3 Atk +2 Def +1 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_azumarill.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "lotad",
@@ -72583,15 +71947,7 @@
       "Mud Shot"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Grass"
-      ],
-      "ability": "Drizzle",
-      "stats": "+0 Atk +1 Def +3 SpAtk +3 SpDef +3 Spd ",
-      "img_path": "images/megadex_ludicolo.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "tympole",
@@ -73312,15 +72668,7 @@
       "Geyser Surge "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Ground"
-      ],
-      "ability": "Drizzle",
-      "stats": "+3 Atk +3 Def +3 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_seismitoad.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "paras",
@@ -73874,15 +73222,7 @@
       "Powder Strom"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Ghost"
-      ],
-      "ability": "Mummy",
-      "stats": "+4 Atk +2 Def +2 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_parasect.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "venonat",
@@ -74405,15 +73745,7 @@
       "Mind Flay"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Psychic"
-      ],
-      "ability": "Magic Guard",
-      "stats": "+2 HP +0 Atk +1 Def +3 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_venomoth.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "scyther",
@@ -74964,12 +74296,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Bug",
-        "Steel"
+        "Unchanged"
       ],
-      "ability": "Vanguard",
-      "stats": "+2 Atk +4 Def +0 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_scizor.jpeg"
+      "ability": "Technician",
+      "stats": "+2 Atk, +4 Def,+1 Sp. Atk, +2 Sp. Def, +1 Speed "
     }
   },
   {
@@ -75468,15 +74798,7 @@
       "Sparkling Slam "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Flying"
-      ],
-      "ability": "Aerilate",
-      "stats": "+1 Atk +3 Def +0 SpAtk +2 SpDef +4 Spd ",
-      "img_path": "images/megadex_ledian.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "spinarak",
@@ -76027,15 +75349,7 @@
       "Mind Flay "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Poison"
-      ],
-      "ability": "Deadly Poison",
-      "stats": "+2 Atk +3 Def +0 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_ariados.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "yanma",
@@ -76533,15 +75847,7 @@
       "Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Flying"
-      ],
-      "ability": "Accelerate",
-      "stats": "+2 Atk +1 Def +3 SpAtk +0 SpDef +4 Spd ",
-      "img_path": "images/megadex_yanmega.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pineco",
@@ -77039,15 +76345,7 @@
       "Scrap Shield "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Steel"
-      ],
-      "ability": "Iron Barbs",
-      "stats": "+4 Atk +3 Def +1 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_forretress.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "surskit",
@@ -77508,15 +76806,7 @@
       "Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Flying"
-      ],
-      "ability": "Hydration",
-      "stats": "+3 Atk +0 Def +3 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_masquerain.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "nincada",
@@ -77951,15 +77241,7 @@
       "Bug Bite (N, Defog, Double-Edge, Fury Cutter, Giga Drain, Laser Focus, Mud-Slap, Ominous Wind, Silver Wind, Snore, Spite, String Shot, Swift, Uproar, Air Slash, Aerial Ace, Hone Claws, Hurricane, Quiver Dance, Skitter Smack, Silk Trap, Defiant Sting , Locust Swarm, Silver Cyclone, Phantom Fury, Assassinate "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Flying"
-      ],
-      "ability": "Aerilate",
-      "stats": "+4 Atk +3 Def +0 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_ninjask.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "shedinja",
@@ -78238,15 +77520,7 @@
       "Assassinate"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Ghost"
-      ],
-      "ability": "Shadow Tag",
-      "stats": "+2 Atk +0 Def +4 SpAtk +0 SpDef +4 Spd ",
-      "img_path": "images/megadex_shedinja.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "kricketot",
@@ -78625,12 +77899,7 @@
       "Iron Blade "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Bug",
-      "ability": "Dazzling",
-      "stats": "+2 Atk +1 Def +3 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_kricketune.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "burmy",
@@ -78761,7 +78030,7 @@
     "mega_evolution": null
   },
   {
-    "name": "wormadam",
+    "name": "wormadam plant cloak",
     "stat_hp": 8,
     "stat_atk": 6,
     "stat_def": 9,
@@ -79018,7 +78287,7 @@
     "mega_evolution": null
   },
   {
-    "name": "wormadam sandy",
+    "name": "wormadam sandy cloak",
     "stat_hp": 8,
     "stat_atk": 10,
     "stat_def": 11,
@@ -79313,7 +78582,7 @@
     "mega_evolution": null
   },
   {
-    "name": "wormadam trash",
+    "name": "wormadam trash cloak",
     "stat_hp": 8,
     "stat_atk": 7,
     "stat_def": 11,
@@ -79809,15 +79078,7 @@
       "Bug Bite (N, Defog, Electroweb, Endeavor, Giga Drain, Mud-Slap, Natural Gift, Ominous Wind, Roost, Signal Beam, Skill Swap, Snore, String Shot, Swift, Tailwind, Twister, Agility, Silk Trap , Defiant Sting , Fury Cutter, Butterfly Knife,Powder Strom, Silver Cyclone, Concussive Burst , Migraine "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Flying"
-      ],
-      "ability": "Speed Boost",
-      "stats": "+0 Atk +1 Def +4 SpAtk +1 SpDef +4 Spd ",
-      "img_path": "images/megadex_mothim.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "combee",
@@ -80238,15 +79499,7 @@
       "Imposing Stare "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Flying"
-      ],
-      "ability": "Regal Challenge",
-      "stats": "+3 Atk +1 Def +2 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_vespiquen.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "dwebble",
@@ -80754,15 +80007,7 @@
       "Tectonic Burst "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Rock"
-      ],
-      "ability": "Sand Stream",
-      "stats": "",
-      "img_path": "images/megadex_crustle.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "karrablast",
@@ -81248,15 +80493,7 @@
       "Fell Stinger (N, Giga Drain, Iron Defense, Iron Head, Knock Off, Laser Focus, Signal Beam, Snore, Body Slam, Close Combat, Razor Shell , Defiant Sting, Icebreaker , Double Lariat , Execution, Metallurgy, Scrap Shield"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Steel"
-      ],
-      "ability": "Parry",
-      "stats": "+2 Atk +3 Def +0 SpAtk +0 SpDef +5 Spd ",
-      "img_path": "images/megadex_escavalier.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "shelmet",
@@ -81727,12 +80964,7 @@
       "Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Bug",
-      "ability": "Speed Boost",
-      "stats": "",
-      "img_path": "images/megadex_accelgor.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "joltik",
@@ -82248,15 +81480,7 @@
       "Volt Crush "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Electric"
-      ],
-      "ability": "Speed Boost",
-      "stats": "+1 Atk +1 Def +3 SpAtk +1 SpDef +4 Spd ",
-      "img_path": "images/megadex_galvantula.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "larvesta",
@@ -82788,15 +82012,7 @@
       "Tempest"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Fire"
-      ],
-      "ability": "Flash Fire",
-      "stats": "+2 Atk +1 Def +3 SpAtk +3 SpDef +186 Spd ",
-      "img_path": "images/megadex_volcarona.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "cutiefly",
@@ -83306,15 +82522,7 @@
       "Mystic Circle "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Fairy"
-      ],
-      "ability": "Dazzling",
-      "stats": "",
-      "img_path": "images/megadex_ribombee.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "wimpod",
@@ -83697,15 +82905,7 @@
       "Giga Leech "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Water"
-      ],
-      "ability": "Cruelty",
-      "stats": "+3 Atk +2 Def +0 SpAtk +0 SpDef +5 Spd +0 Atk +1 Def +5 SpAtk +4 SpDef +0101 Spd ",
-      "img_path": "images/megadex_golisopod.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "murkrow",
@@ -84246,15 +83446,7 @@
       "Night Slash (N, Ominous Wind, Pluck, Sky Attack, Snatch, Snore, Spite, Sucker Punch (N, Superpower, Swift, Tailwind, Telekinesis, Twister, Uproar, Air Slash, Brave Bird, Dual Wingbeat, Hurricane,Brutal Beatdown , V Formation, Backlash , Ripping Abyss, Shadow Bolt, Umbral Assault, Feather Storm "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Dark",
-        "Flying"
-      ],
-      "ability": "Bodyguard",
-      "stats": "+0 Atk +5 Def +0 SpAtk +5 SpDef +0 Spd ",
-      "img_path": "images/megadex_honchkrow.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sneasel",
@@ -84809,15 +84001,7 @@
       "Execution"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Dark",
-        "Ice"
-      ],
-      "ability": "Tough Claws",
-      "stats": "+4 Atk +2 Def +0 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_weavile.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "houndour",
@@ -85399,12 +84583,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Fire",
-        "Dark"
+        "Unchanged"
       ],
       "ability": "Solar Power",
-      "stats": "+0 Atk +4 Def +3 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_houndoom.jpeg"
+      "stats": "+4 Def, +3 Sp.Atk, +1 Sp. Def, +2 Speed "
     }
   },
   {
@@ -85913,12 +85095,7 @@
       "Imposing Stare "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Dark",
-      "ability": "Unnerve",
-      "stats": "+3 Atk +2 Def +0 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_mightyena.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "purrloin",
@@ -86456,12 +85633,7 @@
       "Umbral Assault "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Dark",
-      "ability": "Defiant",
-      "stats": "+3 Atk +0 Def +3 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_liepard.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "scraggy",
@@ -87023,15 +86195,7 @@
       "Imposing Stare"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Dark",
-        "Fighting"
-      ],
-      "ability": "Iron Fist",
-      "stats": "+4 Atk +2 Def +0 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_scrafty.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "zorua",
@@ -87606,12 +86770,7 @@
       "Phantom Fury"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Dark",
-      "ability": "Unnerve",
-      "stats": "+4 Atk +0 Def +3 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_zoroark.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pawniard",
@@ -88162,15 +87321,7 @@
       "Iron Blade "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Dark",
-        "Steel"
-      ],
-      "ability": "Sniper",
-      "stats": "+3 Atk +3 Def +0 SpAtk +0 SpDef +4 Spd ",
-      "img_path": "images/megadex_bisharp.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "vullaby",
@@ -88680,15 +87831,7 @@
       "Scary Face",
       "Concentration"
     ],
-    "mega_evolution": {
-      "type": [
-        "Dark",
-        "Flying"
-      ],
-      "ability": "Bone Lord",
-      "stats": "",
-      "img_path": "images/megadex_mandibuzz.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "inkay",
@@ -89306,15 +88449,7 @@
       "Mind Flay"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Dark",
-        "Psychic"
-      ],
-      "ability": "Cruelty",
-      "stats": "+2 Atk +2 Def +2 SpAtk +3 SpDef +1 Spd ",
-      "img_path": "images/megadex_malamar.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "voltorb",
@@ -89802,12 +88937,7 @@
       "Volt Crush "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Electric",
-      "ability": "Electric Surge",
-      "stats": "+0 Atk +3 Def +5 SpAtk +0 SpDef +2 Spd ",
-      "img_path": "images/megadex_electrode.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "electrike",
@@ -90339,10 +89469,11 @@
     ],
     "egg_moves": [],
     "mega_evolution": {
-      "type": "Electric",
+      "type": [
+        "Unchanged"
+      ],
       "ability": "Intimidate",
-      "stats": "+0 Atk +2 Def +3 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_manectric.jpeg"
+      "stats": "+2 Def, +3 Sp.Atk, +2 Sp. Def, +3 "
     }
   },
   {
@@ -90860,12 +89991,7 @@
       "Snatch",
       "Take Down"
     ],
-    "mega_evolution": {
-      "type": "Electric",
-      "ability": "Electric Surge",
-      "stats": "+3 Atk +1 Def +2 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_zebstrika.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "helioptile",
@@ -91415,15 +90541,7 @@
       "Parabolic Charge (N , Razor Wind (N , Shock Wave, Signal Beam, Snore, Thunder (N , Thunder Punch, Agility, Electric Terrain, Rising Voltage, Scale Shot, Weather Ball, Light Terrain, Radiant Force, Lightray Pulse, Lightning Lance, Light Daze"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Electric",
-        "Normal"
-      ],
-      "ability": "Drought",
-      "stats": "+3 Atk +0 Def +4 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_heliolisk.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "snubbull",
@@ -91907,12 +91025,7 @@
       "Fire Fang (N, Focus Punch, Heal Bell, Hyper Voice, Ice Punch, Ice Fang (N, Iron Tail, Last Resort, Low Kick, Mega Kick, Mega Punch, Mud-Slap, Outrage (N, Seismic Toss, Shock Wave, Snore, Stomping Tantrum, Super Fang, Superpower, Thunder Punch, Thunder Fang (N, Water Pulse, Coaching, Jagged Fangs, Iron Fangs, Rampage, Brutal Beatdown, Boulder Bash, Mud Shot, Butterfly Knife, Fey Wild, Cutsie Slap , Tectonic Fangs, Glittering Mist"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fairy",
-      "ability": "Kampfgeist",
-      "stats": "+4 Atk +2 Def +0 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_granbull.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "spritzee",
@@ -92458,12 +91571,7 @@
       "Starlight Spark"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fairy",
-      "ability": "Pastel Veil",
-      "stats": "+0 Atk +2 Def +3 SpAtk +4 SpDef +1 Spd ",
-      "img_path": "images/megadex_aromatisse.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "swirlix",
@@ -93245,12 +92353,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Fire",
-        "Ground"
+        "Unchanged"
       ],
       "ability": "Sheer Force",
-      "stats": "+2 Atk +3 Def +4 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_camerupt.jpeg"
+      "stats": "+2 Atk, +3 Def,+4 Sp. Atk, +3 Sp. Def, -2 Speed éDex Update. "
     }
   },
   {
@@ -93504,7 +92610,7 @@
     "mega_evolution": null
   },
   {
-    "name": "simisear",
+    "name": "slmlsear",
     "stat_hp": 8,
     "stat_atk": 11,
     "stat_def": 6,
@@ -93978,7 +93084,7 @@
     "mega_evolution": null
   },
   {
-    "name": "darmanitan",
+    "name": "darmanltan standard mode",
     "stat_hp": 11,
     "stat_atk": 14,
     "stat_def": 6,
@@ -94272,7 +93378,7 @@
     "mega_evolution": null
   },
   {
-    "name": "darmanitan zen",
+    "name": "darmanltan zen mode",
     "stat_hp": 11,
     "stat_atk": 3,
     "stat_def": 11,
@@ -94503,7 +93609,7 @@
     "mega_evolution": null
   },
   {
-    "name": "litleo",
+    "name": "lltleo",
     "stat_hp": 6,
     "stat_atk": 5,
     "stat_def": 6,
@@ -94983,18 +94089,10 @@
       "Hyper Beam (N, Hyper Voice, Iron Tail, Snatch, Snore Wild Charge, Psychic Fangs,Butterfly Knife,Fair Play,Backlash , Umbral Assault,Imposing Stare "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Fire",
-        "Normal"
-      ],
-      "ability": "Sheer Force",
-      "stats": "+4 Atk +1 Def +4 SpAtk +0 SpDef +1 Spd +4 Atk +2 Def +0 SpAtk +3 SpDef +188 Spd ",
-      "img_path": "images/megadex_pyroar.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "noibat",
+    "name": "nolbat",
     "stat_hp": 5,
     "stat_atk": 3,
     "stat_def": 5,
@@ -95269,7 +94367,7 @@
     "mega_evolution": null
   },
   {
-    "name": "noivern",
+    "name": "nolvern",
     "stat_hp": 10,
     "stat_atk": 7,
     "stat_def": 8,
@@ -95595,7 +94693,7 @@
     "mega_evolution": null
   },
   {
-    "name": "misdreavus",
+    "name": "mlsdreavus",
     "stat_hp": 6,
     "stat_atk": 6,
     "stat_def": 6,
@@ -95917,7 +95015,7 @@
     "mega_evolution": null
   },
   {
-    "name": "mismagius",
+    "name": "mlsmaglus",
     "stat_hp": 6,
     "stat_atk": 6,
     "stat_def": 6,
@@ -96828,16 +95926,14 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Ghost",
-        "Dark"
+        "Unchanged"
       ],
       "ability": "Prankster",
-      "stats": "+5 Atk +1 Def +1 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_banette.jpeg"
+      "stats": "+5 Atk, +1 Def,+1 Sp. Atk, +2 Sp. Def, +1 Speed "
     }
   },
   {
-    "name": "drifloon",
+    "name": "drlfloon",
     "stat_hp": 9,
     "stat_atk": 5,
     "stat_def": 3,
@@ -97119,7 +96215,7 @@
     "mega_evolution": null
   },
   {
-    "name": "drifblim",
+    "name": "drlfbllm",
     "stat_hp": 15,
     "stat_atk": 8,
     "stat_def": 5,
@@ -98509,15 +97605,7 @@
       "Wrathful Blitz"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ghost",
-        "Grass"
-      ],
-      "ability": "Cluster Mind",
-      "stats": "",
-      "img_path": "images/megadex_trevenant.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pumpkaboo",
@@ -98792,7 +97880,7 @@
     "mega_evolution": null
   },
   {
-    "name": "gourgeist",
+    "name": "gourgelst",
     "stat_hp": 9,
     "stat_atk": 6,
     "stat_def": 12,
@@ -99641,15 +98729,7 @@
       "Shifting Soil"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ghost",
-        "Ground"
-      ],
-      "ability": "Rough Skin + Large",
-      "stats": "+1 Atk +3 Def +2 SpAtk +3 SpDef +1 Spd ",
-      "img_path": "images/megadex_palossand.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "exeggcute",
@@ -100137,15 +99217,7 @@
       "Confusion (N, Double-Edge, Giga Drain, Gravity, Low Kick, Rollout, Seed Bomb (N, Skill Swap, Snore, Stomping Tantrum, Synthesis, Telekinesis, Uproar, Worry Seed, Zen Headbutt, Grassy Terrain, Grassy Glide, Earthpower , Powder Strom "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Psychic"
-      ],
-      "ability": "Cruelty",
-      "stats": "+0 Atk +3 Def +2 SpAtk +0 SpDef +5 Spd ",
-      "img_path": "images/megadex_exeggutor.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "exeggutor alola",
@@ -100927,12 +99999,7 @@
       "Drain Brain "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Grass",
-      "ability": "Storm Drain",
-      "stats": "+3 Atk +2 Def +3 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_tangrowth.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sunkern",
@@ -101456,15 +100523,10 @@
       "Final Flash"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Grass",
-      "ability": "Flash Fire",
-      "stats": "+0 Atk +2 Def +4 SpAtk +3 SpDef +1 Spd ",
-      "img_path": "images/megadex_sunflora.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "shroomish",
+    "name": "shroomlsh",
     "stat_hp": 6,
     "stat_atk": 4,
     "stat_def": 6,
@@ -101898,15 +100960,7 @@
       "Cutsie Slap "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Fighting"
-      ],
-      "ability": "Anger Point",
-      "stats": "+3 Atk +2 Def +0 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_breloom.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "cacnea",
@@ -102434,18 +101488,10 @@
       "Imposing Stare "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Dark"
-      ],
-      "ability": "Sand Stream",
-      "stats": "+3 Atk +1 Def +3 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_cacturne.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "cherubi",
+    "name": "cherubl",
     "stat_hp": 5,
     "stat_atk": 6,
     "stat_def": 5,
@@ -102677,7 +101723,7 @@
     "mega_evolution": null
   },
   {
-    "name": "cherrim",
+    "name": "cherrlm",
     "stat_hp": 7,
     "stat_atk": 10,
     "stat_def": 7,
@@ -103423,12 +102469,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Ice",
-        "Grass"
+        "Unchanged"
       ],
-      "ability": "Root Down",
-      "stats": "+4 Atk +3 Def +2 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_abomasnow.png"
+      "ability": "Snow Warning",
+      "stats": ""
     }
   },
   {
@@ -103674,7 +102718,7 @@
     "mega_evolution": null
   },
   {
-    "name": "simisage",
+    "name": "slmlsage",
     "stat_hp": 8,
     "stat_atk": 11,
     "stat_def": 6,
@@ -104178,7 +103222,7 @@
     "mega_evolution": null
   },
   {
-    "name": "whimsicott",
+    "name": "whlmslcott",
     "stat_hp": 6,
     "stat_atk": 7,
     "stat_def": 9,
@@ -104442,7 +103486,7 @@
     "mega_evolution": null
   },
   {
-    "name": "petilil",
+    "name": "petllll",
     "stat_hp": 5,
     "stat_atk": 4,
     "stat_def": 5,
@@ -104696,7 +103740,7 @@
     "mega_evolution": null
   },
   {
-    "name": "lilligant",
+    "name": "lllllgant",
     "stat_hp": 8,
     "stat_atk": 6,
     "stat_def": 8,
@@ -105439,15 +104483,7 @@
       "Acidic Impact "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Poison"
-      ],
-      "ability": "Dire Spore",
-      "stats": "",
-      "img_path": "images/megadex_amoonguss.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "ferroseed",
@@ -105935,18 +104971,10 @@
       "Scrap Shield "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Steel"
-      ],
-      "ability": "Root Down",
-      "stats": "",
-      "img_path": "images/megadex_ferrothorn.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "skiddo",
+    "name": "sklddo",
     "stat_hp": 7,
     "stat_atk": 7,
     "stat_def": 5,
@@ -106418,18 +105446,10 @@
       "Yggdrasil Force "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Normal"
-      ],
-      "ability": "Sturdy",
-      "stats": "",
-      "img_path": "images/megadex_gogoat.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "fomantis",
+    "name": "fomantls",
     "stat_hp": 4,
     "stat_atk": 6,
     "stat_def": 4,
@@ -106643,7 +105663,7 @@
     "mega_evolution": null
   },
   {
-    "name": "lurantis",
+    "name": "lurantls",
     "stat_hp": 7,
     "stat_atk": 12,
     "stat_def": 9,
@@ -107153,7 +106173,7 @@
     "mega_evolution": null
   },
   {
-    "name": "shiinotic",
+    "name": "shllnotlc",
     "stat_hp": 7,
     "stat_atk": 5,
     "stat_def": 9,
@@ -107961,18 +106981,10 @@
       "Tectonic Burst "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ground",
-        "Steel"
-      ],
-      "ability": "Iron Barbs",
-      "stats": "+4 Atk +4 Def +0 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_sandslash.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "diglett",
+    "name": "dlglett",
     "stat_hp": 1,
     "stat_atk": 6,
     "stat_def": 3,
@@ -108200,7 +107212,7 @@
     "mega_evolution": null
   },
   {
-    "name": "dugtrio",
+    "name": "dugtrlo",
     "stat_hp": 4,
     "stat_atk": 10,
     "stat_def": 5,
@@ -108962,15 +107974,7 @@
       "Drain Punch "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ground",
-        "Ghost"
-      ],
-      "ability": "Fade Away",
-      "stats": "+5 Atk +2 Def +0 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_marowak.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "marowak alola",
@@ -109281,7 +108285,7 @@
     "mega_evolution": null
   },
   {
-    "name": "gligar",
+    "name": "gllgar",
     "stat_hp": 7,
     "stat_atk": 8,
     "stat_def": 11,
@@ -109562,7 +108566,7 @@
     "mega_evolution": null
   },
   {
-    "name": "gliscor",
+    "name": "gllscor",
     "stat_hp": 8,
     "stat_atk": 10,
     "stat_def": 13,
@@ -110305,15 +109309,7 @@
       "Dust Cloud "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ground",
-        "Normal"
-      ],
-      "ability": "Rock Head",
-      "stats": "+0 Atk +3 Def +0 SpAtk +3 SpDef +4 Spd ",
-      "img_path": "images/megadex_donphan.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "baltoy",
@@ -110918,18 +109914,10 @@
       "Meteor Shower"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ground",
-        "Psychic"
-      ],
-      "ability": "Beam Cannon",
-      "stats": "+0 Atk +2 Def +4 SpAtk +3 SpDef +1 Spd ",
-      "img_path": "images/megadex_claydol.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "hippopotas",
+    "name": "hlppopotas",
     "stat_hp": 7,
     "stat_atk": 7,
     "stat_def": 8,
@@ -111141,7 +110129,7 @@
     "mega_evolution": null
   },
   {
-    "name": "hippowdon",
+    "name": "hlppowdon",
     "stat_hp": 10,
     "stat_atk": 11,
     "stat_def": 12,
@@ -111364,7 +110352,7 @@
     "mega_evolution": null
   },
   {
-    "name": "drilbur",
+    "name": "drllbur",
     "stat_hp": 6,
     "stat_atk": 9,
     "stat_def": 4,
@@ -111596,7 +110584,7 @@
     "mega_evolution": null
   },
   {
-    "name": "excadrill",
+    "name": "excadrlll",
     "stat_hp": 11,
     "stat_atk": 14,
     "stat_def": 6,
@@ -112431,15 +111419,7 @@
       "Force Punch"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ghost",
-        "Ground"
-      ],
-      "ability": "Battle Armor",
-      "stats": "",
-      "img_path": "images/megadex_golurk.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "mudbray",
@@ -112922,12 +111902,7 @@
       "Dust Cloud "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Ground",
-      "ability": "Moxie",
-      "stats": "",
-      "img_path": "images/megadex_mudsdale.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "smoochum",
@@ -113457,15 +112432,7 @@
       "Migraine"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ice",
-        "Fairy"
-      ],
-      "ability": "Regal Challenge",
-      "stats": "+0 Atk +2 Def +3 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_jynx.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "snorunt",
@@ -113693,7 +112660,7 @@
     "mega_evolution": null
   },
   {
-    "name": "glalie",
+    "name": "glalle",
     "stat_hp": 8,
     "stat_atk": 10,
     "stat_def": 8,
@@ -114277,15 +113244,7 @@
       "Destiny Bond (N, Double-Edge, lce Punch, lcy Wind, Laser Focus, Ominous Wind, Pain Split, Rollout, Shock Wave, Signal Beam, Snatch, Snore, Spite, Sucker Punch, Telekinesis, Trick, Water Pulse, Power Gem, Moon Blast, Poltergheist, Aurora Pillar , Astral Assault ,Karma , Haunting Aura, Frost Typhoon, Icicle Storm"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ice",
-        "Ghost"
-      ],
-      "ability": "Snow Warning",
-      "stats": "+0 Atk +0 Def +3 SpAtk +5 SpDef +2 Spd ",
-      "img_path": "images/megadex_froslass.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "cubchoo",
@@ -114533,7 +113492,7 @@
     "mega_evolution": null
   },
   {
-    "name": "beartic",
+    "name": "beartlc",
     "stat_hp": 10,
     "stat_atk": 13,
     "stat_def": 8,
@@ -114817,7 +113776,7 @@
     "mega_evolution": null
   },
   {
-    "name": "bergmite",
+    "name": "bergmlte",
     "stat_hp": 6,
     "stat_atk": 7,
     "stat_def": 9,
@@ -115342,12 +114301,7 @@
       "Icicle Storm"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Ice",
-      "ability": "Abominable",
-      "stats": "+3 Atk +3 Def +2 SpAtk +2 SpDef +0 Spd +3 Atk +3 Def +0 SpAtk +4 SpDef +094 Spd ",
-      "img_path": "images/megadex_avalugg.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "rattata",
@@ -115575,7 +114529,7 @@
     "mega_evolution": null
   },
   {
-    "name": "raticate",
+    "name": "ratlcate",
     "stat_hp": 6,
     "stat_atk": 10,
     "stat_def": 6,
@@ -116241,15 +115195,7 @@
       "Pluck (N, Sky Attack, Snore, Swift, Tailwind, Throat Chop, Twister, Uproar, Agility , V Formation, Tempest , Aerial Combat "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Flying"
-      ],
-      "ability": "Frighten",
-      "stats": "+4 Atk +1 Def +0 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_fearow.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "meowth",
@@ -116505,7 +115451,7 @@
     "mega_evolution": null
   },
   {
-    "name": "persian",
+    "name": "perslan",
     "stat_hp": 7,
     "stat_atk": 9,
     "stat_def": 6,
@@ -116970,7 +115916,7 @@
     "mega_evolution": null
   },
   {
-    "name": "dodrio",
+    "name": "dodrlo",
     "stat_hp": 9,
     "stat_atk": 11,
     "stat_def": 7,
@@ -117219,7 +116165,7 @@
     "mega_evolution": null
   },
   {
-    "name": "lickitung",
+    "name": "llckltung",
     "stat_hp": 9,
     "stat_atk": 6,
     "stat_def": 8,
@@ -117470,7 +116416,7 @@
     "mega_evolution": null
   },
   {
-    "name": "lickilicky",
+    "name": "llcklllcky",
     "stat_hp": 15,
     "stat_atk": 10,
     "stat_def": 10,
@@ -118230,15 +117176,7 @@
       "Tectonic Burst"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Fighting"
-      ],
-      "ability": "Huge Power",
-      "stats": "+3 Atk -2 Def +0 SpAtk -2 SpDef +11 Spd ",
-      "img_path": "images/megadex_snorlax.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sentret",
@@ -118722,12 +117660,7 @@
       "Coil (N, Covet, Defense Curl, Double-Edge, Dynamic Punch, Fire Punch, Focus Punch, Fury Cutter, Helping Hand, Hyper Voice, Ice Punch, Iron Tail, Knock Off, Last Resort, Mud-Slap, Rollout, Shock Wave, Snore, Sucker Punch, Super Fang, Swift, Thunder Punch, Trick, Water Pulse, Uproar, Sparkling Slam "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Tangled Feet",
-      "stats": "+2 Atk +2 Def +0 SpAtk +1 SpDef +5 Spd ",
-      "img_path": "images/megadex_furret.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "hoothoot",
@@ -119243,18 +118176,10 @@
       "Sky Attack (N, Snore, Swift, Tailwind, Twister, Uproar, Zen Headbutt, Stored Power, Dual Wingbeat , Butterfly Knife , Fury Cutter, V formation, Silver Cyclone, Feather Storm , Migraine "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Psychic",
-        "Flying"
-      ],
-      "ability": "Probability Control",
-      "stats": "+0 Atk +2 Def +3 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_noctowl.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "aipom",
+    "name": "alpom",
     "stat_hp": 6,
     "stat_atk": 7,
     "stat_def": 6,
@@ -119503,7 +118428,7 @@
     "mega_evolution": null
   },
   {
-    "name": "ambipom",
+    "name": "amblpom",
     "stat_hp": 8,
     "stat_atk": 10,
     "stat_def": 7,
@@ -119735,7 +118660,7 @@
     "mega_evolution": null
   },
   {
-    "name": "teddiursa",
+    "name": "teddlursa",
     "stat_hp": 6,
     "stat_atk": 8,
     "stat_def": 5,
@@ -119985,7 +118910,7 @@
     "mega_evolution": null
   },
   {
-    "name": "ursaring",
+    "name": "ursarlng",
     "stat_hp": 9,
     "stat_atk": 13,
     "stat_def": 8,
@@ -120195,7 +119120,7 @@
     "mega_evolution": null
   },
   {
-    "name": "zigzagoon",
+    "name": "zlgzagoon",
     "stat_hp": 4,
     "stat_atk": 3,
     "stat_def": 4,
@@ -120430,7 +119355,7 @@
     "mega_evolution": null
   },
   {
-    "name": "linoone",
+    "name": "llnoone",
     "stat_hp": 8,
     "stat_atk": 10,
     "stat_def": 6,
@@ -120680,7 +119605,7 @@
     "mega_evolution": null
   },
   {
-    "name": "taillow",
+    "name": "talllow",
     "stat_hp": 4,
     "stat_atk": 6,
     "stat_def": 3,
@@ -121182,18 +120107,10 @@
       "Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Flying"
-      ],
-      "ability": "Accelerate",
-      "stats": "+3 Atk +3 Def +1 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_swellow.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "skitty",
+    "name": "skltty",
     "stat_hp": 5,
     "stat_atk": 5,
     "stat_def": 5,
@@ -121735,15 +120652,7 @@
       "Starlight Spark"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Fairy"
-      ],
-      "ability": "Pixilate",
-      "stats": "+2 Atk +1 Def +3 SpAtk +3 SpDef +1 Spd ",
-      "img_path": "images/megadex_delcatty.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "swablu",
@@ -122015,7 +120924,7 @@
     "mega_evolution": null
   },
   {
-    "name": "altaria",
+    "name": "altarla",
     "stat_hp": 9,
     "stat_atk": 9,
     "stat_def": 9,
@@ -122329,7 +121238,7 @@
     }
   },
   {
-    "name": "bidoof",
+    "name": "bldoof",
     "stat_hp": 6,
     "stat_atk": 5,
     "stat_def": 4,
@@ -122561,7 +121470,7 @@
     "mega_evolution": null
   },
   {
-    "name": "bibarel",
+    "name": "blbarel",
     "stat_hp": 9,
     "stat_atk": 9,
     "stat_def": 8,
@@ -123355,15 +122264,7 @@
       "Cutsie Slap"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Fighting"
-      ],
-      "ability": "Scrappy",
-      "stats": "+6 Atk +0 Def +0 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_lopunny.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "glameow",
@@ -123827,15 +122728,7 @@
       "Wrathful Blitz "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Dark"
-      ],
-      "ability": "Unaware",
-      "stats": "+2 Atk +3 Def +0 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_purugly.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "patrat",
@@ -124372,15 +123265,10 @@
       "Migraine"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Inner Focus",
-      "stats": "+2 Atk +2 Def +2 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_watchog.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "minccino",
+    "name": "mlncclno",
     "stat_hp": 6,
     "stat_atk": 5,
     "stat_def": 4,
@@ -124644,7 +123532,7 @@
     "mega_evolution": null
   },
   {
-    "name": "cinccino",
+    "name": "clncclno",
     "stat_hp": 8,
     "stat_atk": 10,
     "stat_def": 6,
@@ -124915,7 +123803,7 @@
     "mega_evolution": null
   },
   {
-    "name": "deerling",
+    "name": "deerllng",
     "stat_hp": 6,
     "stat_atk": 6,
     "stat_def": 5,
@@ -125392,15 +124280,7 @@
       "Scornful Vortex "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Grass"
-      ],
-      "ability": "Regal Challenge",
-      "stats": "+3 Atk +2 Def +3 SpAtk +0 SpDef +2 Spd ",
-      "img_path": "images/megadex_sawsbuck.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "rufflet",
@@ -125618,7 +124498,7 @@
     "mega_evolution": null
   },
   {
-    "name": "braviary",
+    "name": "bravlary",
     "stat_hp": 10,
     "stat_atk": 12,
     "stat_def": 8,
@@ -126103,7 +124983,7 @@
     "mega_evolution": null
   },
   {
-    "name": "diggersby",
+    "name": "dlggersby",
     "stat_hp": 9,
     "stat_atk": 6,
     "stat_def": 8,
@@ -126805,12 +125685,7 @@
       "Wild Swing "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Teamwork",
-      "stats": "",
-      "img_path": "images/megadex_gumshoos.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "stufful",
@@ -127272,15 +126147,7 @@
       "Scornful Vortex "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Fighting"
-      ],
-      "ability": "Reckless",
-      "stats": "+4 Atk +3 Def +0 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_bewear.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "ekans",
@@ -127819,18 +126686,10 @@
       "Sucker Punch",
       "Switcheroo"
     ],
-    "mega_evolution": {
-      "type": [
-        "Poison",
-        "Dark"
-      ],
-      "ability": "Deadly Poison",
-      "stats": "+2 HP +4 Atk +3 Def +0 SpAtk +3 SpDef -2 Spd ",
-      "img_path": "images/megadex_arbok.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "grimer",
+    "name": "grlmer",
     "stat_hp": 8,
     "stat_atk": 8,
     "stat_def": 5,
@@ -128367,15 +127226,10 @@
       "Blighted Touch"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Poison",
-      "ability": "Corrosion",
-      "stats": "+1 Atk +2 Def +5 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_muk.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "koffing",
+    "name": "kofflng",
     "stat_hp": 4,
     "stat_atk": 7,
     "stat_def": 10,
@@ -128612,7 +127466,7 @@
     "mega_evolution": null
   },
   {
-    "name": "weezing",
+    "name": "weezlng",
     "stat_hp": 7,
     "stat_atk": 9,
     "stat_def": 12,
@@ -128855,7 +127709,7 @@
     "mega_evolution": null
   },
   {
-    "name": "gulpin",
+    "name": "gulpln",
     "stat_hp": 7,
     "stat_atk": 4,
     "stat_def": 5,
@@ -129355,15 +128209,7 @@
       "Acidic Impact "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Poison",
-        "Normal"
-      ],
-      "ability": "Pride",
-      "stats": "+2 Atk +3 Def +2 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_swalot.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "stunky",
@@ -129874,18 +128720,10 @@
       "Assassinate "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Poison",
-        "Dark"
-      ],
-      "ability": "Deadly Poison",
-      "stats": "+4 Atk +1 Def +4 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_skuntank.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "skorupi",
+    "name": "skorupl",
     "stat_hp": 4,
     "stat_atk": 5,
     "stat_def": 9,
@@ -130136,7 +128974,7 @@
     "mega_evolution": null
   },
   {
-    "name": "drapion",
+    "name": "draplon",
     "stat_hp": 7,
     "stat_atk": 10,
     "stat_def": 12,
@@ -130695,7 +129533,7 @@
     "mega_evolution": null
   },
   {
-    "name": "toxicroak",
+    "name": "toxlcroak",
     "stat_hp": 8,
     "stat_atk": 11,
     "stat_def": 7,
@@ -130986,7 +129824,7 @@
     "mega_evolution": null
   },
   {
-    "name": "trubbish",
+    "name": "trubblsh",
     "stat_hp": 5,
     "stat_atk": 5,
     "stat_def": 6,
@@ -131483,12 +130321,7 @@
       "Acidic Impact "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Poison",
-      "ability": "Power of Alchemy",
-      "stats": "+0 Atk +3 Def +1 SpAtk +3 SpDef +3 Spd +0 Atk +5 Def +2 SpAtk +3 SpDef +077 Spd ",
-      "img_path": "images/megadex_garbodor.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "skrelp",
@@ -132014,18 +130847,10 @@
       "Blighted Touch"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Poison",
-        "Dragon"
-      ],
-      "ability": "Deadly Poison",
-      "stats": "+2 Atk +0 Def +4 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_dragalge.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "mareanie",
+    "name": "mareanle",
     "stat_hp": 6,
     "stat_atk": 5,
     "stat_def": 6,
@@ -132458,18 +131283,10 @@
       "Acidic Impact "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Poison"
-      ],
-      "ability": "Shell Armor",
-      "stats": "+2 Atk +3 Def +3 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_toxapex.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "salandit",
+    "name": "salandlt",
     "stat_hp": 5,
     "stat_atk": 4,
     "stat_def": 4,
@@ -132962,15 +131779,7 @@
       "Assassinate"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Poison",
-        "Fire"
-      ],
-      "ability": "Regal Challenge",
-      "stats": "",
-      "img_path": "images/megadex_salazzle.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "drowzee",
@@ -133530,18 +132339,10 @@
       "Mind Flay"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Psychic",
-        "Fighting"
-      ],
-      "ability": "Weird Power + 2 Power",
-      "stats": "+7 Atk +2 Def +1 SpAtk +0 SpDef +0 Spd ",
-      "img_path": "images/megadex_hypno.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "mime jr.",
+    "name": "mlme jr.",
     "stat_hp": 2,
     "stat_atk": 3,
     "stat_def": 5,
@@ -133802,7 +132603,7 @@
     "mega_evolution": null
   },
   {
-    "name": "mr. mime",
+    "name": "mr. mlme",
     "stat_hp": 4,
     "stat_atk": 5,
     "stat_def": 7,
@@ -134554,15 +133355,7 @@
       "Feather Storm "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Psychic",
-        "Flying"
-      ],
-      "ability": "Perception",
-      "stats": "+0 Atk +1 Def +3 SpAtk +3 SpDef +3 Spd ",
-      "img_path": "images/megadex_xatu.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "wynaut",
@@ -134788,18 +133581,10 @@
     ],
     "tutor_moves": [],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Psychic",
-        "Dark"
-      ],
-      "ability": "Pressure",
-      "stats": "+0 Atk +5 Def +0 SpAtk +5 SpDef +0 Spd ",
-      "img_path": "images/megadex_wobbuffet.png"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "spoink",
+    "name": "spolnk",
     "stat_hp": 6,
     "stat_atk": 3,
     "stat_def": 4,
@@ -135047,7 +133832,7 @@
     "mega_evolution": null
   },
   {
-    "name": "grumpig",
+    "name": "grumplg",
     "stat_hp": 10,
     "stat_atk": 5,
     "stat_def": 6,
@@ -135312,7 +134097,7 @@
     "mega_evolution": null
   },
   {
-    "name": "chingling",
+    "name": "chlngllng",
     "stat_hp": 5,
     "stat_atk": 3,
     "stat_def": 5,
@@ -135536,7 +134321,7 @@
     "mega_evolution": null
   },
   {
-    "name": "chimecho",
+    "name": "chlmecho",
     "stat_hp": 9,
     "stat_atk": 5,
     "stat_def": 9,
@@ -136325,12 +135110,7 @@
       "Migraine "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Psychic",
-      "ability": "Memory Wipe",
-      "stats": "+0 Atk +2 Def +4 SpAtk +3 SpDef +1 Spd ",
-      "img_path": "images/megadex_musharna.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "woobat",
@@ -136863,15 +135643,7 @@
       "Migraine "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Psychic",
-        "Flying"
-      ],
-      "ability": "Fluffy",
-      "stats": "+0 Atk +3 Def +2 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_swoobat.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "elgyem",
@@ -137417,12 +136189,7 @@
       "Synchronoise (N, Telekinesis, Trick, Uproar, Wonder Room, Zen Headbutt, Aura Sphere, Expanding Force, Astral Assault ,Energy Wave , Drain Brain , Mind Break, Plasma Bolt , Force Punch"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Psychic",
-      "ability": "Unaware",
-      "stats": "+2 Atk +1 Def +4 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_beheeyem.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "espurr",
@@ -137644,7 +136411,7 @@
     "mega_evolution": null
   },
   {
-    "name": "meowstic",
+    "name": "meowstic (m)",
     "stat_hp": 9,
     "stat_atk": 5,
     "stat_def": 8,
@@ -137917,7 +136684,7 @@
     "mega_evolution": null
   },
   {
-    "name": "meowstic female",
+    "name": "meowstic (f)",
     "stat_hp": 8,
     "stat_atk": 5,
     "stat_def": 8,
@@ -138762,12 +137529,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Steel",
-        "Ground"
+        "Unchanged"
       ],
       "ability": "Sand Force",
-      "stats": "+4 Atk +3 Def +0 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_steelix.jpeg"
+      "stats": "+4 Atk, +3 Def,+3 Sp. Def "
     }
   },
   {
@@ -139304,15 +138069,7 @@
       "Iron Coating"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Steel"
-      ],
-      "ability": "Levitate",
-      "stats": "+0 Atk +3 Def +5 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_probopass.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "bonsly",
@@ -139787,12 +138544,7 @@
       "Karma "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Rock",
-      "ability": "Iron Fist",
-      "stats": "+3 Atk +4 Def +0 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_sudowoodo.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "binacle",
@@ -140321,15 +139073,7 @@
       "Jagged Punch "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Water"
-      ],
-      "ability": "Solid Rock",
-      "stats": "",
-      "img_path": "images/megadex_barbaracle.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "rockruff",
@@ -141790,15 +140534,7 @@
       "Metallurgy"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Psychic",
-        "Steel"
-      ],
-      "ability": "Power Spot",
-      "stats": "+1 Atk +3 Def +3 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_bronzong.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "psyduck",
@@ -142330,15 +141066,7 @@
       "Migraine "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Psychic"
-      ],
-      "ability": "Magic Bounce",
-      "stats": "+0 Atk +2 Def +2 SpAtk +4 SpDef +2 Spd ",
-      "img_path": "images/megadex_golduck.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "tentacool",
@@ -142872,15 +141600,7 @@
       "Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Poison"
-      ],
-      "ability": "Root Down + 2 Overland",
-      "stats": "+1 HP +0 Atk +5 Def +3 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_tentacruel.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "slowpoke",
@@ -143437,12 +142157,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Water",
-        "Psychic"
+        "Unchanged"
       ],
       "ability": "Shell Armor",
-      "stats": "+3 HP +0 Atk +4 Def +0 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_slowbro.jpeg"
+      "stats": "+7 Def, +3 Sp.Atk "
     }
   },
   {
@@ -143743,15 +142461,7 @@
       "Force Punch"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Psychic"
-      ],
-      "ability": "Shell Armor",
-      "stats": "+0 Atk +5 Def +2 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_slowking.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "seel",
@@ -144298,15 +143008,7 @@
       "Icy Wind (N, Iron Tail, Liquidation, Signal Beam (N, Snore, Water Pulse, Triple Axel, Flip Turn, Triple Dive, Fair Play, Aurora Pillar , Frost Typhoon, Icicle Storm,Whiteout, Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Ice"
-      ],
-      "ability": "Refreshing Veil",
-      "stats": "+0 Atk +2 Def +3 SpAtk +5 SpDef +0 Spd ",
-      "img_path": "images/megadex_dewgong.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "shellder",
@@ -144817,15 +143519,7 @@
       "Icicle Storm "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Ice"
-      ],
-      "ability": "Frostbite",
-      "stats": "+4 Atk +0 Def +0 SpAtk +3 SpDef +3 Spd ",
-      "img_path": "images/megadex_cloyster.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "krabby",
@@ -145297,15 +143991,7 @@
       "Icebreaker "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Fighting"
-      ],
-      "ability": "Guts",
-      "stats": "+4 Atk +3 Def +0 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_kingler.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "goldeen",
@@ -145789,12 +144475,7 @@
       "Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Drizzle",
-      "stats": "+2 HP +4 Atk +1 Def +0 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_seaking.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "staryu",
@@ -146352,15 +145033,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Psychic",
-        "Fairy"
-      ],
-      "ability": "Moody",
-      "stats": "+0 Atk +2 Def +6 SpAtk +2 SpDef +0 Spd +0 Atk +4 Def +2 SpAtk +4 SpDef +0 Spd ",
-      "img_path": "images/megadex_starmie.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "magikarp",
@@ -146796,12 +145469,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Water",
-        "Dark"
+        "Water / Dark"
       ],
       "ability": "Mold Breaker",
-      "stats": "+2 Atk +4 Def +1 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_gyarados.jpeg"
+      "stats": ""
     }
   },
   {
@@ -147358,15 +146029,7 @@
       "Ferrous Flash"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Electric"
-      ],
-      "ability": "Static",
-      "stats": "+0 Atk +1 Def +4 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_lanturn.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "wooper",
@@ -147868,15 +146531,7 @@
       "Acidic Impact"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Ground"
-      ],
-      "ability": "Moody",
-      "stats": "+2 Atk +2 Def +3 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_quagsire.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "remoraid",
@@ -148356,12 +147011,7 @@
       "Prismatic Shot "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Battle Armor",
-      "stats": "+0 Atk +4 Def +2 SpAtk +4 SpDef +0 Spd ",
-      "img_path": "images/megadex_octillery.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "mantyke",
@@ -148883,15 +147533,7 @@
       "Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Flying"
-      ],
-      "ability": "Rocket",
-      "stats": "+2 Atk +0 Def +2 SpAtk +1 SpDef +5 Spd ",
-      "img_path": "images/megadex_mantine.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "wingull",
@@ -149358,15 +148000,7 @@
       "Soak (N, Swift, Tailwind (N, Twister, Water Pulse, Uproar, Dual Wingbeat, Weather Ball, Feather Storm , Frost Typhoon, Icicle Storm "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Flying"
-      ],
-      "ability": "Oblivious",
-      "stats": "+0 Atk +4 Def +2 SpAtk +4 SpDef +0 Spd ",
-      "img_path": "images/megadex_pelipper.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "carvanha",
@@ -149917,12 +148551,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Water",
-        "Dark"
+        "Unchanged"
       ],
-      "ability": "Sheer Force",
-      "stats": "+3 Atk +2 Def +2 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_sharpedo.jpeg"
+      "ability": "Strong Jaw",
+      "stats": "+2 Atk, +3 Def,+1 Sp. Atk, +3 Sp. Def, +1 Speed "
     }
   },
   {
@@ -150412,15 +149044,7 @@
       "Triple Dive ͕ ÇĞĐƚŽŶŝĐ .ƵƌƐƚ "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Flying"
-      ],
-      "ability": "Serene Grace + 6 Sky",
-      "stats": "+4 Atk +1 Def +4 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_wailord.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "barboach",
@@ -150997,15 +149621,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Ground"
-      ],
-      "ability": "Instinct",
-      "stats": "+3 Atk +2 Def +3 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_whiscash.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "corphish",
@@ -151501,15 +150117,7 @@
       "Scornful Vortex "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Dark"
-      ],
-      "ability": "Sturdy",
-      "stats": "+4 Atk +3 Def +0 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_crawdaunt.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "feebas",
@@ -151974,15 +150582,7 @@
       "Magical Bomb"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Dragon"
-      ],
-      "ability": "Multiscale",
-      "stats": "+1 Atk +2 Def +3 SpAtk +3 SpDef +1 Spd ",
-      "img_path": "images/megadex_milotic.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "clamperl",
@@ -152415,15 +151015,7 @@
       "Whirlpool (N , Flipt Turn, Power Whip, Scale Shot, Psychic Fangs, Triple Dive Photonic Bite, Shield Breaker, Shining Fang, Fertile Fangs, Frost Brand, Shadow Bolt,Assassinate, Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Dark"
-      ],
-      "ability": "Bully",
-      "stats": "+5 Atk +2 Def +0 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_huntail.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "gorebyss",
@@ -152724,15 +151316,7 @@
       "Whirlpool (N, Dragon Dance, Scale Shot, Flip Turn, Triple Dive, Light Tail, Light ray Pulse, Halo, Fair Play , Devotion Dance, Fey Wild , Astral Assault , Numbing Venom, Drain Brain, Mind Flay, Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Psychic"
-      ],
-      "ability": "Magic Bounce",
-      "stats": "+0 Atk +0 Def +5 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_gorebyss.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "buizel",
@@ -153217,12 +151801,7 @@
       "Crunch (N, Dive, Focus Punch, Fury Cutter, Helping Hand, Ice Fang (N, Ice Punch, Icy Wind, Iron Tail, Liquidation, Low Kick, Mud-Slap, Snore, Swift, Water Pulse, Whirlpool, Triple Dive ,Frost Typhoon , Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Conqueror",
-      "stats": "+2 Atk +1 Def +3 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_floatzel.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "shellos",
@@ -153699,15 +152278,7 @@
       "Shifting Soil "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Ground"
-      ],
-      "ability": "Sand Stream",
-      "stats": "+0 Atk +3 Def +4 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_gastrodon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "finneon",
@@ -154236,15 +152807,7 @@
       "Soak (N, Swift, Twister, Tailwind, Water Pulse, Whirlpool, Triple Dive, Aurora Pillar , Silver Cyclone, Frost Typhoon, Shining Terrain , Final Flash, Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Fairy"
-      ],
-      "ability": "Beautiful",
-      "stats": "+0 Atk +2 Def +4 SpAtk +3 SpDef +1 Spd ",
-      "img_path": "images/megadex_lumineon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "panpour",
@@ -154740,12 +153303,7 @@
       ""
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Hydration",
-      "stats": "",
-      "img_path": "images/megadex_simipour.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "ducklett",
@@ -155205,15 +153763,7 @@
       "Tempest "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Flying"
-      ],
-      "ability": "Drizzle",
-      "stats": "+2 Atk +1 Def +3 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_swanna.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "frillish",
@@ -155777,15 +154327,7 @@
       "Haunting Aura "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Ghost"
-      ],
-      "ability": "Hydration",
-      "stats": "+0 Atk +4 Def +2 SpAtk +4 SpDef +0 Spd ",
-      "img_path": "images/megadex_jellicent.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "clauncher",
@@ -156276,12 +154818,7 @@
       "Geyser Surge "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Adaptability",
-      "stats": "+5 Atk +1 Def +4 SpAtk +0 SpDef +0 Spd +3 Atk +4 Def +0 SpAtk +2 SpDef +191 Spd ",
-      "img_path": "images/megadex_clawitzer.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "dewpider",
@@ -156752,15 +155289,7 @@
       "Locust Swarm "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Bug"
-      ],
-      "ability": "Water Veil",
-      "stats": "+5 Atk +0 Def +2 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_araquanid.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pinsir",
@@ -157019,12 +155548,10 @@
     ],
     "mega_evolution": {
       "type": [
-        "Bug",
-        "Flying"
+        "Bug / Flying"
       ],
-      "ability": "Aerilate + Sky ",
-      "stats": "+3 Atk +2 Def +0 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_pinsir.jpeg"
+      "ability": "AerilateGains Sky 6. ",
+      "stats": "+3 Atk, +2 Def,+1 Sp. Atk, +2 Sp. Def, +2 Speed "
     }
   },
   {
@@ -157293,15 +155820,7 @@
       "Sweet Splash",
       "Poison Dart"
     ],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Rock"
-      ],
-      "ability": "Iron Barb + Thorned Capability",
-      "stats": "+0 Atk +10 Def +0 SpAtk +0 SpDef +0 Spd ",
-      "img_path": "images/megadex_shuckle.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "heracross",
@@ -157583,12 +156102,10 @@
     ],
     "mega_evolution": {
       "type": [
-        "Bug",
-        "Fighting"
+        "Unchanged"
       ],
       "ability": "Skill Link",
-      "stats": "+6 Atk +4 Def +0 SpAtk +1 SpDef -1 Spd ",
-      "img_path": "images/megadex_heracross.jpeg"
+      "stats": "+6 Atk, +4 Def,+1 Sp Def 1 Speed "
     }
   },
   {
@@ -157902,15 +156419,7 @@
       "Trick",
       "Burning Light"
     ],
-    "mega_evolution": {
-      "type": [
-        "Fairy",
-        "Bug"
-      ],
-      "ability": "Flash Fire",
-      "stats": "+2 Atk +2 Def +0 SpAtk +3 SpDef +3 Spd ",
-      "img_path": "images/megadex_volbeat.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "illumise",
@@ -158216,15 +156725,7 @@
       "Trick",
       "Burning Light"
     ],
-    "mega_evolution": {
-      "type": [
-        "Fairy",
-        "Bug"
-      ],
-      "ability": "Unaware",
-      "stats": "+0 Atk +2 Def +2 SpAtk +3 SpDef +3 Spd ",
-      "img_path": "images/megadex_illumise.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "durant",
@@ -158478,15 +156979,7 @@
       "Insect Cleave",
       "Swift Sting"
     ],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Steel"
-      ],
-      "ability": "Tinted Lens",
-      "stats": "+2 Atk +2 Def +0 SpAtk +3 SpDef +3 Spd +5 Atk +1 Def +0 SpAtk +1 SpDef +385 Spd ",
-      "img_path": "images/megadex_durant.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sableye",
@@ -158827,12 +157320,10 @@
     ],
     "mega_evolution": {
       "type": [
-        "Dark",
-        "Ghost"
+        "Unchanged"
       ],
       "ability": "Magic Bounce",
-      "stats": "+2 Atk +4 Def +2 SpAtk +4 SpDef -2 Spd ",
-      "img_path": "images/megadex_sableye.png"
+      "stats": "+1 Atk, +5 Def,+2 Sp. Atk, +5 Sp. Def, -3 Speed "
     }
   },
   {
@@ -159181,10 +157672,11 @@
       "Mind Flay"
     ],
     "mega_evolution": {
-      "type": "Dark",
+      "type": [
+        "Unchanged"
+      ],
       "ability": "Magic Bounce",
-      "stats": "+2 Atk +0 Def +4 SpAtk +0 SpDef +4 Spd ",
-      "img_path": "images/megadex_absol.jpeg"
+      "stats": "+2 Atk, +4 SpAtk, +4 Speed "
     }
   },
   {
@@ -159489,12 +157981,7 @@
       "Spitfire",
       "Wind Blades"
     ],
-    "mega_evolution": {
-      "type": "Dragon",
-      "ability": "Tough Claws",
-      "stats": "+4 Atk +3 Def +0 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_druddigon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "plusle",
@@ -159788,12 +158275,7 @@
       "Electro Burst",
       "Quick Strike"
     ],
-    "mega_evolution": {
-      "type": "Electric",
-      "ability": "Illuminate",
-      "stats": "+1 Atk +0 Def +2 SpAtk +3 SpDef +4 Spd ",
-      "img_path": "images/megadex_plusle.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "minun",
@@ -160092,12 +158574,7 @@
       "Static Jolt",
       "Quick Strike"
     ],
-    "mega_evolution": {
-      "type": "Electric",
-      "ability": "Type Aura (Electric)",
-      "stats": "+1 Atk +0 Def +2 SpAtk +3 SpDef +4 Spd ",
-      "img_path": "images/megadex_minun.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pachirisu",
@@ -160361,15 +158838,10 @@
       "Rollout",
       "Tail Whip"
     ],
-    "mega_evolution": {
-      "type": "Electric",
-      "ability": "Fluffy",
-      "stats": "+0 Atk +4 Def +5 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_pachirisu.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "rotom",
+    "name": "rotom normal form",
     "stat_hp": 5,
     "stat_atk": 5,
     "stat_def": 8,
@@ -161338,15 +159810,7 @@
       "Snuggle",
       "Quick Strike"
     ],
-    "mega_evolution": {
-      "type": [
-        "Electric",
-        "Flying"
-      ],
-      "ability": "Accelerate",
-      "stats": "+2 Atk +1 Def +2 SpAtk +1 SpDef +4 Spd +2 Atk +2 Def +3 SpAtk +2 SpDef +179 Spd ",
-      "img_path": "images/megadex_emolga.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "dedenne",
@@ -161619,15 +160083,7 @@
       "Tearful Look",
       "Electro Burst"
     ],
-    "mega_evolution": {
-      "type": [
-        "Electric",
-        "Fairy"
-      ],
-      "ability": "Flutter + 4 Sky",
-      "stats": "",
-      "img_path": "images/megadex_dedenne.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "togedemaru",
@@ -161922,15 +160378,7 @@
       "Steamroller",
       "Electro Burst"
     ],
-    "mega_evolution": {
-      "type": [
-        "Electric",
-        "Steel"
-      ],
-      "ability": "Electric Surge + Levitate ",
-      "stats": "",
-      "img_path": "images/megadex_togedemaru.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "comfey",
@@ -162216,15 +160664,7 @@
       "Starfall",
       "Star Strike"
     ],
-    "mega_evolution": {
-      "type": [
-        "Fairy",
-        "Grass"
-      ],
-      "ability": "Grassy Surge",
-      "stats": "+1 Atk +1 Def +3 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_comfey.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "throh",
@@ -162457,12 +160897,7 @@
       "Jagged Punch "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Bodyguard",
-      "stats": "+3 Atk +3 Def +0 SpAtk +2 SpDef +2 Spd +4 Atk +4 Def +0 SpAtk +2 SpDef +073 Spd ",
-      "img_path": "images/megadex_throh.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sawk",
@@ -162697,12 +161132,7 @@
       "Pressure Point "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Parry",
-      "stats": "+2 Atk +2 Def +0 SpAtk +2 SpDef +4 Spd ",
-      "img_path": "images/megadex_sawk.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "hawlucha",
@@ -162999,15 +161429,7 @@
       "Mud Sport",
       "Quick Guard"
     ],
-    "mega_evolution": {
-      "type": [
-        "Fighting",
-        "Flying"
-      ],
-      "ability": "Vanguard",
-      "stats": "+3 Atk +2 Def +1 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_hawlucha.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "passimian",
@@ -163248,12 +161670,7 @@
       "Jagged Punch",
       "Quick Strike"
     ],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Long Reach",
-      "stats": "+3 Atk +3 Def +0 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_passimian.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "torkoal",
@@ -163531,15 +161948,7 @@
       "Fire Claw",
       "Smog Cloud"
     ],
-    "mega_evolution": {
-      "type": [
-        "Fire",
-        "Poison"
-      ],
-      "ability": "Brimstone",
-      "stats": "+2 Atk +4 Def +2 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_torkoal.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "heatmor",
@@ -163844,12 +162253,7 @@
       "Kindle",
       "Twin Flames"
     ],
-    "mega_evolution": {
-      "type": "Fire",
-      "ability": "Drought",
-      "stats": "+3 Atk +4 Def +3 SpAtk +0 SpDef +0 Spd ",
-      "img_path": "images/megadex_heatmor.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "turtonator",
@@ -164130,15 +162534,7 @@
       "Wildfire",
       "Fire Claw"
     ],
-    "mega_evolution": {
-      "type": [
-        "Fire",
-        "Dragon"
-      ],
-      "ability": "Magma Armor",
-      "stats": "+2 Atk +4 Def +2 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_turtonator.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "spiritomb",
@@ -164458,15 +162854,7 @@
       "Phantom Fright",
       "Soul Drain"
     ],
-    "mega_evolution": {
-      "type": [
-        "Ghost",
-        "Dark"
-      ],
-      "ability": "Soulstealer",
-      "stats": "+1 Atk +2 Def +4 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_spiritomb.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "mimikyu",
@@ -164774,15 +163162,7 @@
       "Phantom Fright",
       "Cognition Strike"
     ],
-    "mega_evolution": {
-      "type": [
-        "Ghost",
-        "Fairy"
-      ],
-      "ability": "Frighten",
-      "stats": "+4 Atk +2 Def +0 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_mimikyu.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "dhelmise",
@@ -165083,15 +163463,7 @@
       "Geyser Surge"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ghost",
-        "Grass"
-      ],
-      "ability": "Keen Eye",
-      "stats": "",
-      "img_path": "images/megadex_dhelmise.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "tropius",
@@ -165393,15 +163765,7 @@
       "Synthesis",
       "Wind Blades"
     ],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Flying"
-      ],
-      "ability": "Aerilate",
-      "stats": "+4 Atk +1 Def +3 SpAtk +1 SpDef +1 Spd ",
-      "img_path": "images/megadex_tropius.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "carnivine",
@@ -165648,12 +164012,7 @@
       "Ice Fang",
       "Wind Blades Thunder Fang"
     ],
-    "mega_evolution": {
-      "type": "Grass",
-      "ability": "Arena Trap",
-      "stats": "+3 Atk +3 Def +2 SpAtk +0 SpDef +2 Spd ",
-      "img_path": "images/megadex_carnivine.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "maractus",
@@ -165905,12 +164264,7 @@
       "Jagged Punch",
       "Spiral Drain"
     ],
-    "mega_evolution": {
-      "type": "Grass",
-      "ability": "Spike Shot",
-      "stats": "+4 Atk +2 Def +2 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_maractus.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "stunfisk",
@@ -166162,15 +164516,7 @@
       "Earth Shard",
       "Sand Pit"
     ],
-    "mega_evolution": {
-      "type": [
-        "Ground",
-        "Electric"
-      ],
-      "ability": "Intimidate",
-      "stats": "+2 Atk +2 Def +3 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_stunfisk.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "delibird",
@@ -166397,15 +164743,7 @@
       "Misty Eruption",
       "Snuggle"
     ],
-    "mega_evolution": {
-      "type": [
-        "Ice",
-        "Flying"
-      ],
-      "ability": "Thick Fat",
-      "stats": "+1 Atk +3 Def +3 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_delibird.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "cryogonal",
@@ -166681,12 +165019,7 @@
       "Whiteout "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Ice",
-      "ability": "Slush Rush",
-      "stats": "0 Atk +2 Def +4 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_cryogonal.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "farfetch'd",
@@ -167241,10 +165574,11 @@
       "Seismic Fist"
     ],
     "mega_evolution": {
-      "type": "Normal",
+      "type": [
+        "Unchanged"
+      ],
       "ability": "Parental Bond",
-      "stats": "+3 Atk +2 Def +0 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_kangaskhan.jpeg"
+      "stats": "+3 Atk, +2 Def,+2 Sp. Atk, +2 Sp. Def, +1 Speed "
     }
   },
   {
@@ -167501,12 +165835,7 @@
       "Sparkling Slam "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Prime Fury",
-      "stats": "+4 Atk +2 Def +0 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_tauros.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "girafarig",
@@ -167775,15 +166104,7 @@
       "Laser Vision",
       "Mind Step"
     ],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Psychic"
-      ],
-      "ability": "Prankster",
-      "stats": "+4 Atk +0 Def +4 SpAtk +1 SpDef +1 Spd ",
-      "img_path": "images/megadex_girafarig.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "dunsparce",
@@ -168080,15 +166401,7 @@
       "Breath Blast",
       "Spectral Storm"
     ],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Dragon"
-      ],
-      "ability": "Flutter + 4 Sky Speed",
-      "stats": "+3 Atk +1 Def +3 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_dunsparce.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "stantler",
@@ -168334,15 +166647,7 @@
       "Jagged Horns",
       "Cognition Strike"
     ],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Psychic"
-      ],
-      "ability": "Serene Grace",
-      "stats": "+3 Atk +2 Def +0 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_stantler.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "smeargle",
@@ -168486,12 +166791,7 @@
     "tm_moves": [],
     "tutor_moves": [],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Color Change",
-      "stats": "+2 Atk +2 Def +2 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_smeargle.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "miltank",
@@ -168753,12 +167053,7 @@
       "High Horsepower",
       "Sleep Talk"
     ],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Absorb Force",
-      "stats": "+3 Atk +3 Def +0 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_miltank.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "spinda",
@@ -169009,12 +167304,7 @@
       "Water Pulse",
       "Wish"
     ],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Hypnotic",
-      "stats": "+2 Atk +2 Def +2 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_spinda.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "zangoose",
@@ -169296,15 +167586,7 @@
       "Razor Wind",
       "Scornful Vortex"
     ],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Dark"
-      ],
-      "ability": "Dodge",
-      "stats": "+4 Atk +3 Def +0 SpAtk +0 SpDef +3 Spd ",
-      "img_path": "images/megadex_zangoose.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "castform",
@@ -169541,15 +167823,7 @@
       "Wind Blades",
       "Haunted Breeze"
     ],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Special"
-      ],
-      "ability": "Adaptability",
-      "stats": "+2 Atk +2 Def +2 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_castform.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "kecleon",
@@ -169849,12 +168123,7 @@
       "Trick",
       "Devious Strike"
     ],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Technician",
-      "stats": "+3 Atk +3 Def +2 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_kecleon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "chatot",
@@ -170095,15 +168364,7 @@
       "Steel Wing",
       "Ghastly scream"
     ],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Flying"
-      ],
-      "ability": "Competitive",
-      "stats": "+1 Atk +1 Def +4 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_chatot.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "audino",
@@ -170397,12 +168658,10 @@
     ],
     "mega_evolution": {
       "type": [
-        "Normal",
-        "Fairy"
+        "Sound / Fairy"
       ],
-      "ability": "Bodyguard",
-      "stats": "+0 Atk +4 Def +0 SpAtk +4 SpDef +2 Spd ",
-      "img_path": "images/megadex_audino.png"
+      "ability": "Healer",
+      "stats": "+4 Def, +2 Sp.Atk, +4 Sp. Def "
     }
   },
   {
@@ -170647,12 +168906,7 @@
       "Steamroller",
       "Terra Charge"
     ],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Anger Point",
-      "stats": "+3 Atk +1 Def +1 SpAtk +1 SpDef +4 Spd +3 Atk +5 Def +0 SpAtk +2 SpDef +084 Spd ",
-      "img_path": "images/megadex_bouffalant.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "furfrou",
@@ -170866,12 +169120,7 @@
       "Worck Up",
       "Lovely Bite"
     ],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Friend Guard",
-      "stats": "+2 Atk +2 Def +2 SpAtk +3 SpDef +1 Spd +2 Atk +5 Def +0 SpAtk +2 SpDef +189 Spd ",
-      "img_path": "images/megadex_furfrou.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "oranguru",
@@ -171121,15 +169370,7 @@
       "Tormenting Spirits",
       "Mind Crush"
     ],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Psychic"
-      ],
-      "ability": "Confidence",
-      "stats": "",
-      "img_path": "images/megadex_oranguru.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "komala",
@@ -171337,12 +169578,7 @@
       "Wish",
       "Snuggle"
     ],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Absorb Force",
-      "stats": "+3 Atk +4 Def +0 SpAtk +3 SpDef +0 Spd +2 Atk +2 Def +2 SpAtk +2 SpDef +2102 Spd ",
-      "img_path": "images/megadex_komala.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "drampa",
@@ -171656,15 +169892,7 @@
       "Breath Blast",
       "Dragon Spirit"
     ],
-    "mega_evolution": {
-      "type": [
-        "Normal",
-        "Dragon"
-      ],
-      "ability": "Unaware",
-      "stats": "+0 Atk +3 Def +2 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_drampa.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "seviper",
@@ -171984,12 +170212,7 @@
       "Shadow Fangs",
       "Scorching Breath"
     ],
-    "mega_evolution": {
-      "type": "Poison",
-      "ability": "Strong Jaw",
-      "stats": "+3 Atk +1 Def +3 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_seviper.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "unown",
@@ -172094,12 +170317,7 @@
     ],
     "tutor_moves": [],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Psychic",
-      "ability": "Protean",
-      "stats": "+2 Atk +2 Def +2 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_unown.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sigilyph",
@@ -172377,15 +170595,7 @@
       "Star Strike",
       "Psy Bolt"
     ],
-    "mega_evolution": {
-      "type": [
-        "Psychic",
-        "Flying"
-      ],
-      "ability": "Keen Eye",
-      "stats": "+1 Atk +1 Def +3 SpAtk +4 SpDef +1 Spd +2 Atk +4 Def +0 SpAtk +3 SpDef +176 Spd ",
-      "img_path": "images/megadex_sigilyph.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "lunatone",
@@ -172753,15 +170963,7 @@
       "Meteor Shower"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Psychic"
-      ],
-      "ability": "Ice Body",
-      "stats": "+0 Atk +2 Def +3 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_lunatone.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "solrock",
@@ -173103,15 +171305,7 @@
     ],
     "tutor_moves": [],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Psychic"
-      ],
-      "ability": "Flame Body",
-      "stats": "+3 Atk +3 Def +0 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_solrock.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "carbink",
@@ -173398,15 +171592,7 @@
       "Meteor Shower"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Fairy"
-      ],
-      "ability": "Rough Skin",
-      "stats": "+0 Atk +0 Def +10 SpAtk +0 SpDef +0 Spd ",
-      "img_path": "images/megadex_carbink.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "minior meteor",
@@ -174192,15 +172378,7 @@
       "Metal Swipe",
       "Shrapnel Shot"
     ],
-    "mega_evolution": {
-      "type": [
-        "Steel",
-        "Flying"
-      ],
-      "ability": "Light Metal",
-      "stats": "+2 Atk +2 Def +0 SpAtk +1 SpDef +5 Spd ",
-      "img_path": "images/megadex_skarmory.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "mawile",
@@ -174521,12 +172699,10 @@
     ],
     "mega_evolution": {
       "type": [
-        "Steel",
-        "Fairy"
+        "Unchanged"
       ],
-      "ability": "Huge Power",
-      "stats": "+2 Atk +4 Def +0 SpAtk +4 SpDef +0 Spd ",
-      "img_path": "images/megadex_mawile.png"
+      "ability": "HugePower ",
+      "stats": "+2 Atk, +4Def, +4 Sp. Def "
     }
   },
   {
@@ -174784,15 +172960,7 @@
       "Cosmic Curse",
       "Glitter Darts"
     ],
-    "mega_evolution": {
-      "type": [
-        "Steel",
-        "Fairy"
-      ],
-      "ability": "Magic Guard",
-      "stats": "+1 Atk +3 Def +1 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_klefki.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "lapras",
@@ -175142,15 +173310,7 @@
       "Draconic Fangs",
       "Mystic Aura"
     ],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Ice"
-      ],
-      "ability": "Serene Grace",
-      "stats": "+2 HP +0 Atk +3 Def +2 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_lapras.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "qwilfish",
@@ -175450,15 +173610,7 @@
       "Shrapnel Shot",
       "Aqua Slap"
     ],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Poison"
-      ],
-      "ability": "Spike Shot",
-      "stats": "+2 Atk +2 Def +3 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_qwilfish.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "corsola",
@@ -175758,15 +173910,7 @@
       "Aqua Infusion",
       "Spiral Drain"
     ],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Rock"
-      ],
-      "ability": "Absorb Force",
-      "stats": "+1 Atk +4 Def +2 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_corsola.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "relicanth",
@@ -176040,15 +174184,7 @@
       "Zen Headbutt",
       ""
     ],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Rock"
-      ],
-      "ability": "Keen Eye + Blindsense",
-      "stats": "+4 Atk +3 Def +0 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_relicanth.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "luvdisc",
@@ -176308,15 +174444,7 @@
       "Hydro Cleanse",
       "Spiral Drain"
     ],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Fairy"
-      ],
-      "ability": "Serene Grace",
-      "stats": "+3 Atk +1 Def +3 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_luvdisc.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "basculin",
@@ -176567,12 +174695,7 @@
       "Quick Strike",
       "Fin Swipe"
     ],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Rough Skin",
-      "stats": "",
-      "img_path": "images/megadex_basculin.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "alomomola",
@@ -176833,18 +174956,10 @@
       "Star Strike",
       "Aqua Infusion. Aqua Slap"
     ],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Fairy"
-      ],
-      "ability": "Wash Away",
-      "stats": "+0 Atk +1 Def +4 SpAtk +2 SpDef +3 Spd +2 Atk +2 Def +3 SpAtk +3 SpDef +080 Spd ",
-      "img_path": "images/megadex_alomomola.jpeg"
-    }
+    "mega_evolution": null
   },
   {
-    "name": "wishiwashi",
+    "name": "wishiwashi solo",
     "stat_hp": 5,
     "stat_atk": 2,
     "stat_def": 2,
@@ -177076,7 +175191,7 @@
     "mega_evolution": null
   },
   {
-    "name": "wishiwashi school",
+    "name": "wishiwashi schooling",
     "stat_hp": 5,
     "stat_atk": 14,
     "stat_def": 13,
@@ -177517,12 +175632,7 @@
       "Tickle",
       "Venom Drench"
     ],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Gooey + Medium",
-      "stats": "",
-      "img_path": "images/megadex_pyukumuku.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "bruxish",
@@ -177786,15 +175896,7 @@
       "Fin Swipe",
       "Spiral Drain"
     ],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Psychic"
-      ],
-      "ability": "Magic Guard",
-      "stats": "+3 Atk +2 Def +0 SpAtk +4 SpDef +1 Spd +3 Atk +0 Def +2 SpAtk +3 SpDef +2103 Spd ",
-      "img_path": "images/megadex_bruxish.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "ditto",
@@ -177897,12 +175999,7 @@
     "tm_moves": [],
     "tutor_moves": [],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Special - See Description",
-      "stats": "+0 Atk +0 Def +0 SpAtk +0 SpDef +0 Spd ",
-      "img_path": "images/megadex_ditto.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "eevee",
@@ -178397,12 +176494,7 @@
       "Helping Hand (N, Hyper Voice, Icy Wind, Iron Tail, Laser Focus, Last Resort, Mud-Slap, Signal Beam, Snore, Swift, Water Pulse, Whirlpool, Flip Turn, Recover, Triple Dive, Aurora Pillar, Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Maelstrom Pulse",
-      "stats": "+0 Atk +0 Def +4 SpAtk +2 SpDef +4 Spd ",
-      "img_path": "images/megadex_vaporeon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "jolteon",
@@ -178639,12 +176731,7 @@
       "Helping Hand (N, Hyper Voice, Iron Tail, Laser Focus, Last Resort, Magnet Rise, Mud-Slap, Shock Wave, Signal Beam, Snore, Swift, Electric Terrain, Shocking Edge, Gigavolt, Lightning Lance, Plasma Storm, Plasma Tail, Volt Crush, Final Flash "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Electric",
-      "ability": "Speed Boost",
-      "stats": "+0 Atk +0 Def +5 SpAtk +0 SpDef +5 Spd ",
-      "img_path": "images/megadex_jolteon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "flareon",
@@ -178913,12 +177000,7 @@
       "Fire Wall"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fire",
-      "ability": "Moxie",
-      "stats": "+3 Atk +2 Def +3 SpAtk +0 SpDef +2 Spd ",
-      "img_path": "images/megadex_flareon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "espeon",
@@ -179156,12 +177238,7 @@
       "Helping Hand (N, Hyper Voice, Iron Tail, Laser Focus, Last Resort, Magic Coat, Magic Room, Mud- Slap, Role Play, Signal Beam, Skill Swap, Snore, Swift, Telekinesis, Trick, Zen Headbutt, Psychic Fangs, Power Gem, Teleport, Mystical Fire , Mind Step, Astral Assault, Drain Brain, Migraine "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Psychic",
-      "ability": "Forewarn",
-      "stats": "+0 Atk +0 Def +4 SpAtk +3 SpDef +3 Spd ",
-      "img_path": "images/megadex_espeon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "umbreon",
@@ -179389,12 +177466,7 @@
       "Helping Hand (N, Hyper Voice, Iron Tail, Laser Focus, Last Resort, Mud-Slap, Role Play, Snatch, Snore, Spite, Sucker Punch, Swift, Throat Chop, Wonder Room, Ripping Abyss, Shadow Bolt, Shadow Veil, Umbral Assault "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Dark",
-      "ability": "Nightfall",
-      "stats": "+3 Atk +2 Def +0 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_umbreon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "leafeon",
@@ -179628,12 +177700,7 @@
       "Helping Hand (N, Hyper Voice, Iron Tail, Knock Off, Laser Focus, Last Resort, Mud-Slap, Seed Bomb, Snore, Swift, Synthesis, Worry Seed, Shield Breaker, Butterfly Knife , Pixie Slash "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Grass",
-      "ability": "Grassy Surge",
-      "stats": "+3 Atk +1 Def +3 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_leafeon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "glaceon",
@@ -179856,12 +177923,7 @@
       "Helping Hand (N, Hyper Voice, Icy Wind, Iron Tail, Laser Focus, Last Resort, Mud-Slap, Signal Beam, Snore, Swift, Water Pulse, Triple Axel, Power Gem , Aurora Pillar, Frost Brand , Icicle Storm,Whiteout "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Ice",
-      "ability": "Snow Warning",
-      "stats": "+1 Atk +0 Def +3 SpAtk +3 SpDef +3 Spd ",
-      "img_path": "images/megadex_glaceon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sylveon",
@@ -180081,12 +178143,7 @@
       "Helping Hand (N, Hyper Voice, Iron Tail, Laser Focus, Last Resort, Magic Coat, Mud-Slap, Skill Swap, Snore, Swift, Telekinesis, Mystical Fire, Butterfly Knife , Fair Play, Devotion Dance, Glittering Mist, Pixie Dust, Sparkling Slam, Starlight Spark"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fairy",
-      "ability": "Celebrate",
-      "stats": "+0 Atk +0 Def +4 SpAtk +2 SpDef +4 Spd +3 Atk +3 Def +0 SpAtk +1 SpDef +392 Spd ",
-      "img_path": "images/megadex_sylveon.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "oricorio",
@@ -180370,15 +178427,7 @@
       "Molt Feathers",
       "Wind Blades"
     ],
-    "mega_evolution": {
-      "type": [
-        "Special",
-        "Flying"
-      ],
-      "ability": "Serene Grace",
-      "stats": "+1 Atk +1 Def +3 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_oricorio.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "rattata alola",
@@ -184899,15 +182948,7 @@
       "Frost Brand "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Rock"
-      ],
-      "ability": "Suction Cups",
-      "stats": "+1 Atk +4 Def +1 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_omastar.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "kabuto",
@@ -185461,15 +183502,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Rock"
-      ],
-      "ability": "Hyper Cutter",
-      "stats": "+8 Atk -2 Def +2 SpAtk -2 SpDef +4 Spd ",
-      "img_path": "images/megadex_kabutops.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "lileep",
@@ -185980,15 +184013,7 @@
       "Giga Leech "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Grass"
-      ],
-      "ability": "Root Down",
-      "stats": "+2 Atk +2 Def +2 SpAtk +3 SpDef +1 Spd ",
-      "img_path": "images/megadex_cradily.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "anorith",
@@ -186534,15 +184559,7 @@
       "Seismic Blade"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Bug"
-      ],
-      "ability": "Iron Barbs",
-      "stats": "+3 Atk +4 Def +1 SpAtk +1 SpDef +1 Spd ",
-      "img_path": "images/megadex_armaldo.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "cranidos",
@@ -187049,15 +185066,7 @@
       "Brutal Beatdown "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Steel"
-      ],
-      "ability": "Rough Skin",
-      "stats": "+3 Atk +5 Def +0 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_rampardos.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "shieldon",
@@ -187547,15 +185556,7 @@
       "Scrap Shield "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Steel"
-      ],
-      "ability": "Iron Barbs",
-      "stats": "+2 Atk +4 Def +0 SpAtk +1 SpDef +3 Spd ",
-      "img_path": "images/megadex_bastiodon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "tirtouga",
@@ -188093,15 +186094,7 @@
       "Rollout (N, Snore, Stealth Rock, Superpower, Water Pulse, Whirlpool, Zen Headbutt, Mud Shot , Boulder Bash , Jagged Punch , Tectonic Burst, Arctic Quake, Geyser Surge, Slipstream "
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Water"
-      ],
-      "ability": "Bulletproof + Large Size",
-      "stats": "",
-      "img_path": "images/megadex_carracosta.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "archen",
@@ -188645,15 +186638,7 @@
       "Aerial Combat"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Flying"
-      ],
-      "ability": "Defiant",
-      "stats": "+3 Atk +2 Def +0 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_archeops.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "tyrunt",
@@ -189171,15 +187156,7 @@
       "Head Smash (N, Hyper Voice, Iron Defense, Iron Head, Iron Tail, Outrage, Snore, Stealth Rock, Stomping Tantrum, Superpower, Zen Headbutt, Close Combat, High Horsepower, Hone Claws, Heat Crash, Play Rough, Scale Shot , Photonic Bite, Etheral Claw, Shining Fang , Psychic Fangs, Jagged Fangs, Steel Fangs , Boulder Bash, Rampage, Brutal Beatdown,Tectonic Fangs, Ancestral Fury, Draconic Aura, Imposing Stare, Primal Storm"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Dragon"
-      ],
-      "ability": "Unnerve",
-      "stats": "",
-      "img_path": "images/megadex_tyrantrum.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "amaura",
@@ -189778,15 +187755,7 @@
       "Ferrous Flash"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Ice"
-      ],
-      "ability": "Snow Cloak",
-      "stats": "+1 Atk +2 Def +4 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_aurorus.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "aerodactyl",
@@ -190123,12 +188092,10 @@
     ],
     "mega_evolution": {
       "type": [
-        "Rock",
-        "Flying"
+        "Unchanged"
       ],
       "ability": "Tough Claws",
-      "stats": "+3 Atk +2 Def +1 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_aerodactyl.jpeg"
+      "stats": "+3 Atk, +2 Def,+1 Sp. Atk, +2 Sp. Def, +2 Speed "
     }
   },
   {
@@ -190910,15 +188877,7 @@
       "Primal Storm"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Dragon",
-        "Flying"
-      ],
-      "ability": "Bodyguard",
-      "stats": "+1 Atk +3 Def +3 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_dragonite.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "larvitar",
@@ -191675,12 +189634,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Rock",
-        "Dark"
+        "Unchanged"
       ],
-      "ability": "Prime Fury",
-      "stats": "+3 Atk +4 Def +0 SpAtk +2 SpDef +1 Spd ",
-      "img_path": "images/megadex_tyranitar.jpeg"
+      "ability": "Sand Stream",
+      "stats": "+3 Atk, +4 Def,+2 Sp. Def, +1 Speed "
     }
   },
   {
@@ -192397,12 +190354,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Dragon",
-        "Flying"
+        "Unchanged"
       ],
       "ability": "Aerilate",
-      "stats": "+2 Atk +4 Def +1 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_salamence.png"
+      "stats": "+1 Atk, +5 Def,+1 Sp. Atk, +1 Sp. Def, +2 Speed "
     }
   },
   {
@@ -193111,12 +191066,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Psychic",
-        "Steel"
+        "Unchanged"
       ],
       "ability": "Tough Claws",
-      "stats": "+1 Atk +2 Def +1 SpAtk +2 SpDef +4 Spd ",
-      "img_path": "images/megadex_metagross.png"
+      "stats": "+1 Atk, +2 Def,+1 Sp. Atk, +2 Sp. Def, +4 Speed "
     }
   },
   {
@@ -193895,12 +191848,10 @@
     "egg_moves": [],
     "mega_evolution": {
       "type": [
-        "Ground",
-        "Dragon"
+        "Unchanged"
       ],
-      "ability": "Rivalry",
-      "stats": "+4 Atk +2 Def +3 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_garchomp.jpeg"
+      "ability": "Sand Force",
+      "stats": "+4 Atk, +2 Def,+4 Sp. Atk, +1 Sp. Def, -1 Speed "
     }
   },
   {
@@ -194749,15 +192700,7 @@
       "Lightning Lance"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Dark",
-        "Dragon"
-      ],
-      "ability": "Unnerve",
-      "stats": "+3 Atk +2 Def +3 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_hydreigon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "goomy",
@@ -195471,15 +193414,7 @@
       "Primal Energy"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Poison",
-        "Dragon"
-      ],
-      "ability": "Poison Touch",
-      "stats": "+3 Atk +2 Def +4 SpAtk +1 SpDef +0 Spd +1 Atk +1 Def +3 SpAtk +2 SpDef +393 Spd ",
-      "img_path": "images/megadex_goodra.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "jangmo-o",
@@ -196218,15 +194153,7 @@
       "Sky Uppercut (N, Snore, Stealth Rock, Stomping Tantrum, Superpower, Thunder Punch, Uproar, Water Pulse, Aura Sphere, Hone Claws, Meteor Mash, Scale Shot, White Punch , Boulder Bash, Jagged Punch Draconic Aura, Dragon Force, Imposing Stare, Primal Storm, Scale Shield, Aura Burst , Scrap Shield"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Dragon",
-        "Fighting"
-      ],
-      "ability": "Conqueror",
-      "stats": "+4 Atk +2 Def +0 SpAtk +3 SpDef +1 Spd +2 Atk +5 Def +0 SpAtk +0 SpDef +3104 Spd ",
-      "img_path": "images/megadex_kommo-o.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pokédex update.",
@@ -202173,7 +200100,7 @@
     "mega_evolution": null
   },
   {
-    "name": "deoxys",
+    "name": "deoxys normal forme",
     "stat_hp": 6,
     "stat_atk": 17,
     "stat_def": 7,
@@ -202466,7 +200393,7 @@
     "mega_evolution": null
   },
   {
-    "name": "deoxys attack",
+    "name": "deoxys attack forme",
     "stat_hp": 6,
     "stat_atk": 21,
     "stat_def": 2,
@@ -202724,7 +200651,7 @@
     "mega_evolution": null
   },
   {
-    "name": "deoxys defense",
+    "name": "deoxys defense forme",
     "stat_hp": 6,
     "stat_atk": 8,
     "stat_def": 19,
@@ -202987,7 +200914,7 @@
     "mega_evolution": null
   },
   {
-    "name": "deoxys speed",
+    "name": "deoxys speed forme",
     "stat_hp": 6,
     "stat_atk": 11,
     "stat_def": 10,
@@ -204672,7 +202599,7 @@
     "mega_evolution": null
   },
   {
-    "name": "giratina origin",
+    "name": "giratina origin forme",
     "stat_hp": 18,
     "stat_atk": 15,
     "stat_def": 10,
@@ -206406,7 +204333,7 @@
     "mega_evolution": null
   },
   {
-    "name": "shaymin",
+    "name": "shaymin land forme",
     "stat_hp": 12,
     "stat_atk": 12,
     "stat_def": 12,
@@ -206620,7 +204547,7 @@
     "mega_evolution": null
   },
   {
-    "name": "shaymin sky",
+    "name": "shaymin sky forme",
     "stat_hp": 11,
     "stat_atk": 11,
     "stat_def": 9,
@@ -208489,7 +206416,7 @@
     "mega_evolution": null
   },
   {
-    "name": "tornadus",
+    "name": "tornadus incarnate forme",
     "stat_hp": 9,
     "stat_atk": 14,
     "stat_def": 9,
@@ -208736,7 +206663,7 @@
     "mega_evolution": null
   },
   {
-    "name": "tornadus therian",
+    "name": "tornadus therian forme",
     "stat_hp": 10,
     "stat_atk": 11,
     "stat_def": 11,
@@ -208985,7 +206912,7 @@
     "mega_evolution": null
   },
   {
-    "name": "thundurus",
+    "name": "thundurus incarnate forme",
     "stat_hp": 9,
     "stat_atk": 15,
     "stat_def": 7,
@@ -209244,7 +207171,7 @@
     "mega_evolution": null
   },
   {
-    "name": "thundurus therian",
+    "name": "thundurus therian forme",
     "stat_hp": 9,
     "stat_atk": 12,
     "stat_def": 8,
@@ -209490,7 +207417,7 @@
     "mega_evolution": null
   },
   {
-    "name": "landorus",
+    "name": "landorus incarnate forme",
     "stat_hp": 9,
     "stat_atk": 15,
     "stat_def": 9,
@@ -209753,7 +207680,7 @@
     "mega_evolution": null
   },
   {
-    "name": "landorus therian",
+    "name": "landorus therian forme",
     "stat_hp": 10,
     "stat_atk": 18,
     "stat_def": 11,
@@ -210525,7 +208452,7 @@
     "mega_evolution": null
   },
   {
-    "name": "kyurem",
+    "name": "kyurem normal forme",
     "stat_hp": 15,
     "stat_atk": 15,
     "stat_def": 10,
@@ -210828,7 +208755,7 @@
     "mega_evolution": null
   },
   {
-    "name": "kyurem white",
+    "name": "kyurem white fusion forme",
     "stat_hp": 15,
     "stat_atk": 12,
     "stat_def": 10,
@@ -211065,7 +208992,7 @@
     "mega_evolution": null
   },
   {
-    "name": "kyurem black",
+    "name": "kyurem black fusion forme",
     "stat_hp": 15,
     "stat_atk": 20,
     "stat_def": 12,
@@ -221659,12 +219586,7 @@
       "Tectonic Burst"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Grass",
-      "ability": "Thick Fat",
-      "stats": "+5 Atk +4 Def +0 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_rillaboom.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "scorbunny",
@@ -222325,12 +220247,7 @@
       "Fire Wall"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fire",
-      "ability": "Flame Body",
-      "stats": "+4 Atk +1 Def +0 SpAtk +1 SpDef +4 Spd ",
-      "img_path": "images/megadex_cinderace.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sobble",
@@ -222981,12 +220898,7 @@
       "Plasma Boltm"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Super Luck",
-      "stats": "+0 Atk +1 Def +4 SpAtk +2 SpDef +3 Spd ",
-      "img_path": "images/megadex_inteleon.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "skwovet",
@@ -223390,12 +221302,7 @@
       "Sparkling Slam"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Normalize",
-      "stats": "+3 Atk +2 Def +0 SpAtk +4 SpDef +1 Spd ",
-      "img_path": "images/megadex_greedent.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "rookidee",
@@ -224028,15 +221935,7 @@
       "Scrap Shield"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Steel",
-        "Flying"
-      ],
-      "ability": "Battle Armor",
-      "stats": "",
-      "img_path": "images/megadex_corviknight.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "blipbug",
@@ -224584,15 +222483,7 @@
       "Mind Flay"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Psychic"
-      ],
-      "ability": "Neuroforce",
-      "stats": "+1 Atk +1 Def +4 SpAtk +3 SpDef +1 Spd ",
-      "img_path": "images/megadex_orbeetle.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "nickit",
@@ -225064,12 +222955,7 @@
       "Shadow Bolt"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Dark",
-      "ability": "Infiltrator",
-      "stats": "+5 Atk +3 Def +0 SpAtk +0 SpDef +2 Spd +3 Atk +3 Def +0 SpAtk +3 SpDef +1106 Spd ",
-      "img_path": "images/megadex_thievul.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "gossifleur",
@@ -225500,12 +223386,7 @@
       "Silver Cyclone"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Grass",
-      "ability": "Windveiled",
-      "stats": "+0 Atk +3 Def +2 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_eldegoss.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "wooloo",
@@ -225908,12 +223789,7 @@
       "Sparkling Slam"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Normal",
-      "ability": "Overcoat",
-      "stats": "",
-      "img_path": "images/megadex_dubwool.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "chewtle",
@@ -226347,15 +224223,7 @@
       "Dragon Force"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Water"
-      ],
-      "ability": "Sheer Force",
-      "stats": "+4 Atk +2 Def +0 SpAtk +4 SpDef +0 Spd ",
-      "img_path": "images/megadex_drednaw.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "yamper",
@@ -226826,12 +224694,7 @@
       "Sparkling Slam"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Electric",
-      "ability": "Speed Boost + Mountable ",
-      "stats": "+3 Atk +2 Def +0 SpAtk +2 SpDef +3 Spd +3 Atk +2 Def +0 SpAtk +3 SpDef +2107 Spd ",
-      "img_path": "images/megadex_boltund.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "rolycoly",
@@ -227582,15 +225445,7 @@
       "Fire Wall"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Rock",
-        "Fire"
-      ],
-      "ability": "Magma Armor",
-      "stats": "+0 Atk +5 Def +0 SpAtk +0 SpDef +5 Spd ",
-      "img_path": "images/megadex_coalossal.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "applin",
@@ -227984,15 +225839,7 @@
       "Tempest"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Dragon"
-      ],
-      "ability": "Tinted Lens",
-      "stats": "",
-      "img_path": "images/megadex_flapple.png"
-    }
+    "mega_evolution": null
   },
   {
     "name": "appletun",
@@ -228208,15 +226055,7 @@
       "Bug Bite"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Grass",
-        "Dargon"
-      ],
-      "ability": "Lunchbox",
-      "stats": "+1 Atk +3 Def +3 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_appletun.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "silicobra",
@@ -228693,12 +226532,7 @@
       "Shifting Soil"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Ground",
-      "ability": "Polycephaly",
-      "stats": "+3 Atk +4 Def +0 SpAtk +1 SpDef +2 Spd +4 Atk +1 Def +4 SpAtk +0 SpDef +1108 Spd ",
-      "img_path": "images/megadex_sandaconda.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "cramorant",
@@ -228960,15 +226794,7 @@
       "Wind Blades",
       "Wild Charge"
     ],
-    "mega_evolution": {
-      "type": [
-        "Flying",
-        "Water"
-      ],
-      "ability": "Weird Power",
-      "stats": "+4 Atk +0 Def +4 SpAtk +0 SpDef +2 Spd ",
-      "img_path": "images/megadex_cramorant.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "arrokuda",
@@ -229427,12 +227253,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Water",
-      "ability": "Strong Jaw",
-      "stats": "",
-      "img_path": "images/megadex_barraskewda.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "toxel",
@@ -229856,15 +227677,7 @@
       "Ferrous Flash"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Electric",
-        "Poison"
-      ],
-      "ability": "Electric Surge",
-      "stats": "+0 Atk +0 Def +8 SpAtk +2 SpDef +0 Spd ",
-      "img_path": "images/megadex_toxtricity.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sizzlipede",
@@ -230342,15 +228155,7 @@
       "Fire Wall"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Bug",
-        "Fire"
-      ],
-      "ability": "Unnerve",
-      "stats": "+3 Atk +0 Def +3 SpAtk +2 SpDef +2 Spd +4 Atk +3 Def +0 SpAtk +0 SpDef +3109 Spd ",
-      "img_path": "images/megadex_centiskorch.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "clobbopus",
@@ -230795,12 +228600,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Suction Cups",
-      "stats": "+4 Atk +2 Def +1 SpAtk +3 SpDef +0 Spd ",
-      "img_path": "images/megadex_grapploct.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "sinistea",
@@ -231283,12 +229083,7 @@
       "Terrify"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Ghost",
-      "ability": "Sorcery",
-      "stats": "",
-      "img_path": "images/megadex_polteageist.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "hatenna",
@@ -232004,15 +229799,7 @@
       "Mystic Circle"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Psychic",
-        "Fairy"
-      ],
-      "ability": "Serene Grace + Levitate ",
-      "stats": "+0 Atk +1 Def +4 SpAtk +5 SpDef +0 Spd ",
-      "img_path": "images/megadex_hatterene.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "impidimp",
@@ -232772,15 +230559,7 @@
       "Force Punch"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Dark",
-        "Fairy"
-      ],
-      "ability": "Cruelty",
-      "stats": "+3 Atk +2 Def +3 SpAtk +2 SpDef +0 Spd +0 Atk +4 Def +4 SpAtk +2 SpDef +0110 Spd ",
-      "img_path": "images/megadex_grimmsnarl.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "milcery",
@@ -233240,12 +231019,7 @@
       "Magical Bomb"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fairy",
-      "ability": "Friend Guard",
-      "stats": "+0 Atk +3 Def +2 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_alcremie.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "falinks",
@@ -233466,12 +231240,7 @@
       "Agility"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": "Fighting",
-      "ability": "Bodyguard",
-      "stats": "",
-      "img_path": "images/megadex_falinks.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "pincurchin",
@@ -233737,12 +231506,7 @@
       "Gleaming Ore",
       "Spiral Drain"
     ],
-    "mega_evolution": {
-      "type": "Electric",
-      "ability": "Volt Absorb",
-      "stats": "+2 Atk +2 Def +2 SpAtk +2 SpDef +2 Spd ",
-      "img_path": "images/megadex_pincurchin.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "snom",
@@ -234174,15 +231938,7 @@
     ],
     "tutor_moves": [],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ice",
-        "Bug"
-      ],
-      "ability": "Snow Warning",
-      "stats": "+0 Atk +0 Def +4 SpAtk +3 SpDef +3 Spd +5 Atk +5 Def +0 SpAtk +0 SpDef +0111 Spd ",
-      "img_path": "images/megadex_frosmoth.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "stonjourner",
@@ -234444,12 +232200,7 @@
       "Stone Pillar",
       "Terra Charge"
     ],
-    "mega_evolution": {
-      "type": "Rock",
-      "ability": "Forewarn",
-      "stats": "+4 Atk +2 Def +0 SpAtk +4 SpDef +0 Spd ",
-      "img_path": "images/megadex_stonjourner.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "eiscue ice face",
@@ -235641,15 +233392,7 @@
       "Tickle",
       "Fertile Fangs"
     ],
-    "mega_evolution": {
-      "type": [
-        "Electric",
-        "Dark"
-      ],
-      "ability": "Prankster",
-      "stats": "+3 Atk +0 Def +3 SpAtk +1 SpDef +3 Spd +3 Atk +2 Def +4 SpAtk +1 SpDef +0 Spd ",
-      "img_path": "images/megadex_morpeko.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "cufant",
@@ -236114,15 +233857,7 @@
       "Metallurgy"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Ghost",
-        "Ground"
-      ],
-      "ability": "Anger Point",
-      "stats": "+0 Atk +5 Def +0 SpAtk +5 SpDef +0 Spd ",
-      "img_path": "images/megadex_copperajah.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "dracozolt",
@@ -236392,15 +234127,7 @@
       "Plasma Tail"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Electric",
-        "Dragon"
-      ],
-      "ability": "Adaptability",
-      "stats": "",
-      "img_path": "images/megadex_dracozolt.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "arctozolt",
@@ -236709,15 +234436,7 @@
       "Slipstream"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Electric",
-        "Ice"
-      ],
-      "ability": "Adaptability",
-      "stats": "+3 Atk +1 Def +3 SpAtk +1 SpDef +2 Spd ",
-      "img_path": "images/megadex_arctozolt.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "dracovish",
@@ -236992,15 +234711,7 @@
       "Primal Storm"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Dragon"
-      ],
-      "ability": "Adaptability",
-      "stats": "+1 Atk +3 Def +1 SpAtk +3 SpDef +2 Spd +3 Atk +1 Def +3 SpAtk +1 SpDef +2113 Spd ",
-      "img_path": "images/megadex_dracovish.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "arctovish",
@@ -237301,15 +235012,7 @@
       "Frost Typhoon"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Water",
-        "Ice"
-      ],
-      "ability": "Adaptability",
-      "stats": "+1 Atk +3 Def +1 SpAtk +3 SpDef +2 Spd ",
-      "img_path": "images/megadex_arctovish.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "duraludon",
@@ -237542,15 +235245,7 @@
       "Magnetic Pulse",
       "Overclock"
     ],
-    "mega_evolution": {
-      "type": [
-        "Steel",
-        "Dragon"
-      ],
-      "ability": "Bulletproof",
-      "stats": "",
-      "img_path": "images/megadex_duraludon.jpeg"
-    }
+    "mega_evolution": null
   },
   {
     "name": "dreepy",
@@ -238230,14 +235925,7 @@
       "Wrathful Blitz"
     ],
     "egg_moves": [],
-    "mega_evolution": {
-      "type": [
-        "Dragon",
-        "Ghost"
-      ],
-      "ability": "Mold Breaker",
-      "stats": "+4 Atk +1 Def +4 SpAtk +1 SpDef +2 Spd +2 Atk +3 Def +1 SpAtk +4 SpDef +0114 Spd "
-    }
+    "mega_evolution": null
   },
   {
     "name": "meowth galar",
@@ -240006,7 +237694,7 @@
     "mega_evolution": null
   },
   {
-    "name": "mr mime galar",
+    "name": "mr. mime galar",
     "stat_hp": 5,
     "stat_atk": 7,
     "stat_def": 7,
@@ -242017,7 +239705,7 @@
     "mega_evolution": null
   },
   {
-    "name": "darmanitan galar",
+    "name": "darmanitan galar, standard mode",
     "stat_hp": 11,
     "stat_atk": 14,
     "stat_def": 6,
@@ -242247,7 +239935,7 @@
     "mega_evolution": null
   },
   {
-    "name": "darmanitan zen mode galar",
+    "name": "darmanitan galar, zen mode",
     "stat_hp": 11,
     "stat_atk": 16,
     "stat_def": 6,
@@ -246057,7 +243745,7 @@
     "mega_evolution": null
   },
   {
-    "name": "urshifu",
+    "name": "urshifu single strike form",
     "stat_hp": 11,
     "stat_atk": 15,
     "stat_def": 11,
@@ -246339,7 +244027,7 @@
     "mega_evolution": null
   },
   {
-    "name": "urshifu rapid strike style",
+    "name": "urshifu rapid strike form",
     "stat_hp": 11,
     "stat_atk": 15,
     "stat_def": 11,
@@ -267698,7 +265386,7 @@
     "mega_evolution": null
   },
   {
-    "name": "gimmighoul",
+    "name": "gimmighoul (chest form)",
     "stat_hp": 5,
     "stat_atk": 7,
     "stat_def": 3,
@@ -267828,7 +265516,7 @@
     "mega_evolution": null
   },
   {
-    "name": "gimmighoul roaming",
+    "name": "gimmighoul (roaming form)",
     "stat_hp": 5,
     "stat_atk": 3,
     "stat_def": 3,
@@ -272645,7 +270333,7 @@
     "mega_evolution": null
   },
   {
-    "name": "ting lu",
+    "name": "ting-lu",
     "stat_hp": 19,
     "stat_atk": 16,
     "stat_def": 11,
@@ -272936,7 +270624,7 @@
     "mega_evolution": null
   },
   {
-    "name": "chien pao",
+    "name": "chien-pao",
     "stat_hp": 9,
     "stat_atk": 8,
     "stat_def": 16,
@@ -273250,7 +270938,7 @@
     "mega_evolution": null
   },
   {
-    "name": "wo chien",
+    "name": "wo-chien",
     "stat_hp": 11,
     "stat_atk": 12,
     "stat_def": 9,
@@ -273556,7 +271244,7 @@
     "mega_evolution": null
   },
   {
-    "name": "chi yu",
+    "name": "chi-yu",
     "stat_hp": 6,
     "stat_atk": 8,
     "stat_def": 8,
@@ -343033,7 +340721,7 @@
     "mega_evolution": null
   },
   {
-    "name": "basculegion",
+    "name": "basculegion male",
     "stat_hp": 13,
     "stat_atk": 12,
     "stat_def": 7,
@@ -343346,7 +341034,7 @@
     "mega_evolution": null
   },
   {
-    "name": "basculegion f",
+    "name": "basculegion female",
     "stat_hp": 13,
     "stat_atk": 9,
     "stat_def": 7,
@@ -344137,7 +341825,7 @@
     "mega_evolution": null
   },
   {
-    "name": "enamorus",
+    "name": "enamorus incarnate forme",
     "stat_hp": 8,
     "stat_atk": 14,
     "stat_def": 7,
@@ -344398,7 +342086,7 @@
     "mega_evolution": null
   },
   {
-    "name": "enamorus therian",
+    "name": "enamorus therian forme",
     "stat_hp": 9,
     "stat_atk": 12,
     "stat_def": 12,

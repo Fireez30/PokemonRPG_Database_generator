@@ -15,7 +15,7 @@ with open("output/redux/moves.json","r") as f:
     final_moves = json.load(f)
 
 redux_mons = []
-with open("output/initials/pokemon.json","r") as f:
+with open("output/initials/pokemons.json","r") as f:
     pokemons = json.load(f)
 for mon in data["species"]:
     if mon["name"] != "??????????":

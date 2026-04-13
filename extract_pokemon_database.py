@@ -127,7 +127,7 @@ if __name__ == "__main__":
     range_gen_9_dlc = range(1,20)
     pdf_gen_9_dlc = "data/Gen9 DLC.pdf"
     range_insurgence = range(3,207)
-    pdf_insurgence = "data/InsurgenceDex.pdf"
+    pdf_insurgence = "data/InsurgenceDex 1.05.pdf"
     range_hisui = range(3,31)
     pdf_hisui = "data/HisuiDex.pdf"
     range_eevolution = range(0,10)
