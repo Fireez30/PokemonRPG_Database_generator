@@ -277,7 +277,7 @@ def create_pdf(data, output="pokemon.pdf"):
     story.append(Spacer(1,5))
     # -------- IMAGE --------
 
-    img = get_pokemon_image(data["name"])
+    img = get_pokemon_image(data["name"].replace("_","").lower())
 
     if img:
         story.append(img)
