@@ -19,6 +19,6 @@ def export_abilities(abilities):
         )
 
 if __name__ == "__main__":
-    input_pdf = "data/Abilities.pdf"
+    input_pdf = "input_pdf/Abilities.pdf"
     abilities = parse_full_abilities(input_pdf)
     export_abilities(abilities)
