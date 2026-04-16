@@ -748,6 +748,23 @@
         "id": 968
     },
     {
+        "move": "Atomic Fire",
+        "type": "Fire",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "SPECIAL",
+        "range": "TBD",
+        "effect": "A life-risking energy with 50% recoil.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1026
+    },
+    {
         "move": "Attack Order",
         "type": "Bug",
         "frequency": "EOT",
@@ -1018,6 +1035,23 @@
         "contest_effect": "",
         "extra_lines": [],
         "id": 684
+    },
+    {
+        "move": "Ball Toss",
+        "type": "Normal",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "A ball attack. 20% flinch.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1015
     },
     {
         "move": "Baneful Bunker",
@@ -1649,6 +1683,23 @@
         "id": -1
     },
     {
+        "move": "Blitz Arrow",
+        "type": "Fighting",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "20% flinch chance. arrow based.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1030
+    },
+    {
         "move": "Blizzard",
         "type": "Ice",
         "frequency": "Scene x2",
@@ -1683,6 +1734,23 @@
         "id": 335
     },
     {
+        "move": "Block Dropper",
+        "type": "Ground",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "A ball attack. 20% flinch.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1018
+    },
+    {
         "move": "Blood Moon",
         "type": "Normal",
         "frequency": "TBD",
@@ -1708,7 +1776,7 @@
         "damage_base": -1,
         "classe": "STATUS",
         "range": "TBD",
-        "effect": "Not done yet.",
+        "effect": "Makes the target bleed with black magic.",
         "blessing": "",
         "special_effect": "",
         "contest_type": "",
@@ -2669,6 +2737,23 @@
         "id": 818
     },
     {
+        "move": "Chiller",
+        "type": "Ice",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "Hits 3 times with snowballs.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1013
+    },
+    {
         "move": "Chilling Water",
         "type": "Water",
         "frequency": "EOT",
@@ -3041,6 +3126,23 @@
         "contest_effect": "Exhausting Act",
         "extra_lines": [],
         "id": -1
+    },
+    {
+        "move": "Concoction",
+        "type": "Grass",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "Damages and uses a berry.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1022
     },
     {
         "move": "Confide",
@@ -4503,6 +4605,23 @@
         "contest_effect": "Double Time",
         "extra_lines": [],
         "id": 697
+    },
+    {
+        "move": "Dragon Dash",
+        "type": "Dragon",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "+1 priority attack.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1020
     },
     {
         "move": "Dragon Energy",
@@ -6171,6 +6290,23 @@
         "id": -1
     },
     {
+        "move": "Five-Star Fury",
+        "type": "Bug",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "Repeatedly punches the foe 2 to 5 times. +1 priority.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1001
+    },
+    {
         "move": "Flail",
         "type": "Normal",
         "frequency": "EOT",
@@ -6366,7 +6502,7 @@
         "damage_base": -1,
         "classe": "STATUS",
         "range": "TBD",
-        "effect": "Not done yet.",
+        "effect": "Drains the heat from the target, causing frostbite.",
         "blessing": "",
         "special_effect": "",
         "contest_type": "",
@@ -7497,6 +7633,23 @@
         "id": 683
     },
     {
+        "move": "Godspeed",
+        "type": "Flying",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "Super effective vs Steel.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1024
+    },
+    {
         "move": "Grass Knot",
         "type": "Grass",
         "frequency": "EOT",
@@ -7852,6 +8005,23 @@
         "contest_effect": "Double Time",
         "extra_lines": [],
         "id": 360
+    },
+    {
+        "move": "Hacksaw",
+        "type": "Steel",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "Super effective vs Steel.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1023
     },
     {
         "move": "Hail",
@@ -8840,6 +9010,23 @@
         "id": 850
     },
     {
+        "move": "Ice Wall",
+        "type": "Ice",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "Sets reflect with ice.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1028
+    },
+    {
         "move": "Icicle Crash",
         "type": "Ice",
         "frequency": "EOT",
@@ -8940,6 +9127,23 @@
         "contest_effect": "Steady Performance",
         "extra_lines": [],
         "id": 510
+    },
+    {
+        "move": "Incite",
+        "type": "Dark",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "STATUS",
+        "range": "TBD",
+        "effect": "Adds dark type and enrages foe.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1005
     },
     {
         "move": "Infected Injection",
@@ -9314,6 +9518,23 @@
         "contest_effect": "None",
         "extra_lines": [],
         "id": 861
+    },
+    {
+        "move": "Jetstream Burst",
+        "type": "Flying",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "SPECIAL",
+        "range": "TBD",
+        "effect": "Strikes by using flurries of wind.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1007
     },
     {
         "move": "Judgment",
@@ -11917,6 +12138,23 @@
         "id": 613
     },
     {
+        "move": "Obscured Shot",
+        "type": "Dark",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "SPECIAL",
+        "range": "TBD",
+        "effect": "Strikes first if the foe is preparing an attack.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1029
+    },
+    {
         "move": "Obstruct",
         "type": "Dark",
         "frequency": "Scene",
@@ -12221,6 +12459,23 @@
         "contest_effect": "Catching Up",
         "extra_lines": [],
         "id": 575
+    },
+    {
+        "move": "Party Favors",
+        "type": "Fairy",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "Damages the foe and heals allies.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1016
     },
     {
         "move": "Pay Day",
@@ -12767,6 +13022,23 @@
         "id": 365
     },
     {
+        "move": "Pocket Sand",
+        "type": "Ground",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "+1 priority, 10% acc drop.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1021
+    },
+    {
         "move": "Poison Fang",
         "type": "Poison",
         "frequency": "EOT",
@@ -13226,6 +13498,23 @@
         "id": 929
     },
     {
+        "move": "Prism Blast",
+        "type": "Rock",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "SPECIAL",
+        "range": "TBD",
+        "effect": "Deals damage, lowers accuracy, and may confuse.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1011
+    },
+    {
         "move": "Prismatic Laser",
         "type": "Psychic",
         "frequency": "Daily x2",
@@ -13496,6 +13785,23 @@
         "contest_effect": "Inversed Appeal",
         "extra_lines": [],
         "id": 375
+    },
+    {
+        "move": "Psycho Wave",
+        "type": "Psychic",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "SPECIAL",
+        "range": "TBD",
+        "effect": "A life-risking energy with 50% recoil.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1025
     },
     {
         "move": "Psychokinetic Slam",
@@ -13989,6 +14295,23 @@
         "contest_effect": "Sabotage",
         "extra_lines": [],
         "id": 240
+    },
+    {
+        "move": "Rain Flush",
+        "type": "Water",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "SPECIAL",
+        "range": "TBD",
+        "effect": "A powerful rain attack. Lowers the user's defenses.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1027
     },
     {
         "move": "Rainbow Beam",
@@ -14790,6 +15113,43 @@
         "id": 885
     },
     {
+        "move": "Rumble Kick",
+        "type": "Rock",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "May down attack. Striker.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1031
+    },
+    {
+        "move": "Saber Slashes",
+        "type": [
+            "Fire",
+            "Electric"
+        ],
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "A ball attack. 20% flinch.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1019
+    },
+    {
         "move": "Sacred Aqua Veil",
         "type": "Water",
         "frequency": "Daily x2",
@@ -15402,6 +15762,23 @@
         "id": 761
     },
     {
+        "move": "Seismic Slam",
+        "type": "Ground",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "Deals damage. 33% recoil damage.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1012
+    },
+    {
         "move": "Seismic Toss",
         "type": "Fighting",
         "frequency": "Scene x2",
@@ -15434,6 +15811,23 @@
         "contest_effect": "Big Show",
         "extra_lines": [],
         "id": 120
+    },
+    {
+        "move": "Septic Switch",
+        "type": "Poison",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "STATUS",
+        "range": "TBD",
+        "effect": "Supress abilities then switch.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1003
     },
     {
         "move": "Serpent Swipe",
@@ -15963,6 +16357,23 @@
         "id": 622
     },
     {
+        "move": "Shot Put",
+        "type": "Steel",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "A ball attack. 30% speed drop.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1017
+    },
+    {
         "move": "Showtime",
         "type": "Psychic",
         "frequency": "TBD",
@@ -16182,6 +16593,23 @@
         "contest_effect": "Special Attention",
         "extra_lines": [],
         "id": 507
+    },
+    {
+        "move": "Sky Quake",
+        "type": "Flying",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "Strikes with harsh winds.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1008
     },
     {
         "move": "Sky Uppercut",
@@ -17001,14 +17429,14 @@
     },
     {
         "move": "Spectral Flame",
-        "type": "Normal",
+        "type": "Ghost",
         "frequency": "TBD",
         "AC": "TBD",
         "roll": "TBD",
         "damage_base": -1,
-        "classe": "PHYSICAL",
+        "classe": "STATUS",
         "range": "TBD",
-        "effect": "Emites a flame that moves as if alive and inflicts burn.",
+        "effect": "Emits a flame that moves as if alive and inflicts burn.",
         "blessing": "",
         "special_effect": "",
         "contest_type": "",
@@ -17355,6 +17783,23 @@
         "contest_effect": "Attention Grabber",
         "extra_lines": [],
         "id": 634
+    },
+    {
+        "move": "Spread Bomb",
+        "type": "Fire",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "Hits everyone else. 30% Burn chance.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1014
     },
     {
         "move": "Springtide Storm",
@@ -18003,6 +18448,23 @@
         "id": 667
     },
     {
+        "move": "Sunstrike (N)",
+        "type": "Fire",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "SPECIAL",
+        "range": "TBD",
+        "effect": "Strikes with harsh winds.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1009
+    },
+    {
         "move": "Super Fang",
         "type": "Normal",
         "frequency": "Scene",
@@ -18079,7 +18541,7 @@
         "damage_base": -1,
         "classe": "PHYSICAL",
         "range": "TBD",
-        "effect": "Not done yet.",
+        "effect": "An arrow attack. always crits.",
         "blessing": "",
         "special_effect": "",
         "contest_type": "",
@@ -18664,6 +19126,23 @@
         "contest_effect": "",
         "extra_lines": [],
         "id": 910
+    },
+    {
+        "move": "Tempest Storm (N)",
+        "type": "Electric",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "STATUS",
+        "range": "TBD",
+        "effect": "Sets a thundershock storm.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1010
     },
     {
         "move": "Tera Blast",
@@ -19278,6 +19757,23 @@
         "id": -1
     },
     {
+        "move": "Toxic Terrain",
+        "type": "Poison",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "STATUS",
+        "range": "TBD",
+        "effect": "Boosts Poison and damages mons for 8 turns.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1006
+    },
+    {
         "move": "Toxic Thread",
         "type": "Poison",
         "frequency": "Scene x2",
@@ -19548,6 +20044,23 @@
         "contest_effect": "Exhausting Act",
         "extra_lines": [],
         "id": 376
+    },
+    {
+        "move": "Tsunami Hammer",
+        "type": "Water",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "PHYSICAL",
+        "range": "TBD",
+        "effect": "Super effective vs Water. Can't be used twice in a row.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1002
     },
     {
         "move": "Twin Beam",
@@ -20177,6 +20690,23 @@
         "contest_effect": "Steady Performance",
         "extra_lines": [],
         "id": 127
+    },
+    {
+        "move": "Waterlog",
+        "type": "Water",
+        "frequency": "TBD",
+        "AC": "TBD",
+        "roll": "TBD",
+        "damage_base": -1,
+        "classe": "STATUS",
+        "range": "TBD",
+        "effect": "Target moves last and may be drenched.",
+        "blessing": "",
+        "special_effect": "",
+        "contest_type": "",
+        "contest_effect": "",
+        "extra_lines": [],
+        "id": 1004
     },
     {
         "move": "Wave Crash",

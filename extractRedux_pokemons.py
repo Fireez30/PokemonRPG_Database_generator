@@ -5,7 +5,7 @@ from parsers import to_serializable
 from pokemon_data import accepted_classes,accepted_ACs,accepted_freqs,accepted_types
 
 
-with open("data/reduxData.json", "r") as f:
+with open("data/reduxData_last.json", "r") as f:
     data = json.load(f)
 
 with open("output/redux/abilities.json","r") as f:

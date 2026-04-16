@@ -175,5 +175,10 @@ class FullMove:
         return self.effect
     def to_csv(self):
         # this is used to override default formating
-        csv =  self.move+","+self.get_frequency()+","+self.get_AC()+","+self.get_type()+","+self.get_roll()+","+self.get_classe()+","+'"'+self.get_range()+'"'+","+'"'+self.get_effect()+'"'
+        print(self.move)
+        print(self.get_type())
+        final_type = self.get_type()
+        if type(self.get_type()) == list:
+            final_type = ','.join(self.get_type())
+        csv =  self.move+","+self.get_frequency()+","+self.get_AC()+","+final_type+","+self.get_roll()+","+self.get_classe()+","+'"'+self.get_range()+'"'+","+'"'+self.get_effect()+'"'
         return csv
