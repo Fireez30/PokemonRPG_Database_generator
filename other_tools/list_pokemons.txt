@@ -1,0 +1,12828 @@
+bulbasaur
+
+level up moves: 
+
+ct / egg moves: 
+
+ivysaur
+
+level up moves: 
+
+ct / egg moves: 
+
+venusaur
+
+level up moves: 
+
+ct / egg moves: 
+
+chikorita
+
+level up moves: 
+
+ct / egg moves: 
+
+bayleef
+
+level up moves: 
+
+ct / egg moves: 
+
+meganium
+
+level up moves: 
+
+ct / egg moves: 
+
+treecko
+
+level up moves: 
+
+ct / egg moves: 
+
+grovyle
+
+level up moves: 
+
+ct / egg moves: 
+
+sceptile
+
+level up moves: 
+
+ct / egg moves: 
+
+turtwig
+
+level up moves: 
+
+ct / egg moves: 
+
+grotle
+
+level up moves: 
+
+ct / egg moves: 
+
+torterra
+
+level up moves: 
+
+ct / egg moves: 
+
+snivy
+
+level up moves: 
+
+ct / egg moves: 
+
+servine
+
+level up moves: 
+
+ct / egg moves: 
+
+serperior
+
+level up moves: 
+
+ct / egg moves: 
+
+chespin
+
+level up moves: 
+
+ct / egg moves: 
+
+quilladin
+
+level up moves: 
+
+ct / egg moves: 
+
+chesnaught
+
+level up moves: 
+
+ct / egg moves: 
+
+rowlet
+
+level up moves: 
+
+ct / egg moves: 
+
+dartrix
+
+level up moves: 
+
+ct / egg moves: 
+
+decidueye
+
+level up moves: 
+
+ct / egg moves: 
+
+charmander
+
+level up moves: 
+
+ct / egg moves: 
+
+charmeleon
+
+level up moves: 
+
+ct / egg moves: 
+
+charizard
+
+level up moves: 
+
+ct / egg moves: 
+
+cyndaquil
+
+level up moves: 
+
+ct / egg moves: 
+
+quilava
+
+level up moves: 
+
+ct / egg moves: 
+
+typhlosion
+
+level up moves: 
+
+ct / egg moves: 
+
+torchic
+
+level up moves: 
+
+ct / egg moves: 
+
+combusken
+
+level up moves: 
+
+ct / egg moves: 
+
+blaziken
+
+level up moves: 
+
+ct / egg moves: 
+
+chimchar
+
+level up moves: 
+
+ct / egg moves: 
+
+monferno
+
+level up moves: 
+
+ct / egg moves: 
+
+infernape
+
+level up moves: 
+
+ct / egg moves: 
+
+tepig
+
+level up moves: 
+
+ct / egg moves: 
+
+pignite
+
+level up moves: 
+
+ct / egg moves: 
+
+emboar
+
+level up moves: 
+
+ct / egg moves: 
+
+fennekin
+
+level up moves: 
+
+ct / egg moves: 
+
+braixen
+
+level up moves: 
+
+ct / egg moves: 
+
+delphox
+
+level up moves: 
+
+ct / egg moves: 
+
+litten
+
+level up moves: 
+
+ct / egg moves: 
+
+torracat
+
+level up moves: 
+
+ct / egg moves: 
+
+incineroar
+
+level up moves: 
+
+ct / egg moves: 
+
+squirtle
+
+level up moves: 
+
+ct / egg moves: 
+
+wartortle
+
+level up moves: 
+
+ct / egg moves: 
+
+blastoise
+
+level up moves: 
+
+ct / egg moves: 
+
+totodile
+
+level up moves: 
+
+ct / egg moves: 
+
+croconaw
+
+level up moves: 
+
+ct / egg moves: 
+
+feraligatr
+
+level up moves: 
+
+ct / egg moves: 
+
+mudkip
+
+level up moves: 
+
+ct / egg moves: 
+
+marshtomp
+
+level up moves: 
+
+ct / egg moves: 
+
+swampert
+
+level up moves: 
+
+ct / egg moves: 
+
+piplup
+
+level up moves: 
+
+ct / egg moves: 
+
+prinplup
+
+level up moves: 
+
+ct / egg moves: 
+
+empoleon
+
+level up moves: 
+
+ct / egg moves: 
+
+oshawott
+
+level up moves: 
+
+ct / egg moves: 
+
+dewott
+
+level up moves: 
+
+ct / egg moves: 
+
+samurott
+
+level up moves: 
+
+ct / egg moves: 
+
+froakie
+
+level up moves: 
+
+ct / egg moves: 
+
+frogadier
+
+level up moves: 
+
+ct / egg moves: 
+
+greninja
+
+level up moves: 
+
+ct / egg moves: 
+
+popplio
+
+level up moves: 
+
+ct / egg moves: 
+
+brionne
+
+level up moves: 
+
+ct / egg moves: 
+
+primarina
+
+level up moves: 
+
+ct / egg moves: 
+
+caterpie
+
+level up moves: 
+
+ct / egg moves: 
+
+metapod
+
+level up moves: 
+
+ct / egg moves: 
+
+butterfree
+
+level up moves: 
+
+ct / egg moves: 
+
+weedle
+
+level up moves: 
+
+ct / egg moves: 
+
+kakuna
+
+level up moves: 
+
+ct / egg moves: 
+
+beedrill
+
+level up moves: 
+
+ct / egg moves: 
+
+wurmple
+
+level up moves: 
+
+ct / egg moves: 
+
+silcoon
+
+level up moves: 
+
+ct / egg moves: 
+
+beautifly
+
+level up moves: 
+
+ct / egg moves: 
+
+cascoon
+
+level up moves: 
+
+ct / egg moves: 
+
+dustox
+
+level up moves: 
+
+ct / egg moves: 
+
+sewaddle
+
+level up moves: 
+
+ct / egg moves: 
+
+swadloon
+
+level up moves: 
+
+ct / egg moves: 
+
+leavanny
+
+level up moves: 
+
+ct / egg moves: 
+
+venipede
+
+level up moves: 
+
+ct / egg moves: 
+
+whirlipede
+
+level up moves: 
+
+ct / egg moves: 
+
+scolipede
+
+level up moves: 
+
+ct / egg moves: 
+
+scatterbug
+
+level up moves: 
+
+ct / egg moves: 
+
+spewpa
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon
+
+level up moves: 
+
+ct / egg moves: 
+
+grubbin
+
+level up moves: 
+
+ct / egg moves: 
+
+charjabug
+
+level up moves: 
+
+ct / egg moves: 
+
+vikavolt
+
+level up moves: 
+
+ct / egg moves: 
+
+axew
+
+level up moves: 
+
+ct / egg moves: 
+
+fraxure
+
+level up moves: 
+
+ct / egg moves: 
+
+haxorus
+
+level up moves: 
+
+ct / egg moves: 
+
+pichu
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu
+
+level up moves: 
+
+ct / egg moves: 
+
+raichu
+
+level up moves: 
+
+ct / egg moves: 
+
+raichu alola
+
+level up moves: 
+
+ct / egg moves: 
+
+magnemite
+
+level up moves: 
+
+ct / egg moves: 
+
+magneton
+
+level up moves: 
+
+ct / egg moves: 
+
+magnezone
+
+level up moves: 
+
+ct / egg moves: 
+
+elekid
+
+level up moves: 
+
+ct / egg moves: 
+
+electabuzz
+
+level up moves: 
+
+ct / egg moves: 
+
+electivire
+
+level up moves: 
+
+ct / egg moves: 
+
+mareep
+
+level up moves: 
+
+ct / egg moves: 
+
+flaaffy
+
+level up moves: 
+
+ct / egg moves: 
+
+ampharos
+
+level up moves: 
+
+ct / egg moves: 
+
+shinx
+
+level up moves: 
+
+ct / egg moves: 
+
+luxio
+
+level up moves: 
+
+ct / egg moves: 
+
+luxray
+
+level up moves: 
+
+ct / egg moves: 
+
+tynamo
+
+level up moves: 
+
+ct / egg moves: 
+
+eelektrik
+
+level up moves: 
+
+ct / egg moves: 
+
+eelektross
+
+level up moves: 
+
+ct / egg moves: 
+
+cleffa
+
+level up moves: 
+
+ct / egg moves: 
+
+clefairy
+
+level up moves: 
+
+ct / egg moves: 
+
+clefable
+
+level up moves: 
+
+ct / egg moves: 
+
+togepi
+
+level up moves: 
+
+ct / egg moves: 
+
+togetic
+
+level up moves: 
+
+ct / egg moves: 
+
+togekiss
+
+level up moves: 
+
+ct / egg moves: 
+
+flabébé
+
+level up moves: 
+
+ct / egg moves: 
+
+floette
+
+level up moves: 
+
+ct / egg moves: 
+
+florges
+
+level up moves: 
+
+ct / egg moves: 
+
+machop
+
+level up moves: 
+
+ct / egg moves: 
+
+machoke
+
+level up moves: 
+
+ct / egg moves: 
+
+machamp
+
+level up moves: 
+
+ct / egg moves: 
+
+timburr
+
+level up moves: 
+
+ct / egg moves: 
+
+gurdurr
+
+level up moves: 
+
+ct / egg moves: 
+
+conkeldurr
+
+level up moves: 
+
+ct / egg moves: 
+
+magby
+
+level up moves: 
+
+ct / egg moves: 
+
+magmar
+
+level up moves: 
+
+ct / egg moves: 
+
+magmortar
+
+level up moves: 
+
+ct / egg moves: 
+
+fletchling
+
+level up moves: 
+
+ct / egg moves: 
+
+fletchinder
+
+level up moves: 
+
+ct / egg moves: 
+
+talonflame
+
+level up moves: 
+
+ct / egg moves: 
+
+gastly
+
+level up moves: 
+
+ct / egg moves: 
+
+haunter
+
+level up moves: 
+
+ct / egg moves: 
+
+gengar
+
+level up moves: 
+
+ct / egg moves: 
+
+duskull
+
+level up moves: 
+
+ct / egg moves: 
+
+dusclops
+
+level up moves: 
+
+ct / egg moves: 
+
+dusknoir
+
+level up moves: 
+
+ct / egg moves: 
+
+litwick
+
+level up moves: 
+
+ct / egg moves: 
+
+lampent
+
+level up moves: 
+
+ct / egg moves: 
+
+chandelure
+
+level up moves: 
+
+ct / egg moves: 
+
+oddish
+
+level up moves: 
+
+ct / egg moves: 
+
+gloom
+
+level up moves: 
+
+ct / egg moves: 
+
+vileplume
+
+level up moves: 
+
+ct / egg moves: 
+
+bellossom
+
+level up moves: 
+
+ct / egg moves: 
+
+bellsprout
+
+level up moves: 
+
+ct / egg moves: 
+
+weepinbell
+
+level up moves: 
+
+ct / egg moves: 
+
+victreebel
+
+level up moves: 
+
+ct / egg moves: 
+
+hoppip
+
+level up moves: 
+
+ct / egg moves: 
+
+skiploom
+
+level up moves: 
+
+ct / egg moves: 
+
+jumpluff
+
+level up moves: 
+
+ct / egg moves: 
+
+seedot
+
+level up moves: 
+
+ct / egg moves: 
+
+nuzleaf
+
+level up moves: 
+
+ct / egg moves: 
+
+shiftry
+
+level up moves: 
+
+ct / egg moves: 
+
+budew
+
+level up moves: 
+
+ct / egg moves: 
+
+roselia
+
+level up moves: 
+
+ct / egg moves: 
+
+roserade
+
+level up moves: 
+
+ct / egg moves: 
+
+bounsweet
+
+level up moves: 
+
+ct / egg moves: 
+
+steenee
+
+level up moves: 
+
+ct / egg moves: 
+
+tsareena
+
+level up moves: 
+
+ct / egg moves: 
+
+rhyhorn
+
+level up moves: 
+
+ct / egg moves: 
+
+rhydon
+
+level up moves: 
+
+ct / egg moves: 
+
+slurpuff
+
+level up moves: 
+
+ct / egg moves: 
+
+mankey
+
+level up moves: 
+
+ct / egg moves: 
+
+primeape
+
+level up moves: 
+
+ct / egg moves: 
+
+tyrogue
+
+level up moves: 
+
+ct / egg moves: 
+
+hitmonlee
+
+level up moves: 
+
+ct / egg moves: 
+
+hitmonchan
+
+level up moves: 
+
+ct / egg moves: 
+
+hitmontop
+
+level up moves: 
+
+ct / egg moves: 
+
+makuhita
+
+level up moves: 
+
+ct / egg moves: 
+
+hariyama
+
+level up moves: 
+
+ct / egg moves: 
+
+meditite
+
+level up moves: 
+
+ct / egg moves: 
+
+medicham
+
+level up moves: 
+
+ct / egg moves: 
+
+riolu
+
+level up moves: 
+
+ct / egg moves: 
+
+lucario
+
+level up moves: 
+
+ct / egg moves: 
+
+mienfoo
+
+level up moves: 
+
+ct / egg moves: 
+
+mienshao
+
+level up moves: 
+
+ct / egg moves: 
+
+pancham
+
+level up moves: 
+
+ct / egg moves: 
+
+pangoro
+
+level up moves: 
+
+ct / egg moves: 
+
+crabrawler
+
+level up moves: 
+
+ct / egg moves: 
+
+crabominable
+
+level up moves: 
+
+ct / egg moves: 
+
+vulpix
+
+level up moves: 
+
+ct / egg moves: 
+
+ninetales
+
+level up moves: 
+
+ct / egg moves: 
+
+growlithe
+
+level up moves: 
+
+ct / egg moves: 
+
+arcanine
+
+level up moves: 
+
+ct / egg moves: 
+
+ponyta
+
+level up moves: 
+
+ct / egg moves: 
+
+rapidash
+
+level up moves: 
+
+ct / egg moves: 
+
+slugma
+
+level up moves: 
+
+ct / egg moves: 
+
+magcargo
+
+level up moves: 
+
+ct / egg moves: 
+
+rhyperior
+
+level up moves: 
+
+ct / egg moves: 
+
+trapinch
+
+level up moves: 
+
+ct / egg moves: 
+
+vibrava
+
+level up moves: 
+
+ct / egg moves: 
+
+flygon
+
+level up moves: 
+
+ct / egg moves: 
+
+sandile
+
+level up moves: 
+
+ct / egg moves: 
+
+krokorok
+
+level up moves: 
+
+ct / egg moves: 
+
+krookodile
+
+level up moves: 
+
+ct / egg moves: 
+
+swinub
+
+level up moves: 
+
+ct / egg moves: 
+
+piloswine
+
+level up moves: 
+
+ct / egg moves: 
+
+mamoswine
+
+level up moves: 
+
+ct / egg moves: 
+
+spheal
+
+level up moves: 
+
+ct / egg moves: 
+
+sealeo
+
+level up moves: 
+
+ct / egg moves: 
+
+walrein
+
+level up moves: 
+
+ct / egg moves: 
+
+vanillite
+
+level up moves: 
+
+ct / egg moves: 
+
+vanillish
+
+level up moves: 
+
+ct / egg moves: 
+
+vanilluxe
+
+level up moves: 
+
+ct / egg moves: 
+
+pidgey
+
+level up moves: 
+
+ct / egg moves: 
+
+pidgeotto
+
+level up moves: 
+
+ct / egg moves: 
+
+pidgeot
+
+level up moves: 
+
+ct / egg moves: 
+
+igglybuff
+
+level up moves: 
+
+ct / egg moves: 
+
+jigglypuff
+
+level up moves: 
+
+ct / egg moves: 
+
+wigglytuff
+
+level up moves: 
+
+ct / egg moves: 
+
+happiny
+
+level up moves: 
+
+ct / egg moves: 
+
+chansey
+
+level up moves: 
+
+ct / egg moves: 
+
+blissey
+
+level up moves: 
+
+ct / egg moves: 
+
+porygon
+
+level up moves: 
+
+ct / egg moves: 
+
+porygon2
+
+level up moves: 
+
+ct / egg moves: 
+
+porygon-z
+
+level up moves: 
+
+ct / egg moves: 
+
+slakoth
+
+level up moves: 
+
+ct / egg moves: 
+
+vigoroth
+
+level up moves: 
+
+ct / egg moves: 
+
+slaking
+
+level up moves: 
+
+ct / egg moves: 
+
+whismur
+
+level up moves: 
+
+ct / egg moves: 
+
+loudred
+
+level up moves: 
+
+ct / egg moves: 
+
+exploud
+
+level up moves: 
+
+ct / egg moves: 
+
+starly
+
+level up moves: 
+
+ct / egg moves: 
+
+staravia
+
+level up moves: 
+
+ct / egg moves: 
+
+staraptor
+
+level up moves: 
+
+ct / egg moves: 
+
+lillipup
+
+level up moves: 
+
+ct / egg moves: 
+
+herdier
+
+level up moves: 
+
+ct / egg moves: 
+
+stoutland
+
+level up moves: 
+
+ct / egg moves: 
+
+pidove
+
+level up moves: 
+
+ct / egg moves: 
+
+tranquill
+
+level up moves: 
+
+ct / egg moves: 
+
+unfezant
+
+level up moves: 
+
+ct / egg moves: 
+
+pikipek
+
+level up moves: 
+
+ct / egg moves: 
+
+trumbeak
+
+level up moves: 
+
+ct / egg moves: 
+
+toucannon
+
+level up moves: 
+
+ct / egg moves: 
+
+nidoran (f)
+
+level up moves: 
+
+ct / egg moves: 
+
+nidorina
+
+level up moves: 
+
+ct / egg moves: 
+
+nidoqueen
+
+level up moves: 
+
+ct / egg moves: 
+
+nidoran (m)
+
+level up moves: 
+
+ct / egg moves: 
+
+nidorino
+
+level up moves: 
+
+ct / egg moves: 
+
+nidoking
+
+level up moves: 
+
+ct / egg moves: 
+
+zubat
+
+level up moves: 
+
+ct / egg moves: 
+
+golbat
+
+level up moves: 
+
+ct / egg moves: 
+
+crobat
+
+level up moves: 
+
+ct / egg moves: 
+
+abra
+
+level up moves: 
+
+ct / egg moves: 
+
+kadabra
+
+level up moves: 
+
+ct / egg moves: 
+
+alakazam
+
+level up moves: 
+
+ct / egg moves: 
+
+ralts
+
+level up moves: 
+
+ct / egg moves: 
+
+kirlia
+
+level up moves: 
+
+ct / egg moves: 
+
+gardevoir
+
+level up moves: 
+
+ct / egg moves: 
+
+gallade
+
+level up moves: 
+
+ct / egg moves: 
+
+gothita
+
+level up moves: 
+
+ct / egg moves: 
+
+gothorita
+
+level up moves: 
+
+ct / egg moves: 
+
+gothitelle
+
+level up moves: 
+
+ct / egg moves: 
+
+solosis
+
+level up moves: 
+
+ct / egg moves: 
+
+duosion
+
+level up moves: 
+
+ct / egg moves: 
+
+reuniclus
+
+level up moves: 
+
+ct / egg moves: 
+
+geodude
+
+level up moves: 
+
+ct / egg moves: 
+
+graveler
+
+level up moves: 
+
+ct / egg moves: 
+
+golem
+
+level up moves: 
+
+ct / egg moves: 
+
+roggenrolla
+
+level up moves: 
+
+ct / egg moves: 
+
+boldore
+
+level up moves: 
+
+ct / egg moves: 
+
+gigalith
+
+level up moves: 
+
+ct / egg moves: 
+
+aron
+
+level up moves: 
+
+ct / egg moves: 
+
+lairon
+
+level up moves: 
+
+ct / egg moves: 
+
+aggron
+
+level up moves: 
+
+ct / egg moves: 
+
+klink
+
+level up moves: 
+
+ct / egg moves: 
+
+klang
+
+level up moves: 
+
+ct / egg moves: 
+
+klinklang
+
+level up moves: 
+
+ct / egg moves: 
+
+honedge
+
+level up moves: 
+
+ct / egg moves: 
+
+doublade
+
+level up moves: 
+
+ct / egg moves: 
+
+aegislash
+
+level up moves: 
+
+ct / egg moves: 
+
+poliwag
+
+level up moves: 
+
+ct / egg moves: 
+
+poliwhirl
+
+level up moves: 
+
+ct / egg moves: 
+
+poliwrath
+
+level up moves: 
+
+ct / egg moves: 
+
+politoed
+
+level up moves: 
+
+ct / egg moves: 
+
+horsea
+
+level up moves: 
+
+ct / egg moves: 
+
+seadra
+
+level up moves: 
+
+ct / egg moves: 
+
+kingdra
+
+level up moves: 
+
+ct / egg moves: 
+
+azurill
+
+level up moves: 
+
+ct / egg moves: 
+
+marill
+
+level up moves: 
+
+ct / egg moves: 
+
+azumarill
+
+level up moves: 
+
+ct / egg moves: 
+
+lotad
+
+level up moves: 
+
+ct / egg moves: 
+
+lombre
+
+level up moves: 
+
+ct / egg moves: 
+
+ludicolo
+
+level up moves: 
+
+ct / egg moves: 
+
+tympole
+
+level up moves: 
+
+ct / egg moves: 
+
+palpitoad
+
+level up moves: 
+
+ct / egg moves: 
+
+seismitoad
+
+level up moves: 
+
+ct / egg moves: 
+
+paras
+
+level up moves: 
+
+ct / egg moves: 
+
+parasect
+
+level up moves: 
+
+ct / egg moves: 
+
+venonat
+
+level up moves: 
+
+ct / egg moves: 
+
+venomoth
+
+level up moves: 
+
+ct / egg moves: 
+
+scyther
+
+level up moves: 
+
+ct / egg moves: 
+
+scizor
+
+level up moves: 
+
+ct / egg moves: 
+
+ledyba
+
+level up moves: 
+
+ct / egg moves: 
+
+ledian
+
+level up moves: 
+
+ct / egg moves: 
+
+spinarak
+
+level up moves: 
+
+ct / egg moves: 
+
+ariados
+
+level up moves: 
+
+ct / egg moves: 
+
+yanma
+
+level up moves: 
+
+ct / egg moves: 
+
+yanmega
+
+level up moves: 
+
+ct / egg moves: 
+
+pineco
+
+level up moves: 
+
+ct / egg moves: 
+
+forretress
+
+level up moves: 
+
+ct / egg moves: 
+
+surskit
+
+level up moves: 
+
+ct / egg moves: 
+
+masquerain
+
+level up moves: 
+
+ct / egg moves: 
+
+nincada
+
+level up moves: 
+
+ct / egg moves: 
+
+ninjask
+
+level up moves: 
+
+ct / egg moves: 
+
+shedinja
+
+level up moves: 
+
+ct / egg moves: 
+
+kricketot
+
+level up moves: 
+
+ct / egg moves: 
+
+kricketune
+
+level up moves: 
+
+ct / egg moves: 
+
+burmy
+
+level up moves: 
+
+ct / egg moves: 
+
+wormadam
+
+level up moves: 
+
+ct / egg moves: 
+
+wormadam sandy
+
+level up moves: 
+
+ct / egg moves: 
+
+wormadam trash
+
+level up moves: 
+
+ct / egg moves: 
+
+mothim
+
+level up moves: 
+
+ct / egg moves: 
+
+combee
+
+level up moves: 
+
+ct / egg moves: 
+
+vespiquen
+
+level up moves: 
+
+ct / egg moves: 
+
+dwebble
+
+level up moves: 
+
+ct / egg moves: 
+
+crustle
+
+level up moves: 
+
+ct / egg moves: 
+
+karrablast
+
+level up moves: 
+
+ct / egg moves: 
+
+escavalier
+
+level up moves: 
+
+ct / egg moves: 
+
+shelmet
+
+level up moves: 
+
+ct / egg moves: 
+
+accelgor
+
+level up moves: 
+
+ct / egg moves: 
+
+joltik
+
+level up moves: 
+
+ct / egg moves: 
+
+galvantula
+
+level up moves: 
+
+ct / egg moves: 
+
+larvesta
+
+level up moves: 
+
+ct / egg moves: 
+
+volcarona
+
+level up moves: 
+
+ct / egg moves: 
+
+cutiefly
+
+level up moves: 
+
+ct / egg moves: 
+
+ribombee
+
+level up moves: 
+
+ct / egg moves: 
+
+wimpod
+
+level up moves: 
+
+ct / egg moves: 
+
+golisopod
+
+level up moves: 
+
+ct / egg moves: 
+
+murkrow
+
+level up moves: 
+
+ct / egg moves: 
+
+honchkrow
+
+level up moves: 
+
+ct / egg moves: 
+
+sneasel
+
+level up moves: 
+
+ct / egg moves: 
+
+weavile
+
+level up moves: 
+
+ct / egg moves: 
+
+houndour
+
+level up moves: 
+
+ct / egg moves: 
+
+houndoom
+
+level up moves: 
+
+ct / egg moves: 
+
+poochyena
+
+level up moves: 
+
+ct / egg moves: 
+
+mightyena
+
+level up moves: 
+
+ct / egg moves: 
+
+purrloin
+
+level up moves: 
+
+ct / egg moves: 
+
+liepard
+
+level up moves: 
+
+ct / egg moves: 
+
+scraggy
+
+level up moves: 
+
+ct / egg moves: 
+
+scrafty
+
+level up moves: 
+
+ct / egg moves: 
+
+zorua
+
+level up moves: 
+
+ct / egg moves: 
+
+zoroark
+
+level up moves: 
+
+ct / egg moves: 
+
+pawniard
+
+level up moves: 
+
+ct / egg moves: 
+
+bisharp
+
+level up moves: 
+
+ct / egg moves: 
+
+vullaby
+
+level up moves: 
+
+ct / egg moves: 
+
+mandibuzz
+
+level up moves: 
+
+ct / egg moves: 
+
+inkay
+
+level up moves: 
+
+ct / egg moves: 
+
+malamar
+
+level up moves: 
+
+ct / egg moves: 
+
+voltorb
+
+level up moves: 
+
+ct / egg moves: 
+
+electrode
+
+level up moves: 
+
+ct / egg moves: 
+
+electrike
+
+level up moves: 
+
+ct / egg moves: 
+
+manectric
+
+level up moves: 
+
+ct / egg moves: 
+
+blitzle
+
+level up moves: 
+
+ct / egg moves: 
+
+zebstrika
+
+level up moves: 
+
+ct / egg moves: 
+
+helioptile
+
+level up moves: 
+
+ct / egg moves: 
+
+heliolisk
+
+level up moves: 
+
+ct / egg moves: 
+
+snubbull
+
+level up moves: 
+
+ct / egg moves: 
+
+granbull
+
+level up moves: 
+
+ct / egg moves: 
+
+spritzee
+
+level up moves: 
+
+ct / egg moves: 
+
+aromatisse
+
+level up moves: 
+
+ct / egg moves: 
+
+swirlix
+
+level up moves: 
+
+ct / egg moves: 
+
+numel
+
+level up moves: 
+
+ct / egg moves: 
+
+camerupt
+
+level up moves: 
+
+ct / egg moves: 
+
+pansear
+
+level up moves: 
+
+ct / egg moves: 
+
+simisear
+
+level up moves: 
+
+ct / egg moves: 
+
+darumaka
+
+level up moves: 
+
+ct / egg moves: 
+
+darmanitan
+
+level up moves: 
+
+ct / egg moves: 
+
+darmanitan zen
+
+level up moves: 
+
+ct / egg moves: 
+
+litleo
+
+level up moves: 
+
+ct / egg moves: 
+
+pyroar
+
+level up moves: 
+
+ct / egg moves: 
+
+noibat
+
+level up moves: 
+
+ct / egg moves: 
+
+noivern
+
+level up moves: 
+
+ct / egg moves: 
+
+misdreavus
+
+level up moves: 
+
+ct / egg moves: 
+
+mismagius
+
+level up moves: 
+
+ct / egg moves: 
+
+shuppet
+
+level up moves: 
+
+ct / egg moves: 
+
+banette
+
+level up moves: 
+
+ct / egg moves: 
+
+drifloon
+
+level up moves: 
+
+ct / egg moves: 
+
+drifblim
+
+level up moves: 
+
+ct / egg moves: 
+
+yamask
+
+level up moves: 
+
+ct / egg moves: 
+
+cofagrlgus
+
+level up moves: 
+
+ct / egg moves: 
+
+phantump
+
+level up moves: 
+
+ct / egg moves: 
+
+trevenant
+
+level up moves: 
+
+ct / egg moves: 
+
+pumpkaboo
+
+level up moves: 
+
+ct / egg moves: 
+
+gourgeist
+
+level up moves: 
+
+ct / egg moves: 
+
+sandygast
+
+level up moves: 
+
+ct / egg moves: 
+
+palossand
+
+level up moves: 
+
+ct / egg moves: 
+
+exeggcute
+
+level up moves: 
+
+ct / egg moves: 
+
+exeggutor
+
+level up moves: 
+
+ct / egg moves: 
+
+exeggutor alola
+
+level up moves: 
+
+ct / egg moves: 
+
+tangela
+
+level up moves: 
+
+ct / egg moves: 
+
+tangrowth
+
+level up moves: 
+
+ct / egg moves: 
+
+sunkern
+
+level up moves: 
+
+ct / egg moves: 
+
+sunflora
+
+level up moves: 
+
+ct / egg moves: 
+
+shroomish
+
+level up moves: 
+
+ct / egg moves: 
+
+breloom
+
+level up moves: 
+
+ct / egg moves: 
+
+cacnea
+
+level up moves: 
+
+ct / egg moves: 
+
+cacturne
+
+level up moves: 
+
+ct / egg moves: 
+
+cherubi
+
+level up moves: 
+
+ct / egg moves: 
+
+cherrim
+
+level up moves: 
+
+ct / egg moves: 
+
+snover
+
+level up moves: 
+
+ct / egg moves: 
+
+abomasnow
+
+level up moves: 
+
+ct / egg moves: 
+
+pansage
+
+level up moves: 
+
+ct / egg moves: 
+
+simisage
+
+level up moves: 
+
+ct / egg moves: 
+
+cottonee
+
+level up moves: 
+
+ct / egg moves: 
+
+whimsicott
+
+level up moves: 
+
+ct / egg moves: 
+
+petilil
+
+level up moves: 
+
+ct / egg moves: 
+
+lilligant
+
+level up moves: 
+
+ct / egg moves: 
+
+foongus
+
+level up moves: 
+
+ct / egg moves: 
+
+amoonguss
+
+level up moves: 
+
+ct / egg moves: 
+
+ferroseed
+
+level up moves: 
+
+ct / egg moves: 
+
+ferrothorn
+
+level up moves: 
+
+ct / egg moves: 
+
+skiddo
+
+level up moves: 
+
+ct / egg moves: 
+
+gogoat
+
+level up moves: 
+
+ct / egg moves: 
+
+fomantis
+
+level up moves: 
+
+ct / egg moves: 
+
+lurantis
+
+level up moves: 
+
+ct / egg moves: 
+
+morelull
+
+level up moves: 
+
+ct / egg moves: 
+
+shiinotic
+
+level up moves: 
+
+ct / egg moves: 
+
+sandshrew
+
+level up moves: 
+
+ct / egg moves: 
+
+sandslash
+
+level up moves: 
+
+ct / egg moves: 
+
+diglett
+
+level up moves: 
+
+ct / egg moves: 
+
+dugtrio
+
+level up moves: 
+
+ct / egg moves: 
+
+cubone
+
+level up moves: 
+
+ct / egg moves: 
+
+marowak
+
+level up moves: 
+
+ct / egg moves: 
+
+marowak alola
+
+level up moves: 
+
+ct / egg moves: 
+
+gligar
+
+level up moves: 
+
+ct / egg moves: 
+
+gliscor
+
+level up moves: 
+
+ct / egg moves: 
+
+phanpy
+
+level up moves: 
+
+ct / egg moves: 
+
+donphan
+
+level up moves: 
+
+ct / egg moves: 
+
+baltoy
+
+level up moves: 
+
+ct / egg moves: 
+
+claydol
+
+level up moves: 
+
+ct / egg moves: 
+
+hippopotas
+
+level up moves: 
+
+ct / egg moves: 
+
+hippowdon
+
+level up moves: 
+
+ct / egg moves: 
+
+drilbur
+
+level up moves: 
+
+ct / egg moves: 
+
+excadrill
+
+level up moves: 
+
+ct / egg moves: 
+
+golett
+
+level up moves: 
+
+ct / egg moves: 
+
+golurk
+
+level up moves: 
+
+ct / egg moves: 
+
+mudbray
+
+level up moves: 
+
+ct / egg moves: 
+
+mudsdale
+
+level up moves: 
+
+ct / egg moves: 
+
+smoochum
+
+level up moves: 
+
+ct / egg moves: 
+
+jynx
+
+level up moves: 
+
+ct / egg moves: 
+
+snorunt
+
+level up moves: 
+
+ct / egg moves: 
+
+glalie
+
+level up moves: 
+
+ct / egg moves: 
+
+froslass
+
+level up moves: 
+
+ct / egg moves: 
+
+cubchoo
+
+level up moves: 
+
+ct / egg moves: 
+
+beartic
+
+level up moves: 
+
+ct / egg moves: 
+
+bergmite
+
+level up moves: 
+
+ct / egg moves: 
+
+avalugg
+
+level up moves: 
+
+ct / egg moves: 
+
+rattata
+
+level up moves: 
+
+ct / egg moves: 
+
+raticate
+
+level up moves: 
+
+ct / egg moves: 
+
+spearow
+
+level up moves: 
+
+ct / egg moves: 
+
+fearow
+
+level up moves: 
+
+ct / egg moves: 
+
+meowth
+
+level up moves: 
+
+ct / egg moves: 
+
+persian
+
+level up moves: 
+
+ct / egg moves: 
+
+doduo
+
+level up moves: 
+
+ct / egg moves: 
+
+dodrio
+
+level up moves: 
+
+ct / egg moves: 
+
+lickitung
+
+level up moves: 
+
+ct / egg moves: 
+
+lickilicky
+
+level up moves: 
+
+ct / egg moves: 
+
+munchlax
+
+level up moves: 
+
+ct / egg moves: 
+
+snorlax
+
+level up moves: 
+
+ct / egg moves: 
+
+sentret
+
+level up moves: 
+
+ct / egg moves: 
+
+furret
+
+level up moves: 
+
+ct / egg moves: 
+
+hoothoot
+
+level up moves: 
+
+ct / egg moves: 
+
+noctowl
+
+level up moves: 
+
+ct / egg moves: 
+
+aipom
+
+level up moves: 
+
+ct / egg moves: 
+
+ambipom
+
+level up moves: 
+
+ct / egg moves: 
+
+teddiursa
+
+level up moves: 
+
+ct / egg moves: 
+
+ursaring
+
+level up moves: 
+
+ct / egg moves: 
+
+zigzagoon
+
+level up moves: 
+
+ct / egg moves: 
+
+linoone
+
+level up moves: 
+
+ct / egg moves: 
+
+taillow
+
+level up moves: 
+
+ct / egg moves: 
+
+swellow
+
+level up moves: 
+
+ct / egg moves: 
+
+skitty
+
+level up moves: 
+
+ct / egg moves: 
+
+delcatty
+
+level up moves: 
+
+ct / egg moves: 
+
+swablu
+
+level up moves: 
+
+ct / egg moves: 
+
+altaria
+
+level up moves: 
+
+ct / egg moves: 
+
+bidoof
+
+level up moves: 
+
+ct / egg moves: 
+
+bibarel
+
+level up moves: 
+
+ct / egg moves: 
+
+buneary
+
+level up moves: 
+
+ct / egg moves: 
+
+lopunny
+
+level up moves: 
+
+ct / egg moves: 
+
+glameow
+
+level up moves: 
+
+ct / egg moves: 
+
+purugly
+
+level up moves: 
+
+ct / egg moves: 
+
+patrat
+
+level up moves: 
+
+ct / egg moves: 
+
+watchog
+
+level up moves: 
+
+ct / egg moves: 
+
+minccino
+
+level up moves: 
+
+ct / egg moves: 
+
+cinccino
+
+level up moves: 
+
+ct / egg moves: 
+
+deerling
+
+level up moves: 
+
+ct / egg moves: 
+
+sawsbuck
+
+level up moves: 
+
+ct / egg moves: 
+
+rufflet
+
+level up moves: 
+
+ct / egg moves: 
+
+braviary
+
+level up moves: 
+
+ct / egg moves: 
+
+bunnelby
+
+level up moves: 
+
+ct / egg moves: 
+
+diggersby
+
+level up moves: 
+
+ct / egg moves: 
+
+yungoos
+
+level up moves: 
+
+ct / egg moves: 
+
+gumshoos
+
+level up moves: 
+
+ct / egg moves: 
+
+stufful
+
+level up moves: 
+
+ct / egg moves: 
+
+bewear
+
+level up moves: 
+
+ct / egg moves: 
+
+ekans
+
+level up moves: 
+
+ct / egg moves: 
+
+arbok
+
+level up moves: 
+
+ct / egg moves: 
+
+grimer
+
+level up moves: 
+
+ct / egg moves: 
+
+muk
+
+level up moves: 
+
+ct / egg moves: 
+
+koffing
+
+level up moves: 
+
+ct / egg moves: 
+
+weezing
+
+level up moves: 
+
+ct / egg moves: 
+
+gulpin
+
+level up moves: 
+
+ct / egg moves: 
+
+swalot
+
+level up moves: 
+
+ct / egg moves: 
+
+stunky
+
+level up moves: 
+
+ct / egg moves: 
+
+skuntank
+
+level up moves: 
+
+ct / egg moves: 
+
+skorupi
+
+level up moves: 
+
+ct / egg moves: 
+
+drapion
+
+level up moves: 
+
+ct / egg moves: 
+
+croagunk
+
+level up moves: 
+
+ct / egg moves: 
+
+toxicroak
+
+level up moves: 
+
+ct / egg moves: 
+
+trubbish
+
+level up moves: 
+
+ct / egg moves: 
+
+garbodor
+
+level up moves: 
+
+ct / egg moves: 
+
+skrelp
+
+level up moves: 
+
+ct / egg moves: 
+
+dragalge
+
+level up moves: 
+
+ct / egg moves: 
+
+mareanie
+
+level up moves: 
+
+ct / egg moves: 
+
+toxapex
+
+level up moves: 
+
+ct / egg moves: 
+
+salandit
+
+level up moves: 
+
+ct / egg moves: 
+
+salazzle
+
+level up moves: 
+
+ct / egg moves: 
+
+drowzee
+
+level up moves: 
+
+ct / egg moves: 
+
+hypno
+
+level up moves: 
+
+ct / egg moves: 
+
+mime jr.
+
+level up moves: 
+
+ct / egg moves: 
+
+mr. mime
+
+level up moves: 
+
+ct / egg moves: 
+
+natu
+
+level up moves: 
+
+ct / egg moves: 
+
+xatu
+
+level up moves: 
+
+ct / egg moves: 
+
+wynaut
+
+level up moves: 
+
+ct / egg moves: 
+
+wobbuffet
+
+level up moves: 
+
+ct / egg moves: 
+
+spoink
+
+level up moves: 
+
+ct / egg moves: 
+
+grumpig
+
+level up moves: 
+
+ct / egg moves: 
+
+chingling
+
+level up moves: 
+
+ct / egg moves: 
+
+chimecho
+
+level up moves: 
+
+ct / egg moves: 
+
+munna
+
+level up moves: 
+
+ct / egg moves: 
+
+musharna
+
+level up moves: 
+
+ct / egg moves: 
+
+woobat
+
+level up moves: 
+
+ct / egg moves: 
+
+swoobat
+
+level up moves: 
+
+ct / egg moves: 
+
+elgyem
+
+level up moves: 
+
+ct / egg moves: 
+
+beheeyem
+
+level up moves: 
+
+ct / egg moves: 
+
+espurr
+
+level up moves: 
+
+ct / egg moves: 
+
+meowstic
+
+level up moves: 
+
+ct / egg moves: 
+
+meowstic female
+
+level up moves: 
+
+ct / egg moves: 
+
+onix
+
+level up moves: 
+
+ct / egg moves: 
+
+steelix
+
+level up moves: 
+
+ct / egg moves: 
+
+nosepass
+
+level up moves: 
+
+ct / egg moves: 
+
+probopass
+
+level up moves: 
+
+ct / egg moves: 
+
+bonsly
+
+level up moves: 
+
+ct / egg moves: 
+
+sudowoodo
+
+level up moves: 
+
+ct / egg moves: 
+
+binacle
+
+level up moves: 
+
+ct / egg moves: 
+
+barbaracle
+
+level up moves: 
+
+ct / egg moves: 
+
+rockruff
+
+level up moves: 
+
+ct / egg moves: 
+
+lycanroc midday
+
+level up moves: 
+
+ct / egg moves: 
+
+lycanroc midnight
+
+level up moves: 
+
+ct / egg moves: 
+
+lycanroc dusk
+
+level up moves: 
+
+ct / egg moves: 
+
+bronzor
+
+level up moves: 
+
+ct / egg moves: 
+
+bronzong
+
+level up moves: 
+
+ct / egg moves: 
+
+psyduck
+
+level up moves: 
+
+ct / egg moves: 
+
+golduck
+
+level up moves: 
+
+ct / egg moves: 
+
+tentacool
+
+level up moves: 
+
+ct / egg moves: 
+
+tentacruel
+
+level up moves: 
+
+ct / egg moves: 
+
+slowpoke
+
+level up moves: 
+
+ct / egg moves: 
+
+slowbro
+
+level up moves: 
+
+ct / egg moves: 
+
+slowking
+
+level up moves: 
+
+ct / egg moves: 
+
+seel
+
+level up moves: 
+
+ct / egg moves: 
+
+dewgong
+
+level up moves: 
+
+ct / egg moves: 
+
+shellder
+
+level up moves: 
+
+ct / egg moves: 
+
+cloyster
+
+level up moves: 
+
+ct / egg moves: 
+
+krabby
+
+level up moves: 
+
+ct / egg moves: 
+
+kingler
+
+level up moves: 
+
+ct / egg moves: 
+
+goldeen
+
+level up moves: 
+
+ct / egg moves: 
+
+seaking
+
+level up moves: 
+
+ct / egg moves: 
+
+staryu
+
+level up moves: 
+
+ct / egg moves: 
+
+starmie
+
+level up moves: 
+
+ct / egg moves: 
+
+magikarp
+
+level up moves: 
+
+ct / egg moves: 
+
+gyarados
+
+level up moves: 
+
+ct / egg moves: 
+
+chinchou
+
+level up moves: 
+
+ct / egg moves: 
+
+lanturn
+
+level up moves: 
+
+ct / egg moves: 
+
+wooper
+
+level up moves: 
+
+ct / egg moves: 
+
+quagsire
+
+level up moves: 
+
+ct / egg moves: 
+
+remoraid
+
+level up moves: 
+
+ct / egg moves: 
+
+octillery
+
+level up moves: 
+
+ct / egg moves: 
+
+mantyke
+
+level up moves: 
+
+ct / egg moves: 
+
+mantine
+
+level up moves: 
+
+ct / egg moves: 
+
+wingull
+
+level up moves: 
+
+ct / egg moves: 
+
+pelipper
+
+level up moves: 
+
+ct / egg moves: 
+
+carvanha
+
+level up moves: 
+
+ct / egg moves: 
+
+sharpedo
+
+level up moves: 
+
+ct / egg moves: 
+
+wailmer
+
+level up moves: 
+
+ct / egg moves: 
+
+wailord
+
+level up moves: 
+
+ct / egg moves: 
+
+barboach
+
+level up moves: 
+
+ct / egg moves: 
+
+whiscash
+
+level up moves: 
+
+ct / egg moves: 
+
+corphish
+
+level up moves: 
+
+ct / egg moves: 
+
+crawdaunt
+
+level up moves: 
+
+ct / egg moves: 
+
+feebas
+
+level up moves: 
+
+ct / egg moves: 
+
+milotic
+
+level up moves: 
+
+ct / egg moves: 
+
+clamperl
+
+level up moves: 
+
+ct / egg moves: 
+
+huntail
+
+level up moves: 
+
+ct / egg moves: 
+
+gorebyss
+
+level up moves: 
+
+ct / egg moves: 
+
+buizel
+
+level up moves: 
+
+ct / egg moves: 
+
+floatzel
+
+level up moves: 
+
+ct / egg moves: 
+
+shellos
+
+level up moves: 
+
+ct / egg moves: 
+
+gastrodon
+
+level up moves: 
+
+ct / egg moves: 
+
+finneon
+
+level up moves: 
+
+ct / egg moves: 
+
+lumineon
+
+level up moves: 
+
+ct / egg moves: 
+
+panpour
+
+level up moves: 
+
+ct / egg moves: 
+
+simipour
+
+level up moves: 
+
+ct / egg moves: 
+
+ducklett
+
+level up moves: 
+
+ct / egg moves: 
+
+swanna
+
+level up moves: 
+
+ct / egg moves: 
+
+frillish
+
+level up moves: 
+
+ct / egg moves: 
+
+jellicent
+
+level up moves: 
+
+ct / egg moves: 
+
+clauncher
+
+level up moves: 
+
+ct / egg moves: 
+
+clawitzer
+
+level up moves: 
+
+ct / egg moves: 
+
+dewpider
+
+level up moves: 
+
+ct / egg moves: 
+
+araquanid
+
+level up moves: 
+
+ct / egg moves: 
+
+pinsir
+
+level up moves: 
+
+ct / egg moves: 
+
+shuckle
+
+level up moves: 
+
+ct / egg moves: 
+
+heracross
+
+level up moves: 
+
+ct / egg moves: 
+
+volbeat
+
+level up moves: 
+
+ct / egg moves: 
+
+illumise
+
+level up moves: 
+
+ct / egg moves: 
+
+durant
+
+level up moves: 
+
+ct / egg moves: 
+
+sableye
+
+level up moves: 
+
+ct / egg moves: 
+
+absol
+
+level up moves: 
+
+ct / egg moves: 
+
+druddigon
+
+level up moves: 
+
+ct / egg moves: 
+
+plusle
+
+level up moves: 
+
+ct / egg moves: 
+
+minun
+
+level up moves: 
+
+ct / egg moves: 
+
+pachirisu
+
+level up moves: 
+
+ct / egg moves: 
+
+rotom
+
+level up moves: 
+
+ct / egg moves: 
+
+rotom appliance forms
+
+level up moves: 
+
+ct / egg moves: 
+
+emolga
+
+level up moves: 
+
+ct / egg moves: 
+
+dedenne
+
+level up moves: 
+
+ct / egg moves: 
+
+togedemaru
+
+level up moves: 
+
+ct / egg moves: 
+
+comfey
+
+level up moves: 
+
+ct / egg moves: 
+
+throh
+
+level up moves: 
+
+ct / egg moves: 
+
+sawk
+
+level up moves: 
+
+ct / egg moves: 
+
+hawlucha
+
+level up moves: 
+
+ct / egg moves: 
+
+passimian
+
+level up moves: 
+
+ct / egg moves: 
+
+torkoal
+
+level up moves: 
+
+ct / egg moves: 
+
+heatmor
+
+level up moves: 
+
+ct / egg moves: 
+
+turtonator
+
+level up moves: 
+
+ct / egg moves: 
+
+spiritomb
+
+level up moves: 
+
+ct / egg moves: 
+
+mimikyu
+
+level up moves: 
+
+ct / egg moves: 
+
+dhelmise
+
+level up moves: 
+
+ct / egg moves: 
+
+tropius
+
+level up moves: 
+
+ct / egg moves: 
+
+carnivine
+
+level up moves: 
+
+ct / egg moves: 
+
+maractus
+
+level up moves: 
+
+ct / egg moves: 
+
+stunfisk
+
+level up moves: 
+
+ct / egg moves: 
+
+delibird
+
+level up moves: 
+
+ct / egg moves: 
+
+cryogonal
+
+level up moves: 
+
+ct / egg moves: 
+
+farfetch'd
+
+level up moves: 
+
+ct / egg moves: 
+
+kangaskhan
+
+level up moves: 
+
+ct / egg moves: 
+
+tauros
+
+level up moves: 
+
+ct / egg moves: 
+
+girafarig
+
+level up moves: 
+
+ct / egg moves: 
+
+dunsparce
+
+level up moves: 
+
+ct / egg moves: 
+
+stantler
+
+level up moves: 
+
+ct / egg moves: 
+
+smeargle
+
+level up moves: 
+
+ct / egg moves: 
+
+miltank
+
+level up moves: 
+
+ct / egg moves: 
+
+spinda
+
+level up moves: 
+
+ct / egg moves: 
+
+zangoose
+
+level up moves: 
+
+ct / egg moves: 
+
+castform
+
+level up moves: 
+
+ct / egg moves: 
+
+kecleon
+
+level up moves: 
+
+ct / egg moves: 
+
+chatot
+
+level up moves: 
+
+ct / egg moves: 
+
+audino
+
+level up moves: 
+
+ct / egg moves: 
+
+bouffalant
+
+level up moves: 
+
+ct / egg moves: 
+
+furfrou
+
+level up moves: 
+
+ct / egg moves: 
+
+oranguru
+
+level up moves: 
+
+ct / egg moves: 
+
+komala
+
+level up moves: 
+
+ct / egg moves: 
+
+drampa
+
+level up moves: 
+
+ct / egg moves: 
+
+seviper
+
+level up moves: 
+
+ct / egg moves: 
+
+unown
+
+level up moves: 
+
+ct / egg moves: 
+
+sigilyph
+
+level up moves: 
+
+ct / egg moves: 
+
+lunatone
+
+level up moves: 
+
+ct / egg moves: 
+
+solrock
+
+level up moves: 
+
+ct / egg moves: 
+
+carbink
+
+level up moves: 
+
+ct / egg moves: 
+
+minior meteor
+
+level up moves: 
+
+ct / egg moves: 
+
+minior core
+
+level up moves: 
+
+ct / egg moves: 
+
+skarmory
+
+level up moves: 
+
+ct / egg moves: 
+
+mawile
+
+level up moves: 
+
+ct / egg moves: 
+
+klefki
+
+level up moves: 
+
+ct / egg moves: 
+
+lapras
+
+level up moves: 
+
+ct / egg moves: 
+
+qwilfish
+
+level up moves: 
+
+ct / egg moves: 
+
+corsola
+
+level up moves: 
+
+ct / egg moves: 
+
+relicanth
+
+level up moves: 
+
+ct / egg moves: 
+
+luvdisc
+
+level up moves: 
+
+ct / egg moves: 
+
+basculin
+
+level up moves: 
+
+ct / egg moves: 
+
+alomomola
+
+level up moves: 
+
+ct / egg moves: 
+
+wishiwashi
+
+level up moves: 
+
+ct / egg moves: 
+
+wishiwashi school
+
+level up moves: 
+
+ct / egg moves: 
+
+pyukumuku
+
+level up moves: 
+
+ct / egg moves: 
+
+bruxish
+
+level up moves: 
+
+ct / egg moves: 
+
+ditto
+
+level up moves: 
+
+ct / egg moves: 
+
+eevee
+
+level up moves: 
+
+ct / egg moves: 
+
+vaporeon
+
+level up moves: 
+
+ct / egg moves: 
+
+jolteon
+
+level up moves: 
+
+ct / egg moves: 
+
+flareon
+
+level up moves: 
+
+ct / egg moves: 
+
+espeon
+
+level up moves: 
+
+ct / egg moves: 
+
+umbreon
+
+level up moves: 
+
+ct / egg moves: 
+
+leafeon
+
+level up moves: 
+
+ct / egg moves: 
+
+glaceon
+
+level up moves: 
+
+ct / egg moves: 
+
+sylveon
+
+level up moves: 
+
+ct / egg moves: 
+
+oricorio
+
+level up moves: 
+
+ct / egg moves: 
+
+rattata alola
+
+level up moves: 
+
+ct / egg moves: 
+
+raticate alola
+
+level up moves: 
+
+ct / egg moves: 
+
+sandshrew alola
+
+level up moves: 
+
+ct / egg moves: 
+
+sandslash alola
+
+level up moves: 
+
+ct / egg moves: 
+
+vulpix alola
+
+level up moves: 
+
+ct / egg moves: 
+
+ninetales alola
+
+level up moves: 
+
+ct / egg moves: 
+
+diglett alola
+
+level up moves: 
+
+ct / egg moves: 
+
+dugtrio alola
+
+level up moves: 
+
+ct / egg moves: 
+
+meowth alola
+
+level up moves: 
+
+ct / egg moves: 
+
+persian alola
+
+level up moves: 
+
+ct / egg moves: 
+
+geodude alola
+
+level up moves: 
+
+ct / egg moves: 
+
+graveler alola
+
+level up moves: 
+
+ct / egg moves: 
+
+golem alola
+
+level up moves: 
+
+ct / egg moves: 
+
+grimer alola
+
+level up moves: 
+
+ct / egg moves: 
+
+muk alola
+
+level up moves: 
+
+ct / egg moves: 
+
+omanyte
+
+level up moves: 
+
+ct / egg moves: 
+
+omastar
+
+level up moves: 
+
+ct / egg moves: 
+
+kabuto
+
+level up moves: 
+
+ct / egg moves: 
+
+kabutops
+
+level up moves: 
+
+ct / egg moves: 
+
+lileep
+
+level up moves: 
+
+ct / egg moves: 
+
+cradily
+
+level up moves: 
+
+ct / egg moves: 
+
+anorith
+
+level up moves: 
+
+ct / egg moves: 
+
+armaldo
+
+level up moves: 
+
+ct / egg moves: 
+
+cranidos
+
+level up moves: 
+
+ct / egg moves: 
+
+rampardos
+
+level up moves: 
+
+ct / egg moves: 
+
+shieldon
+
+level up moves: 
+
+ct / egg moves: 
+
+bastiodon
+
+level up moves: 
+
+ct / egg moves: 
+
+tirtouga
+
+level up moves: 
+
+ct / egg moves: 
+
+carracosta
+
+level up moves: 
+
+ct / egg moves: 
+
+archen
+
+level up moves: 
+
+ct / egg moves: 
+
+archeops
+
+level up moves: 
+
+ct / egg moves: 
+
+tyrunt
+
+level up moves: 
+
+ct / egg moves: 
+
+tyrantrum
+
+level up moves: 
+
+ct / egg moves: 
+
+amaura
+
+level up moves: 
+
+ct / egg moves: 
+
+aurorus
+
+level up moves: 
+
+ct / egg moves: 
+
+aerodactyl
+
+level up moves: 
+
+ct / egg moves: 
+
+dratini
+
+level up moves: 
+
+ct / egg moves: 
+
+dragonair
+
+level up moves: 
+
+ct / egg moves: 
+
+dragonite
+
+level up moves: 
+
+ct / egg moves: 
+
+larvitar
+
+level up moves: 
+
+ct / egg moves: 
+
+pupitar
+
+level up moves: 
+
+ct / egg moves: 
+
+tyranitar
+
+level up moves: 
+
+ct / egg moves: 
+
+bagon
+
+level up moves: 
+
+ct / egg moves: 
+
+shelgon
+
+level up moves: 
+
+ct / egg moves: 
+
+salamence
+
+level up moves: 
+
+ct / egg moves: 
+
+beldum
+
+level up moves: 
+
+ct / egg moves: 
+
+metang
+
+level up moves: 
+
+ct / egg moves: 
+
+metagross
+
+level up moves: 
+
+ct / egg moves: 
+
+gible
+
+level up moves: 
+
+ct / egg moves: 
+
+gabite
+
+level up moves: 
+
+ct / egg moves: 
+
+garchomp
+
+level up moves: 
+
+ct / egg moves: 
+
+deino
+
+level up moves: 
+
+ct / egg moves: 
+
+zweilous
+
+level up moves: 
+
+ct / egg moves: 
+
+hydreigon
+
+level up moves: 
+
+ct / egg moves: 
+
+goomy
+
+level up moves: 
+
+ct / egg moves: 
+
+sliggoo
+
+level up moves: 
+
+ct / egg moves: 
+
+goodra
+
+level up moves: 
+
+ct / egg moves: 
+
+jangmo-o
+
+level up moves: 
+
+ct / egg moves: 
+
+hakamo-o
+
+level up moves: 
+
+ct / egg moves: 
+
+kommo-o
+
+level up moves: 
+
+ct / egg moves: 
+
+pokédex update.
+
+level up moves: 
+
+ct / egg moves: 
+
+articuno
+
+level up moves: 
+
+ct / egg moves: 
+
+zapdos
+
+level up moves: 
+
+ct / egg moves: 
+
+moltres
+
+level up moves: 
+
+ct / egg moves: 
+
+mewtwo
+
+level up moves: 
+
+ct / egg moves: 
+
+mew
+
+level up moves: 
+
+ct / egg moves: 
+
+raikou
+
+level up moves: 
+
+ct / egg moves: 
+
+entei
+
+level up moves: 
+
+ct / egg moves: 
+
+suicune
+
+level up moves: 
+
+ct / egg moves: 
+
+lugia
+
+level up moves: 
+
+ct / egg moves: 
+
+ho-oh
+
+level up moves: 
+
+ct / egg moves: 
+
+celebi
+
+level up moves: 
+
+ct / egg moves: 
+
+regirock
+
+level up moves: 
+
+ct / egg moves: 
+
+regice
+
+level up moves: 
+
+ct / egg moves: 
+
+registeel
+
+level up moves: 
+
+ct / egg moves: 
+
+regigigas
+
+level up moves: 
+
+ct / egg moves: 
+
+latias
+
+level up moves: 
+
+ct / egg moves: 
+
+latios
+
+level up moves: 
+
+ct / egg moves: 
+
+kyogre
+
+level up moves: 
+
+ct / egg moves: 
+
+groudon
+
+level up moves: 
+
+ct / egg moves: 
+
+rayquaza
+
+level up moves: 
+
+ct / egg moves: 
+
+jirachi
+
+level up moves: 
+
+ct / egg moves: 
+
+deoxys
+
+level up moves: 
+
+ct / egg moves: 
+
+deoxys attack
+
+level up moves: 
+
+ct / egg moves: 
+
+deoxys defense
+
+level up moves: 
+
+ct / egg moves: 
+
+deoxys speed
+
+level up moves: 
+
+ct / egg moves: 
+
+uxie
+
+level up moves: 
+
+ct / egg moves: 
+
+mesprit
+
+level up moves: 
+
+ct / egg moves: 
+
+azelf
+
+level up moves: 
+
+ct / egg moves: 
+
+dialga
+
+level up moves: 
+
+ct / egg moves: 
+
+palkia
+
+level up moves: 
+
+ct / egg moves: 
+
+giratina origin
+
+level up moves: 
+
+ct / egg moves: 
+
+giratina altered forme
+
+level up moves: 
+
+ct / egg moves: 
+
+heatran
+
+level up moves: 
+
+ct / egg moves: 
+
+cresselia
+
+level up moves: 
+
+ct / egg moves: 
+
+darkrai
+
+level up moves: 
+
+ct / egg moves: 
+
+phione
+
+level up moves: 
+
+ct / egg moves: 
+
+manaphy
+
+level up moves: 
+
+ct / egg moves: 
+
+shaymin
+
+level up moves: 
+
+ct / egg moves: 
+
+shaymin sky
+
+level up moves: 
+
+ct / egg moves: 
+
+arceus
+
+level up moves: 
+
+ct / egg moves: 
+
+victini
+
+level up moves: 
+
+ct / egg moves: 
+
+cobalion
+
+level up moves: 
+
+ct / egg moves: 
+
+terrakion
+
+level up moves: 
+
+ct / egg moves: 
+
+virizion
+
+level up moves: 
+
+ct / egg moves: 
+
+keldeo
+
+level up moves: 
+
+ct / egg moves: 
+
+tornadus
+
+level up moves: 
+
+ct / egg moves: 
+
+tornadus therian
+
+level up moves: 
+
+ct / egg moves: 
+
+thundurus
+
+level up moves: 
+
+ct / egg moves: 
+
+thundurus therian
+
+level up moves: 
+
+ct / egg moves: 
+
+landorus
+
+level up moves: 
+
+ct / egg moves: 
+
+landorus therian
+
+level up moves: 
+
+ct / egg moves: 
+
+reshiram
+
+level up moves: 
+
+ct / egg moves: 
+
+zekrom
+
+level up moves: 
+
+ct / egg moves: 
+
+kyurem
+
+level up moves: 
+
+ct / egg moves: 
+
+kyurem white
+
+level up moves: 
+
+ct / egg moves: 
+
+kyurem black
+
+level up moves: 
+
+ct / egg moves: 
+
+meloetta aria forme
+
+level up moves: 
+
+ct / egg moves: 
+
+meloetta step forme
+
+level up moves: 
+
+ct / egg moves: 
+
+genesect
+
+level up moves: 
+
+ct / egg moves: 
+
+xerneas
+
+level up moves: 
+
+ct / egg moves: 
+
+yveltal
+
+level up moves: 
+
+ct / egg moves: 
+
+zygarde 10% forme
+
+level up moves: 
+
+ct / egg moves: 
+
+zygarde 50% forme
+
+level up moves: 
+
+ct / egg moves: 
+
+zygarde complete forme
+
+level up moves: 
+
+ct / egg moves: 
+
+diancie
+
+level up moves: 
+
+ct / egg moves: 
+
+hoopa confined
+
+level up moves: 
+
+ct / egg moves: 
+
+hoopa unbound
+
+level up moves: 
+
+ct / egg moves: 
+
+volcanion
+
+level up moves: 
+
+ct / egg moves: 
+
+type: null
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally
+
+level up moves: 
+
+ct / egg moves: 
+
+tapu koko
+
+level up moves: 
+
+ct / egg moves: 
+
+tapu lele
+
+level up moves: 
+
+ct / egg moves: 
+
+tapu bulu
+
+level up moves: 
+
+ct / egg moves: 
+
+tapu fini
+
+level up moves: 
+
+ct / egg moves: 
+
+cosmog
+
+level up moves: 
+
+ct / egg moves: 
+
+cosmoem
+
+level up moves: 
+
+ct / egg moves: 
+
+solgaleo
+
+level up moves: 
+
+ct / egg moves: 
+
+lunala
+
+level up moves: 
+
+ct / egg moves: 
+
+necrozma
+
+level up moves: 
+
+ct / egg moves: 
+
+necrozma dusk mane
+
+level up moves: 
+
+ct / egg moves: 
+
+necrozma dawn wings
+
+level up moves: 
+
+ct / egg moves: 
+
+nihilego
+
+level up moves: 
+
+ct / egg moves: 
+
+buzzwole
+
+level up moves: 
+
+ct / egg moves: 
+
+pheromosa
+
+level up moves: 
+
+ct / egg moves: 
+
+xurkitree
+
+level up moves: 
+
+ct / egg moves: 
+
+celesteela
+
+level up moves: 
+
+ct / egg moves: 
+
+kartana
+
+level up moves: 
+
+ct / egg moves: 
+
+guzzlord
+
+level up moves: 
+
+ct / egg moves: 
+
+poipole
+
+level up moves: 
+
+ct / egg moves: 
+
+naganadel
+
+level up moves: 
+
+ct / egg moves: 
+
+stakataka
+
+level up moves: 
+
+ct / egg moves: 
+
+blacephalon
+
+level up moves: 
+
+ct / egg moves: 
+
+magearna
+
+level up moves: 
+
+ct / egg moves: 
+
+marshadow
+
+level up moves: 
+
+ct / egg moves: 
+
+zeraora
+
+level up moves: 
+
+ct / egg moves: 
+
+grookey
+
+level up moves: 
+
+ct / egg moves: 
+
+thwackey
+
+level up moves: 
+
+ct / egg moves: 
+
+rillaboom
+
+level up moves: 
+
+ct / egg moves: 
+
+scorbunny
+
+level up moves: 
+
+ct / egg moves: 
+
+raboot
+
+level up moves: 
+
+ct / egg moves: 
+
+cinderace
+
+level up moves: 
+
+ct / egg moves: 
+
+sobble
+
+level up moves: 
+
+ct / egg moves: 
+
+drizzile
+
+level up moves: 
+
+ct / egg moves: 
+
+inteleon
+
+level up moves: 
+
+ct / egg moves: 
+
+skwovet
+
+level up moves: 
+
+ct / egg moves: 
+
+greedent
+
+level up moves: 
+
+ct / egg moves: 
+
+rookidee
+
+level up moves: 
+
+ct / egg moves: 
+
+corvisquire
+
+level up moves: 
+
+ct / egg moves: 
+
+corviknight
+
+level up moves: 
+
+ct / egg moves: 
+
+blipbug
+
+level up moves: 
+
+ct / egg moves: 
+
+dottler
+
+level up moves: 
+
+ct / egg moves: 
+
+orbeetle
+
+level up moves: 
+
+ct / egg moves: 
+
+nickit
+
+level up moves: 
+
+ct / egg moves: 
+
+thievul
+
+level up moves: 
+
+ct / egg moves: 
+
+gossifleur
+
+level up moves: 
+
+ct / egg moves: 
+
+eldegoss
+
+level up moves: 
+
+ct / egg moves: 
+
+wooloo
+
+level up moves: 
+
+ct / egg moves: 
+
+dubwool
+
+level up moves: 
+
+ct / egg moves: 
+
+chewtle
+
+level up moves: 
+
+ct / egg moves: 
+
+drednaw
+
+level up moves: 
+
+ct / egg moves: 
+
+yamper
+
+level up moves: 
+
+ct / egg moves: 
+
+boltund
+
+level up moves: 
+
+ct / egg moves: 
+
+rolycoly
+
+level up moves: 
+
+ct / egg moves: 
+
+carkol
+
+level up moves: 
+
+ct / egg moves: 
+
+coalossal
+
+level up moves: 
+
+ct / egg moves: 
+
+applin
+
+level up moves: 
+
+ct / egg moves: 
+
+flapple
+
+level up moves: 
+
+ct / egg moves: 
+
+appletun
+
+level up moves: 
+
+ct / egg moves: 
+
+silicobra
+
+level up moves: 
+
+ct / egg moves: 
+
+sandaconda
+
+level up moves: 
+
+ct / egg moves: 
+
+cramorant
+
+level up moves: 
+
+ct / egg moves: 
+
+arrokuda
+
+level up moves: 
+
+ct / egg moves: 
+
+barraskewda
+
+level up moves: 
+
+ct / egg moves: 
+
+toxel
+
+level up moves: 
+
+ct / egg moves: 
+
+toxtricity
+
+level up moves: 
+
+ct / egg moves: 
+
+sizzlipede
+
+level up moves: 
+
+ct / egg moves: 
+
+centiskorch
+
+level up moves: 
+
+ct / egg moves: 
+
+clobbopus
+
+level up moves: 
+
+ct / egg moves: 
+
+grapploct
+
+level up moves: 
+
+ct / egg moves: 
+
+sinistea
+
+level up moves: 
+
+ct / egg moves: 
+
+polteageist
+
+level up moves: 
+
+ct / egg moves: 
+
+hatenna
+
+level up moves: 
+
+ct / egg moves: 
+
+hattrem
+
+level up moves: 
+
+ct / egg moves: 
+
+hatterene
+
+level up moves: 
+
+ct / egg moves: 
+
+impidimp
+
+level up moves: 
+
+ct / egg moves: 
+
+morgrem
+
+level up moves: 
+
+ct / egg moves: 
+
+grimmsnarl
+
+level up moves: 
+
+ct / egg moves: 
+
+milcery
+
+level up moves: 
+
+ct / egg moves: 
+
+alcremie
+
+level up moves: 
+
+ct / egg moves: 
+
+falinks
+
+level up moves: 
+
+ct / egg moves: 
+
+pincurchin
+
+level up moves: 
+
+ct / egg moves: 
+
+snom
+
+level up moves: 
+
+ct / egg moves: 
+
+frosmoth
+
+level up moves: 
+
+ct / egg moves: 
+
+stonjourner
+
+level up moves: 
+
+ct / egg moves: 
+
+eiscue ice face
+
+level up moves: 
+
+ct / egg moves: 
+
+eiscue noice face
+
+level up moves: 
+
+ct / egg moves: 
+
+indeedee male
+
+level up moves: 
+
+ct / egg moves: 
+
+indeedee female
+
+level up moves: 
+
+ct / egg moves: 
+
+morpeko
+
+level up moves: 
+
+ct / egg moves: 
+
+cufant
+
+level up moves: 
+
+ct / egg moves: 
+
+copperajah
+
+level up moves: 
+
+ct / egg moves: 
+
+dracozolt
+
+level up moves: 
+
+ct / egg moves: 
+
+arctozolt
+
+level up moves: 
+
+ct / egg moves: 
+
+dracovish
+
+level up moves: 
+
+ct / egg moves: 
+
+arctovish
+
+level up moves: 
+
+ct / egg moves: 
+
+duraludon
+
+level up moves: 
+
+ct / egg moves: 
+
+dreepy
+
+level up moves: 
+
+ct / egg moves: 
+
+drakloak
+
+level up moves: 
+
+ct / egg moves: 
+
+dragapult
+
+level up moves: 
+
+ct / egg moves: 
+
+meowth galar
+
+level up moves: 
+
+ct / egg moves: 
+
+perrserker
+
+level up moves: 
+
+ct / egg moves: 
+
+ponyta galar
+
+level up moves: 
+
+ct / egg moves: 
+
+rapidash galar
+
+level up moves: 
+
+ct / egg moves: 
+
+farfetch’d galar
+
+level up moves: 
+
+ct / egg moves: 
+
+sirfetch’d
+
+level up moves: 
+
+ct / egg moves: 
+
+weezing galar
+
+level up moves: 
+
+ct / egg moves: 
+
+mr mime galar
+
+level up moves: 
+
+ct / egg moves: 
+
+mr. rime
+
+level up moves: 
+
+ct / egg moves: 
+
+corsola galar
+
+level up moves: 
+
+ct / egg moves: 
+
+cursola
+
+level up moves: 
+
+ct / egg moves: 
+
+zigzagoon galar
+
+level up moves: 
+
+ct / egg moves: 
+
+linoone galar
+
+level up moves: 
+
+ct / egg moves: 
+
+obstagoon
+
+level up moves: 
+
+ct / egg moves: 
+
+darumaka galar
+
+level up moves: 
+
+ct / egg moves: 
+
+darmanitan galar
+
+level up moves: 
+
+ct / egg moves: 
+
+darmanitan zen mode galar
+
+level up moves: 
+
+ct / egg moves: 
+
+yamask galar
+
+level up moves: 
+
+ct / egg moves: 
+
+runerigus
+
+level up moves: 
+
+ct / egg moves: 
+
+stunfisk galar
+
+level up moves: 
+
+ct / egg moves: 
+
+slowpoke galar
+
+level up moves: 
+
+ct / egg moves: 
+
+slowbro galar
+
+level up moves: 
+
+ct / egg moves: 
+
+slowking galar
+
+level up moves: 
+
+ct / egg moves: 
+
+zacian hero of many battles forme
+
+level up moves: 
+
+ct / egg moves: 
+
+zacian crowned sword forme
+
+level up moves: 
+
+ct / egg moves: 
+
+zamazenta hero of many battles forme
+
+level up moves: 
+
+ct / egg moves: 
+
+zamazenta crowned shield forme
+
+level up moves: 
+
+ct / egg moves: 
+
+eternatus
+
+level up moves: 
+
+ct / egg moves: 
+
+meltan
+
+level up moves: 
+
+ct / egg moves: 
+
+melmetal
+
+level up moves: 
+
+ct / egg moves: 
+
+kubfu
+
+level up moves: 
+
+ct / egg moves: 
+
+urshifu
+
+level up moves: 
+
+ct / egg moves: 
+
+urshifu rapid strike style
+
+level up moves: 
+
+ct / egg moves: 
+
+zarude
+
+level up moves: 
+
+ct / egg moves: 
+
+articuno galar
+
+level up moves: 
+
+ct / egg moves: 
+
+zapdos galar
+
+level up moves: 
+
+ct / egg moves: 
+
+moltres galar
+
+level up moves: 
+
+ct / egg moves: 
+
+regieleki
+
+level up moves: 
+
+ct / egg moves: 
+
+regidrago
+
+level up moves: 
+
+ct / egg moves: 
+
+glastrier
+
+level up moves: 
+
+ct / egg moves: 
+
+spectrier
+
+level up moves: 
+
+ct / egg moves: 
+
+calyrex
+
+level up moves: 
+
+ct / egg moves: 
+
+calyrex ice rider
+
+level up moves: 
+
+ct / egg moves: 
+
+calyrex shadow rider
+
+level up moves: 
+
+ct / egg moves: 
+
+sprigatito
+
+level up moves: 
+
+ct / egg moves: 
+
+floragato
+
+level up moves: 
+
+ct / egg moves: 
+
+meowscarada
+
+level up moves: 
+
+ct / egg moves: 
+
+fuecoco
+
+level up moves: 
+
+ct / egg moves: 
+
+crocalor
+
+level up moves: 
+
+ct / egg moves: 
+
+skeledirge
+
+level up moves: 
+
+ct / egg moves: 
+
+quaxly
+
+level up moves: 
+
+ct / egg moves: 
+
+quaxwell
+
+level up moves: 
+
+ct / egg moves: 
+
+quaquaval
+
+level up moves: 
+
+ct / egg moves: 
+
+lechonk
+
+level up moves: 
+
+ct / egg moves: 
+
+oinkologne (m)
+
+level up moves: 
+
+ct / egg moves: 
+
+oinkologne (f)
+
+level up moves: 
+
+ct / egg moves: 
+
+dudunsparce
+
+level up moves: 
+
+ct / egg moves: 
+
+tarountula
+
+level up moves: 
+
+ct / egg moves: 
+
+spidops
+
+level up moves: 
+
+ct / egg moves: 
+
+nymble
+
+level up moves: 
+
+ct / egg moves: 
+
+lokix
+
+level up moves: 
+
+ct / egg moves: 
+
+rellor
+
+level up moves: 
+
+ct / egg moves: 
+
+rabsca
+
+level up moves: 
+
+ct / egg moves: 
+
+greavard
+
+level up moves: 
+
+ct / egg moves: 
+
+houndstone
+
+level up moves: 
+
+ct / egg moves: 
+
+flittle
+
+level up moves: 
+
+ct / egg moves: 
+
+espathra
+
+level up moves: 
+
+ct / egg moves: 
+
+farigiraf
+
+level up moves: 
+
+ct / egg moves: 
+
+wiglett
+
+level up moves: 
+
+ct / egg moves: 
+
+wugtrio
+
+level up moves: 
+
+ct / egg moves: 
+
+dondozo
+
+level up moves: 
+
+ct / egg moves: 
+
+veluza
+
+level up moves: 
+
+ct / egg moves: 
+
+finizen
+
+level up moves: 
+
+ct / egg moves: 
+
+palafin
+
+level up moves: 
+
+ct / egg moves: 
+
+palafin (hero form)
+
+level up moves: 
+
+ct / egg moves: 
+
+smoliv
+
+level up moves: 
+
+ct / egg moves: 
+
+dolliv
+
+level up moves: 
+
+ct / egg moves: 
+
+arboliva
+
+level up moves: 
+
+ct / egg moves: 
+
+capsakid
+
+level up moves: 
+
+ct / egg moves: 
+
+scovillain
+
+level up moves: 
+
+ct / egg moves: 
+
+tadbulb
+
+level up moves: 
+
+ct / egg moves: 
+
+bellibolt
+
+level up moves: 
+
+ct / egg moves: 
+
+varoom
+
+level up moves: 
+
+ct / egg moves: 
+
+revavroom
+
+level up moves: 
+
+ct / egg moves: 
+
+orthworm
+
+level up moves: 
+
+ct / egg moves: 
+
+tandemaus
+
+level up moves: 
+
+ct / egg moves: 
+
+maushold
+
+level up moves: 
+
+ct / egg moves: 
+
+cetoddle
+
+level up moves: 
+
+ct / egg moves: 
+
+cetitan
+
+level up moves: 
+
+ct / egg moves: 
+
+frigibax
+
+level up moves: 
+
+ct / egg moves: 
+
+arctibax
+
+level up moves: 
+
+ct / egg moves: 
+
+baxcalibur
+
+level up moves: 
+
+ct / egg moves: 
+
+tatsugiri
+
+level up moves: 
+
+ct / egg moves: 
+
+cyclizar
+
+level up moves: 
+
+ct / egg moves: 
+
+pawmi
+
+level up moves: 
+
+ct / egg moves: 
+
+pawmo
+
+level up moves: 
+
+ct / egg moves: 
+
+pawmot
+
+level up moves: 
+
+ct / egg moves: 
+
+wattrel
+
+level up moves: 
+
+ct / egg moves: 
+
+kilowattrel
+
+level up moves: 
+
+ct / egg moves: 
+
+bombirdier
+
+level up moves: 
+
+ct / egg moves: 
+
+squawkabilly
+
+level up moves: 
+
+ct / egg moves: 
+
+flamigo
+
+level up moves: 
+
+ct / egg moves: 
+
+klawf
+
+level up moves: 
+
+ct / egg moves: 
+
+nacli
+
+level up moves: 
+
+ct / egg moves: 
+
+naclstack
+
+level up moves: 
+
+ct / egg moves: 
+
+garganacl
+
+level up moves: 
+
+ct / egg moves: 
+
+glimmet
+
+level up moves: 
+
+ct / egg moves: 
+
+glimmora
+
+level up moves: 
+
+ct / egg moves: 
+
+shroodle
+
+level up moves: 
+
+ct / egg moves: 
+
+grafaiai
+
+level up moves: 
+
+ct / egg moves: 
+
+fidough
+
+level up moves: 
+
+ct / egg moves: 
+
+dachsbun
+
+level up moves: 
+
+ct / egg moves: 
+
+maschiff
+
+level up moves: 
+
+ct / egg moves: 
+
+mabosstiff
+
+level up moves: 
+
+ct / egg moves: 
+
+bramblin
+
+level up moves: 
+
+ct / egg moves: 
+
+brambleghast
+
+level up moves: 
+
+ct / egg moves: 
+
+gimmighoul
+
+level up moves: 
+
+ct / egg moves: 
+
+gimmighoul roaming
+
+level up moves: 
+
+ct / egg moves: 
+
+gholdengo
+
+level up moves: 
+
+ct / egg moves: 
+
+great tusk
+
+level up moves: 
+
+ct / egg moves: 
+
+brute bonnet
+
+level up moves: 
+
+ct / egg moves: 
+
+sandy shocks
+
+level up moves: 
+
+ct / egg moves: 
+
+scream tail
+
+level up moves: 
+
+ct / egg moves: 
+
+flutter mane
+
+level up moves: 
+
+ct / egg moves: 
+
+slither wing
+
+level up moves: 
+
+ct / egg moves: 
+
+roaring moon
+
+level up moves: 
+
+ct / egg moves: 
+
+iron treads
+
+level up moves: 
+
+ct / egg moves: 
+
+iron moth
+
+level up moves: 
+
+ct / egg moves: 
+
+iron hands
+
+level up moves: 
+
+ct / egg moves: 
+
+iron jugulis
+
+level up moves: 
+
+ct / egg moves: 
+
+iron thorns
+
+level up moves: 
+
+ct / egg moves: 
+
+iron bundle
+
+level up moves: 
+
+ct / egg moves: 
+
+iron valiant
+
+level up moves: 
+
+ct / egg moves: 
+
+ting lu
+
+level up moves: 
+
+ct / egg moves: 
+
+chien pao
+
+level up moves: 
+
+ct / egg moves: 
+
+wo chien
+
+level up moves: 
+
+ct / egg moves: 
+
+chi yu
+
+level up moves: 
+
+ct / egg moves: 
+
+koraidon
+
+level up moves: 
+
+ct / egg moves: 
+
+miraidon
+
+level up moves: 
+
+ct / egg moves: 
+
+tinkatink
+
+level up moves: 
+
+ct / egg moves: 
+
+tinkatuff
+
+level up moves: 
+
+ct / egg moves: 
+
+tinkaton
+
+level up moves: 
+
+ct / egg moves: 
+
+charcadet
+
+level up moves: 
+
+ct / egg moves: 
+
+armarouge
+
+level up moves: 
+
+ct / egg moves: 
+
+ceruledge
+
+level up moves: 
+
+ct / egg moves: 
+
+toedscool
+
+level up moves: 
+
+ct / egg moves: 
+
+toedscruel
+
+level up moves: 
+
+ct / egg moves: 
+
+kingambit
+
+level up moves: 
+
+ct / egg moves: 
+
+paldean wooper
+
+level up moves: 
+
+ct / egg moves: 
+
+clodsire
+
+level up moves: 
+
+ct / egg moves: 
+
+annihilape
+
+level up moves: 
+
+ct / egg moves: 
+
+paldean tauros
+
+level up moves: 
+
+ct / egg moves: 
+
+paldean tauros blaze breed
+
+level up moves: 
+
+ct / egg moves: 
+
+paldean tauros aqua breed
+
+level up moves: 
+
+ct / egg moves: 
+
+walking wake
+
+level up moves: 
+
+ct / egg moves: 
+
+iron leaves
+
+level up moves: 
+
+ct / egg moves: 
+
+
+
+level up moves: 
+
+ct / egg moves: 
+
+gouging fire
+
+level up moves: 
+
+ct / egg moves: 
+
+raging bolt
+
+level up moves: 
+
+ct / egg moves: 
+
+iron boulder
+
+level up moves: 
+
+ct / egg moves: 
+
+iron crown
+
+level up moves: 
+
+ct / egg moves: 
+
+dipplin
+
+level up moves: 
+
+ct / egg moves: 
+
+hydrapple
+
+level up moves: 
+
+ct / egg moves: 
+
+poltchageist
+
+level up moves: 
+
+ct / egg moves: 
+
+sinistcha
+
+level up moves: 
+
+ct / egg moves: 
+
+okidogi
+
+level up moves: 
+
+ct / egg moves: 
+
+munkidori
+
+level up moves: 
+
+ct / egg moves: 
+
+fezandipiti
+
+level up moves: 
+
+ct / egg moves: 
+
+ogerpon
+
+level up moves: 
+
+ct / egg moves: 
+
+ursaluna (bloodmoon)
+
+level up moves: 
+
+ct / egg moves: 
+
+archaludon
+
+level up moves: 
+
+ct / egg moves: 
+
+terapagos
+
+level up moves: 
+
+ct / egg moves: 
+
+pecharunt
+
+level up moves: 
+
+ct / egg moves: 
+
+bulbasaur delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+ivysaur delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+venusaur delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+charmander delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+charmeleon delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+charizard delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+squirtle delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+wartortle delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+blastoise delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+pawniard delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+bisharp delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+ralts delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+kirlia delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+gardevoir delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+gallade delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+sunkern delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+sunflora delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+bergmite delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+avalugg delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+scyther delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+scizor delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+scraggy delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+scrafty delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+combee delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+vespiquen delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+koffing delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+weezing delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+purrloin delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+liepard delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+phantump delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+trevenant delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+snorunt delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+glalie delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+froslass delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+shinx delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+luxio delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+luxray delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+noibat delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+noivern delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+budew delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+roselia delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+roserade delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+drifloon delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+drifblim delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+grimer delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+muk delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+wooper delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+quagsire delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+munchlax delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+snorlax delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+misdreavus delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+mismagius delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+cyndaquil delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+quilava delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+typhlosion delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+treeko delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+grovyle delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+sceptile delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+torchic delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+combusken delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+blaziken delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+turtwig delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+grotle delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+torterra delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+snivy delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+servine delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+serperior delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+froakie delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+frogadier delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+greninja delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+pidgey delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+pidgeotto delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+pidgeot delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+diglett delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+dugtrio delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+growlithe delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+arcanine delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+geodude delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+graveler delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+golem delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+tentacool delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+tentacruel delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+doduo delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+dodrio delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+tangela delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+tangrowth delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+ditto delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+kabuto delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+kabutops delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+dratini delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+dragonair delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+dragonite delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+hoothoot delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+noctowl delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+chinchou delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+lanturn delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+pichu delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+raichu delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+aipom delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+ambipom delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+yanma delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+yanmega delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+girafarig delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+dunsparce delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+shuckle delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+remoraid delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+octillery delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+elekid delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+electabuzz delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+electivire delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+magby delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+magmar delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+magmortar delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+lotad delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+lombre delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+ludicolo delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+seedot delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+nuzleaf delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+shiftry delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+sableye delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+mawile delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+aron delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+lairon delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+aggron delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+meditite delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+medicham delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+numel delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+camerupt delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+plusle delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+minun delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+wailmer delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+wailord delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+feebas delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+milotic delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+clamperl delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+huntail delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+gorebyss delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+beldum delta (spider) form
+
+level up moves: 
+
+ct / egg moves: 
+
+metang delta (spider) form
+
+level up moves: 
+
+ct / egg moves: 
+
+metagross delta (spider) form
+
+level up moves: 
+
+ct / egg moves: 
+
+beldum delta (ruin) form
+
+level up moves: 
+
+ct / egg moves: 
+
+metang delta (ruin) form
+
+level up moves: 
+
+ct / egg moves: 
+
+metagross delta (ruin) form
+
+level up moves: 
+
+ct / egg moves: 
+
+buneary delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+lopunny delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+riolu delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+lucario delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+croagunk delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+toxicroak delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+venipede delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+whirlipede delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+scolipede delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+petilil delta (water) form
+
+level up moves: 
+
+ct / egg moves: 
+
+lilligant delta (water) form
+
+level up moves: 
+
+ct / egg moves: 
+
+petilil delta (fairy) form
+
+level up moves: 
+
+ct / egg moves: 
+
+lilligant delta (fairy) form
+
+level up moves: 
+
+ct / egg moves: 
+
+solosis delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+duosion delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+reuniclus delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+darumaka delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+darmantian delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+maractus delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+dwebble delta (berry) form
+
+level up moves: 
+
+ct / egg moves: 
+
+crustle delta (berry) form
+
+level up moves: 
+
+ct / egg moves: 
+
+dwebble delta (cake) form
+
+level up moves: 
+
+ct / egg moves: 
+
+crustle delta (cake) form
+
+level up moves: 
+
+ct / egg moves: 
+
+yamask delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+cofagrigus delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+emolga delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+karrablast delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+escavalier delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+foongus delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+amoongus delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+litwick delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+chandelure delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+axew delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+fraxure delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+haxorus delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+golett delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+golurk delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+heatmor delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+deino delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+zweilous delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+hydreigon delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+larvesta delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+volcarona delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+amaura delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+aurorus delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+goomy delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+sliggoo delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+goodra delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+regirock delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+regice delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+registeel delta form
+
+level up moves: 
+
+ct / egg moves: 
+
+meloetta delta mime form
+
+level up moves: 
+
+ct / egg moves: 
+
+meloetta delta magician form
+
+level up moves: 
+
+ct / egg moves: 
+
+hoopa delta confined form
+
+level up moves: 
+
+ct / egg moves: 
+
+hoopa delta umbound form
+
+level up moves: 
+
+ct / egg moves: 
+
+full round.
+
+level up moves: 
+
+ct / egg moves: 
+
+attack lowered by -1 combat stage.
+
+level up moves: 
+
+ct / egg moves: 
+
+end.
+
+level up moves: 
+
+ct / egg moves: 
+
+decidueye hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+typhlosion hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+samurott hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+growlithe hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+arcanine hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+voltorb hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+electrode hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+qwilfish hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+overqwil
+
+level up moves: 
+
+ct / egg moves: 
+
+sneasel hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+sneasler
+
+level up moves: 
+
+ct / egg moves: 
+
+lilligant hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+zorua hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+zoroark hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+braviary hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+sliggoo hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+goodra hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+avalugg hisuian
+
+level up moves: 
+
+ct / egg moves: 
+
+wyrdeer
+
+level up moves: 
+
+ct / egg moves: 
+
+kleavor
+
+level up moves: 
+
+ct / egg moves: 
+
+ursaluna
+
+level up moves: 
+
+ct / egg moves: 
+
+basculegion
+
+level up moves: 
+
+ct / egg moves: 
+
+basculegion f
+
+level up moves: 
+
+ct / egg moves: 
+
+dialga origin forme
+
+level up moves: 
+
+ct / egg moves: 
+
+palkia origin forme
+
+level up moves: 
+
+ct / egg moves: 
+
+enamorus
+
+level up moves: 
+
+ct / egg moves: 
+
+enamorus therian
+
+level up moves: 
+
+ct / egg moves: 
+
+automateon
+
+level up moves: 
+
+ct / egg moves: 
+
+aviateon
+
+level up moves: 
+
+ct / egg moves: 
+
+champeon
+
+level up moves: 
+
+ct / egg moves: 
+
+companeon
+
+level up moves: 
+
+ct / egg moves: 
+
+corroseon
+
+level up moves: 
+
+ct / egg moves: 
+
+draconeon
+
+level up moves: 
+
+ct / egg moves: 
+
+dungeon
+
+level up moves: 
+
+ct / egg moves: 
+
+illuseon
+
+level up moves: 
+
+ct / egg moves: 
+
+obsideon
+
+level up moves: 
+
+ct / egg moves: 
+
+scorpeon
+
+level up moves: 
+
+ct / egg moves: 
+
+venusaur mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+venusaur mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+charizard mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+charizard mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+charizard mega z
+
+level up moves: 
+
+ct / egg moves: 
+
+blastoise mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+blastoise mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+butterfree mega
+
+level up moves: 
+
+ct / egg moves: 
+
+beedrill mega
+
+level up moves: 
+
+ct / egg moves: 
+
+weedle redux
+
+level up moves: 
+
+ct / egg moves: 
+
+kakuna redux
+
+level up moves: 
+
+ct / egg moves: 
+
+beedrill redux
+
+level up moves: 
+
+ct / egg moves: 
+
+beedrill mega redux
+
+level up moves: 
+
+ct / egg moves: 
+
+pidgeot mega
+
+level up moves: 
+
+ct / egg moves: 
+
+arbok mega
+
+level up moves: 
+
+ct / egg moves: 
+
+sandslash mega
+
+level up moves: 
+
+ct / egg moves: 
+
+nidoqueen mega
+
+level up moves: 
+
+ct / egg moves: 
+
+nidoking mega
+
+level up moves: 
+
+ct / egg moves: 
+
+wigglytuff mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+wigglytuff mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+wigglytuff apex
+
+level up moves: 
+
+ct / egg moves: 
+
+wigglytuff primal
+
+level up moves: 
+
+ct / egg moves: 
+
+crobat mega
+
+level up moves: 
+
+ct / egg moves: 
+
+meowth partner
+
+level up moves: 
+
+ct / egg moves: 
+
+meowth mega
+
+level up moves: 
+
+ct / egg moves: 
+
+psyduck redux
+
+level up moves: 
+
+ct / egg moves: 
+
+growlithe redux
+
+level up moves: 
+
+ct / egg moves: 
+
+arcanine redux
+
+level up moves: 
+
+ct / egg moves: 
+
+arcanine mega
+
+level up moves: 
+
+ct / egg moves: 
+
+alakazam mega
+
+level up moves: 
+
+ct / egg moves: 
+
+abra redux
+
+level up moves: 
+
+ct / egg moves: 
+
+kadabra redux
+
+level up moves: 
+
+ct / egg moves: 
+
+alakazam redux
+
+level up moves: 
+
+ct / egg moves: 
+
+alakazam mega redux
+
+level up moves: 
+
+ct / egg moves: 
+
+machamp mega
+
+level up moves: 
+
+ct / egg moves: 
+
+machop redux
+
+level up moves: 
+
+ct / egg moves: 
+
+machoke redux
+
+level up moves: 
+
+ct / egg moves: 
+
+machamp redux
+
+level up moves: 
+
+ct / egg moves: 
+
+machamp mega redux
+
+level up moves: 
+
+ct / egg moves: 
+
+rapidash mega
+
+level up moves: 
+
+ct / egg moves: 
+
+rapidash mega galarian
+
+level up moves: 
+
+ct / egg moves: 
+
+slowbro mega
+
+level up moves: 
+
+ct / egg moves: 
+
+slowking mega
+
+level up moves: 
+
+ct / egg moves: 
+
+magnezone mega
+
+level up moves: 
+
+ct / egg moves: 
+
+doduo redux
+
+level up moves: 
+
+ct / egg moves: 
+
+dodrio redux
+
+level up moves: 
+
+ct / egg moves: 
+
+dewgong mega
+
+level up moves: 
+
+ct / egg moves: 
+
+kecleong
+
+level up moves: 
+
+ct / egg moves: 
+
+seel redux
+
+level up moves: 
+
+ct / egg moves: 
+
+dewgong redux
+
+level up moves: 
+
+ct / egg moves: 
+
+gengar mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+gengar mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+steelix mega
+
+level up moves: 
+
+ct / egg moves: 
+
+kingler mega
+
+level up moves: 
+
+ct / egg moves: 
+
+kangaskhan mega
+
+level up moves: 
+
+ct / egg moves: 
+
+kingdra mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+kingdra mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+pinsir mega
+
+level up moves: 
+
+ct / egg moves: 
+
+tauros paldean blaze breed
+
+level up moves: 
+
+ct / egg moves: 
+
+tauros paldean aqua breed
+
+level up moves: 
+
+ct / egg moves: 
+
+gyaradeath
+
+level up moves: 
+
+ct / egg moves: 
+
+gyarados mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+gyaradeath mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+gyarados mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+gyaradeath mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+lapras mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+lapras mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+espeon primal
+
+level up moves: 
+
+ct / egg moves: 
+
+eevee partner
+
+level up moves: 
+
+ct / egg moves: 
+
+eevee mega
+
+level up moves: 
+
+ct / egg moves: 
+
+aerodactyl mega
+
+level up moves: 
+
+ct / egg moves: 
+
+dragonite mega
+
+level up moves: 
+
+ct / egg moves: 
+
+dragonite delivery
+
+level up moves: 
+
+ct / egg moves: 
+
+mewtwo mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+mewtwo mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+meganium mega
+
+level up moves: 
+
+ct / egg moves: 
+
+typhlosion mega
+
+level up moves: 
+
+ct / egg moves: 
+
+typhlosion hisuian mega
+
+level up moves: 
+
+ct / egg moves: 
+
+feraligatr mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+feraligatr mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+iron heart
+
+level up moves: 
+
+ct / egg moves: 
+
+lanturn mega
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu partner
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu mega
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu kanto
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu hoenn
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu sinnoh
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu unova
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu kalos
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu alola
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu world
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu cosplay
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu rock star
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu belle
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu pop star
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu ph d
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu libre
+
+level up moves: 
+
+ct / egg moves: 
+
+pikachu partner cap
+
+level up moves: 
+
+ct / egg moves: 
+
+pichu spiky
+
+level up moves: 
+
+ct / egg moves: 
+
+cleffa redux
+
+level up moves: 
+
+ct / egg moves: 
+
+clefairy redux
+
+level up moves: 
+
+ct / egg moves: 
+
+clefable redux
+
+level up moves: 
+
+ct / egg moves: 
+
+clefable mega
+
+level up moves: 
+
+ct / egg moves: 
+
+ampharos mega
+
+level up moves: 
+
+ct / egg moves: 
+
+quagsire mega
+
+level up moves: 
+
+ct / egg moves: 
+
+wooper paldean
+
+level up moves: 
+
+ct / egg moves: 
+
+unown revelation
+
+level up moves: 
+
+ct / egg moves: 
+
+unown b
+
+level up moves: 
+
+ct / egg moves: 
+
+unown c
+
+level up moves: 
+
+ct / egg moves: 
+
+unown d
+
+level up moves: 
+
+ct / egg moves: 
+
+unown e
+
+level up moves: 
+
+ct / egg moves: 
+
+unown f
+
+level up moves: 
+
+ct / egg moves: 
+
+unown g
+
+level up moves: 
+
+ct / egg moves: 
+
+unown h
+
+level up moves: 
+
+ct / egg moves: 
+
+unown i
+
+level up moves: 
+
+ct / egg moves: 
+
+unown j
+
+level up moves: 
+
+ct / egg moves: 
+
+unown k
+
+level up moves: 
+
+ct / egg moves: 
+
+unown l
+
+level up moves: 
+
+ct / egg moves: 
+
+unown m
+
+level up moves: 
+
+ct / egg moves: 
+
+unown n
+
+level up moves: 
+
+ct / egg moves: 
+
+unown o
+
+level up moves: 
+
+ct / egg moves: 
+
+unown p
+
+level up moves: 
+
+ct / egg moves: 
+
+unown q
+
+level up moves: 
+
+ct / egg moves: 
+
+unown r
+
+level up moves: 
+
+ct / egg moves: 
+
+unown s
+
+level up moves: 
+
+ct / egg moves: 
+
+unown t
+
+level up moves: 
+
+ct / egg moves: 
+
+unown u
+
+level up moves: 
+
+ct / egg moves: 
+
+unown v
+
+level up moves: 
+
+ct / egg moves: 
+
+unown w
+
+level up moves: 
+
+ct / egg moves: 
+
+unown x
+
+level up moves: 
+
+ct / egg moves: 
+
+unown y
+
+level up moves: 
+
+ct / egg moves: 
+
+unown z
+
+level up moves: 
+
+ct / egg moves: 
+
+unown emark
+
+level up moves: 
+
+ct / egg moves: 
+
+unown qmark
+
+level up moves: 
+
+ct / egg moves: 
+
+dudunsparce three
+
+level up moves: 
+
+ct / egg moves: 
+
+gligar redux
+
+level up moves: 
+
+ct / egg moves: 
+
+gliscor redux
+
+level up moves: 
+
+ct / egg moves: 
+
+granbull mega
+
+level up moves: 
+
+ct / egg moves: 
+
+shuckle mega
+
+level up moves: 
+
+ct / egg moves: 
+
+heracross mega
+
+level up moves: 
+
+ct / egg moves: 
+
+weavile redux
+
+level up moves: 
+
+ct / egg moves: 
+
+weavile mega
+
+level up moves: 
+
+ct / egg moves: 
+
+ursaluna mega
+
+level up moves: 
+
+ct / egg moves: 
+
+ursaluna bloodmoon
+
+level up moves: 
+
+ct / egg moves: 
+
+escarginite
+
+level up moves: 
+
+ct / egg moves: 
+
+slugma redux
+
+level up moves: 
+
+ct / egg moves: 
+
+magcargo redux
+
+level up moves: 
+
+ct / egg moves: 
+
+escarginite redux
+
+level up moves: 
+
+ct / egg moves: 
+
+skarmory mega
+
+level up moves: 
+
+ct / egg moves: 
+
+skarmory redux
+
+level up moves: 
+
+ct / egg moves: 
+
+skarmory mega redux
+
+level up moves: 
+
+ct / egg moves: 
+
+houndoom mega
+
+level up moves: 
+
+ct / egg moves: 
+
+houndour redux
+
+level up moves: 
+
+ct / egg moves: 
+
+houndoom redux
+
+level up moves: 
+
+ct / egg moves: 
+
+houndoom mega redux
+
+level up moves: 
+
+ct / egg moves: 
+
+hitmonchan mega
+
+level up moves: 
+
+ct / egg moves: 
+
+hitmonlee mega
+
+level up moves: 
+
+ct / egg moves: 
+
+hitmontop mega
+
+level up moves: 
+
+ct / egg moves: 
+
+tyranitar mega
+
+level up moves: 
+
+ct / egg moves: 
+
+larvitar redux
+
+level up moves: 
+
+ct / egg moves: 
+
+pupitar redux
+
+level up moves: 
+
+ct / egg moves: 
+
+tyranitar redux
+
+level up moves: 
+
+ct / egg moves: 
+
+tyranitar mega redux
+
+level up moves: 
+
+ct / egg moves: 
+
+sceptile mega
+
+level up moves: 
+
+ct / egg moves: 
+
+blaziken mega
+
+level up moves: 
+
+ct / egg moves: 
+
+swampert mega
+
+level up moves: 
+
+ct / egg moves: 
+
+cascoon primal
+
+level up moves: 
+
+ct / egg moves: 
+
+gardevoir mega
+
+level up moves: 
+
+ct / egg moves: 
+
+gallade mega
+
+level up moves: 
+
+ct / egg moves: 
+
+breloom mega
+
+level up moves: 
+
+ct / egg moves: 
+
+slaking mega
+
+level up moves: 
+
+ct / egg moves: 
+
+slaking mega ape shift
+
+level up moves: 
+
+ct / egg moves: 
+
+shedinja mega
+
+level up moves: 
+
+ct / egg moves: 
+
+whismur redux
+
+level up moves: 
+
+ct / egg moves: 
+
+loudred redux
+
+level up moves: 
+
+ct / egg moves: 
+
+exploud redux
+
+level up moves: 
+
+ct / egg moves: 
+
+sableye mega
+
+level up moves: 
+
+ct / egg moves: 
+
+sableye redux
+
+level up moves: 
+
+ct / egg moves: 
+
+sableye mega redux
+
+level up moves: 
+
+ct / egg moves: 
+
+mawile mega
+
+level up moves: 
+
+ct / egg moves: 
+
+mawile redux
+
+level up moves: 
+
+ct / egg moves: 
+
+mawile mega redux
+
+level up moves: 
+
+ct / egg moves: 
+
+mawile redux b
+
+level up moves: 
+
+ct / egg moves: 
+
+mawile redux b mega
+
+level up moves: 
+
+ct / egg moves: 
+
+aggron mega
+
+level up moves: 
+
+ct / egg moves: 
+
+medicham mega
+
+level up moves: 
+
+ct / egg moves: 
+
+manectric mega
+
+level up moves: 
+
+ct / egg moves: 
+
+roserade mega
+
+level up moves: 
+
+ct / egg moves: 
+
+swalot mega
+
+level up moves: 
+
+ct / egg moves: 
+
+sharpedo mega
+
+level up moves: 
+
+ct / egg moves: 
+
+camerupt mega
+
+level up moves: 
+
+ct / egg moves: 
+
+flygon redux b
+
+level up moves: 
+
+ct / egg moves: 
+
+flygon mega
+
+level up moves: 
+
+ct / egg moves: 
+
+trapinch redux
+
+level up moves: 
+
+ct / egg moves: 
+
+vibrava redux
+
+level up moves: 
+
+ct / egg moves: 
+
+flygon redux
+
+level up moves: 
+
+ct / egg moves: 
+
+flygon redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+altaria mega
+
+level up moves: 
+
+ct / egg moves: 
+
+solrock system
+
+level up moves: 
+
+ct / egg moves: 
+
+milotic mega
+
+level up moves: 
+
+ct / egg moves: 
+
+castform sandy
+
+level up moves: 
+
+ct / egg moves: 
+
+castform sunny
+
+level up moves: 
+
+ct / egg moves: 
+
+castform rainy
+
+level up moves: 
+
+ct / egg moves: 
+
+castform snowy
+
+level up moves: 
+
+ct / egg moves: 
+
+castform foggy
+
+level up moves: 
+
+ct / egg moves: 
+
+banette mega
+
+level up moves: 
+
+ct / egg moves: 
+
+absol mega
+
+level up moves: 
+
+ct / egg moves: 
+
+glalie mega
+
+level up moves: 
+
+ct / egg moves: 
+
+froslass mega
+
+level up moves: 
+
+ct / egg moves: 
+
+snorunt redux
+
+level up moves: 
+
+ct / egg moves: 
+
+glalie redux
+
+level up moves: 
+
+ct / egg moves: 
+
+froslass redux
+
+level up moves: 
+
+ct / egg moves: 
+
+glalie redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+froslass redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+relicanth mega
+
+level up moves: 
+
+ct / egg moves: 
+
+salamence mega
+
+level up moves: 
+
+ct / egg moves: 
+
+metagross mega
+
+level up moves: 
+
+ct / egg moves: 
+
+latias mega
+
+level up moves: 
+
+ct / egg moves: 
+
+latios mega
+
+level up moves: 
+
+ct / egg moves: 
+
+kyogre primal
+
+level up moves: 
+
+ct / egg moves: 
+
+groudon primal
+
+level up moves: 
+
+ct / egg moves: 
+
+rayquaza mega
+
+level up moves: 
+
+ct / egg moves: 
+
+torterra mega
+
+level up moves: 
+
+ct / egg moves: 
+
+turtwig redux
+
+level up moves: 
+
+ct / egg moves: 
+
+grotle redux
+
+level up moves: 
+
+ct / egg moves: 
+
+torterra redux
+
+level up moves: 
+
+ct / egg moves: 
+
+torterra redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+infernape mega
+
+level up moves: 
+
+ct / egg moves: 
+
+infernape redux b
+
+level up moves: 
+
+ct / egg moves: 
+
+chimchar redux
+
+level up moves: 
+
+ct / egg moves: 
+
+monferno redux
+
+level up moves: 
+
+ct / egg moves: 
+
+infernape redux
+
+level up moves: 
+
+ct / egg moves: 
+
+infernape redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+empoleon mega
+
+level up moves: 
+
+ct / egg moves: 
+
+piplup redux
+
+level up moves: 
+
+ct / egg moves: 
+
+prinplup redux
+
+level up moves: 
+
+ct / egg moves: 
+
+empoleon redux
+
+level up moves: 
+
+ct / egg moves: 
+
+empoleon redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+luxray mega
+
+level up moves: 
+
+ct / egg moves: 
+
+burmy sandy
+
+level up moves: 
+
+ct / egg moves: 
+
+burmy trash
+
+level up moves: 
+
+ct / egg moves: 
+
+burmy eterna
+
+level up moves: 
+
+ct / egg moves: 
+
+buizel redux
+
+level up moves: 
+
+ct / egg moves: 
+
+floatzel redux
+
+level up moves: 
+
+ct / egg moves: 
+
+cherrim sunshine
+
+level up moves: 
+
+ct / egg moves: 
+
+shellos east
+
+level up moves: 
+
+ct / egg moves: 
+
+gastrodon east
+
+level up moves: 
+
+ct / egg moves: 
+
+lopunny mega
+
+level up moves: 
+
+ct / egg moves: 
+
+happiny redux
+
+level up moves: 
+
+ct / egg moves: 
+
+chansey redux
+
+level up moves: 
+
+ct / egg moves: 
+
+blissey redux
+
+level up moves: 
+
+ct / egg moves: 
+
+spiritomb redux
+
+level up moves: 
+
+ct / egg moves: 
+
+garchomp mega
+
+level up moves: 
+
+ct / egg moves: 
+
+gible redux
+
+level up moves: 
+
+ct / egg moves: 
+
+gabite redux
+
+level up moves: 
+
+ct / egg moves: 
+
+garchomp redux
+
+level up moves: 
+
+ct / egg moves: 
+
+garchomp mega redux
+
+level up moves: 
+
+ct / egg moves: 
+
+snorlax mega
+
+level up moves: 
+
+ct / egg moves: 
+
+snorlax primal
+
+level up moves: 
+
+ct / egg moves: 
+
+lucario mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+lucario mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+abomasnow mega
+
+level up moves: 
+
+ct / egg moves: 
+
+rotom heat
+
+level up moves: 
+
+ct / egg moves: 
+
+rotom wash
+
+level up moves: 
+
+ct / egg moves: 
+
+rotom frost
+
+level up moves: 
+
+ct / egg moves: 
+
+rotom fan
+
+level up moves: 
+
+ct / egg moves: 
+
+rotom mow
+
+level up moves: 
+
+ct / egg moves: 
+
+uxie redux
+
+level up moves: 
+
+ct / egg moves: 
+
+mesprit redux
+
+level up moves: 
+
+ct / egg moves: 
+
+azelf redux
+
+level up moves: 
+
+ct / egg moves: 
+
+dialga origin
+
+level up moves: 
+
+ct / egg moves: 
+
+palkia origin
+
+level up moves: 
+
+ct / egg moves: 
+
+giratina
+
+level up moves: 
+
+ct / egg moves: 
+
+darkrai nightmare
+
+level up moves: 
+
+ct / egg moves: 
+
+victini primal
+
+level up moves: 
+
+ct / egg moves: 
+
+serperior mega
+
+level up moves: 
+
+ct / egg moves: 
+
+emboar mega
+
+level up moves: 
+
+ct / egg moves: 
+
+samurott mega
+
+level up moves: 
+
+ct / egg moves: 
+
+pansage redux
+
+level up moves: 
+
+ct / egg moves: 
+
+simisage redux
+
+level up moves: 
+
+ct / egg moves: 
+
+pansear redux
+
+level up moves: 
+
+ct / egg moves: 
+
+simisear redux
+
+level up moves: 
+
+ct / egg moves: 
+
+panpour redux
+
+level up moves: 
+
+ct / egg moves: 
+
+simipour redux
+
+level up moves: 
+
+ct / egg moves: 
+
+roggenrola
+
+level up moves: 
+
+ct / egg moves: 
+
+audino mega
+
+level up moves: 
+
+ct / egg moves: 
+
+basculin white
+
+level up moves: 
+
+ct / egg moves: 
+
+basculin blue
+
+level up moves: 
+
+ct / egg moves: 
+
+krookodile mega
+
+level up moves: 
+
+ct / egg moves: 
+
+darumaka redux
+
+level up moves: 
+
+ct / egg moves: 
+
+darmanitan redux
+
+level up moves: 
+
+ct / egg moves: 
+
+darmanitan aura
+
+level up moves: 
+
+ct / egg moves: 
+
+darmanitan redux bond
+
+level up moves: 
+
+ct / egg moves: 
+
+darmanitan redux blunder
+
+level up moves: 
+
+ct / egg moves: 
+
+scrafster
+
+level up moves: 
+
+ct / egg moves: 
+
+cofagrigus
+
+level up moves: 
+
+ct / egg moves: 
+
+garbodor mega
+
+level up moves: 
+
+ct / egg moves: 
+
+solosis redux
+
+level up moves: 
+
+ct / egg moves: 
+
+duosion redux
+
+level up moves: 
+
+ct / egg moves: 
+
+reuniclus redux
+
+level up moves: 
+
+ct / egg moves: 
+
+reuniclus mega
+
+level up moves: 
+
+ct / egg moves: 
+
+deerling summer
+
+level up moves: 
+
+ct / egg moves: 
+
+sawsbuck summer
+
+level up moves: 
+
+ct / egg moves: 
+
+deerling autumn
+
+level up moves: 
+
+ct / egg moves: 
+
+sawsbuck autumn
+
+level up moves: 
+
+ct / egg moves: 
+
+deerling winter
+
+level up moves: 
+
+ct / egg moves: 
+
+sawsbuck winter
+
+level up moves: 
+
+ct / egg moves: 
+
+haxorus mega
+
+level up moves: 
+
+ct / egg moves: 
+
+polartic
+
+level up moves: 
+
+ct / egg moves: 
+
+polartic bluemoon
+
+level up moves: 
+
+ct / egg moves: 
+
+mienshao mega
+
+level up moves: 
+
+ct / egg moves: 
+
+pawniard redux
+
+level up moves: 
+
+ct / egg moves: 
+
+bisharp redux
+
+level up moves: 
+
+ct / egg moves: 
+
+kingambit redux
+
+level up moves: 
+
+ct / egg moves: 
+
+kingambit mega
+
+level up moves: 
+
+ct / egg moves: 
+
+deino redux
+
+level up moves: 
+
+ct / egg moves: 
+
+zweilous redux
+
+level up moves: 
+
+ct / egg moves: 
+
+hydreigon redux
+
+level up moves: 
+
+ct / egg moves: 
+
+hydreigon mega
+
+level up moves: 
+
+ct / egg moves: 
+
+keldeo resolute
+
+level up moves: 
+
+ct / egg moves: 
+
+meloetta
+
+level up moves: 
+
+ct / egg moves: 
+
+meloetta pirouette
+
+level up moves: 
+
+ct / egg moves: 
+
+genesect douse drive
+
+level up moves: 
+
+ct / egg moves: 
+
+genesect shock drive
+
+level up moves: 
+
+ct / egg moves: 
+
+genesect burn drive
+
+level up moves: 
+
+ct / egg moves: 
+
+genesect chill drive
+
+level up moves: 
+
+ct / egg moves: 
+
+chesnaught battle bond
+
+level up moves: 
+
+ct / egg moves: 
+
+chesnaught-clemont
+
+level up moves: 
+
+ct / egg moves: 
+
+delphox battle bond
+
+level up moves: 
+
+ct / egg moves: 
+
+delphox-serena
+
+level up moves: 
+
+ct / egg moves: 
+
+greninja battle bond
+
+level up moves: 
+
+ct / egg moves: 
+
+greninja-ash
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon polar
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon tundra
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon continental
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon gardens
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon elegant
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon meadow
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon modern
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon marine
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon archipelago
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon high plains
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon sandstorm
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon river
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon monsoon
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon savanna
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon sun
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon ocean
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon jungle
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon fancy
+
+level up moves: 
+
+ct / egg moves: 
+
+vivillon pokéball
+
+level up moves: 
+
+ct / egg moves: 
+
+floette eternal flower
+
+level up moves: 
+
+ct / egg moves: 
+
+flabebe yellow
+
+level up moves: 
+
+ct / egg moves: 
+
+floette yellow
+
+level up moves: 
+
+ct / egg moves: 
+
+florges yellow
+
+level up moves: 
+
+ct / egg moves: 
+
+flabebe orange
+
+level up moves: 
+
+ct / egg moves: 
+
+floette orange
+
+level up moves: 
+
+ct / egg moves: 
+
+florges orange
+
+level up moves: 
+
+ct / egg moves: 
+
+flabebe blue
+
+level up moves: 
+
+ct / egg moves: 
+
+floette blue
+
+level up moves: 
+
+ct / egg moves: 
+
+florges blue
+
+level up moves: 
+
+ct / egg moves: 
+
+flabebe white
+
+level up moves: 
+
+ct / egg moves: 
+
+floette white
+
+level up moves: 
+
+ct / egg moves: 
+
+florges white
+
+level up moves: 
+
+ct / egg moves: 
+
+furfrou heart
+
+level up moves: 
+
+ct / egg moves: 
+
+furfrou star
+
+level up moves: 
+
+ct / egg moves: 
+
+furfrou diamond
+
+level up moves: 
+
+ct / egg moves: 
+
+furfrou debutante
+
+level up moves: 
+
+ct / egg moves: 
+
+furfrou matron
+
+level up moves: 
+
+ct / egg moves: 
+
+furfrou dandy
+
+level up moves: 
+
+ct / egg moves: 
+
+furfrou la reine
+
+level up moves: 
+
+ct / egg moves: 
+
+furfrou kabuki
+
+level up moves: 
+
+ct / egg moves: 
+
+furfrou pharaoh
+
+level up moves: 
+
+ct / egg moves: 
+
+aegislash blade
+
+level up moves: 
+
+ct / egg moves: 
+
+honedge redux
+
+level up moves: 
+
+ct / egg moves: 
+
+doublade redux
+
+level up moves: 
+
+ct / egg moves: 
+
+aegislash redux
+
+level up moves: 
+
+ct / egg moves: 
+
+aegislash blade redux
+
+level up moves: 
+
+ct / egg moves: 
+
+aegislash mega
+
+level up moves: 
+
+ct / egg moves: 
+
+aegislash blade redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+clawtificer
+
+level up moves: 
+
+ct / egg moves: 
+
+pumpkaboo small
+
+level up moves: 
+
+ct / egg moves: 
+
+gourgeist small
+
+level up moves: 
+
+ct / egg moves: 
+
+pumpkaboo large
+
+level up moves: 
+
+ct / egg moves: 
+
+gourgeist large
+
+level up moves: 
+
+ct / egg moves: 
+
+pumpkaboo super
+
+level up moves: 
+
+ct / egg moves: 
+
+gourgeist super
+
+level up moves: 
+
+ct / egg moves: 
+
+noibat redux
+
+level up moves: 
+
+ct / egg moves: 
+
+noivern redux
+
+level up moves: 
+
+ct / egg moves: 
+
+xerneas active
+
+level up moves: 
+
+ct / egg moves: 
+
+yveltal mega
+
+level up moves: 
+
+ct / egg moves: 
+
+diancie mega
+
+level up moves: 
+
+ct / egg moves: 
+
+hoopa
+
+level up moves: 
+
+ct / egg moves: 
+
+decidueye mega
+
+level up moves: 
+
+ct / egg moves: 
+
+decidueye hisuian mega
+
+level up moves: 
+
+ct / egg moves: 
+
+incineroar mega
+
+level up moves: 
+
+ct / egg moves: 
+
+primarina mega
+
+level up moves: 
+
+ct / egg moves: 
+
+toucannon mega
+
+level up moves: 
+
+ct / egg moves: 
+
+crabrawler redux
+
+level up moves: 
+
+ct / egg moves: 
+
+crabominable redux
+
+level up moves: 
+
+ct / egg moves: 
+
+oricorio pom pom
+
+level up moves: 
+
+ct / egg moves: 
+
+oricorio pau
+
+level up moves: 
+
+ct / egg moves: 
+
+oricorio sensu
+
+level up moves: 
+
+ct / egg moves: 
+
+oricorio mega
+
+level up moves: 
+
+ct / egg moves: 
+
+ribombee redux
+
+level up moves: 
+
+ct / egg moves: 
+
+ribombee mega
+
+level up moves: 
+
+ct / egg moves: 
+
+lycanroc
+
+level up moves: 
+
+ct / egg moves: 
+
+lycanroc eclipse
+
+level up moves: 
+
+ct / egg moves: 
+
+lycanroc twilight
+
+level up moves: 
+
+ct / egg moves: 
+
+rockruff own tempo
+
+level up moves: 
+
+ct / egg moves: 
+
+dewpider redux
+
+level up moves: 
+
+ct / egg moves: 
+
+araquanid redux
+
+level up moves: 
+
+ct / egg moves: 
+
+bewear angry
+
+level up moves: 
+
+ct / egg moves: 
+
+stufful redux
+
+level up moves: 
+
+ct / egg moves: 
+
+bewear redux
+
+level up moves: 
+
+ct / egg moves: 
+
+bounsweet redux
+
+level up moves: 
+
+ct / egg moves: 
+
+steenee redux
+
+level up moves: 
+
+ct / egg moves: 
+
+tsareena redux
+
+level up moves: 
+
+ct / egg moves: 
+
+tsareena mega
+
+level up moves: 
+
+ct / egg moves: 
+
+golisopod mega
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally fighting
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally flying
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally poison
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally ground
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally rock
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally bug
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally ghost
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally steel
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally fire
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally water
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally grass
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally electric
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally psychic
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally ice
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally dragon
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally dark
+
+level up moves: 
+
+ct / egg moves: 
+
+silvally fairy
+
+level up moves: 
+
+ct / egg moves: 
+
+minior
+
+level up moves: 
+
+ct / egg moves: 
+
+minior orange
+
+level up moves: 
+
+ct / egg moves: 
+
+minior yellow
+
+level up moves: 
+
+ct / egg moves: 
+
+minior green
+
+level up moves: 
+
+ct / egg moves: 
+
+minior blue
+
+level up moves: 
+
+ct / egg moves: 
+
+minior indigo
+
+level up moves: 
+
+ct / egg moves: 
+
+minior violet
+
+level up moves: 
+
+ct / egg moves: 
+
+minior core red
+
+level up moves: 
+
+ct / egg moves: 
+
+minior core orange
+
+level up moves: 
+
+ct / egg moves: 
+
+minior core yellow
+
+level up moves: 
+
+ct / egg moves: 
+
+minior core green
+
+level up moves: 
+
+ct / egg moves: 
+
+minior core blue
+
+level up moves: 
+
+ct / egg moves: 
+
+minior core indigo
+
+level up moves: 
+
+ct / egg moves: 
+
+minior core violet
+
+level up moves: 
+
+ct / egg moves: 
+
+mimikyu busted
+
+level up moves: 
+
+ct / egg moves: 
+
+mimikyu apex
+
+level up moves: 
+
+ct / egg moves: 
+
+mimikyu primal
+
+level up moves: 
+
+ct / egg moves: 
+
+mimikyu apex busted
+
+level up moves: 
+
+ct / egg moves: 
+
+mimikyu rayquaza busted
+
+level up moves: 
+
+ct / egg moves: 
+
+kartana fallen
+
+level up moves: 
+
+ct / egg moves: 
+
+dusk mane
+
+level up moves: 
+
+ct / egg moves: 
+
+necrozma ultra
+
+level up moves: 
+
+ct / egg moves: 
+
+dawn wings
+
+level up moves: 
+
+ct / egg moves: 
+
+magearna original
+
+level up moves: 
+
+ct / egg moves: 
+
+melmetal mega
+
+level up moves: 
+
+ct / egg moves: 
+
+rillaboom mega
+
+level up moves: 
+
+ct / egg moves: 
+
+cinderace mega
+
+level up moves: 
+
+ct / egg moves: 
+
+inteleon mega
+
+level up moves: 
+
+ct / egg moves: 
+
+corviknight mega
+
+level up moves: 
+
+ct / egg moves: 
+
+orbeetle mega
+
+level up moves: 
+
+ct / egg moves: 
+
+drednaw mega
+
+level up moves: 
+
+ct / egg moves: 
+
+coalossal mega
+
+level up moves: 
+
+ct / egg moves: 
+
+sandaconda mega
+
+level up moves: 
+
+ct / egg moves: 
+
+cramorant gulping
+
+level up moves: 
+
+ct / egg moves: 
+
+cramorant gorging
+
+level up moves: 
+
+ct / egg moves: 
+
+toxtricity mega
+
+level up moves: 
+
+ct / egg moves: 
+
+toxtricity low key
+
+level up moves: 
+
+ct / egg moves: 
+
+toxel redux
+
+level up moves: 
+
+ct / egg moves: 
+
+toxtricity redux
+
+level up moves: 
+
+ct / egg moves: 
+
+toxtricity redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+toxtricity redux fuzz
+
+level up moves: 
+
+ct / egg moves: 
+
+toxtricity redux fuzz mega
+
+level up moves: 
+
+ct / egg moves: 
+
+centiskorch mega
+
+level up moves: 
+
+ct / egg moves: 
+
+sinistea antique
+
+level up moves: 
+
+ct / egg moves: 
+
+polteageist antique
+
+level up moves: 
+
+ct / egg moves: 
+
+hatterene mega
+
+level up moves: 
+
+ct / egg moves: 
+
+grimmsnarl mega
+
+level up moves: 
+
+ct / egg moves: 
+
+alcremie mega
+
+level up moves: 
+
+ct / egg moves: 
+
+alcremie ruby
+
+level up moves: 
+
+ct / egg moves: 
+
+alcremie matcha
+
+level up moves: 
+
+ct / egg moves: 
+
+alcremie mint
+
+level up moves: 
+
+ct / egg moves: 
+
+alcremie lemon
+
+level up moves: 
+
+ct / egg moves: 
+
+alcremie salted
+
+level up moves: 
+
+ct / egg moves: 
+
+alcremie ruby swirl
+
+level up moves: 
+
+ct / egg moves: 
+
+alcremie caramel
+
+level up moves: 
+
+ct / egg moves: 
+
+alcremie rainbow
+
+level up moves: 
+
+ct / egg moves: 
+
+eiscue
+
+level up moves: 
+
+ct / egg moves: 
+
+indeedee
+
+level up moves: 
+
+ct / egg moves: 
+
+morpekyll
+
+level up moves: 
+
+ct / egg moves: 
+
+morpekyll hangry
+
+level up moves: 
+
+ct / egg moves: 
+
+morpeko hangry
+
+level up moves: 
+
+ct / egg moves: 
+
+copperajah mega
+
+level up moves: 
+
+ct / egg moves: 
+
+dracovish mega
+
+level up moves: 
+
+ct / egg moves: 
+
+duraludon partner
+
+level up moves: 
+
+ct / egg moves: 
+
+duraludon mega
+
+level up moves: 
+
+ct / egg moves: 
+
+zacian
+
+level up moves: 
+
+ct / egg moves: 
+
+zacian crowned
+
+level up moves: 
+
+ct / egg moves: 
+
+zamazenta
+
+level up moves: 
+
+ct / egg moves: 
+
+zamazenta crowned
+
+level up moves: 
+
+ct / egg moves: 
+
+eternatus primal
+
+level up moves: 
+
+ct / egg moves: 
+
+urshifu mega
+
+level up moves: 
+
+ct / egg moves: 
+
+urshifu rapid strike style mega
+
+level up moves: 
+
+ct / egg moves: 
+
+zarude dada
+
+level up moves: 
+
+ct / egg moves: 
+
+spectrier cloud
+
+level up moves: 
+
+ct / egg moves: 
+
+calyrex cloud rider
+
+level up moves: 
+
+ct / egg moves: 
+
+meowscarada mega
+
+level up moves: 
+
+ct / egg moves: 
+
+skeledirge mega
+
+level up moves: 
+
+ct / egg moves: 
+
+quaquaval mega
+
+level up moves: 
+
+ct / egg moves: 
+
+oinkologne
+
+level up moves: 
+
+ct / egg moves: 
+
+maushold four
+
+level up moves: 
+
+ct / egg moves: 
+
+fidough partner
+
+level up moves: 
+
+ct / egg moves: 
+
+fidough mega
+
+level up moves: 
+
+ct / egg moves: 
+
+squawkabilly white
+
+level up moves: 
+
+ct / egg moves: 
+
+squawkabilly yellow
+
+level up moves: 
+
+ct / egg moves: 
+
+squawkabilly blue
+
+level up moves: 
+
+ct / egg moves: 
+
+squawkabilly green plumage
+
+level up moves: 
+
+ct / egg moves: 
+
+tinkaton mega
+
+level up moves: 
+
+ct / egg moves: 
+
+palafin hero
+
+level up moves: 
+
+ct / egg moves: 
+
+tatsugiri curly
+
+level up moves: 
+
+ct / egg moves: 
+
+tatsugiri droopy
+
+level up moves: 
+
+ct / egg moves: 
+
+tatsugiri stretchy
+
+level up moves: 
+
+ct / egg moves: 
+
+chien pao mega
+
+level up moves: 
+
+ct / egg moves: 
+
+ogerpon hearthflame
+
+level up moves: 
+
+ct / egg moves: 
+
+ogerpon cornerstone
+
+level up moves: 
+
+ct / egg moves: 
+
+ogerpon wellspring
+
+level up moves: 
+
+ct / egg moves: 
+
+ogerpon mega
+
+level up moves: 
+
+ct / egg moves: 
+
+ogerpon hearthflame mega
+
+level up moves: 
+
+ct / egg moves: 
+
+ogerpon cornerstone mega
+
+level up moves: 
+
+ct / egg moves: 
+
+ogerpon wellspring mask mega
+
+level up moves: 
+
+ct / egg moves: 
+
+terapagos primal
+
+level up moves: 
+
+ct / egg moves: 
+
+phantowl
+
+level up moves: 
+
+ct / egg moves: 
+
+duelumber
+
+level up moves: 
+
+ct / egg moves: 
+
+arachtres
+
+level up moves: 
+
+ct / egg moves: 
+
+flairgrance
+
+level up moves: 
+
+ct / egg moves: 
+
+arashinne
+
+level up moves: 
+
+ct / egg moves: 
+
+dreadnaut
+
+level up moves: 
+
+ct / egg moves: 
+
+boarlock
+
+level up moves: 
+
+ct / egg moves: 
+
+heliomodo
+
+level up moves: 
+
+ct / egg moves: 
+
+sopranice
+
+level up moves: 
+
+ct / egg moves: 
+
+beefender
+
+level up moves: 
+
+ct / egg moves: 
+
+salazarus
+
+level up moves: 
+
+ct / egg moves: 
+
+gooschase
+
+level up moves: 
+
+ct / egg moves: 
+
+lepastry
+
+level up moves: 
+
+ct / egg moves: 
+
+tortemple
+
+level up moves: 
+
+ct / egg moves: 
+
+brontonana
+
+level up moves: 
+
+ct / egg moves: 
+
+dredwood
+
+level up moves: 
+
+ct / egg moves: 
+
+corm
+
+level up moves: 
+
+ct / egg moves: 
+
+cormoth
+
+level up moves: 
+
+ct / egg moves: 
+
+popcorm
+
+level up moves: 
+
+ct / egg moves: 
+
+cormoth mega
+
+level up moves: 
+
+ct / egg moves: 
+
+popcorm mega
+
+level up moves: 
+
+ct / egg moves: 
+
+blizzard maw
+
+level up moves: 
+
+ct / egg moves: 
+
+lumber sloth
+
+level up moves: 
+
+ct / egg moves: 
+
+lumbering sloth engulfed
+
+level up moves: 
+
+ct / egg moves: 
+
+iron carapace
+
+level up moves: 
+
+ct / egg moves: 
+
+magnemous
+
+level up moves: 
+
+ct / egg moves: 
+
+kaiosea
+
+level up moves: 
+
+ct / egg moves: 
+
+slyduck
+
+level up moves: 
+
+ct / egg moves: 
+
+shyduck
+
+level up moves: 
+
+ct / egg moves: 
+
+marbeep
+
+level up moves: 
+
+ct / egg moves: 
+
+fluffbee
+
+level up moves: 
+
+ct / egg moves: 
+
+amphybuzz
+
+level up moves: 
+
+ct / egg moves: 
+
+amphybuzz mega
+
+level up moves: 
+
+ct / egg moves: 
+
+bariong
+
+level up moves: 
+
+ct / egg moves: 
+
+crabruiser
+
+level up moves: 
+
+ct / egg moves: 
+
+phanfernal
+
+level up moves: 
+
+ct / egg moves: 
+
+skulberus
+
+level up moves: 
+
+ct / egg moves: 
+
+velozel
+
+level up moves: 
+
+ct / egg moves: 
+
+bewarden
+
+level up moves: 
+
+ct / egg moves: 
+
+bubbleo
+
+level up moves: 
+
+ct / egg moves: 
+
+hydroar
+
+level up moves: 
+
+ct / egg moves: 
+
+hydroar f
+
+level up moves: 
+
+ct / egg moves: 
+
+granitun
+
+level up moves: 
+
+ct / egg moves: 
+
+fujiflap
+
+level up moves: 
+
+ct / egg moves: 
+
+knaiver
+
+level up moves: 
+
+ct / egg moves: 
+
+scizor mega
+
+level up moves: 
+
+ct / egg moves: 
+
+sagaracas
+
+level up moves: 
+
+ct / egg moves: 
+
+lucineon
+
+level up moves: 
+
+ct / egg moves: 
+
+crawdauntles
+
+level up moves: 
+
+ct / egg moves: 
+
+iron voca
+
+level up moves: 
+
+ct / egg moves: 
+
+frostula
+
+level up moves: 
+
+ct / egg moves: 
+
+goodra mega
+
+level up moves: 
+
+ct / egg moves: 
+
+slowbro mega galarian
+
+level up moves: 
+
+ct / egg moves: 
+
+slowking mega galarian
+
+level up moves: 
+
+ct / egg moves: 
+
+iron exo
+
+level up moves: 
+
+ct / egg moves: 
+
+dududunsparce
+
+level up moves: 
+
+ct / egg moves: 
+
+dududunsparce mega
+
+level up moves: 
+
+ct / egg moves: 
+
+bewarden redux
+
+level up moves: 
+
+ct / egg moves: 
+
+crawdauntless
+
+level up moves: 
+
+ct / egg moves: 
+
+seerkat
+
+level up moves: 
+
+ct / egg moves: 
+
+tentagrewl
+
+level up moves: 
+
+ct / egg moves: 
+
+cacjack
+
+level up moves: 
+
+ct / egg moves: 
+
+tyranjoula
+
+level up moves: 
+
+ct / egg moves: 
+
+crag hopper
+
+level up moves: 
+
+ct / egg moves: 
+
+dedelibird
+
+level up moves: 
+
+ct / egg moves: 
+
+krampird
+
+level up moves: 
+
+ct / egg moves: 
+
+iron palette
+
+level up moves: 
+
+ct / egg moves: 
+
+carbonix
+
+level up moves: 
+
+ct / egg moves: 
+
+wispywaspy
+
+level up moves: 
+
+ct / egg moves: 
+
+iron scythe
+
+level up moves: 
+
+ct / egg moves: 
+
+wooly worm
+
+level up moves: 
+
+ct / egg moves: 
+
+heracreus
+
+level up moves: 
+
+ct / egg moves: 
+
+grotom
+
+level up moves: 
+
+ct / egg moves: 
+
+orchestot
+
+level up moves: 
+
+ct / egg moves: 
+
+queengambit
+
+level up moves: 
+
+ct / egg moves: 
+
+pentadug
+
+level up moves: 
+
+ct / egg moves: 
+
+crabominable mega
+
+level up moves: 
+
+ct / egg moves: 
+
+abyssand
+
+level up moves: 
+
+ct / egg moves: 
+
+pentawug
+
+level up moves: 
+
+ct / egg moves: 
+
+ratiking
+
+level up moves: 
+
+ct / egg moves: 
+
+ratfioso
+
+level up moves: 
+
+ct / egg moves: 
+
+guardozel
+
+level up moves: 
+
+ct / egg moves: 
+
+beniccino
+
+level up moves: 
+
+ct / egg moves: 
+
+torrentula
+
+level up moves: 
+
+ct / egg moves: 
+
+spindaze
+
+level up moves: 
+
+ct / egg moves: 
+
+blocli
+
+level up moves: 
+
+ct / egg moves: 
+
+bloxtack
+
+level up moves: 
+
+ct / egg moves: 
+
+gargablox
+
+level up moves: 
+
+ct / egg moves: 
+
+hippopotato
+
+level up moves: 
+
+ct / egg moves: 
+
+hippotaton
+
+level up moves: 
+
+ct / egg moves: 
+
+corn tyrant
+
+level up moves: 
+
+ct / egg moves: 
+
+iron spirals
+
+level up moves: 
+
+ct / egg moves: 
+
+iron saber
+
+level up moves: 
+
+ct / egg moves: 
+
+hypnocroak
+
+level up moves: 
+
+ct / egg moves: 
+
+plundertow
+
+level up moves: 
+
+ct / egg moves: 
+
+ash-greninja
+
+level up moves: 
+
+ct / egg moves: 
+
+ogerpon wellspring mask
+
+level up moves: 
+
+ct / egg moves: 
+
+raichu mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+clemont-chesnaught
+
+level up moves: 
+
+ct / egg moves: 
+
+serena-delphox
+
+level up moves: 
+
+ct / egg moves: 
+
+scrafty mega
+
+level up moves: 
+
+ct / egg moves: 
+
+falinks mega
+
+level up moves: 
+
+ct / egg moves: 
+
+pyroar mega
+
+level up moves: 
+
+ct / egg moves: 
+
+chesnaught mega
+
+level up moves: 
+
+ct / egg moves: 
+
+delphox mega
+
+level up moves: 
+
+ct / egg moves: 
+
+greninja mega
+
+level up moves: 
+
+ct / egg moves: 
+
+eelektross mega
+
+level up moves: 
+
+ct / egg moves: 
+
+malamar mega
+
+level up moves: 
+
+ct / egg moves: 
+
+victreebel mega
+
+level up moves: 
+
+ct / egg moves: 
+
+dragalge mega
+
+level up moves: 
+
+ct / egg moves: 
+
+hawlucha mega
+
+level up moves: 
+
+ct / egg moves: 
+
+clefable mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+dragonite mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+excadrill mega
+
+level up moves: 
+
+ct / egg moves: 
+
+scolipede mega
+
+level up moves: 
+
+ct / egg moves: 
+
+chandelure mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+floette mega
+
+level up moves: 
+
+ct / egg moves: 
+
+barbaracle mega
+
+level up moves: 
+
+ct / egg moves: 
+
+drampa mega
+
+level up moves: 
+
+ct / egg moves: 
+
+starmie mega
+
+level up moves: 
+
+ct / egg moves: 
+
+skarmory mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+froslass mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+skarmory mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+froslass mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+lucario mega z
+
+level up moves: 
+
+ct / egg moves: 
+
+golisopod mega y
+
+level up moves: 
+
+ct / egg moves: 
+
+samurott hisuian mega
+
+level up moves: 
+
+ct / egg moves: 
+
+clodsire mega
+
+level up moves: 
+
+ct / egg moves: 
+
+gothitelle mega
+
+level up moves: 
+
+ct / egg moves: 
+
+arcanine hisuian mega
+
+level up moves: 
+
+ct / egg moves: 
+
+kipmodo
+
+level up moves: 
+
+ct / egg moves: 
+
+marshmodo
+
+level up moves: 
+
+ct / egg moves: 
+
+swampage
+
+level up moves: 
+
+ct / egg moves: 
+
+swampage mega
+
+level up moves: 
+
+ct / egg moves: 
+
+chandelure mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+zapdos mega
+
+level up moves: 
+
+ct / egg moves: 
+
+articuno mega
+
+level up moves: 
+
+ct / egg moves: 
+
+moltres mega
+
+level up moves: 
+
+ct / egg moves: 
+
+zapdos ex
+
+level up moves: 
+
+ct / egg moves: 
+
+articuno ex
+
+level up moves: 
+
+ct / egg moves: 
+
+moltres ex
+
+level up moves: 
+
+ct / egg moves: 
+
+minccino redux
+
+level up moves: 
+
+ct / egg moves: 
+
+cinccino redux
+
+level up moves: 
+
+ct / egg moves: 
+
+frostuccino
+
+level up moves: 
+
+ct / egg moves: 
+
+sinistea redux
+
+level up moves: 
+
+ct / egg moves: 
+
+polteageist redux
+
+level up moves: 
+
+ct / egg moves: 
+
+cetoddle redux
+
+level up moves: 
+
+ct / egg moves: 
+
+cetitan redux
+
+level up moves: 
+
+ct / egg moves: 
+
+talonflame mega
+
+level up moves: 
+
+ct / egg moves: 
+
+carbonix mega
+
+level up moves: 
+
+ct / egg moves: 
+
+grotom glass
+
+level up moves: 
+
+ct / egg moves: 
+
+grotom roll
+
+level up moves: 
+
+ct / egg moves: 
+
+grotom drum
+
+level up moves: 
+
+ct / egg moves: 
+
+grotom kick
+
+level up moves: 
+
+ct / egg moves: 
+
+grotom fill
+
+level up moves: 
+
+ct / egg moves: 
+
+heracreus mega
+
+level up moves: 
+
+ct / egg moves: 
+
+wispywaspy hivemind
+
+level up moves: 
+
+ct / egg moves: 
+
+dragapult mega
+
+level up moves: 
+
+ct / egg moves: 
+
+sandslash alolan mega
+
+level up moves: 
+
+ct / egg moves: 
+
+kleavor mega
+
+level up moves: 
+
+ct / egg moves: 
+
+scyther mega
+
+level up moves: 
+
+ct / egg moves: 
+
+vanilluxe mega
+
+level up moves: 
+
+ct / egg moves: 
+
+pentadug alolan
+
+level up moves: 
+
+ct / egg moves: 
+
+rattata redux
+
+level up moves: 
+
+ct / egg moves: 
+
+raticate redux
+
+level up moves: 
+
+ct / egg moves: 
+
+vanillite redux
+
+level up moves: 
+
+ct / egg moves: 
+
+vanillish redux
+
+level up moves: 
+
+ct / egg moves: 
+
+vanilluxe redux
+
+level up moves: 
+
+ct / egg moves: 
+
+vanilluxe redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+litwick redux
+
+level up moves: 
+
+ct / egg moves: 
+
+lampent redux
+
+level up moves: 
+
+ct / egg moves: 
+
+chandelure redux
+
+level up moves: 
+
+ct / egg moves: 
+
+chandelure mega
+
+level up moves: 
+
+ct / egg moves: 
+
+drilbur redux
+
+level up moves: 
+
+ct / egg moves: 
+
+excadrill redux
+
+level up moves: 
+
+ct / egg moves: 
+
+rexcadrill
+
+level up moves: 
+
+ct / egg moves: 
+
+swinub redux
+
+level up moves: 
+
+ct / egg moves: 
+
+piloswine redux
+
+level up moves: 
+
+ct / egg moves: 
+
+mamoswine redux
+
+level up moves: 
+
+ct / egg moves: 
+
+mamoswine mega
+
+level up moves: 
+
+ct / egg moves: 
+
+selenumbra
+
+level up moves: 
+
+ct / egg moves: 
+
+larvesta redux
+
+level up moves: 
+
+ct / egg moves: 
+
+volcarona redux
+
+level up moves: 
+
+ct / egg moves: 
+
+klefki redux
+
+level up moves: 
+
+ct / egg moves: 
+
+bellsprout redux
+
+level up moves: 
+
+ct / egg moves: 
+
+weepinbell redux
+
+level up moves: 
+
+ct / egg moves: 
+
+victreebel redux
+
+level up moves: 
+
+ct / egg moves: 
+
+sawk redux
+
+level up moves: 
+
+ct / egg moves: 
+
+throh redux
+
+level up moves: 
+
+ct / egg moves: 
+
+sneasler mega
+
+level up moves: 
+
+ct / egg moves: 
+
+goodra hisuian mega
+
+level up moves: 
+
+ct / egg moves: 
+
+hariyama mega
+
+level up moves: 
+
+ct / egg moves: 
+
+swablu redux
+
+level up moves: 
+
+ct / egg moves: 
+
+altaria redux
+
+level up moves: 
+
+ct / egg moves: 
+
+altaria redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+eraticate
+
+level up moves: 
+
+ct / egg moves: 
+
+exeggcute redux
+
+level up moves: 
+
+ct / egg moves: 
+
+exeggutor redux
+
+level up moves: 
+
+ct / egg moves: 
+
+luxzero mega
+
+level up moves: 
+
+ct / egg moves: 
+
+luxzero
+
+level up moves: 
+
+ct / egg moves: 
+
+scizor redux
+
+level up moves: 
+
+ct / egg moves: 
+
+flygon redux b mega
+
+level up moves: 
+
+ct / egg moves: 
+
+ribombee redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+weavile redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+abomasnow santa
+
+level up moves: 
+
+ct / egg moves: 
+
+mimikyu rayquaza
+
+level up moves: 
+
+ct / egg moves: 
+
+blunder-darmanitan
+
+level up moves: 
+
+ct / egg moves: 
+
+tinkatink redux
+
+level up moves: 
+
+ct / egg moves: 
+
+tinkatuff redux
+
+level up moves: 
+
+ct / egg moves: 
+
+tinkaton redux
+
+level up moves: 
+
+ct / egg moves: 
+
+tinkaton redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+scyther redux
+
+level up moves: 
+
+ct / egg moves: 
+
+scyther redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+scizor redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+kleavor redux
+
+level up moves: 
+
+ct / egg moves: 
+
+kleavor redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+krabby redux
+
+level up moves: 
+
+ct / egg moves: 
+
+kingler redux
+
+level up moves: 
+
+ct / egg moves: 
+
+kingler redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+shinx redux
+
+level up moves: 
+
+ct / egg moves: 
+
+luxio redux
+
+level up moves: 
+
+ct / egg moves: 
+
+luxray redux
+
+level up moves: 
+
+ct / egg moves: 
+
+luxray redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+aron redux
+
+level up moves: 
+
+ct / egg moves: 
+
+lairon redux
+
+level up moves: 
+
+ct / egg moves: 
+
+aggron redux
+
+level up moves: 
+
+ct / egg moves: 
+
+aggron redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+makuhita redux
+
+level up moves: 
+
+ct / egg moves: 
+
+hariyama redux
+
+level up moves: 
+
+ct / egg moves: 
+
+kilozuna
+
+level up moves: 
+
+ct / egg moves: 
+
+kilozuna mega
+
+level up moves: 
+
+ct / egg moves: 
+
+fogging
+
+level up moves: 
+
+ct / egg moves: 
+
+breezing
+
+level up moves: 
+
+ct / egg moves: 
+
+storming
+
+level up moves: 
+
+ct / egg moves: 
+
+ralts redux
+
+level up moves: 
+
+ct / egg moves: 
+
+kirlia redux
+
+level up moves: 
+
+ct / egg moves: 
+
+gardevoir redux
+
+level up moves: 
+
+ct / egg moves: 
+
+gallade redux
+
+level up moves: 
+
+ct / egg moves: 
+
+gardevoir redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+gallade redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+merrykarp
+
+level up moves: 
+
+ct / egg moves: 
+
+gyarevelry
+
+level up moves: 
+
+ct / egg moves: 
+
+munchlax redux
+
+level up moves: 
+
+ct / egg moves: 
+
+snorlax redux
+
+level up moves: 
+
+ct / egg moves: 
+
+snorlax redux mega
+
+level up moves: 
+
+ct / egg moves: 
+
+raichu mega x
+
+level up moves: 
+
+ct / egg moves: 
+
+chimecho mega
+
+level up moves: 
+
+ct / egg moves: 
+
+absol mega z
+
+level up moves: 
+
+ct / egg moves: 
+
+staraptor mega
+
+level up moves: 
+
+ct / egg moves: 
+
+garchomp mega z
+
+level up moves: 
+
+ct / egg moves: 
+
+heatran mega
+
+level up moves: 
+
+ct / egg moves: 
+
+darkrai mega
+
+level up moves: 
+
+ct / egg moves: 
+
+golurk mega
+
+level up moves: 
+
+ct / egg moves: 
+
+meowstic mega
+
+level up moves: 
+
+ct / egg moves: 
+
+magearna mega
+
+level up moves: 
+
+ct / egg moves: 
+
+zeraora mega
+
+level up moves: 
+
+ct / egg moves: 
+
+scovillain mega
+
+level up moves: 
+
+ct / egg moves: 
+
+glimmora mega
+
+level up moves: 
+
+ct / egg moves: 
+
+tatsugiri mega
+
+level up moves: 
+
+ct / egg moves: 
+
+baxcalibur mega
+
+level up moves: 
+
+ct / egg moves: 
+
+spearow redux
+
+level up moves: 
+
+ct / egg moves: 
+
+fearow redux
+
+level up moves: 
+
+ct / egg moves: 
+
+terrow
+
+level up moves: 
+
+ct / egg moves: 
+
+slate
+
+level up moves: 
+
+ct / egg moves: 
+

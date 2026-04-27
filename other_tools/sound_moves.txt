@@ -1,0 +1,80 @@
+
+Move physiques
+
+Double Clap — L'utilisateur frappe ses mains deux fois; le second impact peut déséquilibrer la cible.
+Mach turn — Rotation supersonique suivie d'un coup sec, idéale pour briser la garde.
+Danse Beat — Une danse rythmée transforme l'élan du corps en une série de frappes sonores.
+Lula Blade — Une lame vibrante tranche en émettant une note aiguë qui traverse l'armure légère.
+Sound Punch — Un direct compressé par une onde sonore qui résonne dans le corps de la cible.
+Jet Strike — L'utilisateur fonce comme un projectile puis libère un claquement assourdissant à l'impact.
+Babble — Un flot de vocalises agressives perturbe la concentration avant un coup rapproché.
+Drum beating — Le Pokémon martèle son torse comme un tambour pour enchaîner des coups lourds.
+Power Chord — Un accord explosif renforcé par la force physique frappe tout près de l'utilisateur.
+Multi-attack — Rafale de coups variés dont chaque impact crée une petite onde de percussion.
+Skyquake — Saut vertical puis chute tonitruante, le choc sonore secoue le terrain.
+Wild Dance — Danse incontrôlable qui alterne esquives et frappes au rythme d'un battement sauvage.
+Ear Splitter — Un coup précis près de la tête déclenche une douleur auditive foudroyante.
+Predator Roar (Tutor Move) — Rugissement de prédateur qui ouvre la défense avant une morsure violente.
+Tap Dance — Jeux de pas rapides qui frappent le sol et projettent des ondes en cadence.
+
+Move Special
+
+Chitter Swarm (Tutor Move) — Un essaim de cliquetis stridents frappe tous les adversaires proches.
+Clangor — Un carillon métallique amplifié libère des vagues sonores perçantes.
+Whisper — Un murmure maudit s'infiltre dans l'esprit de la cible et affaiblit sa volonté.
+Echoed Voice — La voix gagne en puissance à chaque tour où l'attaque est répétée.
+Uproar — Le lanceur fait un vacarme continu qui empêche tout sommeil sur le terrain.
+Snore — Attaque sonore utilisable en dormant, plus forte si le lanceur ronfle bruyamment.
+Snarl — Grognement sombre qui blesse et fait vaciller la puissance spéciale de la cible.
+Chatter — Bavardage imprévisible rempli de cris d'oiseau, capable de semer la confusion.
+Echo Blast — Un rayon d'écho concentré explose en ondes secondaires à l'impact.
+Sonic Cannon — Canon d'air comprimé qui propulse une détonation de très longue portée.
+Banshee Howl — Hurlement spectral qui traverse les protections et glace le sang.
+Torch Song — Chant flamboyant dont chaque refrain attise la puissance spéciale du lanceur.
+Disarming Voice — Mélodie charmeuse qui touche sans rater et casse le rythme adverse.
+Relic song — Chant ancien aux harmoniques sacrées capable de modifier l'état de combat.
+Royal Croak — Coassement imposant qui agit comme un ordre royal sur le champ de bataille.
+Sparkling Aria — Air cristallin couvert de bulles sonores qui purifie les brûlures.
+Hyper voice — Cri surpuissant qui balaie les ennemis par une large onde frontale.
+Bug Buzz — Vrombissement d'insecte à haute fréquence qui fissure la résistance spéciale.
+Thunderclap — Décharge électrique qui éclate comme un coup de tonnerre à bout portant.
+Judgment — Sentence divine matérialisée en onde pure, dont l'affinité dépend du porteur.
+Synchronoise — Onde psychique sonore qui ne touche efficacement que des cibles compatibles.
+Boomburst — Explosion acoustique massive frappant toute zone autour du lanceur.
+Sonic boom — Vague de pression tranchante, simple mais toujours fiable.
+Aerial Call — Cri lancé depuis les airs, guidant une rafale qui tombe d'en haut.
+Wild Chorus — Plusieurs voix sauvages se superposent et créent un déchaînement incontrôlable.
+Party Animal (Tutor Move) — Un cri de fête frénétique booste le rythme et percute tout autour.
+Bang Dream — Une pulsation onirique assomme l'adversaire dans une illusion sonore.
+Power Chord — Accord final amplifié par l'énergie spéciale, plus fort si le lanceur est motivé.
+
+Move status
+
+Fanfare — Une entrée triomphale augmente le moral de l'équipe et sa vitesse d'action.
+Wild Shriek — Cri brutal qui effraie la cible et réduit sa précision pour un court moment.
+Noise Blast — Déflagration sonore non-létale qui repousse l'ennemi et coupe ses préparations.
+Dragon Roar — Rugissement draconique qui force souvent l'adversaire à reculer ou changer.
+Auto Tune — Le lanceur ajuste sa fréquence vocale pour améliorer la précision de ses moves Son.
+Belly Drum — Tambourinement du ventre qui maximise l'Attaque au prix de PV.
+Screech — Cri strident qui abaisse fortement la Défense de la cible.
+Metal sound — Grincement métallique qui réduit fortement la Défense Spéciale adverse.
+Growl — Petit grondement qui diminue l'Attaque de la cible.
+Confide — Confidence chuchotée qui sape l'Attaque Spéciale de l'adversaire.
+Grass Whistle — Sifflement végétal qui endort la cible si la note l'atteint.
+Heal bell — Cloche apaisante qui soigne les altérations de statut de l'équipe.
+Noble Roar — Rugissement majestueux qui baisse Attaque et Attaque Spéciale de la cible.
+Parting Shot — Provocation sonore avant le retrait, affaiblissant les dégâts de la cible.
+Perish Song — Chant funeste: tous ceux qui l'entendent tombent K.O. après quelques tours.
+Roar — Rugissement qui interrompt et force un remplacement chez l'adversaire.
+Sing — Berceuse simple qui plonge la cible dans le sommeil.
+Supersonic — Onde ultrasonique instable qui provoque la confusion.
+Work up — Cri de motivation qui augmente Attaque et Attaque Spéciale.
+Sound Barrier — Mur acoustique qui réduit les dégâts spéciaux reçus pendant quelques tours.
+
+
+
+
+
+
+
+

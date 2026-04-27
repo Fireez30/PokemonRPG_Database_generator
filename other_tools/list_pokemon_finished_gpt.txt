@@ -1,0 +1,7201 @@
+bulbasaur
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+ivysaur
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+venusaur
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+chikorita
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Hyper voice
+
+bayleef
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+meganium
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice
+
+treecko
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+grovyle
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice, Hyper voice
+
+sceptile
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+turtwig
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+grotle
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+torterra
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+snivy
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+servine
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Echoed Voice
+
+serperior
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Echoed Voice
+
+chespin
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+quilladin
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+chesnaught
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+rowlet
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice
+
+dartrix
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+decidueye
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+charmander
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Echoed Voice, Hyper voice
+
+charmeleon
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+charizard
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+cyndaquil
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+quilava
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+typhlosion
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+torchic
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+combusken
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+blaziken
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+chimchar
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice
+
+monferno
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+infernape
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+tepig
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+pignite
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+emboar
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sound Punch
+
+fennekin
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+braixen
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+delphox
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+litten
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+torracat
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song, Hyper voice
+
+incineroar
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+squirtle
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+wartortle
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice, Torch Song
+
+blastoise
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+totodile
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+croconaw
+level up moves: Sound Punch, Danse Beat
+ct / egg moves: Double Clap, Mach turn
+
+feraligatr
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+mudkip
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+marshtomp
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+swampert
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+piplup
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+prinplup
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+empoleon
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song
+
+oshawott
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+dewott
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+samurott
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+froakie
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+frogadier
+level up moves: Royal Croak, Judgment
+ct / egg moves: Snore, Babble, Wild Shriek
+
+greninja
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+popplio
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+brionne
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Hyper voice
+
+primarina
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+caterpie
+level up moves:
+ct / egg moves: Sonic Cannon
+
+metapod
+level up moves:
+ct / egg moves: Sonic Cannon
+
+butterfree
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Sonic Cannon
+
+weedle
+level up moves:
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+beedrill
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+wurmple
+level up moves:
+ct / egg moves: Sonic Cannon, Sound Punch
+
+silcoon
+level up moves:
+ct / egg moves: Hyper voice, Sonic Cannon
+
+beautifly
+level up moves: Sparkling Aria, Babble
+ct / egg moves: Judgment, Snore
+
+cascoon
+level up moves:
+ct / egg moves: Hyper voice
+
+dustox
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+sewaddle
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+swadloon
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+leavanny
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+venipede
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+whirlipede
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+scolipede
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+scatterbug
+level up moves:
+ct / egg moves: Echoed Voice
+
+vivillon
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+grubbin
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+charjabug
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song, Echoed Voice
+
+vikavolt
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+axew
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+fraxure
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+haxorus
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+pichu
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch
+
+pikachu
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+raichu
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+raichu alola
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Hyper voice
+
+magnemite
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Sonic boom
+
+magneton
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Mach turn, Clangor, Sonic boom
+
+magnezone
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Lula Blade
+
+elekid
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Mach turn
+
+electabuzz
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Mach turn, Sonic boom
+
+electivire
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Sonic boom
+
+mareep
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+flaaffy
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+ampharos
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song
+
+shinx
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Torch Song, Echoed Voice
+
+luxio
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+luxray
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice, Sound Punch
+
+eelektrik
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+eelektross
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+cleffa
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+clefairy
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+clefable
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+togepi
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+togetic
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song
+
+togekiss
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+flabébé
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+floette
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+florges
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+machop
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+machoke
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+machamp
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+timburr
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+gurdurr
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+conkeldurr
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+magby
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+magmar
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+magmortar
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+fletchling
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+fletchinder
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+talonflame
+level up moves: Sound Punch, Tap Dance
+ct / egg moves: Ear Splitter, Mach turn
+
+gastly
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+haunter
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+gengar
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+duskull
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+dusclops
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+dusknoir
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+litwick
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+lampent
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch
+
+chandelure
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song
+
+oddish
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+gloom
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+vileplume
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+bellossom
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+bellsprout
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+weepinbell
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+victreebel
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+hoppip
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+skiploom
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice
+
+jumpluff
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+seedot
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+nuzleaf
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+shiftry
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Torch Song, Sonic Cannon
+
+budew
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+roselia
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+roserade
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+bounsweet
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+steenee
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+tsareena
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song
+
+rhyhorn
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Hyper voice
+
+rhydon
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+slurpuff
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+mankey
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Sonic Cannon
+
+primeape
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+tyrogue
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+hitmonlee
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+hitmonchan
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+hitmontop
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song, Sound Punch
+
+makuhita
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+hariyama
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+meditite
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+medicham
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+riolu
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+lucario
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Mach turn, Lula Blade, Clangor
+
+mienfoo
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+mienshao
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+pancham
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+pangoro
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Sound Punch
+
+crabrawler
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Torch Song
+
+crabominable
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+vulpix
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice, Sound Punch
+
+ninetales
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+growlithe
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice
+
+arcanine
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice
+
+ponyta
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+rapidash
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+slugma
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+magcargo
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+rhyperior
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+trapinch
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice, Sound Punch
+
+vibrava
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+flygon
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+sandile
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+krokorok
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch
+
+krookodile
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Sound Punch, Echoed Voice
+
+swinub
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+piloswine
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+mamoswine
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+spheal
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+sealeo
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+walrein
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+vanillite
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+vanillish
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+vanilluxe
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice
+
+pidgey
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+pidgeotto
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+pidgeot
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Sonic Cannon
+
+igglybuff
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+jigglypuff
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+wigglytuff
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+happiny
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+chansey
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+blissey
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+porygon
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+porygon2
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+porygon-z
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+slakoth
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+vigoroth
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+slaking
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+whismur
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon
+
+loudred
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+exploud
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+starly
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+staravia
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+staraptor
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Echoed Voice
+
+lillipup
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+herdier
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+stoutland
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+pidove
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+tranquill
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+unfezant
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Echoed Voice
+
+pikipek
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Sound Punch
+
+trumbeak
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+toucannon
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice
+
+nidoran (f)
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+nidorina
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+nidoqueen
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+nidoran (m)
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+nidorino
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Sound Punch
+
+nidoking
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+zubat
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+golbat
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+crobat
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+abra
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+kadabra
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Hyper voice
+
+alakazam
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+ralts
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+kirlia
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+gardevoir
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+gallade
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+gothita
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+gothorita
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+gothitelle
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+solosis
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice
+
+duosion
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Sound Punch
+
+reuniclus
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+geodude
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+graveler
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+golem
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+boldore
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Torch Song, Echoed Voice
+
+gigalith
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Hyper voice
+
+aron
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Mach turn, Clangor
+
+lairon
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Lula Blade, Mach turn, Sonic boom
+
+aggron
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Clangor, Lula Blade, Sonic boom
+
+klink
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Lula Blade, Clangor
+
+klang
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Clangor, Mach turn, Lula Blade
+
+klinklang
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Lula Blade, Sonic boom
+
+honedge
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Lula Blade, Mach turn
+
+doublade
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Lula Blade
+
+poliwag
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+poliwhirl
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+poliwrath
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+politoed
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon, Sound Punch
+
+horsea
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+seadra
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+kingdra
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice
+
+azurill
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+marill
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+azumarill
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice
+
+lotad
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+lombre
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+ludicolo
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+tympole
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+palpitoad
+level up moves: Royal Croak
+ct / egg moves: Snore, Judgment
+
+seismitoad
+level up moves: Royal Croak, Snore
+ct / egg moves: Babble, Judgment, Wild Shriek
+
+paras
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+parasect
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+venonat
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+venomoth
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song, Hyper voice
+
+scyther
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+scizor
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+ledyba
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sound Punch, Hyper voice, Sonic Cannon
+
+ledian
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+spinarak
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+ariados
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Wild Chorus, Chatter
+
+yanma
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+yanmega
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+pineco
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon
+
+forretress
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Lula Blade
+
+surskit
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+masquerain
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice
+
+nincada
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice, Sonic Cannon
+
+ninjask
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+shedinja
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+kricketot
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+kricketune
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+wormadam sandy
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+wormadam trash
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Clangor
+
+mothim
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+combee
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+vespiquen
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+dwebble
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+crustle
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+karrablast
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+escavalier
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+shelmet
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+accelgor
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+joltik
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+galvantula
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+larvesta
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+volcarona
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+cutiefly
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+ribombee
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Echoed Voice, Sonic Cannon
+
+wimpod
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Hyper voice
+
+golisopod
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+murkrow
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+honchkrow
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+sneasel
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+weavile
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+houndour
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+houndoom
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+poochyena
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+mightyena
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+purrloin
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch
+
+liepard
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Hyper voice
+
+scraggy
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+scrafty
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice
+
+zorua
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice, Sound Punch
+
+zoroark
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon
+
+pawniard
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Lula Blade, Mach turn
+
+bisharp
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Mach turn, Clangor
+
+vullaby
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+mandibuzz
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sound Punch
+
+inkay
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+malamar
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch
+
+voltorb
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Clangor, Mach turn
+
+electrode
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Sound Barrier, Mach turn, Thunderclap
+
+electrike
+level up moves: Sonic Cannon
+ct / egg moves: Thunderclap, Sonic boom, Power Chord
+
+manectric
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+blitzle
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song, Hyper voice
+
+zebstrika
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice
+
+helioptile
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+heliolisk
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+snubbull
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+granbull
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+spritzee
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+aromatisse
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+swirlix
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice, Sound Punch
+
+numel
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Sound Punch
+
+camerupt
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice, Torch Song
+
+pansear
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+simisear
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+darumaka
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sound Punch
+
+darmanitan zen
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+litleo
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice
+
+pyroar
+level up moves:
+ct / egg moves: Echoed Voice, Torch Song
+
+noibat
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+noivern
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Echoed Voice
+
+misdreavus
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+mismagius
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+shuppet
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+banette
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+drifloon
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+drifblim
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+yamask
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+phantump
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+trevenant
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+sandygast
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Echoed Voice
+
+palossand
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+exeggcute
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice
+
+exeggutor
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+exeggutor alola
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Hyper voice
+
+tangela
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song, Hyper voice
+
+tangrowth
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+sunkern
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song
+
+sunflora
+level up moves: Grass Whistle, Heal bell
+ct / egg moves: Snore, Babble, Judgment
+
+shroomish
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+breloom
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+cacnea
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+cacturne
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+cherubi
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+cherrim
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+snover
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+abomasnow
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+pansage
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sound Punch, Sonic Cannon
+
+simisage
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Hyper voice
+
+cottonee
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+whimsicott
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song
+
+petilil
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice
+
+lilligant
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch
+
+foongus
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+amoonguss
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+ferroseed
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+ferrothorn
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+skiddo
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+gogoat
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+fomantis
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+lurantis
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Torch Song
+
+morelull
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice, Sound Punch
+
+shiinotic
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+sandshrew
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+sandslash
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+diglett
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sound Punch
+
+dugtrio
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+cubone
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice, Sound Punch
+
+marowak
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+marowak alola
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+gligar
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song
+
+gliscor
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+phanpy
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+donphan
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+baltoy
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+claydol
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+hippopotas
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+hippowdon
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sound Punch, Sonic Cannon
+
+drilbur
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Mach turn, Clangor
+
+excadrill
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Mach turn
+
+golett
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice, Hyper voice
+
+golurk
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Torch Song
+
+mudbray
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+mudsdale
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+smoochum
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+jynx
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+snorunt
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+glalie
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+froslass
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+cubchoo
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+beartic
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+bergmite
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+avalugg
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+rattata
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+raticate
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Hyper voice
+
+spearow
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+fearow
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon
+
+meowth
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+persian
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+doduo
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon
+
+dodrio
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+lickitung
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Echoed Voice
+
+lickilicky
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+munchlax
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+snorlax
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Sound Punch, Echoed Voice
+
+sentret
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+furret
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+hoothoot
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+noctowl
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice, Hyper voice
+
+aipom
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+ambipom
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+teddiursa
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+ursaring
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Sound Punch
+
+zigzagoon
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+linoone
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song
+
+taillow
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+swellow
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+skitty
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+delcatty
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+swablu
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+altaria
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Wild Chorus, Chatter
+
+bidoof
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice
+
+bibarel
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+buneary
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice
+
+lopunny
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+glameow
+level up moves: Sound Punch, Ear Splitter
+ct / egg moves: Wild Dance, Tap Dance
+
+purugly
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+patrat
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+watchog
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+minccino
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice
+
+cinccino
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+deerling
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+sawsbuck
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+rufflet
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+braviary
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+bunnelby
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+diggersby
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice, Echoed Voice
+
+yungoos
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+gumshoos
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+stufful
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Hyper voice
+
+bewear
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sound Punch
+
+ekans
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+arbok
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+grimer
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Sound Punch
+
+muk
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+koffing
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Sonic Cannon
+
+weezing
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+gulpin
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+swalot
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+stunky
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch
+
+skuntank
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+skorupi
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+drapion
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+croagunk
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+toxicroak
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Hyper voice
+
+trubbish
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+garbodor
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Echoed Voice
+
+skrelp
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+dragalge
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+mareanie
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+toxapex
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+salandit
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+salazzle
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Torch Song
+
+drowzee
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+hypno
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+mime jr.
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+mr. mime
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+natu
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+xatu
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+wynaut
+level up moves:
+ct / egg moves: Torch Song
+
+wobbuffet
+level up moves:
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+spoink
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice
+
+grumpig
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice
+
+chingling
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+chimecho
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song, Hyper voice
+
+munna
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Sound Punch
+
+musharna
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+woobat
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+swoobat
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+elgyem
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Echoed Voice
+
+beheeyem
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+espurr
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+meowstic female
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+onix
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+steelix
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+nosepass
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+probopass
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Mach turn, Clangor
+
+bonsly
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+sudowoodo
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+binacle
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Torch Song
+
+barbaracle
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+rockruff
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+lycanroc midday
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sound Punch
+
+lycanroc midnight
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+lycanroc dusk
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+bronzor
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Mach turn
+
+bronzong
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Clangor, Mach turn
+
+psyduck
+level up moves: Whisper
+ct / egg moves: Bang Dream, Echo Blast
+
+golduck
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+tentacool
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+tentacruel
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+slowpoke
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+slowbro
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+slowking
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice
+
+seel
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Sound Punch
+
+dewgong
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Torch Song
+
+shellder
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch
+
+cloyster
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+krabby
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+kingler
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+goldeen
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+seaking
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+staryu
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice
+
+starmie
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon
+
+magikarp
+level up moves:
+ct / egg moves: Hyper voice
+
+gyarados
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+chinchou
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+lanturn
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+wooper
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+quagsire
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice
+
+remoraid
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+octillery
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice, Echoed Voice
+
+mantyke
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+mantine
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+wingull
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+pelipper
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch
+
+carvanha
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+sharpedo
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+wailmer
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+wailord
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice
+
+barboach
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+whiscash
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+corphish
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+crawdaunt
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+feebas
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice, Torch Song
+
+milotic
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+clamperl
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+huntail
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+gorebyss
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+buizel
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice
+
+floatzel
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+shellos
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+gastrodon
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+finneon
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+lumineon
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+panpour
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+simipour
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+ducklett
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice
+
+swanna
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+clauncher
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+clawitzer
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+dewpider
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sound Punch
+
+araquanid
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+pinsir
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Sound Punch
+
+shuckle
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+heracross
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+volbeat
+level up moves: Danse Beat, Wild Dance
+ct / egg moves: Double Clap, Party Animal
+
+illumise
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+durant
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Mach turn, Sonic boom
+
+sableye
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+absol
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+druddigon
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+plusle
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+minun
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice
+
+pachirisu
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+rotom
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+rotom appliance forms
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+emolga
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice
+
+dedenne
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+togedemaru
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Hyper voice
+
+comfey
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+throh
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+sawk
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+hawlucha
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice, Hyper voice
+
+passimian
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+torkoal
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+heatmor
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+turtonator
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+spiritomb
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+dhelmise
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Sonic boom
+
+tropius
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+carnivine
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice, Sound Punch
+
+maractus
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+stunfisk
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+delibird
+level up moves: Echoed Voice
+ct / egg moves: Aerial Call, Wild Chorus
+
+cryogonal
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song
+
+farfetch'd
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+kangaskhan
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+tauros
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+girafarig
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+dunsparce
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+stantler
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+smeargle
+level up moves:
+ct / egg moves: Sonic Cannon
+
+miltank
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+spinda
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+zangoose
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+castform
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+kecleon
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song
+
+chatot
+level up moves: Sound Punch
+ct / egg moves: Skyquake, Ear Splitter, Multi-attack
+
+audino
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+bouffalant
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+furfrou
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+oranguru
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+komala
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+drampa
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+seviper
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+sigilyph
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+lunatone
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice, Sonic Cannon
+
+solrock
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+carbink
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice, Torch Song
+
+skarmory
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Mach turn, Clangor
+
+mawile
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+klefki
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Clangor, Sonic boom, Mach turn
+
+lapras
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+qwilfish
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+corsola
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice, Sound Punch
+
+relicanth
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+luvdisc
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+alomomola
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+wishiwashi school
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+pyukumuku
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+bruxish
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+eevee
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+vaporeon
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice
+
+jolteon
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Sound Punch
+
+flareon
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+espeon
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+umbreon
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+leafeon
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+glaceon
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+sylveon
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+rattata alola
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+raticate alola
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+sandshrew alola
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+sandslash alola
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+vulpix alola
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+ninetales alola
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+diglett alola
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Mach turn, Lula Blade, Sonic boom
+
+dugtrio alola
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Mach turn, Clangor
+
+meowth alola
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+persian alola
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Torch Song, Echoed Voice
+
+geodude alola
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Sonic Cannon
+
+graveler alola
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+golem alola
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+grimer alola
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Sound Punch
+
+muk alola
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+omanyte
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Echoed Voice
+
+omastar
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+kabuto
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Sonic boom
+
+kabutops
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Lula Blade
+
+lileep
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+cradily
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+anorith
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+armaldo
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+cranidos
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+rampardos
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song, Sound Punch
+
+shieldon
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Clangor, Lula Blade, Sonic boom
+
+bastiodon
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Mach turn
+
+tirtouga
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice
+
+carracosta
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+archen
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+archeops
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+tyrunt
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+tyrantrum
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon, Sound Punch
+
+amaura
+level up moves: Echo Blast, Synchronoise
+ct / egg moves: Bang Dream, Whisper
+
+aurorus
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+aerodactyl
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+dratini
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Sound Punch
+
+dragonair
+level up moves: Skyquake, Ear Splitter
+ct / egg moves: Lula Blade, Mach turn, Predator Roar
+
+dragonite
+level up moves: Mach turn, Skyquake
+ct / egg moves: Lula Blade, Ear Splitter
+
+larvitar
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+pupitar
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Sound Punch, Torch Song
+
+tyranitar
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+bagon
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+shelgon
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+salamence
+level up moves: Sound Punch
+ct / egg moves: Jet Strike, Ear Splitter
+
+beldum
+level up moves:
+ct / egg moves: Sound Punch, Sonic Cannon
+
+metang
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+metagross
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+gible
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice
+
+gabite
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+garchomp
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice
+
+deino
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+zweilous
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+hydreigon
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+goomy
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Hyper voice
+
+sliggoo
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+goodra
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Sound Punch, Sonic Cannon
+
+jangmo-o
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice
+
+hakamo-o
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+kommo-o
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+pokédex update.
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+articuno
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song, Sound Punch
+
+zapdos
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Mach turn
+
+moltres
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+mewtwo
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon
+
+mew
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Sound Punch
+
+raikou
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+entei
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+suicune
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+lugia
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+ho-oh
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+celebi
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+regirock
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+regice
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+registeel
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Mach turn, Lula Blade, Clangor
+
+regigigas
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+latias
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+latios
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+kyogre
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+groudon
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+rayquaza
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song
+
+jirachi
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Sonic boom, Lula Blade
+
+deoxys attack
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+deoxys defense
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+deoxys speed
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+uxie
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+mesprit
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon
+
+azelf
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+dialga
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Sonic boom
+
+palkia
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+giratina origin
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+heatran
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Lula Blade, Clangor, Sonic boom
+
+cresselia
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+darkrai
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song, Hyper voice
+
+phione
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+manaphy
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice
+
+shaymin sky
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+arceus
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+victini
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice
+
+cobalion
+level up moves: Sound Punch, Skyquake
+ct / egg moves: Mach turn, Multi-attack, Ear Splitter
+
+terrakion
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+virizion
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+tornadus therian
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+thundurus therian
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+landorus therian
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song, Hyper voice
+
+reshiram
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+zekrom
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+kyurem
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+kyurem white
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Echoed Voice
+
+kyurem black
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+meloetta aria forme
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Boomburst
+
+meloetta step forme
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+genesect
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Mach turn
+
+xerneas
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+yveltal
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+diancie
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+hoopa confined
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+hoopa unbound
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+volcanion
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song
+
+type: null
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Sonic boom, Mach turn
+
+silvally
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Mach turn, Clangor, Lula Blade
+
+tapu koko
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+tapu lele
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+tapu bulu
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+tapu fini
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice
+
+cosmoem
+level up moves:
+ct / egg moves: Sonic Cannon, Hyper voice
+
+solgaleo
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Sonic boom
+
+lunala
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+necrozma
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song
+
+necrozma dusk mane
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon, Sound Punch
+
+necrozma dawn wings
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice, Torch Song
+
+nihilego
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+buzzwole
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+pheromosa
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+xurkitree
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+celesteela
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Lula Blade, Mach turn
+
+kartana
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+guzzlord
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+poipole
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+naganadel
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sound Punch
+
+stakataka
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+blacephalon
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+magearna
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Sonic boom, Metal sound
+
+marshadow
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+zeraora
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+grookey
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+thwackey
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+rillaboom
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+scorbunny
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+raboot
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+cinderace
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+sobble
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+drizzile
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+inteleon
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+skwovet
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Sound Punch
+
+greedent
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Hyper voice
+
+rookidee
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+corvisquire
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Echoed Voice
+
+corviknight
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Lula Blade, Sonic boom
+
+blipbug
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+dottler
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+orbeetle
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+nickit
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Sound Punch
+
+thievul
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+gossifleur
+level up moves: Grass Whistle
+ct / egg moves: Heal bell, Babble
+
+eldegoss
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice
+
+wooloo
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Echoed Voice
+
+dubwool
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Sound Punch
+
+chewtle
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+drednaw
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+yamper
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+boltund
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+rolycoly
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Sonic Cannon
+
+carkol
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+coalossal
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+flapple
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+appletun
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice, Echoed Voice
+
+silicobra
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch
+
+sandaconda
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+cramorant
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+arrokuda
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon
+
+barraskewda
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+toxel
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Lula Blade, Sonic boom
+
+toxtricity
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+sizzlipede
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+centiskorch
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Hyper voice
+
+clobbopus
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon
+
+grapploct
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+sinistea
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Echoed Voice
+
+polteageist
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+hatenna
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+hattrem
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song
+
+hatterene
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+impidimp
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice, Hyper voice
+
+morgrem
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+grimmsnarl
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+milcery
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+alcremie
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+falinks
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Sound Punch
+
+pincurchin
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+snom
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+frosmoth
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+stonjourner
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice
+
+indeedee male
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+indeedee female
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+cufant
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+copperajah
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+dracozolt
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+arctozolt
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Sound Punch
+
+dracovish
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Torch Song
+
+arctovish
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+duraludon
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Sonic boom
+
+dreepy
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+drakloak
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+dragapult
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+meowth galar
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Sonic boom, Mach turn
+
+perrserker
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Mach turn, Sonic boom, Clangor
+
+ponyta galar
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+rapidash galar
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+weezing galar
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+mr mime galar
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+mr. rime
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+corsola galar
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+cursola
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song, Sound Punch
+
+zigzagoon galar
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+linoone galar
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+obstagoon
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+darumaka galar
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+darmanitan zen mode galar
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+yamask galar
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+runerigus
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Sound Punch, Sonic Cannon
+
+stunfisk galar
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Mach turn
+
+slowpoke galar
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+slowbro galar
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice, Echoed Voice
+
+slowking galar
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+zacian hero of many battles forme
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+zacian crowned sword forme
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+zamazenta hero of many battles forme
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+zamazenta crowned shield forme
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+eternatus
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+meltan
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sound Punch
+
+melmetal
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Sonic boom, Mach turn, Clangor
+
+kubfu
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice
+
+zarude
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+articuno galar
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+zapdos galar
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+moltres galar
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Sound Punch
+
+regieleki
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+regidrago
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+glastrier
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon
+
+spectrier
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+calyrex
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Hyper voice
+
+calyrex ice rider
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+calyrex shadow rider
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+sprigatito
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+floragato
+level up moves: Heal bell, Grass Whistle
+ct / egg moves: Snore, Judgment, Babble
+
+meowscarada
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+fuecoco
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+crocalor
+level up moves: Sound Punch, Ear Splitter
+ct / egg moves: Danse Beat, Mach turn
+
+skeledirge
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice
+
+quaxly
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+quaxwell
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+quaquaval
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+lechonk
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice
+
+tarountula
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+spidops
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+nymble
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+lokix
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+rellor
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+rabsca
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+greavard
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+houndstone
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+flittle
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+espathra
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+farigiraf
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+dondozo
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+finizen
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+palafin (hero form)
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sound Punch
+
+dolliv
+level up moves:
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+arboliva
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+tadbulb
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+bellibolt
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+varoom
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Clangor, Lula Blade
+
+revavroom
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Lula Blade, Sonic boom
+
+orthworm
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Clangor, Mach turn, Lula Blade
+
+tandemaus
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+cetoddle
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Sonic Cannon
+
+cetitan
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sound Punch
+
+frigibax
+level up moves:
+ct / egg moves: Hyper voice
+
+baxcalibur
+level up moves:
+ct / egg moves: Torch Song
+
+cyclizar
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice, Sound Punch
+
+pawmi
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+pawmo
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+pawmot
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+wattrel
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song
+
+kilowattrel
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice, Sound Punch
+
+bombirdier
+level up moves: Aerial Call
+ct / egg moves: Echoed Voice, Wild Chorus, Jet Strike
+
+nacli
+level up moves:
+ct / egg moves: Hyper voice
+
+glimmet
+level up moves:
+ct / egg moves: Torch Song, Sound Punch
+
+glimmora
+level up moves:
+ct / egg moves: Sound Punch
+
+shroodle
+level up moves:
+ct / egg moves: Sound Punch, Echoed Voice
+
+fidough
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Echoed Voice
+
+dachsbun
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sound Punch, Hyper voice, Sonic Cannon
+
+maschiff
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+mabosstiff
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+gholdengo
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Lula Blade, Sonic boom
+
+great tusk
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+sandy shocks
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Clangor, Lula Blade
+
+scream tail
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice, Hyper voice
+
+flutter mane
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+slither wing
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+roaring moon
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+iron treads
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Mach turn, Lula Blade, Clangor
+
+iron moth
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Lula Blade, Mach turn
+
+iron jugulis
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Clangor
+
+iron thorns
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+iron valiant
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+ting lu
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Hyper voice
+
+chien pao
+level up moves: Sound Punch, Multi-attack
+ct / egg moves: Skyquake, Ear Splitter
+
+wo chien
+level up moves: Sound Punch, Multi-attack
+ct / egg moves: Skyquake, Ear Splitter
+
+chi yu
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+koraidon
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Sound Punch
+
+miraidon
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Mach turn, Lula Blade, Sonic boom
+
+tinkatink
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Clangor, Sonic boom
+
+tinkatuff
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Mach turn
+
+tinkaton
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Mach turn
+
+charcadet
+level up moves:
+ct / egg moves: Sonic Cannon
+
+toedscool
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+toedscruel
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice
+
+kingambit
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Sonic boom, Clangor
+
+annihilape
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+paldean tauros
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+walking wake
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sound Punch
+
+iron leaves
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Mach turn, Sonic boom
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Mach turn, Sonic boom
+
+gouging fire
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Hyper voice
+
+raging bolt
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sound Punch
+
+iron crown
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Mach turn, Clangor, Lula Blade
+
+hydrapple
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+poltchageist
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+sinistcha
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Sound Punch
+
+okidogi
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+munkidori
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Hyper voice
+
+fezandipiti
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+ursaluna (bloodmoon)
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+archaludon
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Lula Blade
+
+terapagos
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+bulbasaur delta form
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Sonic Cannon
+
+ivysaur delta form
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+venusaur delta form
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+charmander delta form
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+charmeleon delta form
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+charizard delta form
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+squirtle delta form
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice
+
+wartortle delta form
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+blastoise delta form
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+pawniard delta form
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Lula Blade, Clangor
+
+bisharp delta form
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Lula Blade, Mach turn
+
+ralts delta form
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+kirlia delta form
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+gardevoir delta form
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+gallade delta form
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+sunkern delta form
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Hyper voice
+
+sunflora delta form
+level up moves: Heal bell, Grass Whistle
+ct / egg moves: Snore, Judgment
+
+bergmite delta form
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice
+
+avalugg delta form
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+scyther delta form
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+scizor delta form
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+scraggy delta form
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+scrafty delta form
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sound Punch, Torch Song
+
+combee delta form
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+vespiquen delta form
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+koffing delta form
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+weezing delta form
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+purrloin delta form
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+liepard delta form
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice
+
+phantump delta form
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+trevenant delta form
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+snorunt delta form
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+glalie delta form
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice, Sonic Cannon
+
+froslass delta form
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+shinx delta form
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice, Sound Punch
+
+luxio delta form
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice
+
+luxray delta form
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Sonic Cannon
+
+noibat delta form
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+noivern delta form
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+budew delta form
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+roselia delta form
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+roserade delta form
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice, Torch Song
+
+drifloon delta form
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+drifblim delta form
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+grimer delta form
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+muk delta form
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+wooper delta form
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+quagsire delta form
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+munchlax delta form
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+snorlax delta form
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+misdreavus delta form
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+mismagius delta form
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+cyndaquil delta form
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+quilava delta form
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+typhlosion delta form
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+grovyle delta form
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+sceptile delta form
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song, Sound Punch
+
+torchic delta form
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice
+
+combusken delta form
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice
+
+blaziken delta form
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+turtwig delta form
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+grotle delta form
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+torterra delta form
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+snivy delta form
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice, Torch Song
+
+servine delta form
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+serperior delta form
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+froakie delta form
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+frogadier delta form
+level up moves: Royal Croak, Babble
+ct / egg moves: Judgment, Snore, Wild Shriek
+
+greninja delta form
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+pidgey delta form
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+pidgeotto delta form
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+pidgeot delta form
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+diglett delta form
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+dugtrio delta form
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+growlithe delta form
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+arcanine delta form
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+geodude delta form
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Echoed Voice
+
+graveler delta form
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+golem delta form
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice, Sonic Cannon
+
+tentacool delta form
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+tentacruel delta form
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+doduo delta form
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+dodrio delta form
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song
+
+tangela delta form
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+tangrowth delta form
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+kabuto delta form
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Clangor, Mach turn
+
+kabutops delta form
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Clangor
+
+dratini delta form
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+dragonair delta form
+level up moves: Ear Splitter
+ct / egg moves: Mach turn, Skyquake
+
+dragonite delta form
+level up moves: Ear Splitter, Skyquake
+ct / egg moves: Mach turn, Lula Blade
+
+hoothoot delta form
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Sound Punch
+
+noctowl delta form
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+chinchou delta form
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Echoed Voice
+
+lanturn delta form
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+pichu delta form
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+pikachu delta form
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Sound Punch
+
+raichu delta form
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song, Echoed Voice
+
+aipom delta form
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+ambipom delta form
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+yanma delta form
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice, Sound Punch
+
+yanmega delta form
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Echoed Voice
+
+girafarig delta form
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+dunsparce delta form
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+shuckle delta form
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+remoraid delta form
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+octillery delta form
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Echoed Voice, Sonic Cannon
+
+elekid delta form
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Sonic boom, Clangor
+
+electabuzz delta form
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Sonic boom, Clangor
+
+electivire delta form
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Sonic boom, Lula Blade, Mach turn
+
+magby delta form
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sound Punch
+
+magmar delta form
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Sound Punch
+
+magmortar delta form
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+lotad delta form
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+lombre delta form
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+ludicolo delta form
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+seedot delta form
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice
+
+nuzleaf delta form
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+shiftry delta form
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+sableye delta form
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+mawile delta form
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+aron delta form
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Clangor
+
+lairon delta form
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Mach turn, Sonic boom
+
+aggron delta form
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Lula Blade
+
+meditite delta form
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+medicham delta form
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice, Sound Punch
+
+numel delta form
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+camerupt delta form
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+plusle delta form
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+minun delta form
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song
+
+wailmer delta form
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+wailord delta form
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+feebas delta form
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+milotic delta form
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+clamperl delta form
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Sound Punch, Echoed Voice
+
+huntail delta form
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+gorebyss delta form
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+beldum delta (spider) form
+level up moves:
+ct / egg moves: Torch Song
+
+metang delta (spider) form
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Sound Punch
+
+metagross delta (spider) form
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+beldum delta (ruin) form
+level up moves:
+ct / egg moves: Echoed Voice
+
+metang delta (ruin) form
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+metagross delta (ruin) form
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sound Punch, Sonic Cannon
+
+buneary delta form
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+lopunny delta form
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+riolu delta form
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+lucario delta form
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Sonic boom, Mach turn
+
+croagunk delta form
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice
+
+toxicroak delta form
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+venipede delta form
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+whirlipede delta form
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+scolipede delta form
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+petilil delta (water) form
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+lilligant delta (water) form
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+petilil delta (fairy) form
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+lilligant delta (fairy) form
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+solosis delta form
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+duosion delta form
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song, Sound Punch
+
+reuniclus delta form
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+darumaka delta form
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+maractus delta form
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+dwebble delta (berry) form
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon, Sound Punch
+
+crustle delta (berry) form
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+dwebble delta (cake) form
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+crustle delta (cake) form
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+yamask delta form
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+cofagrigus delta form
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+emolga delta form
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+karrablast delta form
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+escavalier delta form
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+foongus delta form
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Echoed Voice, Sonic Cannon
+
+litwick delta form
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+chandelure delta form
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon
+
+axew delta form
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+fraxure delta form
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+haxorus delta form
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sound Punch
+
+golett delta form
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+golurk delta form
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Echoed Voice
+
+heatmor delta form
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+deino delta form
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+zweilous delta form
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+hydreigon delta form
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+larvesta delta form
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+volcarona delta form
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+amaura delta form
+level up moves: Relic song
+ct / egg moves: Echo Blast, Synchronoise, Bang Dream
+
+aurorus delta form
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+goomy delta form
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+sliggoo delta form
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+goodra delta form
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+regirock delta form
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sound Punch
+
+regice delta form
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+registeel delta form
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Mach turn, Clangor
+
+meloetta delta mime form
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+meloetta delta magician form
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+hoopa delta confined form
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+hoopa delta umbound form
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+full round.
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+attack lowered by -1 combat stage.
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+end.
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+decidueye hisuian
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+typhlosion hisuian
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+samurott hisuian
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+growlithe hisuian
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+arcanine hisuian
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+voltorb hisuian
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+electrode hisuian
+level up moves: Sonic Cannon, Power Chord
+ct / egg moves: Sonic boom, Thunderclap
+
+qwilfish hisuian
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song, Sound Punch
+
+sneasel hisuian
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+sneasler
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+lilligant hisuian
+level up moves:
+ct / egg moves: Torch Song, Echoed Voice
+
+zorua hisuian
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+zoroark hisuian
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+braviary hisuian
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+sliggoo hisuian
+level up moves:
+ct / egg moves: Torch Song, Sonic Cannon
+
+wyrdeer
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+kleavor
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+ursaluna
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+dialga origin forme
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Clangor, Lula Blade
+
+palkia origin forme
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Torch Song
+
+enamorus therian
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Hyper voice
+
+venusaur mega y
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+venusaur mega x
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+charizard mega x
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice, Sound Punch
+
+charizard mega y
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice, Torch Song
+
+charizard mega z
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sound Punch, Sonic Cannon
+
+blastoise mega y
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+blastoise mega x
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Hyper voice
+
+butterfree mega
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+beedrill mega
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+weedle redux
+level up moves:
+ct / egg moves: Hyper voice, Sonic Cannon
+
+beedrill redux
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice
+
+beedrill mega redux
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Sound Punch
+
+pidgeot mega
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+arbok mega
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+sandslash mega
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sound Punch, Sonic Cannon
+
+nidoqueen mega
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+nidoking mega
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+wigglytuff mega y
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Torch Song
+
+wigglytuff mega x
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+wigglytuff apex
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+wigglytuff primal
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+crobat mega
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sound Punch
+
+meowth partner
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+meowth mega
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+psyduck redux
+level up moves: Relic song
+ct / egg moves: Whisper, Echo Blast
+
+growlithe redux
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+arcanine redux
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice
+
+arcanine mega
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+alakazam mega
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+abra redux
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+kadabra redux
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+alakazam redux
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Sound Punch
+
+alakazam mega redux
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+machamp mega
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song, Hyper voice
+
+machop redux
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+machoke redux
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+machamp redux
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+machamp mega redux
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+rapidash mega
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+rapidash mega galarian
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Disarming Voice
+
+slowbro mega
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+slowking mega
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+magnezone mega
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Lula Blade, Clangor
+
+doduo redux
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+dodrio redux
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Sound Punch
+
+dewgong mega
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice
+
+seel redux
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+dewgong redux
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+gengar mega y
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+gengar mega x
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+steelix mega
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+kingler mega
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+kangaskhan mega
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice, Hyper voice
+
+kingdra mega x
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice, Sonic Cannon
+
+kingdra mega y
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+pinsir mega
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+tauros paldean blaze breed
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+tauros paldean aqua breed
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+gyarados mega x
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+gyarados mega y
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sound Punch, Echoed Voice
+
+lapras mega y
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon
+
+lapras mega x
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice, Hyper voice
+
+espeon primal
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+eevee partner
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+eevee mega
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+aerodactyl mega
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+dragonite mega
+level up moves:
+ct / egg moves: Mach turn, Ear Splitter
+
+dragonite delivery
+level up moves: Skyquake
+ct / egg moves: Mach turn, Ear Splitter, Lula Blade
+
+mewtwo mega x
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+mewtwo mega y
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+typhlosion mega
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+typhlosion hisuian mega
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song
+
+feraligatr mega x
+level up moves:
+ct / egg moves: Torch Song, Sound Punch
+
+feraligatr mega y
+level up moves:
+ct / egg moves: Hyper voice, Torch Song
+
+lanturn mega
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+pikachu partner
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+pikachu mega
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+pikachu kanto
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+pikachu hoenn
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon
+
+pikachu sinnoh
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+pikachu unova
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Echoed Voice, Sonic Cannon
+
+pikachu kalos
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice
+
+pikachu alola
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+pikachu world
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+pikachu cosplay
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+pikachu rock star
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+pikachu belle
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+pikachu pop star
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Echoed Voice
+
+pikachu ph d
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+pikachu libre
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song
+
+pikachu partner cap
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+pichu spiky
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+cleffa redux
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+clefairy redux
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Sonic Cannon
+
+clefable redux
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Echoed Voice, Sonic Cannon
+
+clefable mega
+level up moves:
+ct / egg moves: Sound Punch
+
+ampharos mega
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+quagsire mega
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+gligar redux
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+gliscor redux
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+granbull mega
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+shuckle mega
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice, Sound Punch
+
+heracross mega
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+weavile redux
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+weavile mega
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+ursaluna mega
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+ursaluna bloodmoon
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+slugma redux
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+magcargo redux
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Echoed Voice
+
+skarmory redux
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Sonic boom
+
+houndoom mega
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sound Punch
+
+houndour redux
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+houndoom redux
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+houndoom mega redux
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+hitmonchan mega
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+hitmonlee mega
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice, Sound Punch
+
+hitmontop mega
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+tyranitar mega
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sound Punch, Echoed Voice
+
+larvitar redux
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice
+
+pupitar redux
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+tyranitar redux
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+tyranitar mega redux
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+sceptile mega
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+blaziken mega
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sound Punch
+
+swampert mega
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+cascoon primal
+level up moves:
+ct / egg moves: Sonic Cannon, Hyper voice
+
+gardevoir mega
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Echoed Voice
+
+gallade mega
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon
+
+breloom mega
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+slaking mega
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+slaking mega ape shift
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Hyper voice
+
+shedinja mega
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+whismur redux
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Hyper voice
+
+loudred redux
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+exploud redux
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+sableye mega
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+sableye redux
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+sableye mega redux
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Sound Punch
+
+mawile mega
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Sound Punch
+
+mawile redux
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+mawile mega redux
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+mawile redux b
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+mawile redux b mega
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+aggron mega
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Mach turn
+
+medicham mega
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Sound Punch
+
+manectric mega
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Hyper voice
+
+roserade mega
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+swalot mega
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+sharpedo mega
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+camerupt mega
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice
+
+flygon redux b
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+flygon mega
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+trapinch redux
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+vibrava redux
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Hyper voice
+
+flygon redux
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+flygon redux mega
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+altaria mega
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Echoed Voice, Wild Chorus
+
+solrock system
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Hyper voice
+
+milotic mega
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+castform sandy
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+castform sunny
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+castform rainy
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song, Sound Punch
+
+castform snowy
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+castform foggy
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+banette mega
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+absol mega
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+glalie mega
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Sonic Cannon
+
+froslass mega
+level up moves:
+ct / egg moves: Sound Punch
+
+snorunt redux
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+glalie redux
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+froslass redux
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+glalie redux mega
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+froslass redux mega
+level up moves:
+ct / egg moves: Hyper voice, Echoed Voice
+
+relicanth mega
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Echoed Voice
+
+salamence mega
+level up moves: Sound Punch, Jet Strike
+ct / egg moves: Lula Blade, Double Clap
+
+metagross mega
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Torch Song
+
+latias mega
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+latios mega
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+kyogre primal
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+groudon primal
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sound Punch, Hyper voice
+
+rayquaza mega
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+torterra mega
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+turtwig redux
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+grotle redux
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+torterra redux
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+torterra redux mega
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+infernape mega
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+infernape redux b
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+chimchar redux
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+monferno redux
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+infernape redux
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+infernape redux mega
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+empoleon mega
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+piplup redux
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+prinplup redux
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+empoleon redux
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice
+
+empoleon redux mega
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon
+
+luxray mega
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+buizel redux
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+floatzel redux
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+cherrim sunshine
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+shellos east
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Hyper voice
+
+gastrodon east
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+lopunny mega
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+happiny redux
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+chansey redux
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+blissey redux
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+spiritomb redux
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+garchomp mega
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+gible redux
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+gabite redux
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+garchomp redux
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+garchomp mega redux
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice
+
+snorlax mega
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+snorlax primal
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+lucario mega x
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Sonic boom
+
+lucario mega y
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Clangor, Mach turn
+
+abomasnow mega
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+rotom heat
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+rotom wash
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+rotom frost
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+rotom fan
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice, Hyper voice
+
+rotom mow
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+uxie redux
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Hyper voice
+
+mesprit redux
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice, Whisper
+
+azelf redux
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice
+
+dialga origin
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+palkia origin
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+darkrai nightmare
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Torch Song, Echoed Voice
+
+victini primal
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+serperior mega
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice, Sound Punch
+
+emboar mega
+level up moves:
+ct / egg moves: Torch Song, Sonic Cannon
+
+samurott mega
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch, Hyper voice
+
+pansage redux
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+simisage redux
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Torch Song, Echoed Voice
+
+pansear redux
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+simisear redux
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+panpour redux
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+simipour redux
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+roggenrola
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+audino mega
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+krookodile mega
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+darumaka redux
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+cofagrigus
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+garbodor mega
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+solosis redux
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+duosion redux
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+reuniclus redux
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song, Hyper voice
+
+reuniclus mega
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+deerling summer
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon
+
+sawsbuck summer
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+deerling autumn
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+sawsbuck autumn
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+deerling winter
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song
+
+sawsbuck winter
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch, Hyper voice
+
+haxorus mega
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+mienshao mega
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+pawniard redux
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Lula Blade
+
+bisharp redux
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Sonic boom, Lula Blade, Clangor
+
+kingambit redux
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Lula Blade
+
+kingambit mega
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Mach turn, Sonic boom
+
+deino redux
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+zweilous redux
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice
+
+hydreigon redux
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice, Sonic Cannon
+
+hydreigon mega
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+keldeo resolute
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Sound Punch
+
+meloetta
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+meloetta pirouette
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice
+
+genesect douse drive
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Mach turn
+
+genesect shock drive
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Clangor, Lula Blade, Sonic boom
+
+genesect burn drive
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Mach turn, Sonic boom, Clangor
+
+genesect chill drive
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Sonic boom, Lula Blade, Mach turn
+
+chesnaught battle bond
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+delphox battle bond
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sound Punch, Torch Song
+
+greninja battle bond
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+greninja-ash
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+vivillon polar
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+vivillon tundra
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+vivillon continental
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song, Sound Punch
+
+vivillon gardens
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Sound Punch
+
+vivillon elegant
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+vivillon meadow
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+vivillon modern
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Echoed Voice
+
+vivillon marine
+level up moves: Sparkling Aria
+ct / egg moves: Babble, Snore, Judgment
+
+vivillon archipelago
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Sound Punch
+
+vivillon high plains
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Sound Punch
+
+vivillon sandstorm
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice
+
+vivillon river
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+vivillon monsoon
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+vivillon savanna
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+vivillon sun
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+vivillon ocean
+level up moves: Sparkling Aria
+ct / egg moves: Snore, Judgment, Babble
+
+vivillon jungle
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+vivillon fancy
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+vivillon pokéball
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+floette eternal flower
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+flabebe yellow
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice
+
+floette yellow
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Sound Punch
+
+florges yellow
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+flabebe orange
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+floette orange
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+florges orange
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Echoed Voice
+
+flabebe blue
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+floette blue
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+florges blue
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sonic Cannon
+
+flabebe white
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+floette white
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+florges white
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+furfrou heart
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+furfrou star
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+furfrou diamond
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice
+
+furfrou debutante
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch, Torch Song
+
+furfrou matron
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice
+
+furfrou dandy
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Hyper voice
+
+furfrou la reine
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+furfrou kabuki
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+furfrou pharaoh
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Echoed Voice
+
+aegislash blade
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Mach turn, Sonic boom
+
+honedge redux
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Sonic boom, Mach turn
+
+doublade redux
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Sonic boom, Lula Blade
+
+aegislash blade redux
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Mach turn, Sonic boom
+
+aegislash blade redux mega
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Mach turn, Sonic boom, Clangor
+
+pumpkaboo small
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice
+
+gourgeist small
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+pumpkaboo large
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+gourgeist large
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+pumpkaboo super
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice
+
+gourgeist super
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sound Punch
+
+noibat redux
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice, Hyper voice
+
+noivern redux
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+xerneas active
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+yveltal mega
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon
+
+diancie mega
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+hoopa
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+decidueye mega
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+decidueye hisuian mega
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+incineroar mega
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+primarina mega
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+toucannon mega
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Hyper voice
+
+crabrawler redux
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Torch Song
+
+crabominable redux
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+oricorio pom pom
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+oricorio pau
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Hyper voice
+
+oricorio sensu
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Echoed Voice
+
+ribombee redux
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice
+
+ribombee mega
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+rockruff own tempo
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+dewpider redux
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+araquanid redux
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+bewear angry
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+stufful redux
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+bewear redux
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+bounsweet redux
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+steenee redux
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+tsareena redux
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Hyper voice
+
+tsareena mega
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+silvally fighting
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Clangor, Lula Blade
+
+silvally flying
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Clangor, Sonic boom
+
+silvally poison
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Mach turn, Sonic boom
+
+silvally ground
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Lula Blade
+
+silvally rock
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Clangor, Mach turn
+
+silvally bug
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Mach turn, Lula Blade
+
+silvally ghost
+level up moves: Sonic Cannon, Banshee Howl
+ct / egg moves: Lula Blade, Bang Dream, Clangor
+
+silvally steel
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Clangor, Mach turn
+
+silvally fire
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Mach turn
+
+silvally water
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Sonic boom, Mach turn, Clangor
+
+silvally grass
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Clangor
+
+silvally electric
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Sound Barrier, Thunderclap
+
+silvally psychic
+level up moves: Sonic Cannon, Relic song
+ct / egg moves: Whisper, Echo Blast, Synchronoise
+
+silvally ice
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Clangor, Mach turn, Sonic boom
+
+silvally dragon
+level up moves: Mach turn, Lula Blade
+ct / egg moves: Skyquake, Ear Splitter
+
+silvally dark
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Sonic boom, Mach turn
+
+silvally fairy
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Sonic boom, Lula Blade, Clangor
+
+minior orange
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon, Sound Punch
+
+minior yellow
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+minior green
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+minior blue
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Sound Punch
+
+minior indigo
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Echoed Voice
+
+minior violet
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Torch Song
+
+mimikyu busted
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+kartana fallen
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Sonic Cannon
+
+necrozma ultra
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Echoed Voice, Torch Song, Hyper voice
+
+magearna original
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+melmetal mega
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Lula Blade, Clangor, Mach turn
+
+rillaboom mega
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+cinderace mega
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch
+
+inteleon mega
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+corviknight mega
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Mach turn
+
+orbeetle mega
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+drednaw mega
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch
+
+coalossal mega
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+sandaconda mega
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice
+
+cramorant gulping
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Torch Song
+
+cramorant gorging
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+toxtricity mega
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+toxtricity low key
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+toxel redux
+level up moves: Sonic Cannon
+ct / egg moves: Sonic boom, Clangor, Lula Blade
+
+toxtricity redux
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon
+
+toxtricity redux mega
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice
+
+toxtricity redux fuzz
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+toxtricity redux fuzz mega
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+centiskorch mega
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+sinistea antique
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Torch Song, Echoed Voice
+
+polteageist antique
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Echoed Voice
+
+hatterene mega
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+grimmsnarl mega
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Hyper voice, Sonic Cannon
+
+alcremie mega
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice
+
+alcremie ruby
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Sound Punch
+
+alcremie matcha
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sound Punch, Sonic Cannon
+
+alcremie mint
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch
+
+alcremie lemon
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon, Sound Punch
+
+alcremie salted
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+alcremie ruby swirl
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Hyper voice
+
+alcremie caramel
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Hyper voice
+
+alcremie rainbow
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song
+
+morpeko hangry
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+copperajah mega
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon
+
+dracovish mega
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Echoed Voice
+
+duraludon partner
+level up moves: Sonic Cannon, Sonic boom
+ct / egg moves: Lula Blade, Clangor
+
+duraludon mega
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Clangor
+
+zacian
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Echoed Voice
+
+zacian crowned
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+zamazenta
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Hyper voice
+
+zamazenta crowned
+level up moves: Torch Song
+ct / egg moves: Sonic Cannon, Hyper voice
+
+eternatus primal
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Echoed Voice, Torch Song
+
+zarude dada
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice
+
+spectrier cloud
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+calyrex cloud rider
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+meowscarada mega
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+skeledirge mega
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Hyper voice, Sound Punch
+
+quaquaval mega
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Echoed Voice
+
+fidough partner
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+fidough mega
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song, Sound Punch
+
+squawkabilly green plumage
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon, Whisper
+
+tinkaton mega
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Sonic boom, Clangor, Mach turn
+
+palafin hero
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch, Torch Song
+
+chien pao mega
+level up moves: Sound Punch
+ct / egg moves: Skyquake, Ear Splitter, Multi-attack
+
+terapagos primal
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch
+
+phantowl
+level up moves:
+ct / egg moves: Echoed Voice, Torch Song
+
+beefender
+level up moves:
+ct / egg moves: Hyper voice
+
+cormoth
+level up moves:
+ct / egg moves: Hyper voice, Echoed Voice
+
+cormoth mega
+level up moves:
+ct / egg moves: Hyper voice, Echoed Voice
+
+marbeep
+level up moves:
+ct / egg moves: Echoed Voice
+
+fluffbee
+level up moves:
+ct / egg moves: Hyper voice
+
+amphybuzz
+level up moves:
+ct / egg moves: Torch Song, Echoed Voice
+
+amphybuzz mega
+level up moves:
+ct / egg moves: Torch Song
+
+hydroar
+level up moves:
+ct / egg moves: Echoed Voice, Torch Song
+
+hydroar f
+level up moves:
+ct / egg moves: Echoed Voice
+
+scizor mega
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Hyper voice, Sound Punch
+
+goodra mega
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+slowbro mega galarian
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Hyper voice
+
+slowking mega galarian
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Torch Song
+
+dedelibird
+level up moves:
+ct / egg moves: Echoed Voice
+
+raichu mega y
+level up moves:
+ct / egg moves: Sound Punch
+
+pyroar mega
+level up moves:
+ct / egg moves: Hyper voice
+
+delphox mega
+level up moves:
+ct / egg moves: Sound Punch, Torch Song
+
+greninja mega
+level up moves:
+ct / egg moves: Echoed Voice
+
+eelektross mega
+level up moves:
+ct / egg moves: Sonic Cannon, Hyper voice
+
+hawlucha mega
+level up moves:
+ct / egg moves: Torch Song
+
+clefable mega y
+level up moves:
+ct / egg moves: Hyper voice, Sonic Cannon
+
+dragonite mega y
+level up moves:
+ct / egg moves: Mach turn
+
+froslass mega y
+level up moves:
+ct / egg moves: Hyper voice
+
+froslass mega x
+level up moves:
+ct / egg moves: Sonic Cannon
+
+lucario mega z
+level up moves: Sonic Cannon
+ct / egg moves: Mach turn, Lula Blade
+
+samurott hisuian mega
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+gothitelle mega
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Torch Song, Echoed Voice
+
+arcanine hisuian mega
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+zapdos mega
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Clangor, Sonic boom
+
+articuno mega
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+moltres mega
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+zapdos ex
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Sonic boom, Mach turn, Lula Blade
+
+articuno ex
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+moltres ex
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Torch Song
+
+minccino redux
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sound Punch, Torch Song
+
+cinccino redux
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Echoed Voice, Sonic Cannon
+
+sinistea redux
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Torch Song
+
+polteageist redux
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Torch Song, Hyper voice, Sound Punch
+
+cetoddle redux
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+cetitan redux
+level up moves: Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch
+
+talonflame mega
+level up moves: Sound Punch
+ct / egg moves: Drum beating, Tap Dance, Wild Dance
+
+grotom drum
+level up moves:
+ct / egg moves: Hyper voice
+
+dragapult mega
+level up moves: Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon, Hyper voice
+
+sandslash alolan mega
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Torch Song
+
+kleavor mega
+level up moves: Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+scyther mega
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+vanilluxe mega
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice
+
+rattata redux
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon, Echoed Voice
+
+raticate redux
+level up moves: Sonic Cannon, Echoed Voice
+ct / egg moves: Sound Punch, Torch Song, Hyper voice
+
+vanillite redux
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice
+
+vanillish redux
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sound Punch, Hyper voice
+
+vanilluxe redux
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Torch Song, Sonic Cannon
+
+vanilluxe redux mega
+level up moves: Torch Song
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+litwick redux
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice, Sonic Cannon
+
+lampent redux
+level up moves: Hyper voice, Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+chandelure redux
+level up moves: Sonic Cannon, Torch Song
+ct / egg moves: Sound Punch, Echoed Voice
+
+drilbur redux
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Sonic boom, Clangor, Lula Blade
+
+excadrill redux
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Lula Blade, Sonic boom
+
+swinub redux
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+piloswine redux
+level up moves: Torch Song, Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice
+
+mamoswine redux
+level up moves: Echoed Voice, Torch Song
+ct / egg moves: Sound Punch, Hyper voice, Sonic Cannon
+
+mamoswine mega
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+larvesta redux
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Hyper voice, Echoed Voice, Sonic Cannon
+
+volcarona redux
+level up moves: Torch Song, Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Echoed Voice
+
+klefki redux
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Sonic boom, Mach turn
+
+bellsprout redux
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+weepinbell redux
+level up moves: Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+victreebel redux
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+sawk redux
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Echoed Voice
+
+throh redux
+level up moves: Echoed Voice, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+sneasler mega
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Hyper voice, Sonic Cannon, Echoed Voice
+
+hariyama mega
+level up moves: Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sound Punch
+
+swablu redux
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Sound Punch, Echoed Voice
+
+altaria redux
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Echo Blast, Disarming Voice
+
+altaria redux mega
+level up moves: Echoed Voice, Hyper voice
+ct / egg moves: Torch Song, Boomburst, Wild Chorus
+
+exeggcute redux
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Torch Song, Sound Punch
+
+exeggutor redux
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+scizor redux
+level up moves: Sound Punch, Sonic Cannon
+ct / egg moves: Echoed Voice, Hyper voice, Torch Song
+
+flygon redux b mega
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Torch Song, Sound Punch, Sonic Cannon
+
+ribombee redux mega
+level up moves: Sound Punch, Torch Song
+ct / egg moves: Echoed Voice, Hyper voice, Sonic Cannon
+
+weavile redux mega
+level up moves: Hyper voice, Echoed Voice
+ct / egg moves: Sound Punch, Torch Song
+
+abomasnow santa
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Sound Punch
+
+tinkatink redux
+level up moves: Sonic Cannon, Mach turn
+ct / egg moves: Clangor, Lula Blade, Sonic boom
+
+tinkatuff redux
+level up moves: Sonic Cannon, Lula Blade
+ct / egg moves: Sonic boom, Mach turn, Clangor
+
+tinkaton redux
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Clangor
+
+tinkaton redux mega
+level up moves: Sonic Cannon
+ct / egg moves: Clangor, Sonic boom, Mach turn
+
+scyther redux
+level up moves: Hyper voice
+ct / egg moves: Sound Punch, Sonic Cannon, Echoed Voice
+
+scyther redux mega
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sound Punch
+
+scizor redux mega
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch, Sonic Cannon
+
+kleavor redux
+level up moves: Sonic Cannon, Hyper voice
+ct / egg moves: Echoed Voice, Torch Song, Sound Punch
+
+kleavor redux mega
+level up moves: Torch Song
+ct / egg moves: Sound Punch, Echoed Voice, Hyper voice
+
+krabby redux
+level up moves: Sound Punch
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+kingler redux
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+kingler redux mega
+level up moves: Sound Punch
+ct / egg moves: Echoed Voice, Sonic Cannon
+
+shinx redux
+level up moves: Hyper voice
+ct / egg moves: Torch Song, Sound Punch, Sonic Cannon
+
+luxio redux
+level up moves: Sonic Cannon, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice, Hyper voice
+
+luxray redux
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+luxray redux mega
+level up moves: Echoed Voice
+ct / egg moves: Torch Song, Sonic Cannon
+
+aron redux
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Lula Blade, Sonic boom
+
+lairon redux
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Sonic boom, Mach turn, Lula Blade
+
+aggron redux
+level up moves: Sonic Cannon
+ct / egg moves: Lula Blade, Clangor, Mach turn
+
+aggron redux mega
+level up moves: Sonic Cannon, Clangor
+ct / egg moves: Sonic boom, Mach turn, Lula Blade
+
+makuhita redux
+level up moves: Hyper voice, Torch Song
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+hariyama redux
+level up moves: Sound Punch, Echoed Voice
+ct / egg moves: Hyper voice, Torch Song, Sonic Cannon
+
+ralts redux
+level up moves: Sonic Cannon
+ct / egg moves: Sound Punch, Hyper voice, Torch Song
+
+kirlia redux
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Hyper voice, Echoed Voice
+
+gardevoir redux
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Echoed Voice, Sound Punch, Sonic Cannon
+
+gallade redux
+level up moves: Echoed Voice, Sonic Cannon
+ct / egg moves: Hyper voice, Sound Punch, Torch Song
+
+gardevoir redux mega
+level up moves: Sonic Cannon
+ct / egg moves: Torch Song, Sound Punch
+
+gallade redux mega
+level up moves: Hyper voice, Sound Punch
+ct / egg moves: Torch Song, Echoed Voice
+
+munchlax redux
+level up moves: Sound Punch, Hyper voice
+ct / egg moves: Sonic Cannon, Torch Song
+
+snorlax redux
+level up moves: Torch Song
+ct / egg moves: Hyper voice, Sound Punch, Echoed Voice
+
+snorlax redux mega
+level up moves: Echoed Voice
+ct / egg moves: Sound Punch, Sonic Cannon, Torch Song
+
+raichu mega x
+level up moves:
+ct / egg moves: Hyper voice, Sound Punch
+
+chimecho mega
+level up moves: Sonic Cannon
+ct / egg moves: Echoed Voice, Torch Song, Hyper voice
+
+absol mega z
+level up moves: Torch Song, Hyper voice
+ct / egg moves: Sound Punch, Echoed Voice
+
+garchomp mega z
+level up moves: Echoed Voice
+ct / egg moves: Sonic Cannon, Hyper voice, Torch Song
+
+darkrai mega
+level up moves:
+ct / egg moves: Sound Punch
+
+magearna mega
+level up moves:
+ct / egg moves: Sonic Cannon, Echoed Voice
+
+zeraora mega
+level up moves:
+ct / egg moves: Sonic Cannon
+
+glimmora mega
+level up moves:
+ct / egg moves: Hyper voice, Torch Song
+
+baxcalibur mega
+level up moves:
+ct / egg moves: Hyper voice, Torch Song
+
+spearow redux
+level up moves: Torch Song, Sound Punch
+ct / egg moves: Hyper voice, Sonic Cannon
+
+fearow redux
+level up moves: Hyper voice
+ct / egg moves: Sonic Cannon, Echoed Voice
