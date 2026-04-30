@@ -2,21 +2,23 @@ import json
 import os,sys
 import math
 from parsers import to_serializable
-from pokemon_data import accepted_classes,accepted_ACs,accepted_freqs,accepted_types
+from pokemon_data import accepted_classes,accepted_ACs,accepted_freqs,accepted_types,Ability,FullMove,Pokemon
 
 
 with open("../data/reduxData_last.json", "r") as f:
     data = json.load(f)
 
 with open("../output/finals/abilities.json","r") as f:
-    final_abilities = json.load(f)
-
+    raw_final_abilities = json.load(f)
+final_abilities : list[Ability] = [Ability.model_validate_json(p) for p in raw_final_abilities]
 with open("../output/finals/moves.json","r") as f:
-    final_moves = json.load(f)
+    raw_final_moves = json.load(f)
+final_moves : list[FullMove] = [FullMove.model_validate_json(p) for p in raw_final_moves]
 new_pokemons = []
 redux_mons = []
 with open("../output/initials/pokemons.json","r") as f:
-    pokemons = json.load(f)
+    raw_pokemons = json.load(f)
+pokemons : list[Pokemon] = [Pokemon.model_validate_json(p) for p in raw_pokemons]
 for mon in data["species"]:
     if mon["name"] != "??????????":
         #   < ---- Name ---- >
@@ -44,25 +46,25 @@ for mon in data["species"]:
             inns_ids = mon["stats"]["inns"]
             #print(inns_ids)
             for id_i in inns_ids:
-                exist = list(filter(lambda x:"id" in x.keys() and x["id"] == int(id_i), final_abilities))
+                exist = list(filter(lambda x:x.id != -1 and x.id == int(id_i), final_abilities))
                 if len(exist) > 0:
                     if len(base_abilities) < 2:
-                        base_abilities.append(exist[0]["name"])
+                        base_abilities.append(exist[0].name)
                     elif len(adv_abilities) < 3:
-                        adv_abilities.append(exist[0]["name"])
+                        adv_abilities.append(exist[0].name)
                     else:
-                        high_abilities.append(exist[0]["name"])
+                        high_abilities.append(exist[0].name)
         if "abis" in mon["stats"].keys():
             inns_ids = mon["stats"]["abis"]
             for id_i in inns_ids:
-                exist = list(filter(lambda x:"id" in x.keys() and x["id"] == int(id_i), final_abilities))
+                exist = list(filter(lambda x:x.id != -1 and x.id == int(id_i), final_abilities))
                 if len(exist) > 0:
                     if len(base_abilities) < 2:
-                        base_abilities.append(exist[0]["name"])
+                        base_abilities.append(exist[0].name)
                     elif len(adv_abilities) < 3:
-                        adv_abilities.append(exist[0]["name"])
+                        adv_abilities.append(exist[0].name)
                     else:
-                        high_abilities.append(exist[0]["name"])
+                        high_abilities.append(exist[0].name)
         #   < ---- Evolutions ---- >
         evolutions = []
         evolutions.append("TBD")
@@ -94,23 +96,23 @@ for mon in data["species"]:
         tm_moves = []
         if len(mon["TMHMMoves"]) > 0:
             for id_tm in mon["TMHMMoves"]:
-                move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, final_moves))
+                move_exist = list(filter(lambda x: x.id != -1 and x.id == id_tm, final_moves))
                 if len(move_exist) > 0:
-                    tm_moves.append(str(move_exist[0]["move"].capitalize()))
+                    tm_moves.append(str(move_exist[0].name.capitalize()))
         #   < ---- Tutor Moves ---- >
         tutor = []
         if len(mon["tutor"]) > 0:
             for id_tm in mon["tutor"]:
-                move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, final_moves))
+                move_exist = list(filter(lambda x: x.id != -1 and x.id == id_tm, final_moves))
                 if len(move_exist) > 0:
-                    tutor.append(str(move_exist[0]["move"].capitalize()))
+                    tutor.append(str(move_exist[0].name.capitalize()))
         #   < ---- Tutor Moves ---- >
         egg_moves = []
         if len(mon["eggMoves"]) > 0:
             for id_tm in mon["eggMoves"]:
-                move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, final_moves))
+                move_exist = list(filter(lambda x: x.id != -1 and x.id == id_tm, final_moves))
                 if len(move_exist) > 0:
-                    egg_moves.append(str(move_exist[0]["move"].capitalize()))
+                    egg_moves.append(str(move_exist[0].name.capitalize()))
 
         height = ""
         weight = ""
@@ -202,7 +204,6 @@ for rmon in redux_mons:
                 print("added : "+mon_name)
             new_pokemons.append(rmon)
 
-#final_pokemons = sorted(pokemons, key = lambda x: x["name"])
 final_pokemons = new_pokemons
 
 with open("../output/finals/pokemons_redux_new.json", "w", encoding="utf-8") as f:

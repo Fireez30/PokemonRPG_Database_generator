@@ -3124,7 +3124,7 @@ son: OUI — cloche de bronze, tinte et résonne pour appeler la pluie
 
 level up moves: Sonic Cannon
 
-ct / egg moves: Lula Blade, Clangor, Mach turn
+ct / egg moves: Clangor, Mach turn
 
 psyduck
 

@@ -1,11 +1,12 @@
 import json
 import re
-
+from pokemon_data import Ability
 with open("../data/reduxData.json", "r") as f:
     data = json.load(f)
 
 with open("../output/initials/abilities.json", "r") as f:
-    old_abilities = json.load(f)
+    raw = json.load(f)
+old_abilities : list[Ability] = [Ability.model_validate_json(p) for p in raw]
 #explore_json(data)
 #print("abilities before : "+str(len(abilities)))
 abilities = []
