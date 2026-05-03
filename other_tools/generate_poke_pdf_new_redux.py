@@ -107,15 +107,23 @@ def get_pokemon_image(name,path=""):
     return None
 
 
+def _ability_name(a):
+    return a["name"] if isinstance(a, dict) else a
+
+def _move_name(m):
+    return m["name"] if isinstance(m, dict) else m
+
 def format_capabilities(capabilities):
 
     items = []
 
     for c in capabilities:
-        if c["value"]:
-            items.append(f'{c["name"]} {c["value"]}')
+        name = c["name"] if isinstance(c, dict) else c.name
+        value = c["value"] if isinstance(c, dict) else c.value
+        if value:
+            items.append(f'{name} {value}')
         else:
-            items.append(c["name"])
+            items.append(name)
 
     return ", ".join(items)
 
@@ -123,7 +131,7 @@ def format_capabilities(capabilities):
 def format_skills(skills):
 
     return ", ".join(
-        f'{s["name"]} {s["roll"]}'
+        f'{s["name"] if isinstance(s, dict) else s.name} {s["roll"] if isinstance(s, dict) else s.roll}'
         for s in skills
     )
 
@@ -324,17 +332,17 @@ def create_pdf(data, output="pokemon.pdf"):
 
     for i, a in enumerate(data["base_abilities"], 1):
         story.append(
-            Paragraph(f"Basic Ability {i}: {a}", styles["Normal"])
+            Paragraph(f"Basic Ability {i}: {_ability_name(a)}", styles["Normal"])
         )
 
     for i, a in enumerate(data["advanced_abilities"], 1):
         story.append(
-            Paragraph(f"Adv Ability {i}: {a}", styles["Normal"])
+            Paragraph(f"Adv Ability {i}: {_ability_name(a)}", styles["Normal"])
         )
 
     for a in data["high_abilities"]:
         story.append(
-            Paragraph(f"High Ability: {a}", styles["Normal"])
+            Paragraph(f"High Ability: {_ability_name(a)}", styles["Normal"])
         )
 
     story.append(Spacer(1,5))
@@ -455,9 +463,12 @@ def create_pdf(data, output="pokemon.pdf"):
     story.append(Paragraph("<b>Move List</b>", styles["Heading3"]))
 
     for m in data["moves"]:
+        level_val = m['level'] if isinstance(m, dict) else m.level
+        name_val = m['name'] if isinstance(m, dict) else m.name
+        type_val = (m['type'] or "").strip() if isinstance(m, dict) else (m.type or "").strip()
         story.append(
             Paragraph(
-                f"{m['level'] if m['level'] > 0 else "Evo"} {m['name']} - {m['type'].strip()}",
+                f"{level_val if level_val > 0 else 'Evo'} {name_val} - {type_val}",
                 styles["Normal"]
             )
         )
@@ -471,7 +482,7 @@ def create_pdf(data, output="pokemon.pdf"):
 
         story.append(
             Paragraph(
-                ", ".join(data["egg_moves"]),
+                ", ".join(_move_name(m) for m in data["egg_moves"]),
                 styles["Normal"]
             )
         )
@@ -484,7 +495,7 @@ def create_pdf(data, output="pokemon.pdf"):
 
     story.append(
         Paragraph(
-            ", ".join(data["tm_moves"]),
+            ", ".join(_move_name(m) for m in data["tm_moves"]),
             styles["Normal"]
         )
     )
@@ -497,7 +508,7 @@ def create_pdf(data, output="pokemon.pdf"):
 
     story.append(
         Paragraph(
-            ", ".join(data["tutor_moves"]),
+            ", ".join(_move_name(m) for m in data["tutor_moves"]),
             styles["Normal"]
         )
     )

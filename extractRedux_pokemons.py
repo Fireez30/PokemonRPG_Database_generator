@@ -96,21 +96,21 @@ for mon in data["species"]:
             for id_tm in mon["TMHMMoves"]:
                 move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, final_moves))
                 if len(move_exist) > 0:
-                    tm_moves.append(str(move_exist[0]["move"].capitalize()))
+                    tm_moves.append(str(move_exist[0]["name"].capitalize()))
         #   < ---- Tutor Moves ---- >
         tutor = []
         if len(mon["tutor"]) > 0:
             for id_tm in mon["tutor"]:
                 move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, final_moves))
                 if len(move_exist) > 0:
-                    tutor.append(str(move_exist[0]["move"].capitalize()))
-        #   < ---- Tutor Moves ---- >
+                    tutor.append(str(move_exist[0]["name"].capitalize()))
+        #   < ---- Egg Moves ---- >
         egg_moves = []
         if len(mon["eggMoves"]) > 0:
             for id_tm in mon["eggMoves"]:
                 move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == id_tm, final_moves))
                 if len(move_exist) > 0:
-                    egg_moves.append(str(move_exist[0]["move"].capitalize()))
+                    egg_moves.append(str(move_exist[0]["name"].capitalize()))
 
         height = ""
         weight = ""
@@ -154,7 +154,9 @@ for mon in data["species"]:
             move_level = move_oj["lv"]
             move_exist = list(filter(lambda x: "id" in x.keys() and x["id"] == move_id, final_moves))
             if len(move_exist) > 0:
-                pokemoves.append({"name": move_exist[0]["move"], "level": move_level, "type": move_exist[0]["type"]})
+                types_val = move_exist[0]["types"]
+                type_str = "/".join(types_val) if isinstance(types_val, list) else str(types_val)
+                pokemoves.append({"name": move_exist[0]["name"], "level": move_level, "type": type_str})
         uncorrect_types = False
         for ptype in types:
             if ptype not in accepted_types:

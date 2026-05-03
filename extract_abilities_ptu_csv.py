@@ -20,15 +20,15 @@ if __name__ == '__main__':
     move_objs_array = []
 
     for movedb in db_pokemons:
-        moves.append(Ability(movedb["name"], movedb["effect"],(movedb["id"] if "id" in movedb else -1)))
+        moves.append(Ability(name=movedb["name"], effect=movedb["effect"], id=(movedb["id"] if "id" in movedb else -1)))
 
 
     for index, row in df.iterrows():
         existing_moves = [move for move in moves if move.name == row["Name"]]
         if len(existing_moves) > 0:
-            moves.append(Ability(row["Name"]+"_pte", row["Effect"], -1))
+            moves.append(Ability(name=row["Name"]+"_pte", effect=row["Effect"], id=-1))
         else:
-            moves.append(Ability(row["Name"], row["Effect"], -1))
+            moves.append(Ability(name=row["Name"], effect=row["Effect"], id=-1))
 
 
 

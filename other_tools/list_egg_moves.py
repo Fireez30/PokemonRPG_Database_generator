@@ -14,16 +14,15 @@ if __name__ == "__main__":
         if len(poke["egg_moves"]) > 0:
             for move_name in poke["egg_moves"]:
                 to_str = move_name
-                corresponding_moves = [move for move in moves if move["move"] == move_name]
+                corresponding_moves = [move for move in moves if move["name"] == move_name]
                 if len(corresponding_moves) > 0:
                     found_move = corresponding_moves[0]
                     to_str += " : "
-                    if type(found_move["type"]) == str:
-                        to_str += found_move["type"]
+                    types_val = found_move["types"]
+                    if isinstance(types_val, list):
+                        to_str += ",".join(types_val)
                     else:
-                        for typem in found_move["type"]:
-                            to_str += typem + ","
-                        to_str = to_str[:-1]
+                        to_str += str(types_val)
                     if not to_str in egg_moves:
                         egg_moves.append(to_str)
 

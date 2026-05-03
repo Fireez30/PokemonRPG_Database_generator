@@ -25,7 +25,7 @@ if __name__ == '__main__':
         moves = json.load(f)
     for move in moves:
         if move["effect"].strip() == "":
-            final_str += move["move"]+"\n"
+            final_str += move["name"]+"\n"
     final_str += "\n"
 
     f = open("empty_moves_abilities.txt","w+")

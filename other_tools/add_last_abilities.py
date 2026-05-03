@@ -16,7 +16,7 @@ for ability in data["abilities"]:
 for rability in redux_abilities:
     already_exist = list(filter(lambda x:x["name"].lower() == rability["name"].lower(), last_abilities))
     if len(already_exist) == 0:
-        final_abilities.append(Ability(rability["name"], rability["effect"],(rability["id"] if "id" in rability else -1)))
+        final_abilities.append(Ability(name=rability["name"], effect=rability["effect"], id=(rability["id"] if "id" in rability else -1)))
 
 final_abilities = sorted(final_abilities, key = lambda x: x.name)
 

@@ -13330,7 +13330,7 @@
   {
     "move": "Sediment Smack",
     "type": "Rock",
-    "frequency": "Sediment Smack",
+    "frequency": "TBD",
     "AC": "2",
     "damage_base": "7",
     "roll": "2d6+10 / 17",

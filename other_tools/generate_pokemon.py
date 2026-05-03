@@ -74,7 +74,7 @@ if __name__ == "__main__":
     input_jsons = "data/pokemon_old.json"
     with open(input_jsons, "r", encoding="utf-8") as f:
         raw_data = json.load(f)
-    pokemons = [Pokemon.from_dict(p) for p in raw_data]
+    pokemons = [Pokemon.model_validate(p) for p in raw_data]
     moves_by_name = parse_full_moves("../data/Moves.html")
     abilities_by_name = parse_full_abilities("../data/Abilities.pdf")
 
@@ -115,7 +115,7 @@ if __name__ == "__main__":
     gender = ""
     print("\n")
     print("\n")
-    if pokemon.gender_ratio_f == -1 or pokemon.gender_ratio_m == -1:
+    if float(pokemon.gender_ratio_f) < 0 or float(pokemon.gender_ratio_m) < 0:
         print("Gender is not determined by a roll")
         gender = "Unknown"
     else:
@@ -218,18 +218,21 @@ if __name__ == "__main__":
     final_str+= f"| **Ability** | **Effect** |\n"
     final_str+= f"| ---------------- | ------------------ |\n"
     ability_choice=randint(0,len(pokemon.base_abilities)-1)
-    print("Rolled basic ability : "+pokemon.base_abilities[ability_choice])
-    final_str+= f"| {pokemon.base_abilities[ability_choice]} | {abilities_by_name[pokemon.base_abilities[ability_choice]].effect if pokemon.base_abilities[ability_choice] in abilities_by_name else ''} | \n"
+    base_abi_name = pokemon.base_abilities[ability_choice].name
+    print("Rolled basic ability : "+base_abi_name)
+    final_str+= f"| {base_abi_name} | {abilities_by_name[base_abi_name].effect if base_abi_name in abilities_by_name else ''} | \n"
     if level >= 20  and len(pokemon.advanced_abilities) > 0:
         print("Rolling advanced ability")
         advanced_ability_choice = randint(0,len(pokemon.advanced_abilities)-1)
-        print("Rolled advanced ability : "+pokemon.advanced_abilities[advanced_ability_choice])
-        final_str += f"| {pokemon.advanced_abilities[advanced_ability_choice]} | {abilities_by_name[pokemon.advanced_abilities[advanced_ability_choice]].effect if pokemon.advanced_abilities[advanced_ability_choice] in abilities_by_name else ''} |\n"
+        adv_abi_name = pokemon.advanced_abilities[advanced_ability_choice].name
+        print("Rolled advanced ability : "+adv_abi_name)
+        final_str += f"| {adv_abi_name} | {abilities_by_name[adv_abi_name].effect if adv_abi_name in abilities_by_name else ''} |\n"
     if level >= 40 and len(pokemon.high_abilities) > 0:
         print("Rolling high ability")
         high_ability_choice = randint(0,len(pokemon.high_abilities)-1)
-        print("Rolled high ability : "+pokemon.high_abilities[high_ability_choice])
-        final_str += f"| {pokemon.high_abilities[high_ability_choice]} | {abilities_by_name[pokemon.high_abilities[high_ability_choice]].effect if pokemon.high_abilities[high_ability_choice] in abilities_by_name else ''} | \n"
+        high_abi_name = pokemon.high_abilities[high_ability_choice].name
+        print("Rolled high ability : "+high_abi_name)
+        final_str += f"| {high_abi_name} | {abilities_by_name[high_abi_name].effect if high_abi_name in abilities_by_name else ''} | \n"
 
     print("\n")
     print("\n")
@@ -503,8 +506,8 @@ if __name__ == "__main__":
     final_str+= f"| **Capability** | **Value** |\n"
     final_str+= f"| ---------------- | ------------------ |\n"
     for cat in pokemon.capabilities:
-        if cat["name"] != "":
-            final_str += f"| {cat['name']} | {cat['value']} | \n"
+        if cat.name != "":
+            final_str += f"| {cat.name} | {cat.value} | \n"
     final_str += f"\n"
     final_str += f"\n"
     final_str += f"## **Skills**\n"
@@ -512,8 +515,8 @@ if __name__ == "__main__":
     final_str+= f"| **Skill** | **Roll** |\n"
     final_str+= f"| ---------------- | ------------------ |\n"
     for cat in pokemon.skills:
-        if cat["name"] != "":
-            final_str += f"| {cat['name']} | {cat['roll']} | \n"
+        if cat.name != "":
+            final_str += f"| {cat.name} | {cat.roll} | \n"
     final_str += f"\n"
     final_str += f"\n"
     final_str += f"## **Stats**\n"
@@ -551,8 +554,8 @@ if __name__ == "__main__":
     final_str += f"\n"
     final_str += f"| **Move**    | **Freq**         | **AC**    | **Type**    | **Roll**    | **Dmg. Type**      | **Range**    | **Special Effect** |\n"
     final_str += f"|-------------|------------------|-----------|-------------|-------------|--------------------|--------------|-------------------|\n"
-    poke_moves = reversed(sorted(pokemon.moves, key=lambda item: item["level"]))
-    filtered_moves = [m for m in poke_moves if int(m["level"]) <= level]
+    poke_moves = reversed(sorted(pokemon.moves, key=lambda item: item.level))
+    filtered_moves = [m for m in poke_moves if int(m.level) <= level]
     index = 0
     print("\n")
     print("\n")
@@ -563,8 +566,8 @@ if __name__ == "__main__":
     #filtered_moves = filtered_moves[:6]
     print("here is the list of move available for the pokemon : ")
     for move_key in final_moves:
-        if final_moves[move_key]["name"] in moves_by_name:
-            print(f"{str(move_key)} => {final_moves[move_key]['name']}     {moves_by_name[final_moves[move_key]['name']].get_frequency()}     {moves_by_name[final_moves[move_key]['name']].get_AC()}    {moves_by_name[final_moves[move_key]['name']].get_type()}   {moves_by_name[final_moves[move_key]['name']].get_roll()}    {moves_by_name[final_moves[move_key]['name']].get_classe()}    {moves_by_name[final_moves[move_key]['name']].get_range()}    {moves_by_name[final_moves[move_key]['name']].get_effect()}    ")
+        if final_moves[move_key].name in moves_by_name:
+            print(f"{str(move_key)} => {final_moves[move_key].name}     {moves_by_name[final_moves[move_key].name].get_frequency()}     {moves_by_name[final_moves[move_key].name].get_AC()}    {moves_by_name[final_moves[move_key].name].get_type()}   {moves_by_name[final_moves[move_key].name].get_roll()}    {moves_by_name[final_moves[move_key].name].get_classe()}    {moves_by_name[final_moves[move_key].name].get_range()}    {moves_by_name[final_moves[move_key].name].get_effect()}    ")
             print(f"\n")
     chosen_moves = []
     current_move = ""
@@ -586,10 +589,10 @@ if __name__ == "__main__":
     print(chosen_moves)
     added_count = 0
     for move in chosen_moves:
-        if move["name"] in moves_by_name:
-            final_str += f"| {move['name']} | {moves_by_name[move['name']].get_frequency()} | {moves_by_name[move['name']].get_AC()} | {moves_by_name[move['name']].get_type()} | {moves_by_name[move['name']].get_roll()} | {moves_by_name[move['name']].get_classe()} | {moves_by_name[move['name']].get_range()} | {moves_by_name[move['name']].get_effect()}     |\n"
+        if move.name in moves_by_name:
+            final_str += f"| {move.name} | {moves_by_name[move.name].get_frequency()} | {moves_by_name[move.name].get_AC()} | {moves_by_name[move.name].get_type()} | {moves_by_name[move.name].get_roll()} | {moves_by_name[move.name].get_classe()} | {moves_by_name[move.name].get_range()} | {moves_by_name[move.name].get_effect()}     |\n"
         else:
-            final_str += f"| {move['name']} |  |  |  |  |  |  |      |\n"
+            final_str += f"| {move.name} |  |  |  |  |  |  |      |\n"
         added_count += 1
     for i in range(added_count,6):
         final_str += f"|               |   |   |   |   |   |   |   |\n"
@@ -598,7 +601,7 @@ if __name__ == "__main__":
     egg_moves = []
     print("You will now choose egg moves. Here is the list of availables ones : ")
     for move in pokemon.egg_moves:
-        print(move + " , ")
+        print(move.name + " , ")
     current_egg_move = ""
     while current_egg_move != "stop" and len(egg_moves) < 3:
         current_egg_move = input("Please input the egg move name (case sensitive). If you want to stop, please enter 'stop'")
@@ -612,7 +615,7 @@ if __name__ == "__main__":
     final_str += f"|---------------| - | - | - | - | - | - | - |\n"
     added_count=0
     for move in egg_moves:
-        final_str += f"| {move.move} | {move.get_frequency()} | {move.get_AC()} | {move.get_type()} | {move.get_roll()} | {move.get_classe()} | {move.get_range()} | {move.get_effect()}     |\n"
+        final_str += f"| {move.name} | {move.get_frequency()} | {move.get_AC()} | {move.get_type()} | {move.get_roll()} | {move.get_classe()} | {move.get_range()} | {move.get_effect()}     |\n"
         added_count += 1
     for i in range(added_count,3):
         final_str += f"|               |   |   |   |   |   |   |   |\n"
@@ -628,7 +631,7 @@ if __name__ == "__main__":
         final_str += "None"
     else :
         for move_egg in egg_moves:
-            final_str += move_egg.move +" ,"
+            final_str += move_egg.name +" ,"
         final_str = final_str[:-1]
     now = datetime.datetime.now()
     f = open(pokemon.name+".md","w+")

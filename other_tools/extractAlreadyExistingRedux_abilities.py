@@ -1,11 +1,14 @@
 import json
 import re
 
+from pokemon_data import Ability
+
 with open("../data/reduxData.json", "r") as f:
     data = json.load(f)
 
 with open("../output/initials/abilities.json", "r") as f:
-    old_abilities = json.load(f)
+    raw = json.load(f)
+old_abilities : list[Ability] = [Ability.model_validate(p) for p in raw]
 #explore_json(data)
 #print("abilities before : "+str(len(abilities)))
 abilities = []
@@ -15,7 +18,7 @@ for ability in data["abilities"]:
         redux_abilities.append({"name":ability["name"],"effect":ability["desc"],"id":ability["id"],"update":"TBD"})
 
 for rability in redux_abilities:
-    already_exist = list(filter(lambda x:x["name"].lower() == rability["name"].lower(), old_abilities))
+    already_exist = list(filter(lambda x:x.name.lower() == rability["name"].lower(), old_abilities))
     if len(already_exist) > 0:
         abilities.append(rability)
 

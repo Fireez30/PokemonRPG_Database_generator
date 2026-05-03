@@ -28,33 +28,64 @@ if __name__ == '__main__':
             if not reduxmove["damage_base"] in rolls_by_db or rolls_by_db[reduxmove["damage_base"]] is None or rolls_by_db[reduxmove["damage_base"]] == "":
                 rolls_by_db[reduxmove["damage_base"]] = reduxmove["roll"]
         final_moves.append(
-            FullMove(reduxmove["move"], reduxmove["type"], reduxmove["frequency"], reduxmove["AC"], reduxmove["damage_base"],
-                     reduxmove["roll"], reduxmove["classe"],
-                     reduxmove["range"], reduxmove["effect"], reduxmove["blessing"], reduxmove["special_effect"],
-                     reduxmove["contest_type"], reduxmove["contest_effect"], reduxmove["extra_lines"],
-                     (reduxmove["id"] if "id" in reduxmove else -1)))
+            FullMove(
+                name=reduxmove["name"],
+                types=reduxmove["types"],
+                frequency=reduxmove["frequency"],
+                AC=reduxmove["AC"],
+                damage_base=reduxmove["damage_base"],
+                roll=reduxmove["roll"],
+                m_class=reduxmove["m_class"],
+                range=reduxmove["range"],
+                effect=reduxmove["effect"],
+                blessing=reduxmove.get("blessing"),
+                special_effect=reduxmove.get("special_effect"),
+                contest_types=reduxmove.get("contest_types"),
+                contest_effect=reduxmove.get("contest_effect"),
+                extra_lines=reduxmove.get("extra_lines", []),
+                id=(reduxmove["id"] if "id" in reduxmove else -1)
+            )
+        )
 
     for index, row in df.iterrows():
-        pte_moves.append(FullMove(row["Attack Name"], row["Type"], row["Frequency"], (str(int(row["AC"])) if "AC" in row and row["AC"] is not None and str(row["AC"]).lower() != "nan" and row["AC"] != NaN else ""), str(int(row["DB"])) if "DB" in row and row["DB"] is not None and str(row["DB"]).lower() != "nan" and row["DB"] != NaN else "", "", row["Class"], row["Range"], row["Effect"], "", "", "", "", []))
-        #final_moves.append(FullMove(row["Attack Name"],row["Type"], row["Frequency"],(str(int(row["AC"])) if "AC" in row and row["AC"] is not None and str(row["AC"]).lower() != "nan" and row["AC"] != NaN else ""),str(int(row["DB"])) if "DB" in row and row["DB"] is not None and str(row["DB"]).lower() != "nan" and row["DB"] != NaN else "","",row["Class"],row["Range"],row["Effect"],"","","","",[]))
-    for move in pte_moves:
-        if move.damage_base != "":
-            if move.damage_base in rolls_by_db:
-                move.roll = rolls_by_db[move.damage_base]
+        ac_val = str(int(row["AC"])) if "AC" in row and row["AC"] is not None and str(row["AC"]).lower() != "nan" and row["AC"] != NaN else ""
+        db_val = int(row["DB"]) if "DB" in row and row["DB"] is not None and str(row["DB"]).lower() != "nan" and row["DB"] != NaN else -1
+        type_val = str(row["Type"]).strip() if "Type" in row and row["Type"] else "Normal"
+        pte_moves.append(FullMove(
+            name=row["Attack Name"],
+            types=[t.strip() for t in type_val.split("/") if t.strip()],
+            frequency=str(row["Frequency"]).strip() if "Frequency" in row else "TBD",
+            AC=ac_val,
+            damage_base=db_val,
+            roll="",
+            m_class=str(row["Class"]).strip() if "Class" in row else "Status",
+            range=str(row["Range"]).strip() if "Range" in row else "",
+            effect=str(row["Effect"]).strip() if "Effect" in row else "",
+            blessing=None,
+            special_effect=None,
+            contest_types=None,
+            contest_effect=None,
+            extra_lines=[]
+        ))
+
+    for ptemove in pte_moves:
+        if ptemove.damage_base != -1:
+            if ptemove.damage_base in rolls_by_db:
+                ptemove.roll = rolls_by_db[ptemove.damage_base]
             else:
-                print("error finding roll for damage base : "+str(move["damage_base"]))
+                print("error finding roll for damage base : "+str(ptemove.damage_base))
                 exit()
     for ptemove in pte_moves:
-        existing_moves = [move for move in redux_moves if move["move"] == ptemove.move]
+        existing_moves = [m for m in redux_moves if m["name"] == ptemove.name]
         if len(existing_moves) > 0:
-            ptemove.move = ptemove.move + "_pte"
+            ptemove.name = ptemove.name + "_pte"
         ptemove.frequency = ptemove.frequency.replace("At Will", "At-Will").replace("Daily x2/em>", "Daily x2").replace("Scence", "Scene")
-        ptemove.classe = ptemove.classe.replace("STATUS", "Status")
+        ptemove.m_class = ptemove.m_class.replace("STATUS", "Status")
         final_moves.append(ptemove)
 
     csv = "Move,Freq,AC,Type,Roll,Dmg. Type,Range,Special Effect"
-    for move in final_moves:
-        csv += "\n"+move.to_csv()
+    for m in final_moves:
+        csv += "\n"+m.to_csv()
     f = open("output/pte/moves.csv","w+")
     f.write(csv)
     f.close()
@@ -68,8 +99,8 @@ if __name__ == '__main__':
         )
 
     csv = "Move,Freq,AC,Type,Roll,Dmg. Type,Range,Special Effect"
-    for move in final_moves:
-        csv += "\n"+move.to_csv()
+    for m in final_moves:
+        csv += "\n"+m.to_csv()
     f = open("output/finals/moves.csv","w+")
     f.write(csv)
     f.close()

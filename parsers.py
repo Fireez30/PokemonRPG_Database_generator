@@ -1,5 +1,6 @@
 import fitz
 from pokemon_data import *
+from pydantic import BaseModel
 import re
 
 stop_read = False
@@ -8,15 +9,14 @@ def remove_leading_numbers(s):
     return re.sub(r'^\d+\s*', '', s)
 from dataclasses import asdict, is_dataclass
 def to_serializable(obj):
-    if is_dataclass(obj):
+    if isinstance(obj, BaseModel):
+        return obj.model_dump()
+    elif is_dataclass(obj):
         return asdict(obj)
     elif isinstance(obj, list):
         return [to_serializable(item) for item in obj]
-    elif hasattr(obj, "__dict__"):
-        return {
-            key: to_serializable(value)
-            for key, value in obj.__dict__.items()
-        }
+    elif isinstance(obj, dict):
+        return {key: to_serializable(value) for key, value in obj.items()}
     else:
         return obj
 
@@ -408,7 +408,7 @@ def UNUSED_parse_extracted_text_gen7(input_pdf,index):
                     char_split = '-'
                 splitted = found_line.split(char_split)
                 #print("name : "+splitted[0])
-                moves.append(Move(splitted[0],level,splitted[1]))
+                moves.append(Move(name=splitted[0],level=level,type=splitted[1]))
             elif "-" not in line and line.strip()[0].isdigit():
                 levelstr = ""
                 for i in range(0, len(line)):
@@ -418,7 +418,7 @@ def UNUSED_parse_extracted_text_gen7(input_pdf,index):
                         break
                 level = int(levelstr)
                 found_line = line.replace(levelstr, "").strip()
-                moves.append(Move(found_line, level, ""))
+                moves.append(Move(name=found_line,level=level))
             elif line.strip().startswith("Evo") and "-" in line:
                 found_line = line.strip().replace(" - ", ":").replace(" -",':').replace("- ",':')
                 found_line = found_line.replace("Evo ","").strip()
@@ -426,10 +426,10 @@ def UNUSED_parse_extracted_text_gen7(input_pdf,index):
                 if '-' in found_line and not ':' in found_line:
                     char_split = '-'
                 splitted = found_line.split(char_split)
-                moves.append(Move(splitted[0],0,splitted[1]))
+                moves.append(Move(name=splitted[0],level=0,type=splitted[1]))
             elif line.strip().startswith("Evo") and "-" not in line:
                 found_line = line.replace("Evo ", "").strip()
-                moves.append(Move(found_line, 0, ""))
+                moves.append(Move(name=found_line,level=0))
 
         if current_status == "tm_moves":
             if line.strip() != "":
@@ -576,7 +576,7 @@ def UNUSED_parse_extracted_text_gen7(input_pdf,index):
     #print(tm_moves)
     #print(tutor_moves)
     #print(egg_moves)
-    return Pokemon(name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves)
+    return Pokemon(name=name,stat_hp=hp,stat_atk=attack,stat_def=defense,stat_sp_atk=spattack,stat_sp_def=spdefense,stat_spd=speed,pokemon_types=poketype,base_abilities=base_abilities,advanced_abilities=advanced_abilities,high_abilities=high_abilities,evolutions=evolutions,height=height,weight=weight,gender_ratio_m=gender_ratio_m,gender_ratio_f=gender_ratio_f,egg_group=egg_group,average_hatch_rate=average_hatch_rate,diet=diet,habitat=habitat,capabilities=capabilities,skills=skills,moves=moves,tm_moves=tm_moves,tutor_moves=tutor_moves,egg_moves=egg_moves)
 
 def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
     pokemons = []
@@ -858,7 +858,7 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
                         char_split = '-'
                     splitted = found_line.split(char_split)
                     #print("name : "+splitted[0])
-                    moves.append(Move(splitted[0].replace("&","-"),level,splitted[1]))
+                    moves.append(Move(name=splitted[0].replace("&","-"),level=level,type=splitted[1]))
                 elif "-" not in replaced_move and replaced_move.strip()[0].isdigit():
                     levelstr = ""
                     for i in range(0, len(replaced_move)):
@@ -868,7 +868,7 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
                             break
                     level = int(levelstr)
                     found_line = replaced_move.replace(levelstr, "").strip()
-                    moves.append(Move(found_line.replace("&","-"), level, ""))
+                    moves.append(Move(name=found_line.replace("&","-"),level=level))
                 elif replaced_move.strip().startswith("Evo") and "-" in replaced_move:
                     found_line = replaced_move.strip().replace(" - ", ":").replace(" -",':').replace("- ",':')
                     found_line = found_line.replace("Evo ","").strip()
@@ -876,10 +876,10 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
                     if '-' in found_line and not ':' in found_line:
                         char_split = '-'
                     splitted = found_line.split(char_split)
-                    moves.append(Move(splitted[0].replace("&","-"),0,splitted[1]))
+                    moves.append(Move(name=splitted[0].replace("&","-"),level=0,type=splitted[1]))
                 elif replaced_move.strip().startswith("Evo") and "-" not in replaced_move:
                     found_line = replaced_move.replace("Evo ", "").strip()
-                    moves.append(Move(found_line.replace("&","-"), 0, ""))
+                    moves.append(Move(name=found_line.replace("&","-"),level=0))
 
             if current_status == "tm_moves":
                 if line.strip() != "":
@@ -1011,7 +1011,7 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
 
         #print(mega_evolution_ability_aggr)
         #print(mega_evolution_stats_aggr)
-        mega_evolution_obj = MegaEvolution(mega_evolution_types, mega_evolution_ability_aggr, mega_evolution_stats_aggr)
+        mega_evolution_obj = MegaEvolution(type=mega_evolution_types, ability=mega_evolution_ability_aggr.strip(), stats=mega_evolution_stats_aggr.strip())
         #print("name: "+name)
         #print("hp: "+str(hp))
         #print("attack: "+str(attack))
@@ -1055,7 +1055,7 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
         #print(tutor_moves)
         #print("Egg moves : ")
         #print(egg_moves)
-        pokemons.append(Pokemon(name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves,mega_evolution,mega_evolution_obj))
+        pokemons.append(Pokemon(name=name,stat_hp=hp,stat_atk=attack,stat_def=defense,stat_sp_atk=spattack,stat_sp_def=spdefense,stat_spd=speed,pokemon_types=poketype,base_abilities=base_abilities,advanced_abilities=advanced_abilities,high_abilities=high_abilities,evolutions=evolutions,height=height,weight=weight,gender_ratio_m=gender_ratio_m,gender_ratio_f=gender_ratio_f,egg_group=egg_group,average_hatch_rate=average_hatch_rate,diet=diet,habitat=habitat,capabilities=capabilities,skills=skills,moves=moves,tm_moves=tm_moves,tutor_moves=tutor_moves,egg_moves=egg_moves,mega_evolution=mega_evolution_obj if mega_evolution else None))
     return pokemons
 
 def parse_mega_evolutions(input_pdf,range_to_read):
@@ -1389,7 +1389,7 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
                     splited = replaced_move.split("-")
                     if splited[0].lower().startswith("evo"):
                         splited[0] = 0
-                    moves.append(Move(splited[1].strip().replace("&","-"),int(splited[0]),splited[2].strip()))
+                    moves.append(Move(name=splited[1].strip().replace("&","-"),level=int(splited[0]),type=splited[2].strip()))
                 elif replaced_move.strip()[0].isdigit() and "-" in replaced_move:
                     found_line = replaced_move.strip().replace(" - ",":").replace(" -",':').replace("- ",':')
                     levelstr = ""
@@ -1405,7 +1405,7 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
                         char_split = '-'
                     splitted = found_line.split(char_split)
                     #print("name : "+splitted[0])
-                    moves.append(Move(splitted[0].replace("&","-"),level,splitted[1]))
+                    moves.append(Move(name=splitted[0].replace("&","-"),level=level,type=splitted[1]))
                 elif "-" not in replaced_move and replaced_move.strip()[0].isdigit():
                     levelstr = ""
                     for i in range(0, len(replaced_move)):
@@ -1415,7 +1415,7 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
                             break
                     level = int(levelstr)
                     found_line = replaced_move.replace(levelstr, "").strip()
-                    moves.append(Move(found_line.replace("&","-"), level, ""))
+                    moves.append(Move(name=found_line.replace("&","-"),level=level))
                 elif replaced_move.strip().startswith("Evo") and "-" in replaced_move:
                     found_line = replaced_move.strip().replace(" - ", ":").replace(" -",':').replace("- ",':')
                     found_line = found_line.replace("Evo ","").strip()
@@ -1423,10 +1423,10 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
                     if '-' in found_line and not ':' in found_line:
                         char_split = '-'
                     splitted = found_line.split(char_split)
-                    moves.append(Move(splitted[0].replace("&","-"),0,splitted[1]))
+                    moves.append(Move(name=splitted[0].replace("&","-"),level=0,type=splitted[1]))
                 elif replaced_move.strip().startswith("Evo") and "-" not in replaced_move:
                     found_line = replaced_move.replace("Evo ", "").strip()
-                    moves.append(Move(found_line.replace("&","-"), 0, ""))
+                    moves.append(Move(name=found_line.replace("&","-"),level=0))
 
             if current_status == "tm_moves":
                 if line.strip() != "":
@@ -1569,7 +1569,7 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
 
         #print(mega_evolution_ability_aggr)
         #print(mega_evolution_stats_aggr)
-        mega_evolution_obj = MegaEvolution(mega_evolution_types, mega_evolution_ability_aggr, mega_evolution_stats_aggr)
+        mega_evolution_obj = MegaEvolution(type=mega_evolution_types, ability=mega_evolution_ability_aggr.strip(), stats=mega_evolution_stats_aggr.strip())
         #print("name: "+name)
         #print("hp: "+str(hp))
         #print("attack: "+str(attack))
@@ -1613,7 +1613,7 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
         #print(tutor_moves)
         #print("Egg moves : ")
         #print(egg_moves)
-        pokemons.append(Pokemon(name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves,mega_evolution,mega_evolution_obj))
+        pokemons.append(Pokemon(name=name,stat_hp=hp,stat_atk=attack,stat_def=defense,stat_sp_atk=spattack,stat_sp_def=spdefense,stat_spd=speed,pokemon_types=poketype,base_abilities=base_abilities,advanced_abilities=advanced_abilities,high_abilities=high_abilities,evolutions=evolutions,height=height,weight=weight,gender_ratio_m=gender_ratio_m,gender_ratio_f=gender_ratio_f,egg_group=egg_group,average_hatch_rate=average_hatch_rate,diet=diet,habitat=habitat,capabilities=capabilities,skills=skills,moves=moves,tm_moves=tm_moves,tutor_moves=tutor_moves,egg_moves=egg_moves,mega_evolution=mega_evolution_obj if mega_evolution else None))
     return pokemons
 def sections_to_text(all_sections):
     extracted = []
@@ -1631,6 +1631,8 @@ def sections_to_text(all_sections):
         extracted.append(text)
 
     return extracted
+
+    return frequency.replace("Scence","Scene")
 def parse_full_abilities(filepath="data/Abilities.pdf"):
     all_sections = extract_one_column_text(filepath)
     abilities = {}
@@ -1793,10 +1795,21 @@ def parse_full_moves(filepath):
             if cleaned_line.strip().startswith("----"):
                 # #print("found move to store : "+move_name)
                 if not bypass_current_move and move_name.strip() != "":
-                    moves[move_name]=FullMove(move_name, move_type, move_frequency, move_ac, move_damage_base, move_roll, move_classe,
-                             move_range,
-                             move_effect, move_blessing, move_special_effect, move_contest_type, move_contest_effect,
-                             move_extra_lines)
+                    moves[move_name]=FullMove(
+                             name=move_name,
+                             types=[t.strip() for t in move_type.split("/") if t.strip()] if move_type else ["Normal"],
+                             frequency=move_frequency,
+                             AC=move_ac,
+                             damage_base=int(move_damage_base) if move_damage_base.strip().lstrip('-').isdigit() else -1,
+                             roll=move_roll,
+                             m_class=move_classe if move_classe else "Status",
+                             range=move_range,
+                             effect=move_effect,
+                             blessing=move_blessing if move_blessing else None,
+                             special_effect=move_special_effect if move_special_effect else None,
+                             contest_types=move_contest_type if move_contest_type else None,
+                             contest_effect=move_contest_effect if move_contest_effect else None,
+                             extra_lines=move_extra_lines)
                 move_name = ""
                 move_type = ""
                 move_frequency = ""
@@ -2155,7 +2168,7 @@ def parse_extracted_text_final(input_pdf,indexes,db_pokemon_names):
                         char_split = '-'
                     splitted = found_line.split(char_split)
                     #print("name : "+splitted[0])
-                    moves.append(Move(splitted[0].replace("&","-"),level,splitted[1]))
+                    moves.append(Move(name=splitted[0].replace("&","-"),level=level,type=splitted[1]))
                 elif "-" not in replaced_move and replaced_move.strip()[0].isdigit():
                     levelstr = ""
                     for i in range(0, len(replaced_move)):
@@ -2165,7 +2178,7 @@ def parse_extracted_text_final(input_pdf,indexes,db_pokemon_names):
                             break
                     level = int(levelstr)
                     found_line = replaced_move.replace(levelstr, "").strip()
-                    moves.append(Move(found_line.replace("&","-"), level, ""))
+                    moves.append(Move(name=found_line.replace("&","-"),level=level))
                 elif replaced_move.strip().startswith("Evo") and "-" in replaced_move:
                     found_line = replaced_move.strip().replace(" - ", ":").replace(" -",':').replace("- ",':')
                     found_line = found_line.replace("Evo ","").strip()
@@ -2173,10 +2186,10 @@ def parse_extracted_text_final(input_pdf,indexes,db_pokemon_names):
                     if '-' in found_line and not ':' in found_line:
                         char_split = '-'
                     splitted = found_line.split(char_split)
-                    moves.append(Move(splitted[0].replace("&","-"),0,splitted[1]))
+                    moves.append(Move(name=splitted[0].replace("&","-"),level=0,type=splitted[1]))
                 elif replaced_move.strip().startswith("Evo") and "-" not in replaced_move:
                     found_line = replaced_move.replace("Evo ", "").strip()
-                    moves.append(Move(found_line.replace("&","-"), 0, ""))
+                    moves.append(Move(name=found_line.replace("&","-"),level=0))
 
             if current_status == "tm_moves":
                 if line.strip() != "":
@@ -2313,7 +2326,7 @@ def parse_extracted_text_final(input_pdf,indexes,db_pokemon_names):
 
         #print(mega_evolution_ability_aggr)
         #print(mega_evolution_stats_aggr)
-        mega_evolution_obj = MegaEvolution(mega_evolution_types, mega_evolution_ability_aggr, mega_evolution_stats_aggr)
+        mega_evolution_obj = MegaEvolution(type=mega_evolution_types, ability=mega_evolution_ability_aggr.strip(), stats=mega_evolution_stats_aggr.strip())
         #print("name: "+name)
         #print("hp: "+str(hp))
         #print("attack: "+str(attack))
@@ -2357,5 +2370,5 @@ def parse_extracted_text_final(input_pdf,indexes,db_pokemon_names):
         #print(tutor_moves)
         #print("Egg moves : ")
         #print(egg_moves)
-        pokemons.append(Pokemon(name,hp,attack,defense,spattack,spdefense,speed,poketype,base_abilities,advanced_abilities,high_abilities,evolutions,height,weight,gender_ratio_m,gender_ratio_f,egg_group,average_hatch_rate,diet,habitat,capabilities,skills,moves,tm_moves,tutor_moves,egg_moves,mega_evolution,mega_evolution_obj))
+        pokemons.append(Pokemon(name=name,stat_hp=hp,stat_atk=attack,stat_def=defense,stat_sp_atk=spattack,stat_sp_def=spdefense,stat_spd=speed,pokemon_types=poketype,base_abilities=base_abilities,advanced_abilities=advanced_abilities,high_abilities=high_abilities,evolutions=evolutions,height=height,weight=weight,gender_ratio_m=gender_ratio_m,gender_ratio_f=gender_ratio_f,egg_group=egg_group,average_hatch_rate=average_hatch_rate,diet=diet,habitat=habitat,capabilities=capabilities,skills=skills,moves=moves,tm_moves=tm_moves,tutor_moves=tutor_moves,egg_moves=egg_moves,mega_evolution=mega_evolution_obj if mega_evolution else None))
     return pokemons
