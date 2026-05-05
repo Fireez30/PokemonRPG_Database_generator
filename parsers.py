@@ -1008,7 +1008,8 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
             mega_evolution_types = mega_evolution_type_aggr.split(',')
         else :
             mega_evolution_types = [mega_evolution_type_aggr]
-
+        if name.lower() == "tm_moves.0.type" or name == "":
+            continue
         #print(mega_evolution_ability_aggr)
         #print(mega_evolution_stats_aggr)
         mega_evolution_obj = MegaEvolution(type=mega_evolution_types, ability=mega_evolution_ability_aggr.strip(), stats=mega_evolution_stats_aggr.strip())
@@ -1570,6 +1571,8 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
         #print(mega_evolution_ability_aggr)
         #print(mega_evolution_stats_aggr)
         mega_evolution_obj = MegaEvolution(type=mega_evolution_types, ability=mega_evolution_ability_aggr.strip(), stats=mega_evolution_stats_aggr.strip())
+        if name.lower() == "tm_moves.0.type" or name == "":
+            continue
         #print("name: "+name)
         #print("hp: "+str(hp))
         #print("attack: "+str(attack))

@@ -1,5 +1,6 @@
 Name,Effect
 ,""
+3 > 1,"Multi-Headed + Riptide"
 : Fashion Designer,"Daily – Extended Action
 Effect: The user knows how to make useful accessories from mere common leaves. The user may craft one of
 the consumable Held Items below by activating this ability
@@ -12,6 +13,7 @@ Decorative Twine – Roll +2d6 on any Move during a Contest"
 Abominable,"Static
 Effect:The user's Base HP is increased by +5and user ignores the Recoil Keyword when attacking, and does not
 gain injuries from Massive Damage.Defensive."
+Abominable Monster,"Ups SpDef by 1.5x in hail."
 Absolution,"Scene x2 – Swift Action
 Trigger: The user rolls Damage
 Effect: The user loses a Tick of Hit Points, and gains a bonus to the triggering damage roll equal to 5 + their
@@ -26,10 +28,12 @@ Accelerate,"Scene x2 – Free Action
 The user may use a damaging Move to which they add STAB as a Priority Move. If the Move hits, the user
 adds half their Speed Stat to the Damage Roll. If the Move already had Priority, the attack gains a +4 Bonus to
 Accuracy."
+Acid Reflux,"Uses 20BP Acid when it takes damage."
 Acidic Slime,"Corrosion + Poison STAB."
 Adaptability,"Static
 Increase the Damage of all Moves with which the user shares a Type by +1 Damage Base."
 Adrenaline Rush,"KOs raise Speed by one stage."
+Aegis Ward,"Takes 1/2 damage from Dark, Ghost and Psychic-type attacks."
 Aerialist,"Levitate + Flock."
 Aerilate,"At-Will – Free Action
 Trigger: The user uses a Normal-Type or Sound-Type damaging Move
@@ -73,6 +77,7 @@ Class changes to Physical if it wasn't already."
 Ancient Idol,"Static
 For Damage calculation the user uses it's defense or special defense respectively"
 Angel's Wrath,"Drastically alters all of the users moves."
+Angelic Wings,"Prism Scales + Huge Wings."
 Anger Point,"At-Will – Free Action
 Effect: When the Pokémon receives a Critical Hit or misses a move, they become Enraged and gain +6 Attack
 Combat Stages."
@@ -130,9 +135,11 @@ Astral Forme,"Daily - Interrupt
 Self
 For the triggering attack, you can consider yourself the Ghost type. You change to Ghost type for the rest of
 the Scene. Resolve the attack as normal."
+Atlantic Ruler,"Aquatic Dweller + Swift Swim."
 Atlas,"Sets Gravity on entry for 8 turns."
-Atomic Burst,"When hit super-effectively, triggers 50 BP Hyper Beam."
-Atomic Punch,"Iron Fist + Steelworker."
+Atomic Burst,"Electromorphosis + Galvanize."
+Atomic Punch,"Iron Fist + 30% Steel type damage."
+Aura Armor,"Takes 35% reduced damage."
 Aura Break,"Static
 themselves or their allies."
 Aura Storm,"Static
@@ -141,21 +148,26 @@ Additionally, while the user is at or under ½ of their Max Hit Points, they gai
 Moves with the Aura Keyword."
 Aurora Borealis,"Static
 Ice moves gain STAB and +1 Damage Base"
+Aurora's Gale,"Majestic Bird + North Wind."
 Avenger,"Static
 If an ally pokemon or trainer has fainted next user's attack gains +10 damages."
+Backflip,"After using a Dance move, follow up with a 50BP Chip Away."
+Backstreet Boy,"Striker + Kicking moves are Dance moves and vise-versa."
+Backup Power,"Revives at 25% HP once after fainting in Electric Terrain."
 Bad Company,"Not implemented right now. Has no effect."
 Bad Dreams,"Static
 Effect: At the beginning of the user’s turn, all Sleeping Pokémon or Trainers in a Burst 5 lose a Tick of Hit
 Points."
 Bad Luck,"Effect: The user is immune to Critical Hits; they are instead normal hits and attacks targeting user get +1 AC
 (Accuraccy required to hit increased by one). Defensive."
-Bad Omen,"Foes min roll and may miss. Takes 1/4 damage from crits."
+Bad Omen,"Foes min roll. Takes 1/4 damage from crits."
 Ball Fetch,"Scene – Free Action, Reaction
 Trigger: A Pokémon is Released onto the battlefield
 Effect: The user may move up to their speed as a Free Action. They must end this movement closer to the
 triggering Pokémon."
 Balloon Blitz,"Inflatable + Hyper Aggressive."
 Balloon Bomb,"Aftermath + Inflatable"
+Bandit,"Scavenger + Technician."
 Banshee,"Sound moves get a 1.2x boost and become Ghost if Normal."
 Bass Boosted,"Amplifier + Punk Rock."
 Battery,"Scene x2 – Swift Action
@@ -177,7 +189,7 @@ The user receives +1 Combat Stage in their highest non-HP stat."
 Beautiful,"Scene – Swift Action
 Effect: The user may activate Beautiful to either gain +2 Beauty Dice in a Contest, or to cure any adjacent
 targets of the Enraged Condition."
-Beautiful Music,"Sound-based moves have 50% chance to infatuate the foe."
+Beautiful Music,"Sound moves have 50% chance to infatuate, ignoring gender."
 Berry Storage,"Daily – Extended Action
 Trigger: The user eats a Berry
 Effect: The user gains 3 instances of the Berry’s Digestion Buff instead of 1. It may only trade in one of these
@@ -186,8 +198,9 @@ normal limits. All Digestion Buffs gained from Berry Storage are lost after an E
 Berserk,"At-Will – Free Action
 Trigger: The user’s drops to half HP or below for the first time in an encounter, or becomes Enraged
 The user receives +1 Special Attack Combat Stage."
-Berserk DNA,"Sharply ups highest attacking stat but confuses on entry."
-Berserker Rage,"Berserk + Rampage."
+Berserk DNA,"Sharply ups highest attacking stat but enrages on entry."
+Berserker Rage,"Tipping Point + Rampage."
+Best Offense,"Mystic blades + use 20% of spdef during moves."
 Big Leaves,"Static
 User gains the following abilities : Chlorophyll, Harvest, Leaf Guard, Solar Power"
 Big Pecks,"Static
@@ -197,6 +210,8 @@ Contact Moves Gain +1DB"
 Big Swallow,"Static
 Effect: Connection - Stockpile. Whenever the user uses Swallow or Spit Up, it may treat the Stockpile Count as
 if it was one higher. This Ability has no effect if the Stockpile Counter is already 3."
+Biofilm,"50% spdef boost under Toxic Terrain."
+Bird of Prey,"Big Pecks + Scrappy."
 Blade Dance,"Triggers 50 BP Leaf Blade after using a dance move."
 Blade's Essence,"Keen Edge + Mystic Blades."
 Blademaster,"Sweeping Edge + Keen Edge."
@@ -212,11 +227,12 @@ Blessed Touch,"Daily x2 – Standard Action
 Effect: An adjacent Pokémon or Trainer gains Hit Points equal to 1/4th of its maximum Hit Points."
 Blight Scale,"Multiscale + Poison Point"
 Blind Rage,"Scrappy + Mold Breaker."
+Blistering Sun,"Desolate Land + Air Blower."
 Blitz Boxer,"At full HP, gives +1 priority to this Pokémon's punching moves."
 Blood Bath,"Immune to bleed. Inflict fear when inflicting bleed."
 Blood Price,"Does 30% more damage but lose 10% HP when attacking."
 Blood Stain,"Is always bleeding if not immune. Spreads on contact."
-Blood Stigma,"Immune to status. Gets a 50% boost vs bleeding foes."
+Blood Stigma,"Immune to status. Gets a 2x boost vs bleeding foes."
 Bloodlust,"Blood Bath + Soul Eater."
 Blow Away,"Static
 Effect: Connection - Whirlwind. When the user uses Whirlwind, all targets hit lose a Tick of Hit Points."
@@ -242,12 +258,17 @@ Bonus to Bone Club, Bonemerang, and Bone Rush. Additionally, the user cannot be 
 Thick Club forcefully removed by Trick, Switcheroo, Thief, or any other Moves or effects unless the user wishes
 it."
 Bone Zone,"Bone moves ignore immunities and deal 2x on not very effective."
+Brain Mass,"Halves damage taken while at full HP."
+Brain Overload,"When hit, sets up Psychic Terrain."
 Brawling Wyvern,"No guard + Dragon type moves become punching moves."
+Break it Down,"After using an attack, follow up with a 20BP Rapid Spin."
 Breakwater,"Swift Swim + Stall."
+Breezy Neigh,"KOs raise Speed by one stage."
 Brightness,"Static
 Effect: The user gains Last Chance with Light."
 Brimstone,"Static
 Effect: Whenever the user causes a Burn with a damaging Fire-Type Attack, the target is also Poisoned."
+Bruiser,"Adds Fighting type on entry."
 Brute Force,"Rock Head + Reckless"
 Bulletproof,"Static
 Effect: The user resists all X target ranged attacks one step further. This refers to attacks and Moves that
@@ -270,7 +291,9 @@ Trigger: The user causes a foe to Faint by using a damaging attack
 The user increases their Speed by 1 Combat Stage and may immediately take an additional Shift Action to
 move as if they were Slowed. This Ability may only be activated if the user is not prevented from shifting"
 Celestial Blessing,"Recovers 1/12 of its health each turn under Misty Terrain."
+Chainsaw,"Keen edge attacks lower defense by -1."
 Champion's Entrance,"Intimidate + Violent Rush"
+Chandelier,"Illuminate + Pyromancy."
 Change of Heart,"Uses Heart Swap on switch-in."
 Cheap Tactics,"Frequency: At-Will - Free Action
 Target: The user rolls a natural 3, 7, or 13 on an attack roll with a contact move
@@ -283,19 +306,26 @@ Connection – Sweet Scent. Whenever the user hits a male target with Poison Gas
 Venom Drench, that target becomes Infatuated with the user."
 Cherry Power,"Daily – Swift Action
 Effect: The user gains 15 Temporary Hit Points, and is cured of all Persistent Status Afflictions."
+Chestnut Axe,"Keen edge + Grass moves become Keen Edge boosted."
+Chestnut Shield,"Impenetrable + Bulletproof"
 Chilling Neigh,"At-Will – Free Action
 Trigger: The user causes a foe to Faint with a damaging attack
 Effect: The user’s Attack is raised by 1 Combat Stage. In addition, all foes within 3m of the user take a -2
 penalty to evasion for one full round."
+Chilling Pellets,"Uses 13BP Icicle Spear when hit by contact."
+Chilling Presence,"10BP Icy Wind on entry."
 ChillngNeigh,"KOs raise Attack by one stage."
 Chlorofury,"Daily – Swift Action
 Effect: The user gains +1 Combat Stage in Special Attack and Special Defense"
 Chlorophyll,"Static
 Effect: While in Sunny Weather, the user gains +4 Speed Combat Stages."
 Chloroplast,"Weather Ball, Solar Beam/Blade, Growth act as if used in sun."
+Chokehold,"Binding moves lower speed and paralyze."
+Christmas Nightmare,"Enemies take 1/8 damage when in hail."
 Christmas Spirit,"Static
 While Snowing the user resists all incoming Attacks one step further . Defensive"
 Chrome Coat,"Reduces special damage taken by 40%, but decreases Speed by 10%."
+Chuckster,"Once per entry, take 1/2 damage and force-switch the target."
 Chunky Bass Line,"Triggers a 40BP Earthquake after using a sound move."
 Clap Trap,"Counters contact with 50BP Snap Trap."
 Clay Cannons,"At-Will – Swift Action
@@ -373,6 +403,7 @@ Contrary,"Static
 Effect: If something would raise the user’s Combat Stages, it instead lowers the user’s Combat Stages by the
 same amount. If something would lower the user’s Combat Stages, it instead raises the user’s Combat Stages
 by the same amount."
+Cool Exit,"Uses Chilly Reception at the end of your 2nd turn."
 Copy Master,"Static
 Effect: Connection - Copycat. Whenever the user uses Copycat or Mimic, it gains +1 Combat Stage in a Stat of
 its choice after the Move is resolved."
@@ -382,7 +413,9 @@ Corrosive Toxins,"Scene – Free Action
 Effect: Connection - Toxic. The user may activate this Ability when using Toxic to allow the Move to ignore
 being Badly Poisoned (such as Magic Guard or Poison Heal)."
 Corrupted Mind,"Psychic moves ignore resists and get 1.4x effect chance."
-Cosmic Daze,"2x damage vs confused. Enemies take 2x confusion damage."
+Cosmic Daze,"Deals 2x damage vs confused and enraged foes."
+Cosmic Dust,"Magic Guard + Cosmic Daze."
+Cosmic Wings,"Flying moves become Fairy-type."
 Costar,"Scene - Free Action
 Target: An ally within 5 meters with positive Combat Stages
 Effect: The user's Combat Stages are changed to match the target's Combat Stages."
@@ -401,6 +434,8 @@ may be at home in several types of terrain."
 Coward,"Scene – Free Action
 Trigger: When the user enters the battle
 The user gains one tick of Hit Points as provisoiry HP. Defensive"
+Craving,"Eat a random berry at the end of the turn."
+Crispy Cream,"30% to inflict burn/frostbite when hit by contact."
 Crowned King,"Unnerve + Grim Neigh + Chilling Neigh."
 Crowned Shield,"Dauntless Shield + Stamina."
 Crowned Sword,"Intrepid Sword + Anger Point."
@@ -416,10 +451,14 @@ Trigger: The user successfully Grapples a target
 Effect: Connection – Wrap. When you activate this ability, the user may immediately deal damage to the target
 as if the user had hit with a Struggle Attack. There is no Accuracy Roll and thus this damage cannot miss, be a
 Critical Hit, or trigger any Effect Ranges."
+Crushing Jaw,"Strong Jaw + Biting moves have a 50% chance to lower defense."
 Crust Coat,"Immune to critical hits. Takes 20% less damage from attacks."
 Cryo Architect,"Boosts Attack and Def when hit by Water or Ice."
-Cryo Proficiency,"Triggers hail when hit. 30% chance to frostbite on contact."
+Cryo Proficiency,"Freezing Point + triggers hail when hit."
 Cryomancy,"Moves inflict frostbite 5x as often."
+Cryostasis,"Cryomancy + Frostbite causes flinching."
+Cryptic Power,"Doubles own Sp. Atk stat. Boosts raw stat, not base stat."
+Crystalline Armor,"Reflects stat drops and immune to critical hits."
 Crystallize,"Static
 Rock moves become Ice and gain DB +1."
 Cud Chew,"Scene - Swift Action
@@ -428,6 +467,9 @@ Curious Medicine,"Scene – Swift Action
 Special: The user may instead trigger this as a Free Action Reaction when entering the field
 Effect: All allies within 2m of the user have their CS reset to their default values."
 CuriusMedicn,"Resets its ally's stat changes on entry."
+Curlipede,"Let's Roll + Coil Up"
+Current Crash,"Reckless + Thundercall."
+Curse of Famine,"Eats terrain, restores hp, and boosts a defense."
 Cursed Body,"Scene – Free Action
 Trigger: The user is hit by a Damaging Move.
 Effect: The Move becomes Disabled."
@@ -449,6 +491,7 @@ The user copies the triggering Dance move immediately after the Pokemon or Train
 Danger Syrup,"Scene – Free Action
 Effect: Connection - Sweet Scent. If the user is hit by a damaging attack, it may use Sweet Scent as a Free
 Action, frequency allowing."
+Daredevil,"+1 Atk after using recoil move. 1/2 recoil damage."
 Dark Art,"Static
 Effect: The user gains Last Chance with Dark."
 Dark Aura,"Static
@@ -462,6 +505,7 @@ Dazzling,"Scene x2 – Swift Action
 Target: An Adjacent Foe
 For the rest of the Scene, the target's Initiative is lowered by 10 and cannot use Priority Moves
 Bonus: Interrupt Moves may not be declared in response to the user's actions."
+Dead Bark,"Adds Ghost type. Takes 15% less damage. 30% less damage if SE."
 Dead Power,"1.5x Attack boost. 20% chance to curse on contact moves."
 Deadeye,"Static
 Accuracy Increased by 2."
@@ -474,6 +518,7 @@ Effect: The user uses the Move “Follow Me” as if it was on their Move List, 
 until the end of their next turn."
 Deep Cuts,"Slashing moves have a 50% chance to inflict bleeding."
 Deep Freeze,"Boosts Water and Ice by 1.25x. Halves Fire damage taken."
+Deep Fried,"Summons a sea of fire on entry."
 Deep Sleep,"Static
 When asleep, this Pokémon restores a Tick of Hit Points at the end of each turn. Defensive."
 Defeatist,"Static
@@ -482,6 +527,7 @@ are lowered by 1 Combat Stage each, and the user’s Speed is increased by +2 Co
 healed above 50% max Hit Points, these changes are reverted."
 Defiant,"Static
 the user’s Attack is raised 2 Combat Stages."
+Deflect,"Counters with 20 BP Vacuum Wave when hit. Takes 20% less damage."
 Defy Death,"Daily – Swift Action
 Effect: By activating this Ability, the user is instantly healed of up to 2 Injuries; these counts towards the total
 number of Injuries that can be healed each day. Additionally, to die, the user must reach -250% Hit Points
@@ -498,6 +544,7 @@ Delta Stream,"Strong Winds until switched out. Weather-based moves not usable."
 Demolitionist,"Readied Action + Ignores Protect + screens break on readied turn"
 Denting Blows,"Hammer moves lower Defense."
 Depravity,"Merciless + Overcharge."
+Depth Explorer,"Field Explorer + Illuminate."
 Desert Cloak,"Protects its side from status and secondary effects in sand."
 Desert Spirit,"Summons sand on entry. Ground moves hit airborne in sand."
 Desert Weather,"Static
@@ -506,6 +553,8 @@ Effect: The user is immune to Sandstorm Damage, resists Fire-Type Moves in Sunny
 Desolate Land,"Intense Sun until switched out. Water-type moves are unusable."
 Desolate Sun,"Desolate Land + Earth Eater."
 Determination,"Ups Special Attack by 50% if suffering."
+Deviate,"Normal moves become Dark. Dark moves are empowered."
+Devious Present,"Boosts Ice and throwing moves by 50%."
 Devourer,"Strong Jaw + Primal Maw."
 Diamond Defense,"Static
 Effect: Connection - Stealth Rock. Stealth Rock’s Frequency is Scene x2, and the user’s Stealth Rocks can be
@@ -535,10 +584,12 @@ Attack CS. If both are tied, the user gains +1 CS to any Stat of their choice."
 Draco Morale,"Uses Dragon Cheer on switch-in."
 Draconic Aura (dragon aura),"Static
 Effect: The user and all allies have the Damage Base of their damaging Dragon Type Attacks increased by +1."
-Draconize,"Normal-type moves become Dragon and get a 1.1x boost."
+Draconic Might,"Draconize + Half Drake."
+Draconize,"Normal moves become Dragon. Dragon moves are empowered."
 Dragon's Maw,"Boosts the power of Dragon-type moves by 1.5x."
 Dragon's Ritual,"Dealing a KO raises Attack and Speed by one stage."
-Dragonfly,"Adds Dragon type to itself. Avoids Ground attacks."
+Dragonfly,"Adds Dragon type on entry. Avoids Ground attacks."
+Dragonfruit,"Half Drake + Rough Skin."
 Dragonslayer,"Static
 Users STAB moves deals extra 10 damage to dragon type."
 Dragon’s Maw,"Scene x2 – Free Action
@@ -546,6 +597,8 @@ Trigger: The user hits with a damaging Dragon-Type Move
 Effect: One target hit by the attack becomes one stage more vulnerable to the attack (applied after all other
 modifiers). Immune targets are treated as initially double-resistant for the purposes of this Ability, and may be
 damaged normally."
+Drake Of Rage,"Tinted Lens + Rampage"
+Drakelp Head,"Weakens first move taken and drops opponent's attack."
 Dream Catcher,"Scene x2 - Free Action
 For each Sleeping pokemon on the field users does 5 more damages"
 Dream Smoke,"Scene — Free Action
@@ -553,12 +606,15 @@ The user is hit by a Melee Attack'
 The attacking foe falls Asleep."
 Dream State,"Immune to critical hits. Takes 20% less damage from attacks."
 Dream Whimsy,"Uses Yawn on switch-in."
-Dreamcatcher,"Doubles move power if anyone on the field is asleep."
+Dreamcatcher,"Doubles damage if an opponent is sleeping. Pursues sleeping foes."
+Dreamscape,"Comatose + Dreamcatcher + Deal 20% more damage."
 Dreamspinner,"Scene x3 — Swift Action'
 effect: All Sleeping Foes within 3 meters lose a Tick of Hit Points, and the user gains a Tick of Temporary Hit
 Points."
 Drizzle,"Scene x3 — Swift Action
 The Weather changes to be Rainy for 1 full round."
+Droideka,"Heatproof + Shell Armor."
+Drop Blocks,"When hit, set up spikes."
 Drought,"Scene – Free Action
 Effect: The Weather changes to be Sunny for 5 rounds."
 Drown Out,"At-Will — Swift Action
@@ -571,9 +627,11 @@ Tick of Hit Points. The user is immune to the damage and effects of Water-Type M
 user is hit by a damaging Water-Type Move or ends their turn in Rainy Weather, they gain a Tick of Hit Points"
 Dual Wield,"Scence x2
 Mega Launcher moves hit twice each hit at 50% power."
+Duality,"Infiltrator + Competitive."
 Dune Terror,"Static
 Ground Moves Gain DB+1 Additionally in sandstorm Ground moves Gain +1 extra DB and User reduce
 damage by 5 for every 20 level during Sandstorm."
+Dune Veil,"Desert Cloak + Self Sufficient."
 Dust Cloud,"Scene – Free Action
 Effect: Connection - Poison Powder. Whenever the user uses Poison Powder, Sleep Powder, or Stun Spore, the
 user may activate this Ability to use if it as if that move have a range of Burst 1 instead."
@@ -585,7 +643,9 @@ Effect: The user is immune to the damage and effects of Ground-Type attacks, and
 a Ground Type attack,They gain HP equal to a Quarter of their Max HP Defensive."
 Earthbound,"Static
 The user's Ground moves gain DB+1"
+Echolocation,"In fog, deal 20% more damage and never miss."
 Ectoplasm,"Ups highest attacking stat by 1.5x in fog."
+Edgelord,"First Keen Edge move each entry gets +1 priority. Resets on KO."
 Effect Spore,"Scene – Free Action
 Trigger: The user is hit by a Melee Attack
 Effect: Roll 1d6. On a result of 1 or 2, the attacker is Poisoned. On a result of 3 or 4, the attacker is Paralyzed.
@@ -600,6 +660,7 @@ Electric Surge,"'Scene - Swift Action
 The Field becomes Electric, as if affected by the Move Electric Terrain."
 Electrifying Aura (electric aura),"Static
 Effect: The user and all allies have the Damage Base of their damaging Electric Type Attacks increased by +1."
+Electro Booster,"Uses Magnet Rise on entry."
 Electro Surge,"Casts Electric Terrain on entry. Lasts 8 turns."
 Electrocytes,"Boosts the power of Electric-type moves by 1.25x."
 Electrodash,"Scene – Free Action
@@ -607,30 +668,37 @@ Effect: The user may make a Sprint Action as a Swift Action."
 Electromorphosis,"Static
 The User is hit by Physical damage Effect: When the user takes damage from any source, it will gain Charged
 to the damage roll of the next electric type move it uses"
+Elemental Aegis,"Takes 1/2 damage from Fire, Electric and Water-type attacks."
 Elemental Charge,"20% chance to BRN/FRZ/PARA with respective types."
 Elemental Vortex,"Flash Fire + Water Absorb."
-Emanate,"Normal-type moves become Psychic and get a 1.1x boost."
+Elude,"Uses Speed as defense stat when hit by non-contact."
+Emanate,"Normal moves become Psychic. Psychic moves are empowered."
 Embody Aspect,"+1 Speed on Entry."
 Emergency Exit,"'At-Will - Free Action
 trigger: The user is brought to 50% Hit Points or lower. The user must have more than 50% Hit Points for this
 ability to Trigger.
 effect:The user may choose to immediately return to its Pokeball. A new Pokemon can immediately be sent
 out."
+Emperor's Wrath,"King's Wrath + Queen's Mourning."
 Empower,"Scene - Swift Action
 The user may use a self-targeting Status-Class Move as a Free Action."
+Empress,"Queenly Majesty + Rivalry."
 Enduring Rage,"Static
 Effect: The user may not make rolls to cure themselves from the Enraged condition. However, while Enraged,
 the user gains 5 Damage Reduction."
 Energized,"Generator + charges up on KO with an Electric-type move."
 Energy Horns,"Mighty horn moves become special and deal 30% more damage."
 Energy Siphon,"Heals the user for 1/4 of the damage they deal."
+Energy Tap,"Heals the user for 1/8 of the damage they deal."
 Enfeebling Lips,"Static
 Effect: Connection - Lovely Kiss. Whenever the user uses the Move Lovely Kiss, they may choose a Stat. If the
 Move successfully hits, the Pokémon or Trainer being targeted loses 2 Combat Stages in that Stat."
 Enlightened,"Emanate + Inner Focus."
 Entrance,"Confusion also inflicts infatuation."
+Envenom,"Moves have a 30% chance to poison the target."
 Equinox,"Boosts Atk or SpAtk to match the higher value."
 Eternal Blessing,"Celestial Blessing + Regenerator."
+Eternal Flower,"Reduces the stats of other Megas by 20%."
 Ethereal Rush,"This Pokémon's Speed gets a 1.5x boost in fog."
 Evaporate,"Scene – Free Action
 Trigger : Ther user is Hit by a Water Type Move.
@@ -638,7 +706,7 @@ Takes no damage and sets mist. Defensive."
 Exploit,"Static
 Effect: Whenever you deal Super-Effective Damage to a target, that target treats your Damage Roll as it were
 increased by DB+1"
-Exploit Weakness,"Deals 1.25x and targets lowest defense vs statused foes."
+Exploit Weakness,"Targets lowest defense vs statused foes."
 Exploiter,"Scene x2 – Swift Action
 If opponent has less than 50% user may act with any move as if it had the priority Keyword."
 Fabulous Trim,"Static
@@ -664,7 +732,7 @@ Effect: The user and all allies have the Damage Base of their damaging Fairy Typ
 Fairy Orbs,"Scene - Free Action
 The user creates 3 Fairy Orbs. Whenever the user is targeted by a foe within 6 meters, they may spend a Fairy
 Orb to use the Move Fairy Wind against that foe as a Free Action after the triggering Move is resolved."
-Fairy Tale,"Adds Fairy type to itself."
+Fairy Tale,"Adds Fairy type on entry."
 Fairy Wrath,"Static
 Pixiliate + Rampage"
 Faraday Cage,"Shell Armor + 50BP Thunder Cage when hit by contact."
@@ -672,8 +740,10 @@ Fatal Precision,"Static
 User Super Effective moves gain a bonus +1 Accuracy."
 Fearmonger,"Static
 Intimidate + Scare + Frighten"
-Feline Prowess,"Doubles own Sp. Atk stat. Boosts raw stat, not base stat."
-Fertilize,"Normal-type moves become Grass and get a 1.1x boost."
+Feathercoat,"Takes 10% less damage from attacks, 20% if resisted."
+Fertilize,"Normal moves become Grass. Grass moves are empowered."
+Festivities,"Sound moves become dance moves and vice versa."
+Fey Flight,"Adds Fairy-type and levitates."
 Field Explorer,"Static
 All field exploring moves damage base increased by 2 (Surf,Dive,Flash,Rock-Smash,Strength,Climb,Cut,
 Flash,Waterfall)"
@@ -693,7 +763,11 @@ Effect: When the user is hit by a Super-Effective attack, the attack deals x1.25
 If the user is hit by a Super-Super-Effective attack, the attack deals x1.5 damage instead of x2 damage. . If you
 have both Solid Rock and Filter, you gain 5 Damage Reduction against Super-Effective Damage. Defensive."
 Final Blow,"Unseen Fist + Fatal Precision."
+Fire Aspect,"Absorbs fire moves and always burns with fire."
+Fire Ruler,"King's Wrath + Flame Shield"
 Fire Scales,"Halves damage taken by Special moves. Does NOT double SpDef."
+Fire's Wrath,"Intimidate + Scare; 10% burn chance on non contact moves."
+Firefighter,"Deals 1.5x damage to Fire. Takes 0.5x damage from Fire."
 Flame Body,"Scene – Free Action
 Trigger: The user is hit by a Melee Attack
 Effect: The attacking foe becomes Burned."
@@ -718,6 +792,7 @@ Flavorful Aroma,"At-Will – Free Action
 Trigger: The user uses Aromatic Mist
 Effect: Connection – Aromatic Mist. All allies affected by Aromatic Mist gain +1 to Accuracy Rolls and +5 to
 Damage Rolls for one full round."
+Flawless Precision,"Fatal + Deadly Precision."
 Flock,"Static
 Effect: The user's Flying Type Moves Gain DB+1."
 Flourish,"Boosts Grass moves by 50% in grassy terrain."
@@ -725,6 +800,7 @@ Flower Gift,"Scene - Swift Action
 ffect: Flower Gift may only be used if the Weather is Sunny or if the user is under 50% Hit Points. When
 activated, the user may pick two Stats, gaining +2 Combat Stages in each Stat. All targets within 2 meters also
 gain +1 Combat Stage in each of the chosen Stats."
+Flower Necklace,"This Pokémon's SpDef gets a 1.5x boost in Grassy Terrain."
 Flower Power,"Static
 effect: The user may perform damaging Grass Type Moves as if they were their choice of either Physical or
 Special."
@@ -740,8 +816,12 @@ Flutter,"At-Will — Shift Action
 The user gains +3 Evasion until the end of their next turn, and cannot be Flanked.Defensive."
 Flying Fly Trap,"Static
 'The Pokémon takes no damage from Ground Type Moves and Bug Type Moves. Defensive."
+Foamy Web,"Casts an unremovable Sticky Web on entry. Lasts 5 turns."
 Focus,"Static
 The user gains Last Chance with Fighting."
+Fog Machine,"When hit, Set up Eerie Fog."
+Foggy Eye,"While in Fog, boost Ghost moves by 50% and resist Ghost moves."
+Food Lovers,"Hospitality + Friend Guard."
 Forecast,"Static
 The user's Type changes depending on the weather. It changes to Fire Type if it is Sunny, Ice Type if it is
 Hailing, Water Type if it is Rainy, and Rock Type if there is a Sandstorm. It returns to Normal Type if it is in
@@ -760,8 +840,10 @@ Forsaken Heart,"KOs dealt anywhere on the field raise Attack by one stage."
 Fort Knox,"Static
 the user’s Defense is raised 2 Combat Stages.Defensive."
 Fortitude,"Boosts SpDef +1 when hit. Maxes SpDef on crit."
+Fortress,"Filter + Shell Armor."
 Fossilized,"Static
 Resists Rock Type Moves 1 Step Further and Rock-Type Moves DB is increased by 2.Defensive."
+Foul Energy,"Boosts Dark-type moves by 1.2x, or 1.5x when under 1/3 HP."
 Foundry,"At-Will – Free Action
 Trigger: The user uses a Rock-Type damaging Move
 Effect: The Move is changed to be Fire Type and it's Damge Base is increased by 1."
@@ -787,11 +869,14 @@ Effect: The target reveals their Type, Ability, Nature, Level, and name of any H
 holding, if any."
 From the Shadows,"Attacks trap and have a 20% flinch chance when moving first."
 Frost Burn,"Triggers 40BP Ice Beam after using a Fire-type move."
+Frost Dragon,"Triggers 50 BP Blizzard after using a Dragon or Ice-type move."
+Frostbind,"Inflicting Frostbite also inflicts Disable."
 Frostbite,"Static
 Effect: The user’s damaging Ice-Type attacks cause the target to become Slowed on 18+, and the Effect Range
 for Freeze on these Moves is increased by +1. If the Move does not cause Freezing, it now causes Freezing on
 a roll of 20."
 Frostmaw,"Biting moves have a 50% chance to inflict frostbite."
+Frosty Prescence,"Uses Mist on entry."
 Frozen Soul,"Ice-type moves get +1 priority at max HP."
 Full Guard,"Scene — Swift Action
 You take Damage while having Temporary Hit Points
@@ -809,6 +894,7 @@ Attacks. Defensive"
 Furnace,"User gains +2 Speed when when hit by rocks."
 Gale Wings,"Static
 Effect: The user may use Flying-Type Moves as if they have the Priority keyword."
+Galeforce Wings,"Flying moves get +1 Priority."
 Gallantry,"Gets no damage for first hit."
 Galvanize,"At-Will – Free Action
 Trigger: The user uses a Normal-Type or Sound-Type damaging Move
@@ -822,6 +908,9 @@ Gentle Vibe,"Scene – Standard Action
 Range: Burst 2
 Effect: All targets in the burst, including the user, have their Combat Stages reset, and are cured of any Volatile
 Status ailments."
+Ghost Frenzy,"Hyper Aggressive + Soul Eater."
+Ghost Pepper,"Grass moves have a 30% to cause burn."
+Giant Shuriken,"Water Shuriken hits once with 100BP and +1 crit."
 Giant Wings,"Static
 All the users Air, Wind and Wing get their DB increased by 1"
 Gifted Mind,"Static
@@ -830,6 +919,7 @@ Giver,"Scene x2 - Swift Action
 Connection - Present. After rolling to determine Present's Damage Base, you may choose to ignore the roll
 and act as if you had rolled a 1 or a 5.
 Bonus: The user may know any number of TM and Tutor Moves, instead of a maximum of three."
+Glacial Ghost,"Slush Rush + Snow Cloak."
 Glacial Rage,"Triggers 50 BP Blizzard after using a Ice-type move."
 Gladiator,"Boosts Fighting-type moves by 1.3x, or 1.8x when below 1/3 HP."
 Gleam Eyes,"Frisk + Scare."
@@ -839,6 +929,8 @@ Glisten,"Static
 Afflictions may still alter their Combat Stages. Defensive."
 Gluttony,"Static
 Effect: The user may eat up to three Food Items per encounter, and up to two refreshments per half hour."
+Gnashing Cannon,"Mega Launcher + Mind Crunch."
+Going Berserk,"Berserk + Rampage"
 Good As Gold,"Static
 Effect: This pokemon is immune to Status Afflictions and to Status moves used by other Pokemon. Defensive."
 Gooey,"At-Will – Free Action
@@ -853,6 +945,7 @@ Effect: The user gains a +10 bonus to damage rolls until the end of the Scene, i
 Move. However, until the end of the Scene, they may only use Moves that they have already used in this
 Scene before triggering this Ability (the triggering Move is included in those usable)."
 Grappler,"Trapping moves last 6 turns. Trapping deals 1/6 HP."
+Grass Flute,"Sound moves inflict Fear."
 Grass Pelt,"Static
 When standing on any grassy or leafy terrain that is either Slow or Rough Terrain, the user gains +5 Damage
 Reduction. Defensive."
@@ -861,6 +954,7 @@ The Field becomes Grassy, as if affected by the Move Grassy Terrain."
 Gravity Well,"Scence x1 Swift Action
 Effecct : Sets Gravity for 5 turns."
 Greater Spirit,"Ups highest stat by +1 on entry in fog."
+Greedy,"Uses Thief when it loses an item."
 Grim Neigh,"At-Will – Free Action
 Trigger: The user causes a foe to Faint with a damaging attack
 Effect: The user’s Special Attack is raised by 1 Combat Stage. In addition, all foes within 3m of the user take a
@@ -870,7 +964,7 @@ On a 17+ roll user may 'Grip' the target makes it Stuck and Trap then next user 
 Target are considered super effective."
 Ground Shock,"Scene x2 – Free Action
 User may hit a Ground-Type with an Electric move as if it was resisted."
-Grounded,"Adds Ground type to itself."
+Grounded,"Adds Ground type on entry."
 Growing Tooth,"Scene x2 – Free Action
 When Rolling a 16+ on a Biting move user's Attack is raised by one Combat Stage."
 Guard Dog,"Static
@@ -878,6 +972,7 @@ Trigger: A foe’s Ability directly lowers the user’s CS (including Accuracy a
 things like Status).
 Effect: The user’s CS are instead raised by the same amount they would have been lowered.
 Bonus: The user is immune to Push effects, and the effects of Roar. Defensive."
+Guardian Coat,"Blocks weather dmg and powders. Takes -20% physical damage."
 Guilt Trip,"Sharply lowers attacker's Attack and SpAtk when fainting."
 Gulp,"Daily – Extended Action
 Effect: If the user is allowed to spend time fully submerged in water for at least 10 minutes, they may heal up
@@ -896,17 +991,21 @@ Combat Stages. If suffering from none of these conditions, the user loses any Co
 Hadron Engine,"Scene-Free action
 Trigger: Pokemon is thrown out
 Effect: The User Setups Electric Terrain and gains +1 CS to Special attack"
-Half Drake,"Adds Dragon type to itself."
+Half Drake,"Adds Dragon type on entry."
+Hammer Fist,"Boosts punch and hammer moves by 25%."
+Hand Barnacles,"Multi-Headed + Water STAB."
 Handyman,"Static
 The user may hold two Held Items at once. Whenever an Ability or Move affects the user’s Held Items, you
 may choose which one is affected."
 Hardened Sheath,"Static
 Effect: The user raise it's attack by 1 CS when rolling a 16+ ."
+Harukaze,"Setting Grassy Terrain sets Tailwind and vice versa."
 Harvest,"At-Will – Free Action
 Effect: Whenever the user trades in a Digestion Buff from a Berry, flip a coin. On heads, the user gains all the
 benefits of the Digestion Buff, but the Buff is not used up. On tails, the Buff is consumed normally. While in
 Sunny Weather, the Buff is never consumed. The user may trade in a Digestion Buff up to once per turn during
 an encounter, but only until they flip “Tails”."
+Haste Makes Waste,"Stall + Analytic."
 Haunt,"Static
 Effect: The user gains Last Chance with Ghost."
 Haunted Spirit,"When this Pokémon is KO'd, casts a Curse on the attacker."
@@ -916,12 +1015,14 @@ Trigger: The user uses a Status Move; or the user ends their turn while Asleep.
 Effect: The user creates a Burst 2 or Close Blast 3 of allergenic pollen. All Trainers and Pokémon in the burst
 that are not Bug, Grass, or Poison Typed lose a Tick of Hit Points. This Ability cannot be activated in Rainy
 Weather, Sandstorms, or if it is Hailing."
+Headstrong,"+1 Spdef on entry."
 Healer,"Scene – Free Action
 Target: An Adjacent Pokémon or Trainer
 Effect: The target is cured of all Status conditions."
 Heat Mirage,"At-Will – Free Action
 Trigger: The user uses a Fire-Type Move
 The user’s Evasion is increased by +3 until the beginning of their next turn."
+Heat Sink,"Redirects Fire moves. Absorbs them, ups highest Atk."
 Heatproof,"Static
 The user resists Fire Type moves one step further (Super-Effective Becomes Neutral, Doubly-Super Effective
 becomes Super-Effective, Neutral becomes Resistant, Resistant becomes doubly Resistant)."
@@ -940,8 +1041,11 @@ Helper,"Static
 Effect: Connection - Helping Hand. Whenever the user uses a Move that targets a single Ally, that Ally gains a
 +1 Bonus to Accuracy and Skill Checks until the end of the user’s next turn"
 Hemolysis,"Poisoned foes lose all stat buffs and can't heal."
+Hemotoxin,"Supresses abilities of the target when they're poisoned."
 High Tide,"Triggers 50 BP Surf after using a Water-type move."
 Higher Rank,"Priority moves get a 1.2x boost."
+Hollow Ice Zone,"Ice-type moves apply Ice Statue and then make the user switch."
+Home Run,"Landing a crit boosts your 3 lowest stats once per turn."
 Honey Gather,"Has a 50% chance to find Honey each turn."
 Honey Paws,"Static
 The user may consume Honey to gain a Digestion Buff as if they had consumed Leftovers. This Digestion Buff
@@ -966,30 +1070,36 @@ At the beginning of each of the user’s turns, the user must choose whether it�
 Mode until the beginning of its next turn. In Full Belly Mode, it gains a +2 bonus to Accuracy. In Hangry
 Mode, it gains a +5 Bonus to Damage Rolls."
 HungerSwitch,"Changes between Full and Hangry forms after each turn."
+Hungry Maws,"Strong Jaw + Jaws of Carnage."
 Hunter's Horn,"Boost horn moves and heals 1/4 HP when defeating an enemy."
-Hunter's Mark,"Attacks with 40BP Spirit Shackle when foes try to switch."
+Hunter's Mark,"Ambush + Deadeye."
 Hustle,"Static
 The user receives a -2 penalty to all Accuracy Rolls with Physical Attacks, and gains a +10 Bonus to all Physical
 Damage Rolls."
-Hydrate,"Normal-type moves become Water and get a 1.1x boost."
+Hydra,"Multi-Headed + Hubris."
+Hydrate,"Normal moves become Water. Water moves are empowered."
 Hydration,"Static
 At the end of the user’s turn, if the weather is Rainy, the user is cured of one Status Affliction."
 Hydro Circuit,"Electric moves +50%; Water moves siphon 25% damage."
 Hyper Aggressive,"Moves hit twice. Second hit does 25% damage."
 Hyper Agressive,"Scene x2 – Swift Action
 Ther user may use the attacking move twice (second hit does half damage of the damage)"
+Hyper Cleanse,"Immune to status. Halves poison damage taken."
 Hyper Cutter,"Static
 The user’s Crit range is increased by 1. Attack Stat may not be lowered, and its Attack Combat Stages may not
 be lowered. Defensive."
 Hypnotic,"Static
 Effect: Connection - Hypnosis. When used by the user, Hypnosis cannot miss."
+Hypnotic Touch,"20% chance to sleep on contact. Also works on offense."
+Hypnotic Trance,"Hypnosis never misses and also causes Confusion."
 Hypnotist,"Hypnosis accuracy is 90% when used by this Pokémon."
-Ice Age,"Adds Ice type to itself."
+I Am Steve,"Uses No Retreat on entry."
+Ice Age,"Adds Ice type on entry."
 Ice Body,"Static
 Effect: While Hailing, the user gains a Tick of Hit Points at the beginning of each of their turns. The user is not
 damaged by Hail"
 Ice Cold Hunter,"Ice-type moves hit twice in hail."
-Ice Dew,"Boosts highest Atk instead of being hit by Ice-type moves."
+Ice Dew,"Redirects Ice moves. Absorbs them, ups highest Atk."
 Ice Downfall,"Counters contact with 60BP Icicle Crash."
 Ice Face,"Static
 The user begins the battle with two ticks of temporary hit points. As a Standard Action in Hail, they may gain
@@ -1001,6 +1111,8 @@ until the end of the user's next round. The user may also choose to shift as tho
 and does not provoke Attacks of Opportunity when moving this way. This movement may be made before or
 after creating the Snowstorm.
 Bonus: The user adds +1 to their Jump Capabilities."
+Ice Picks,"Tough Claws + Slush Rush."
+Ice Plumes,"Halves damage taken by Special moves. Does NOT double SpDef."
 Ice Scales,"Static
 The user resists Special Moves one step further. Defensive."
 Ice Shield,"Scene – Standard Action, Interrupt
@@ -1009,6 +1121,7 @@ and at least one must be adjacent to the user. These Ice Walls count as Blocking
 of the encounter or until they are destroyed. Each Ice Wall segment is 2 meters tall, 1 meter wide, and 2
 centimeters thick. Each segment has 10 Hit Points, 5 Damage Reduction, and takes damage as if it was
 IceType.Defensive."
+Icicle Fist,"Iron Fist + 30% chance to cause frostbite with punches."
 Ignition Boost,"At-Will – Free Action
 Trigger: An adjacent Ally uses a damaging Fire-Type Move
 Effect: The allied target gains a +5 Bonus to its damage roll with the triggering Move. A target may not benefit
@@ -1032,6 +1145,7 @@ Effect: The Move is changed to be Fire-Type and gains +1 Damage Base."
 Immovable Object,"Impenetrable + Sturdy."
 Immunity,"Static
 Effect: The user cannot be Poisoned or Badly Poisoned. Defensive"
+Impaler,"Mighty Horn + 30% Bleed chance on horn moves."
 Impenetrable,"Static
 The user is immune to damage and Hit Point loss from Hazards, Weather, Status Afflictions, Vortexes, Recoil,
 Hay Fever, Iron Barbs, Rough Skin, and Leech Seed. Defensive"
@@ -1099,6 +1213,7 @@ Juicy Energy,"Daily — Free Action
 The user trades in a Berry Juice Food Buff
 Instead of gaining 30 Hit Points, the user gains Hit Points equal to their Level"
 Jumpscare,"Attacks with Astonish on first switch-in."
+Jungle Fever,"If Grassy Terrain is active, gets a 1.5x Speed boost."
 Jungle's Guard,"Protects Grass-type allies from status and stat drops."
 JunshiSanda,"Punches and Kicks are both Punches and Kicks."
 Justified,"At-Will - Free Action
@@ -1112,12 +1227,14 @@ Keen Eye,"Static
 Effect: The user’s Accuracy cannot be lowered, their attacks cannot have Accuracy Penalties (such as from
 Illuminate), the user is immune to the Blind condition (but not Total Blindness), and the user ignores any
 Evasion not directly derived from Stats (such as from the Instinct Ability, or from moves like Minimize)."
+King of the Jungle,"Infiltrator + deals 1.5x more damage to Grass-types."
 King's Wrath,"Lowering any stats on its side raises Atk and Def."
 Klutz,"Static
 Effect: The Pokémon ignores the effects of all held Items in its possession. The user may drop Held Items At-
 Will as a Free Action during their turn, even if they have Status Afflictions that prevent them from taking
 actions."
 Know Your Place,"Contact attacks make foes move last for 5 turns."
+Komodo,"Adds Dragon-type + moves have 30% Bad Poison chance."
 Kunoichi's Blade,"Technician + Skill Link."
 Lancer,"Static
 During their turn, if the user Shifts at least 3 meters, they gain a +3 Bonus to Critical Hit Range until the
@@ -1125,10 +1242,12 @@ beginning of their next turn. If they do not Shift or Disengage at all, they gai
 beginning of their next turn."
 Landslide,"Static
 Effect: The user gains Last Chance with Ground."
+Laser Drill,"Horn moves have a 50% burn chance."
 Last Chance,"Static
 Effect: The user gains Last Chance with Normal."
 Last Stand,"Def and SpDef increase as HP drops. Max 1.6x."
 Lawnmower,"Removes terrain on switch-in. Stat up if terrain removed."
+Lead Claws,"Tough Claws + Mineralize."
 Lead Coat,"Static
 Increases user Defense Base state by 30% but lowers user Speed by 10%.Defensive."
 Leaf Gift,"Daily – Extended Action
@@ -1143,6 +1262,8 @@ Leek Mastery,"Static
 Effect: Connection - Acrobatics. If the user is holding a Rare Leek, they may still use Acrobatics as if they were
 not holding an item. The user cannot be disarmed of their Stick, nor can be it be forcefully removed by Trick,
 Switcheroo, Thief, or any other Moves or effects unless the user wishes it."
+Lepidopteran,"Swarm + Unaware."
+Let's Dance,"Uses Teeter Dance on entry, Confusing the field."
 Let's Roll,"Scene – Free Action
 Trigger: The user is sent out
 Starts battle in Defense Curl."
@@ -1161,6 +1282,8 @@ Light Metal,"Static
 Effect: When referring to Weight Classes, treat the Pokémon as if it is 2 Weight Classes lower."
 Light Surge,"'Scene – Swift Action<
 The Field becomes Enligthed, as if affected by the Move Light Terrain."
+Lightning Aspect,"Absorbs electric moves then ups highest stat by +1."
+Lightning Born,"Adds Electric-type on entry."
 Lightning Kicks,"Scene – Free Action
 Effect: The user may activate this Ability to use any Move with “Kick” in the name as a Priority Move."
 Lightning Rod,"Scene – Free Action
@@ -1169,6 +1292,7 @@ Effect: The Move is turned into a Single-Target Move and is re-directed at the u
 miss. This negates Lock-On or Mind Reader. Additionally, the user is immune to the damage and effects of
 Electric Type attacks, and each time they are hit by an Electric attack, the user’s Special Attack is raised 1
 Combat Stage. Defensive."
+Lightsaber,"Adds Fire-type. Keen Edge moves have 25% burn or paralysis."
 Limber,"Static
 Effect: The user is immune to Paralysis. Defensive."
 Line Charge,"Static
@@ -1187,6 +1311,7 @@ The move is changed to be Water-type and it's DB is increased by 2."
 Liquified,"Static
 Effect: The user resists all Contact Attacks one step further and user becomes one step weaker to Water Type
 Attacks. Defensive"
+Locust Swarm,"Changes into Hivemind form until 1/4 HP or less."
 Long Reach,"Static
 All of the user's Melee range, 1 target moves now have a range of 4, 1 Target. Additionally, all moves that
 were previously ranged 1 target now have 2 further range."
@@ -1197,6 +1322,7 @@ Loose Quills,"Sets a layer of Spikes when hit (contact move)."
 Loose Rocks,"Trigger- The Target is hit by a damaging physical move
 When the user takes physical damage as a reaction they may use the move Stealth Rock and apply it to the
 area immediately around them."
+Loose Thorns,"Sets Creeping Thorns when hit by contact."
 Looter,"Scene – Free Action
 Trigger: The user KO a pokemon or trainer
 Ther User recovers 3 Ticks of HP"
@@ -1205,22 +1331,27 @@ Lound Bang,"Static
 Sound Moves Confuses on 18+."
 Low Blow,"Attacks with 40BP Feint Attack on switch-in."
 Low Visibility,"Summons Eerie Fog on entry."
+Lucha Libre,"Dazzling + Defiant."
 Lucky Halo,"Negates self stat drops. Endures the a single KO."
+Lucky Wings,"Serene Grace + Giant Wings."
 Lullaby,"Scene – Free Action
 Effect: Connection - Sing. Whenever the user uses the Move “Sing”, they may activate this Feature. The user
 then picks a Pokémon or Trainer being targeted by Sing; Sing automatically hits that target."
-Lumberjack,"1.5x damage to Grass types."
+Lumberjack,"Deals 1.5x damage to Grass. Takes 0.5x damage from Grass."
 Lunar Affinity,"Copies lunar moves used by others."
 Lunar Blessing,"Static
 Fairy & Light moves Damage Based increased by 1."
 Lunar Eclipse,"Static
 Fairy & Dark Damage Base Increased by 1. Hypnosis has +2 bonus to accuracy roll."
+Lunar Wrath,"After using a Ghost move, follow up with a 50BP Moongeist Beam."
 Lunchbox,"Scene – Free Action
 Trigger: The user trades in a Digestion Buff
 Effect: The user gains 1/2 Tick of Temporary Hit Points. These Temporary Hit Points stack with any Temporary
 Hit Points granted by the triggering Buff."
+Mach 3,"Deadly Precision + Slipstream."
 Mach Speed,"Static
 Effect: The user gains Last Chance with Flying."
+Madness Enhancement,"Enrages in fog, halves damage when enraged."
 Magic Bounce,"Scene – Free Action
 Trigger: The user is hit by a Status Move
 Effect: The user may reflect the Move back to the attacker. This Ability may be used to change the placement
@@ -1228,7 +1359,7 @@ and affiliation of any Hazards being set within 10 meters of the user as well. D
 Magic Guard,"Static
 Effect: The user is immune to damage and Hit Point loss from Hazards, Weather, Status Afflictions, Vortexes,
 Recoil, Hay Fever, Iron Barbs, Rough Skin, and Leech Seed. Defensive."
-Magical Dust,"If hit by a contact move, gives Psychic type to the attacker."
+Magical Dust,"Makes foe Psychic-type on contact. Also works on offense."
 Magical Fists,"Punching moves use Special Attack and get a 1.3x boost."
 Magician,"Scene – Free Action
 Trigger: The user hits a foe with a damaging SingleTarget attack
@@ -1240,18 +1371,23 @@ Magnet Pull,"At-Will – Swift Action
 Target: A Steel-Type Pokémon
 Effect: Until the end of the user’s next turn, the target may not move more then 8-meters away from the user
 and/or may not move closer than 3-meters to the user"
+Magus Blades,"Dual Wield + Best Offense."
 Majestic Bird,"The Pokémon’s Base Special Attack stat is increased by 50%. This may double any bonuses from Nature or
 Vitamins, but not bonuses from Trainer Features."
 Majestic Moth,"Scene – Swift Action
 Trigger: The user is sent out
 Increase Highest stat by 1 CS."
 Malicious,"Lowers the foe's highest Attack and Defense stat."
+Malodor,"Suppresses attacker's abilities on contact."
 Marine Apex,"50% more damage to Water-types + Infiltrator."
 Marvel Scale,"Static
 Effect: When Asleep, Paralyzed, Burned, Frozen or Poisoned, Marvel Scale raises the user’s Defense by +2
 Combat Stages. The Combat Stages return to normal if the user is cured of their status affliction.Defensive."
+Mashed Potato,"Syrup Bomb effect on the foe for 3 turns."
+Massive Pelt,"Tangling Hair + Fluffy."
 Master Hand,"Mega Launcher + Rampage."
-Max Acceleration,"Moves use the Speed stat for damage calculations."
+Max Acceleration,"Speed Boost + Slipstream."
+Mega Drill,"Mighty Horn + all Drill moves are 30% stronger."
 Mega Launcher,"Static
 Effect: The user increases the Damage Base of Aura Sphere, Dark Pulse, Dragon Pulse, and Water Pulse,Beam
 by +2DB."
@@ -1261,11 +1397,12 @@ Effect: The user selects a Pokémon or Trainer within 10 meters. If used as a Sw
 the target becomes Disabled. If used as a Standard Action, the target is Flinched. If used as an Extended
 Action that takes about 1 minute, it can erase up to 5 minutes that have occurred within the last 30 minutes
 from the target’s memory."
-Menacing Situation,"20% chance to Fear on contact. Also works on offense."
+Menacing Situation,"30% chance to Fear on contact. Also works on offense."
+Mental Pollution,"Suppresses others' abilities when it becomes enraged."
 Merciless,"Static
 When the user attacks a target that is Poisoned, increase the critical range of the attack by 3. If they are Badly
 Poisoned, the critical range is instead increased by 6."
-Metallic,"Adds Steel type to itself."
+Metallic,"Adds Steel type on entry."
 Metallic Jaws,"Metallic + Primal Maw."
 Mighty Horn,"Static
 Increases user's Horn and drill based moves DB by 2."
@@ -1331,16 +1468,20 @@ Dragon-Type attack as if from the user of Missile Launch. Dreepy Tokens may be t
 evasions as the user, and any damage destroys them (including from Smite damage)."
 Misty Surge,"Scene – Swift Action
 The Field becomes Misty, as if affected by the Move Misty Terrain."
+Mixed Martial Arts,"Normal moves are flagged as Punch + Kick moves."
+Mob Boss,"Terrify + Deviate."
 Mojo,"Static
 Effect: Normal Types are not immune to the user’s Ghost-Type Moves."
 Mold Breaker,"Static"
 Molten Blades,"Keen Edge + Keen Edge moves have a 20% chance to burn."
+Molten Coat,"Mineralize + Rock moves have 50% burn chance."
+Molten Core,"Furnace + Absorbs Rock-moves/Stealth Rocks."
 Molten Down,"Static
 User's Fire-Type moves are super effective against Rock-type"
 Momentum,"Static
 Adds 30% of speed to contact moves damage."
 Monkey Business,"Uses Tickle on entry."
-Monster Hunter,"Deals 1.5x more damage to Dark-types."
+Monster Hunter,"Deals 1.5x damage to Dark. Takes 0.5x damage from Dark."
 Monster Mash,"Casts Trick-or-Treat on entry."
 Moody,"At-Will – Free Action
 Trigger: The user joins an encounter, misses with a Move, or hurts itself in Confusion
@@ -1354,12 +1495,13 @@ Effect: The user is immune to the damage and effects of Electric Type attacks. W
 attack hits the Pokémon, raise their Speed by +1 Combat Stage. Defensive."
 Mountain Peak,"Static
 Effect: The user gains Last Chance with Rock."
-Mountain Will,"Boosts Rock-type moves by 1.3x, or 1.8x when below 1/3 HP."
 Mountaineer,"Static
 User is ummne to Rock-Type moves and Stealth Rock.Defensive."
+Moustache,"Tangling Hair + Stamina."
 Moxie,"Static
 Effect: Whenever the user’s Move causes a target to faint, it may raise its Attack Combat Stage by +1. You may
 only trigger Moxie once per Move, even if the Move causes multiple targets to faint."
+Mucus Membrane,"Takes 30% less damage from attacks + Gooey"
 Mud Dweller,"Static
 Effect: The user resists Ground-Type and Water-Type attacks one step further.Defensive."
 Mud Shield,"Scene – Swift Action
@@ -1368,6 +1510,7 @@ Bonus: When standing on any muddy or dirty terrain that is either Slow or Rough 
 Damage Reduction. Defensive."
 Multi Headed,"Scene – Swift Action
 The user may use a move again based on the number off heads but deals 20% damage with extra attacks"
+Multi-Headed,"Hits as many times, as it has heads."
 Multiscale,"Static
 Effect: When at full Hit Points, when taking damage from a Move, half the total damage before applying
 weakness and resistance, after applying your Defenses. Defensive."
@@ -1376,6 +1519,7 @@ Effect: The user changes its Elemental Type to any of the Elemental Types. Multi
 disabled."
 Mummy,"Daily – Free Action
 Trigger: The user is hit by a Melee Attack"
+Musical Notes,"Status moves become sound-based."
 Mycelium Might,"Static
 Effect: If the user acts after its target and uses a status class move, it can inflict any status conditions caused
 by the move unimpeded by the target's abilities."
@@ -1383,6 +1527,7 @@ Mystic Blades,"Keen edge moves become special and deal 30% more damage."
 Mystic Power,"Static
 User Gains STAB on all moves."
 Mythical Arrows,"Arrow moves become special and deal 30% more damage."
+Narcissist,"When a stat is lowered, sharply raise both offenses."
 Natural Cure,"Scene – Free Action
 Whenever the user is returned to its Poké Ball or Takes A Breather, it may activate Natural Cure to cure itself of
 all Persistent Status Afflictions."
@@ -1392,8 +1537,10 @@ Connection — Needle Arm. Whenever the user hits a target with a Physical Melee
 Tick of Hit Points."
 Neuroforce,"Grants an additional 1.35x boost to Super-effective moves."
 Neurotoxin,"Inflicting poison also lowers Attack, SpAtk, and Speed."
+Neutralizing Fog,"Uses Defog on entry."
 Neutralizing Gas,"Static
 that area (the user is unaffected by this). If the user uses Poison Gas, Smog, Clear Smog, or Strange Steam,"
+Nihil Blaster,"Aura Break + Mega Launcher."
 Nika,"Iron fist + Water moves function normally under sun."
 Nimble Strikes,"Static
 The user adds half their Speed Stat to the Damage Rolls of their physical Normal-Type Moves."
@@ -1438,6 +1585,7 @@ Old Mariner,"Seaweed + Water STAB."
 Olé!,"20% chance to evade single-target moves."
 Omen,"Scene – Swift Action
 Choose a Pokémon or Trainer within 5 meters. The target’s Accuracy is lowered by 2"
+Ominous Shroud,"Phantom + Shadow Shield."
 On the Prowl,"+1 priority for the first turn. Negative priority becomes +0."
 Opportunist,"Static
 Trigger: A Pokemon within 5m gains positive combat stages
@@ -1446,6 +1594,7 @@ Orichalcum Pulse,"Scene-Free action
 Trigger: User joins encounter
 Effect: The user turns The weather to Sunny, While sunny the user gains +1 Combat stages in Attack and
 Special Attack"
+Overcast,"Low Visibility + Sets Mist on entry."
 Overcharge,"Static
 User's Electric moves do super effective damage against Electric-Types."
 Overcoat,"Static
@@ -1457,14 +1606,18 @@ Overhelm,"Static
 User can hit Fairy with Dragon-Type moves. User is also immune to Intimidate, Scare and Frighten"
 Overload,"Static
 The user gains Last Chance with Electric."
+Overrule,"Crits bypass abilities and do 2x damage vs resists."
 Overwatch,"On the Prowl + Stakeout."
 Overwhelm,"Hits Fairies with Dragon moves. Immune to Intimidate and Scare."
+Overwhelming Mind,"Boosts Psychic-type moves by 1.3x, or 1.8x when below 1/3 HP."
+Overzealous (N),"User's super-effective moves have +1 prio."
 Own Tempo,"Static
 The user is immune to Confusion.User is also immune to Intimidate, Scare and Frighten. Defensive."
 Pack Hunt,"At-Will – Free Action
 Trigger: An adjacent foe is damaged by an ally’s Melee Attack
 The user may make a Physical Attack with an AC of 5 against the triggering foe. If the attack hits, the foe loses
 a Tick of Hit Points."
+Paint Shot,"Mega launcher moves change the target's type to the move used."
 Parasitic Spores,"Deals 1/8 HP damage to non-Ghost. Spreads on contact."
 Parental Bond,"Static
 Only Kangaskhan with the Baby Template can be Mega Evolved and gain this Ability. While they have this
@@ -1473,14 +1626,14 @@ take action in battle. Both the Baby Kangaskhan with this Ability and its Mother
 Mother takes its turn; the Baby will not willingly walk farther than 10 meters from its mother however. If the
 Baby Kangaskhan with this Ability is Fainted, its mother will become Enraged, and gain 5 Damage Reduction
 and +5 to Damage Rolls for the remainder of the Scene."
-Parroting,"Copies sound moves used by others. Immune to sound."
+Parroting,"Copies sound moves used by others."
 Parry,"Scene – Free Action
 Trigger: The user is hit by a Melee Attack
 The attack instead misses. Defensive."
 Pastel Veil,"Static
 The user and allies within 3 meters cannot be Poisoned or Badly Poisoned. Defensive."
 Patchwork,"Disguise + curses the opponent when its Disguise breaks."
-Pattern Change,"Changes type depending on the move it's about to use."
+Pattern Change,"Protean + Shed Skin"
 Peaceful Slumber,"Sweet Dreams + Self Sufficient."
 Perception,"At-Will – Shift Action, Interrupt
 Trigger: An ally uses an area-of-effect attack that would hit you
@@ -1501,8 +1654,9 @@ user is hit by a Super-Super-Effective attack, the attack deals x1.5 damage inst
 whenever the user would lose a Tick of Hit Points due to an effect such as Sandstorm or the Burn Status
 condition, subtract 5 from the amount of Hit Points lost. Defensive."
 Permanence,"Foes can't heal in any way."
+Petal Shield,"Maxes Def on entry. -1 Def when hit."
 Petrify,"Clears stat buffs then lowers speed by one stage on entry."
-Phantom,"Adds Ghost type to itself."
+Phantom,"Adds Ghost type on entry."
 Phantom Pain,"Ghost-type moves deal normal damage to Normal."
 Phantom Thief,"Attacks with 40BP Spectral Thief on switch-in."
 Photonic Surfer,"Static
@@ -1541,13 +1695,15 @@ Poison Point,"Scene – Free Action
 Trigger: The user is hit by a Melee Move
 The attacking foe is Poisoned."
 Poison Puppeteer,"Poison also inflicts confusion."
+Poison Quills,"Rough Skin + Poison Point."
 Poison Touch,"Static
 The Pokémon’s Moves which deal damage Poison Legal Targets on 19+. If a move already has a chance of
 Poisoning foes, Poison Touch increases the effect range by +2."
+Polarity,"Increases the party's highest stat by 30%"
 Polinate,"At-Will – Free Action
 Trigger: The user uses a Normal-Type or Sound-Type damaging Move
 Effect: The Move is changed to be Bug-Type and gains +1 Damage Base."
-Pollinate,"Normal-type moves become Bug and get a 1.1x boost."
+Pollinate,"Normal moves becomes Bug. Immune to powder if Bug-type."
 Poltergeist,"Static
 Rotom gains an Ability and a Move depending on what Form it has taken. This Move cannot be forgotten or
 replaced in any way
@@ -1576,7 +1732,9 @@ Power Core,"The Pokémon uses +20% of its Defense or SpDef during moves."
 Power Edge,"Keen Edge moves target Special Defense and get a 1.3x boost."
 Power Fists,"Static
 Punches do special damage and gain +1DB."
+Power Leak,"When hit, set up Electric Terrain."
 Power Metal,"Sound moves get a 1.2x boost and become Steel if Normal."
+Power Outage,"Boosts first Electric attack by 2x then loses Electric type."
 Power Spot,"Static
 Allied moves gain +1DB as long as user is nearby."
 Power of Alchemy,"Transmutes berries on entry. Transmutes items when lost."
@@ -1640,7 +1798,7 @@ The user gains +2 DB to moves that have the sound type moves.
 The user is immuned to Sound type moves. Defensive."
 Pure Blooded,"Static
 The user gains Last Chance with Dragon."
-Pure Love,"Infatuates on contact. Heal 25% damage vs infatuated."
+Pure Love,"Cute Charm + heal 25% damage vs infatuated."
 Pure Power,"Static
 The Pokémon’s base attack stat is doubled. This may double any bonuses from Nature or Vitamins, but not
 bonuses from Features."
@@ -1651,6 +1809,7 @@ Purgatory,"Boosts Ghost-type moves by 1.3x, or 1.8x when below 1/3 HP."
 Purifying Salt,"Static
 This Pokémon gains resistance to ghost type moves, it also gains an immunity to all status conditions."
 Purifying Waters,"Hydration + Water Veil."
+Purple Haze,"Triggers a 20BP Poison Gas after using a move."
 Pyro Shells,"Triggers 50 BP Outburst after using a Mega Launcher move."
 Pyroclastic Flow,"Molten Down + Corrosion."
 Pyromancy,"Static
@@ -1700,14 +1859,18 @@ Raging Boxer,"Scence x2
 Punch moves hit twice. 2nd hit does half damage."
 Raging Goddess,"Rampage + Hyper Aggressive."
 Raging Moth,"Fire moves hits twice, both hits at 70% power."
+Raging Storm,"Ups highest attacking stat by 1.5x in rain."
 Rain Dish,"Static
 While Rainy, the user gains a Tick of Hit Points at the beginning of each of their turns."
+Rain Shroud,"Ups evasion by 30% in rain."
+Rainbow Scales,"Fire Scales + Taste the Rainbow."
 Rally,"Scene – Swift Action
 All allies within 10 meters may immediately shift 1 Meter in any direction they wish. Rally does not work on
 sleeping, flinched, stuck, fainted, or otherwise incapacitated allies. Rally does not work on the user."
 Rampage,"Scene
 On Ko with move that needs to charge user ignores the drawback of the move (exemple hyper beam)."
 Rapid Response,"Boosts Speed by 50% + SpAtk by 20% on first turn."
+Rat King,"Allies with a BST below 400 get their stats boosted by 50%."
 Rattled,"At-Will – Free Action
 Trigger: The user is hit by a Bug, Dark, or Ghost Type Move
 The user’s Speed is raised by +1 Combat Stage."
@@ -1718,6 +1881,7 @@ Connection - Poison Tail. The user’s Critical Hit Range on all Moves is increa
 their name have their Critical Hit Range increased by +3 instead."
 Razor Sharp,"Critical hits also inflict bleeding."
 Readied Action,"Doubles attack on first turn."
+Reaper's Embarce,"Tough Claws + Foul Energy."
 Receiver,"Special – Free Action
 Each effect below may be used once per scene when triggered:
 encounter.
@@ -1748,7 +1912,9 @@ on this Pokémon’s Movelist. If this Pokémon Faints, the engulfed Pokémon ma
 appearing in a space adjacent to this Pokémon."
 Rejection,"Applies Quash on switch-in."
 Relentless,"Exploit Weakness + Merciless"
+Relic Stone,"Other battlers don't benefit from STAB."
 Reservoir,"Water Absorb + Storm Drain."
+Resilience,"Heal 1/4 of max HP whenever below 1/2 health"
 Resonance,"Sound moves have a 30% chance to cause bleeding."
 Rest in Peace,"Heals 1/8 of max HP every turn in fog."
 Restraining Order,"Forces the attacker out when hit, once each switch-in."
@@ -1758,6 +1924,7 @@ Revelation,"Scene x2 – Free Action
 Trigger: Someone within 10 meters uses a Damaging Dance Move
 Effect: The user may immediately use the triggering Move as a Standard Action interrupt.
 Bonus: Whenever the user uses a Dance Move, they gain +2 to Accuracy Rolls until the end of their next turn"
+Reverberate,"Normal moves are Sound moves."
 Rhythmic,"Deals 10% more damage for each repeated move use."
 Ripen,"Static
 Any numeric benefits of Berry Food Buffs the user trades in are doubled. (Oran Berries restore 10 HP, Liechi
@@ -1766,14 +1933,17 @@ increase the number of statuses cured, Scene Moves restored, stats lowered by su
 triggering at double the usual HP one must be at."
 Riptide,"Boosts Water-type moves by 1.3x, or 1.8x when below 1/3 HP."
 Rising Dough,"Casts Sticky Web on entry. Lasts 7 turns."
+Rite Of Spring,"Chlorophyll + Solar Power."
 Rivalry,"Static
 Whenever the user deals direct damage to a target of the same gender, increase the Damage dealt by +5."
+Rock Armor,"Rocky Exterior + takes 10% less damage from attacks."
 Rock Head,"Static
 The user ignores the Recoil keyword when attacking."
 Rocket,"Scene – Swift Action
 The user’s Sky capability is increased by +3 until the end of the user’s next turn, and the user goes first on the
 following round, ignoring initiative; Interrupt Moves may not be used in response to their Moves that round"
 Rockhard Will,"Boosts Rock-type moves by 1.2x, or 1.5x when under 1/3 HP."
+Rocky Exterior,"Adds Rock type on entry."
 Rocky Payload,"Scene - Free Action
 Trigger: The user uses Fling.
 Connection - Fling. The user may use Fling as if it was a Flying-Type or Rock-Type move.
@@ -1792,6 +1962,7 @@ Kick moves get +1 Accuracy
 Scene x2 - Free Action
 Trigger: The user uses a Kick move
 Effect : Damages foes weaker defenses."
+Royal Decree,"Queenly Majesty + Glare on entry once per battle."
 Rude Awakening,"Raises all stats becomes immune to sleep after waking up."
 Run Away,"Static
 The user cannot be Slowed, Stuck, or Trapped. The user does not provoke Attacks of Opportunity by Shifting."
@@ -1809,6 +1980,7 @@ only to special moves)."
 Salt Circle,"Prevents opposing pokemon from fleeing on entry."
 Samba,"Striker + Dancer"
 Sand Bender,"Sand Stream + Sand Force."
+Sand Fiend,"Sand Force + Sand Guard."
 Sand Force,"Static
 While in a Sandstorm, the user’s Ground, Rock, and Steel-Type Direct-Damage Moves deal +5 Damage.
 Additionally, the user is immune to damage from Sandstorms"
@@ -1831,9 +2003,11 @@ damaged by the Sandstorm.Defensive."
 Sap Sipper,"Static
 The user is immune to the damage and effects of Grass Type attacks. If a damaging Grass Type attack hits the
 user, the user gains +1 Attack Combat Stage. Defensive."
+Sap Trap,"Lowers foe's speed at the end of turns. At -3 they get trapped."
 Scare,"Scene – Swift Action
 Target: Pokémon or Trainer within 5 meters
 Lower the target’s Special Attack 1 Combat Stage."
+Scarecrow,"Scare + Bad Luck."
 Scavenger,"Scene - Free Action
 Trigger: The user makes a pokemon or trainer faint
 The User recovers 3 Ticks of HP."
@@ -1869,6 +2043,7 @@ Self Repair,"Static
 Self sufficient + Natural cure."
 Self Sufficient,"Static
 User recovers 1/2 Tick of HP every turn."
+Sepia Lens,"Tinted Lens + Sand Guard."
 Sequence,"Scene – Free Action
 Trigger: The user uses an Electric Attack
 For every allied Electric-Type Pokémon cardinally adjacent to the user, raise the user’s Attack and Special
@@ -1876,6 +2051,7 @@ Attack by +1 CS each before calculating damage for the triggering attack. After 
 Combat Stages gained this way."
 Serene Grace,"Static
 The user’s Effect Range is increased by +2."
+Serpent Bind,"50% chance to trap, then drop the their speed by -1 each turn."
 Serpent’s Mark,"Static
 1d6 upon evolution or upon generation. If an Arbok is bred, it will have the same pattern as its parent. If both
 parents are Arboks with different patterns, determine the pattern randomly
@@ -1903,8 +2079,10 @@ from that spot."
 Shallow Grave,"Revives at 25% HP once after fainting in fog."
 Sharing Is Caring,"Stat changes are shared between all battlers."
 Sharp Edges,"1/6 HP damage when touched."
+Sharp Talons,"Kicking moves have a 50% Bleed chance."
 Sharpness,"Static
 : Cutting moves gain +2DB"
+Shattered Armor,"Battle Armor + Scrapyard."
 Shed Skin,"Scene – Swift Action
 : The user is cured of one of Paralysis, Freezing, Burns, Poison,Frostbite,Blind or Sleep"
 Sheer Force,"Static
@@ -1946,17 +2124,22 @@ their next turn."
 Simple,"Static
 When the Pokémon’s Combat Stages are altered, double the amount of Combat Stages they are raised or
 lowered."
+Sinister Claws,"Mystic Blades + Keen Edge moves lower SpDef."
 Skill Link,"Scene – Free Action
 Trigger: The user hits with a Move with the Five Strike keyword.
 The Triggering Move automatically hits 5 Times"
+Sleek Scales,"The Pokémon uses +15% of its Speed when defending."
+Slime Mold,"Sticky Hold + Gooey."
 Slipstream,"Moves use 20% of its Speed stat additionally."
 Slow Start,"Static
 For 3 rounds after joining an encounter, the user’s Speed and Attack Stats are halved and they have 10
 Damage Reduction."
+Sludge Spit,"follows up with 35BP Venom Bolt after using an attack."
 Sludgy Mix,"Intoxicate + Punk Rock."
 Slush Rush,"Static
 While in Hailing Weather or under half maximum Hit Points, the user’s Initiative is doubled"
 Smokey Maneuvers,"Evasion is boosted by 1.25x in fog."
+Smoldering Wood,"Raw Wood + Flame Body."
 Sniper,"Static
 When the Pokémon gets a Critical Hit, add the value of the Damage Dice Roll an additional time to the total
 damage."
@@ -2001,11 +2184,13 @@ Soul Devourer,"Soul Eater + Phantom Pain"
 Soul Eater,"Scene - Free Action
 Trigger: The user makes a pokemon or trainer faint
 The User recovers 3 Ticks of HP."
+Soul Harvest,"Fainted Pokemon increase your offenses and spdef by 5%."
 Soul Heart,"Scene x2 – Free Action
 Trigger: A combatant in the encounter Faints
 The user receives +2 Special Attack Combat Stages and gains a tick of Temporary Hit Points."
 Soul Linker,"Scene – Swift Action
 User shares damage taken with Target."
+Soul Tap,"Drain 10% HP from foes at the end of each turn in fog."
 Soul-Heart,"KOs dealt anywhere on the field raise Sp. Atk by one stage."
 Soulstealer,"Scene – Free Action
 Trigger: The user’s attack causes a foe to Faint
@@ -2018,7 +2203,7 @@ Special Attack score. This effect functions independently of whether Supersonic 
 Soundproof,"Static
 The Pokémon is immune to Moves with the Sonic Keyword. Defensive."
 Spectral Shroud,"Spectralize + 30% chance to badly poison the foe."
-Spectralize,"Normal-type moves become Ghost and get a 1.1x boost."
+Spectralize,"Normal moves become Ghost. Ghost moves are empowered."
 Speed Boost,"Static
 The Pokémon’s Speed is raised 1 Combat Stage at the end of each of its turns. Speed Boost has no effect
 while out of combat"
@@ -2048,6 +2233,8 @@ The triggering attack’s target is knocked down to ground level, and loses all 
 During this time, they may be hit by GroundType Moves even if normally immune."
 Sprint,"Scene – Swift Action
 The user gains +2 Speed Combat Stages. Additionally, the user’s Overland Speed is always increased by +2."
+Spyware,"Sharply raises a stat based on foe's strong point."
+Stainless Steel,"Fort Knox + Steelworker."
 Stakeout,"Static
 The user gains a +2d6+4 bonus on damage rolls against foes that were released from a Pokéball or entered
 the encounter since the user's last turn."
@@ -2106,6 +2293,8 @@ Sticky Smoke,"Scene – Free Action
 Connection - Smokescreen. All targets that begin or end their turn in the target’s Smokescreen have their
 Accuracy lowered by -1. This penalty may occur multiple times. This stacks with the usual penalties from
 Smokescreen."
+Stonecutter,"Fossilized + Rock moves ignore abilities."
+Storm Cloud,"Summon rain on entry for 8 turns. Gain Electric-type STAB."
 Storm Drain,"Scene – Free Action
 Trigger: A ranged Water-Type Move is used within 10 Meters of the user.
 The Move is turned into a Single-Target Move and is re-directed at the user without fail, and cannot miss. This
@@ -2116,8 +2305,11 @@ Strange Tempo,"At-Will - Special
 While Confused, the user may choose either to (1) As a Free Action, not to roll for Confusion, instead acting
 normally or (2) As a Standard Action, cure themselves of Confusion and gain +2 Combat Stages to the Stat of
 their choice."
+Strategic Pause,"+2 crit rate when moving last + Analytic."
+Strikeout,"Forces the foe out if they don't attack for 3 turns."
 Striker,"Static
 Increase user's kicking moves Damage Base by 2."
+Strong Foundation,"Takes 1/2 Water and Ground dmg and can't be forced out."
 Strong Jaw,"Static
 The user has the Damage Base of all Bitting Moves increased by +2;"
 Stun Shock,"Attacks have a 60% chance to Paralyze or Poison."
@@ -2130,9 +2322,11 @@ Stygian Rush,"Dark-type moves get +1 priority at max HP."
 Subdue,"Doubles stat drop effects used by this pokemon."
 Suction Cups,"Static
 The user is immune to Push effects, and the effects of Roar. Defensive."
-Sugar Rush,"Gluttony + eats foe's berry when hitting with contact move."
+Sugar Rush,"Unburden + Ripen"
+Sumo Guard,"Juggernaut + Thick Fat."
 Sumo Stance,"Static
 The user’s Weight Class is increased by +1, and the user is immune to Push effects. Defensive."
+Sumo Wrestler,"Uses 20BP Circle Throw at the end of each 2nd turn."
 Sun Basking,"Blocks priority and reduces physical damage by 1/2 in sun."
 Sun Blanket,"Static
 The user is one step more resistant to Fire & Light-Type Attacks, and gains a Tick of Hit Points at the
@@ -2140,6 +2334,8 @@ beginning of each turn in Sunny weather.Defensive."
 Sun Worship,"Scene – Swift Action
 Trigger: The user is sent out in Sunny Weather or if Weather becomes Sunny
 Increase Highest stat by 1 CS."
+Sun's Bounty,"Leaf Guard + Harvest."
+Sundae,"Snow Warning + Ice Body."
 Sunglow,"Scene – Swift Action
 The user may activate Sunglow while exposed to sunlight or Light Terrain to become Radiant. While Radiant,
 the user gains a +1 DB bonus to all Damage Rolls. The user may expend the Radiant condition upon hitting a
@@ -2150,12 +2346,14 @@ The Pokémon’s Moves are Critical Hits on 18-20. If a Move already has an exte
 Luck extends that range by 2."
 Super Scope,"Mega Launcher + Artillery."
 Super Slammer,"Boosts the power of hammer and slamming moves by 1.3x."
+Super Sniper,"Sniper + Attacks hit switching foes with 1/2 Power."
 Super Strain,"KOs lower Attack by +1. Take 25% recoil damage."
 Supercell,"Scene – Swift Action
 Supercell may only be used if the Weather is Rainy or a New Moon, or if the user is under 50% Hit Points.
 When activated, the user may pick two Stats, gaining +2 Combat Stages in each Stat. All allies within 2 meters
 also gain +1 Combat Stage in each of the chosen Stats."
 Superconductor,"Steel-type moves become Electric and get a 1.1x boost."
+Superheavy,"Steadfast + blocks phasing moves."
 Supersweet Syrup,"Sticky Hold + Disables foe's item for 2 turns on contact."
 Suppress,"Casts Torment on entry."
 Supreme Overlord,"Trigger- This Pokémon enters battle
@@ -2164,6 +2362,8 @@ gain a further +3 for every allied Pokémon that is currently fainted."
 Surge Surfer,"Static
 On Electric Terrain or while under half maximum Hit Points, the user’s Initiative is doubled."
 Surprise!,"Astonishes enemy priority users in fog."
+Survivor Bias,"Not very effective moves can't cause fainting."
+Swamp Thing,"Sets the Swamp Pledge effect on entry."
 Swarm,"Static
 The user gains Last Chance with Bug."
 Sway,"Scene – Standard Action, Interrupt
@@ -2194,14 +2394,17 @@ Effect: The user may Mirror the CS gained (This may only Target a Pokemon once p
 Tactical Retreat,"Flees when stats are lowered."
 Taekkyeon,"All attacks are dances."
 Tag,"Attacks switching opponents with a 20BP Pursuit."
+Talon Trap,"50% chance to trap on contact. 100% if entered this turn."
 Tangled Feet,"Static
 While Confused, the user gains +3 Evasion."
+Tangled Tails,"Know Your Place + Grappler."
 Tangling Hair,"At-Will – Free Action
 Trigger: The user is hit by a Melee Attack
 The attacker receives -1 Speed Combat Stage and is Slowed until the end of its next turn."
 Tar Toss,"Uses Tar Shot on switch-in."
 Targeting System,"Scene – Free Action
 Connection – Lock-On. The user may activate this Ability to use Lock-On as a Swift Action."
+Taste the Rainbow,"Summons the Rainbow Pledge effect on entry."
 Teamwork,"Static
 While you are adjacent to an opponent, allies using Melee attacks against that opponent receive a +2 bonus
 to Accuracy Checks."
@@ -2215,6 +2418,9 @@ Telekinetic,"Casts Telekinesis on entry."
 Telepathy,"At-Will - Shift Action, Interrupt
 Trigger: An ally uses an area-of-effect attack that would hit you
 You may Shift to remove yourself from the areaof-effect."
+Temporal Rupture,"Roar of Time is altered drastically."
+Tender Affection,"Cute Charm + Fairy STAB"
+Tentalock,"Grappler + Serpent Bind."
 Tera Shell,"All hits will be not very effective while at full HP."
 Teraform Zero,"Tera Shell + clears weather and terrain on first entry."
 Terastal Treasure,"Reduces damage taken by 40%, but lowers speed by 20%."
@@ -2222,16 +2428,20 @@ Teravolt,"At-Will - Free Action
 Trigger: The user damages a foe"
 Terminal Velocity,"Special moves use 20% of its Speed stat additionally."
 Terrify,"Lowers foes' Sp. Atk by two stages on entry."
+Thermal Entropy,"Thermal Exchange + Heatproof."
 Thermal Exchange,"At-Will - Free Action
 Trigger: The user is hit by a Fire-Type Move.
 Effect: The user receives +1 Attack Combat Stage.
 Bonus: The user is immune to Burns. Defensive."
+Thermal Slide,"Ups speed by 50% in sun or hail."
+Thermomancy,"Pyromancy + Cryomancy."
 Thermosensitive,"Static
 While Sunny, the user’s Attack and Special Attack are raised by +2 combat stages each. While Hailing, the
 user’s movement capabilities are reduced by half."
+Thick Blubber,"Take 1/4 damage from fire and ice in return for having 1/2 speed."
 Thick Fat,"Static
 The user resists Fire-Type and Ice-Type attacks one step further. Defensive."
-Thick Skin,"Takes 25% less damage from Super-effective moves."
+Thick Skin,"Takes 35% less damage from Super-effective moves."
 Thrust,"Static
 All moves used by this Pokémon which consult the Attack stat now have the Push keyword. The default push
 for moves is 1 meter. If a move already has the Push Keyword, that move may push 1 additional meter."
@@ -2239,6 +2449,7 @@ Thunder Boost,"At-Will – Free Action
 Trigger: An adjacent Ally uses a damaging ElectricType Move
 The allied target gains a +5 Bonus to its damage roll with the triggering Move. A target may not benefit from
 more than one instance of Thunder Boost at a time."
+Thunder Clouds,"After using a special move, launch a 35 BP Thunderbolt"
 Thundercall,"Frequency: At-Will - Free Action
 Target: The user rolls a natural 3, 7, or 13 on an attack roll with a contact move
 After the triggering attack is resolved, the user may use the move Thunder Shock as a Free Action. Note: Yes,
@@ -2280,8 +2491,10 @@ Target: A Poisoned or Badly Poisoned character within 5m
 The target is cured of their Poison and the user gains 3 ticks of Temporary Hit Points."
 Toxic Relationship,"Static
 Whenever the user poisons a target, the target also becomes infatuated."
+Toxic Shell,"Shell Armor + Poison Point."
 Toxic Spill,"Static
 None Poison Type arround the user (5m) loose 1 Tick of Hit Points every turn."
+Toxic Surge,"sets Toxic Terrain on entry."
 Trace,"Scene – Free Action
 Target: A Trainer or Pokémon within 10 meters
 The Pokémon gains an Ability known by the Target for the remainder of the encounter, or until it is Fainted."
@@ -2310,8 +2523,10 @@ At the beginning of each of its turns, the user must roll 1d20. On a roll of 7 o
 they heal a Tick of Hit Points, and do not get a Standard Action that turn. Turns in which the user refuses to
 act count towards turns used up by Interrupts or the Exhausted Condition, and the user may make Rolls to
 cure themselves from Status Effects with a +3 Bonus that turn."
+Tummyache,"Thick Fat + Corrosion."
 Turboblaze,"At-Will - Free Action
 Trigger: The user damages a foe"
+Turf War,"Destroys terrain and boosts highest stat on entry."
 Twinkle Toes,"Boosts the power of kicking moves by 1.3x + Pixilate."
 Twist. Dimension,"Scene – Swift Action
 Trigger: The user is sent out
@@ -2333,7 +2548,7 @@ Ugly,"Static
 The Pokémon’s Moves Flinch Targets on a roll of 19+. If a move already has a chance of Flinching foes, the
 Effect Range is increased by +2 instead. During the Introduction Stage of a Contest using this Pokémon, any
 6s that are rolled instead count as 1s"
-Ultra Instinct,"Counters contact with Vacuum Wave. Takes 20% less damage."
+Ultra Instinct,"Counters contact with 20BP Vacuum Wave. Takes .8x damage."
 Unaware,"Static
 When the Pokémon is attacking or being attacked, the foe must make all damage calculations as if their
 Combat Stages were at their default state."
@@ -2341,14 +2556,16 @@ Unbreakable,"Static
 The user gains Last Chance with Steel."
 Unburden,"Static
 If the user is not holding a Held Item, their Speed is increased by +2 Combat Stages."
-Unicorn,"Mighty Horn + Dazzling."
+Unicorn,"Mighty Horn + Pixilate."
 Unlocked Potential,"Inner Focus + Berserk."
 Unnerve,"Static
 Foes within 3 meters of you cannot gain positive Combat Stages or trade in Digestion Buffs. This does not
 affect any Combat Stages they already have."
 Unown Power,"Mystic Power + Hidden and Secret Power hit Super-effectively."
+Unrelenting,"All attacking moves can hit 2-5 times"
 Unseen Fist,"Static
 Reactions, Interrupts, and Blessings may not be activated in response to the user’s Melee Attacks."
+Unstable Core,"Power Core + Aftermath."
 Vanguard,"Static
 The user gains a +5 Bonus to all Damage Rolls against targets with an initiative lower than itself that have not
 yet acted that round (having Ante’d up your Action via an Interrupt or similar on a previous round does not
@@ -2387,6 +2604,7 @@ Connection – Endure. When this Ability is activated, after being set to 1 Hit 
 Points. Furthermore, if the Move that triggered Endure gave the user an Injury from Massive Damage, the user
 does not gain that Injury. Defensive."
 Violent Rush,"Boosts Speed by 50% + Attack by 20% on first turn."
+Virus,"Electric moves have 30% chance to poison as well."
 Vital Spirit,"Static
 The user is immune to the Sleep condition, and cannot use the move Rest. Defensive."
 Vitality Strike,"Heals for 10% of the damage dealt by punching moves."
@@ -2399,6 +2617,7 @@ The user is immune to the damage and effects of Electric-Type attacks, and whene
 Electric Type attack, they gain Hit Points equal to a Tick of Hit Points. Defensive."
 Volt Rush,"Static
 Effect: The user may use Fire-Type Moves as if they have the Priority keyword."
+Voltron,"Metallic + Battle Armor."
 Voodoo Doll,"Daily – Free Action
 Trigger: The user uses the Move Curse as a Ghost Type
 Connection - Curse. Choose an additional target within 8 meters of the user to become Cursed."
@@ -2411,6 +2630,8 @@ Trigger: The user is hit by a Melee attack
 The user exchanges Wandering Spirit with a random Ability of the opposing Pokémon, as per the Move Skill
 Swap."
 WandrngSprit,"Trades ability with attacker on contact."
+Warmonger,"Boosts the user's rock, steel, and fighting moves by 30%."
+Warrior's Spear,"Mighty Horn + Fighting Spirit"
 Wash Away,"Daily – Free Action
 Trigger: The user hits with a Water Type Move
 Before the Move “hits”, all Combat Stages on targets hit by the Move are reset to their default (usually 0), and
@@ -2431,11 +2652,13 @@ Water Veil,"Static
 Keywords: Immune
 The user is immune to Burns. Once per Scene user may activate Aqua Ring as a quick action even if not
 learned. Defensive."
+Waterborne,"Aquatic + Adaptability"
 Wave Rider,"Static
 While in water, the user’s Speed Stat gains +4 Combat Stages. Remove these Combat Stages if the user exits
 the water."
 Way of Precision,"Inner Focus + Precise Fist."
 Way of Swiftness,"Pretentious + Swift Swim."
+We Will Rock You,"Boosts Rock-type moves by 1.3x, or 1.8x when below 1/3 HP."
 Weak Armor,"At-Will – Free Action
 Trigger: The user takes Physical damage.
 The user may lower its Defense by 1 Combat Stage, and gain +1 Speed Combat Stage. This is done after the
@@ -2475,6 +2698,7 @@ The user's X-target Status Class Moves may target an additional target within ra
 Wimp Out,"Static
 The user is brought to 50% Hit Points or lower.
 The user is immediately returned to it's Pokeball. A new Pokemon can be immediately sent out."
+Wind Chimes,"Amplifier + attacks with 30 BP Hyper Voice when hit."
 Wind Force,"Static
 The user is immune to the damage and effects of Flying Type attacks. Whenever a Flying Type attack hits the
 Pokémon, raise their Speed by +1 Combat Stage. Defensive."
@@ -2488,6 +2712,8 @@ Windveiled,"Static
 The user is immune to the damage and effects of Flying-Type attacks. If the user is hit by a Flying-Type attack,
 the user raises the Damage Base of their next Flying-Type Move by +1. Defensive"
 Winged King,"Ups “supereffective” by 33%."
+Wings of Pestilence,"Every attack has a 20% Bleed chance and 10% Curse chance."
+Winter Throne,"1/8 Damage each turn to non-ice. Heals Ice 1/8 each turn."
 Winter’s Kiss,"Static
 The user does not take damage from Ice-Type Moves. Whenever the user uses or is hit by an IceType Move,
 the user is healed by a Tick of Hit Points. Defensive.Defensive."
@@ -2500,6 +2726,7 @@ Wistful Melody,"Scene – Free Action
 Connection – Sing. Whenever the user uses Sing, they may activate to his Ability to cause targets that are
 targeted by Sing have their Attack and Special Attack lowered by -2 CS each, whether Sing successfully hits
 that target or not. This Ability does not affect targets with the Soundproof Ability"
+Witch Broom,"Hyper Aggressive + Hover."
 Witheout,"Static
 During Snow user's Ice type moves get damage base +2."
 Wobble,"Scene – Free Action
@@ -2509,9 +2736,14 @@ Wonder Guard,"Static
 Only damaging attacks that are Super-Effective affect the Pokémon with Wonder Guard; all other damaging
 attacks cannot hit the user or deal damage. Wonder Guard loses its effect if the user has no weaknesses.
 Defensive."
+Wonder Scale,"Shed Skin + Wonder Skin"
 Wonder Skin,"Static
 The user gains +6 Evasion against Status Moves. Defensive."
+Woodland Curse,"Uses Forest's Curse on Entry. Adds Grass type on contact."
+World Serpent,"Long Reach + Grip Pincer."
+Wrestle Showman,"Flying Press gains +10BP and causes Taunt."
 Yuki Onna,"Scare + Intimidate. 30% chance to infatuate on hit."
+Zen Garden,"Sets up Grassy or Psychic Terrain at random."
 Zen Mode,"Static
 Keep two sets of Base Stats for Darmanitan, the first set of Base Stats are its normal stats while the second will
 be referred to during Zen Mode. The HP Stat for both sets of Base Stats must be the same. If Darmanitan has

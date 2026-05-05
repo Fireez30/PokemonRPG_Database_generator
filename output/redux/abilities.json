@@ -5,6 +5,12 @@
         "id": -1
     },
     {
+        "name": "3 > 1",
+        "effect": "Multi-Headed + Riptide",
+        "id": 1016,
+        "update": "TBD"
+    },
+    {
         "name": ": Fashion Designer",
         "effect": "Daily – Extended Action\nEffect: The user knows how to make useful accessories from mere common leaves. The user may craft one of\nthe consumable Held Items below by activating this ability\nLucky Leaf - Grass Type Booster for one encounter.\nTasty Reeds - Bug Type Booster for one encounter.\nDew Cup - Same Effect as an Occa Berry.\nThorn Mantle - Same Effect as a Coba Berry.\nChewy Cluster - Same Effect as Leftovers.\nDecorative Twine – Roll +2d6 on any Move during a Contest",
         "id": -1
@@ -13,6 +19,12 @@
         "name": "Abominable",
         "effect": "Static\nEffect:The user's Base HP is increased by +5and user ignores the Recoil Keyword when attacking, and does not\ngain injuries from Massive Damage.Defensive.",
         "id": -1
+    },
+    {
+        "name": "Abominable Monster",
+        "effect": "Ups SpDef by 1.5x in hail.",
+        "id": 1018,
+        "update": "TBD"
     },
     {
         "name": "Absolution",
@@ -35,6 +47,12 @@
         "id": 474
     },
     {
+        "name": "Acid Reflux",
+        "effect": "Uses 20BP Acid when it takes damage.",
+        "id": 998,
+        "update": "TBD"
+    },
+    {
         "name": "Acidic Slime",
         "effect": "Corrosion + Poison STAB.",
         "id": 760,
@@ -49,6 +67,12 @@
         "name": "Adrenaline Rush",
         "effect": "KOs raise Speed by one stage.",
         "id": 454,
+        "update": "TBD"
+    },
+    {
+        "name": "Aegis Ward",
+        "effect": "Takes 1/2 damage from Dark, Ghost and Psychic-type attacks.",
+        "id": 996,
         "update": "TBD"
     },
     {
@@ -128,6 +152,12 @@
         "name": "Angel's Wrath",
         "effect": "Drastically alters all of the users moves.",
         "id": 439,
+        "update": "TBD"
+    },
+    {
+        "name": "Angelic Wings",
+        "effect": "Prism Scales + Huge Wings.",
+        "id": 962,
         "update": "TBD"
     },
     {
@@ -268,6 +298,12 @@
         "id": -1
     },
     {
+        "name": "Atlantic Ruler",
+        "effect": "Aquatic Dweller + Swift Swim.",
+        "id": 835,
+        "update": "TBD"
+    },
+    {
         "name": "Atlas",
         "effect": "Sets Gravity on entry for 8 turns.",
         "id": 436,
@@ -275,14 +311,20 @@
     },
     {
         "name": "Atomic Burst",
-        "effect": "When hit super-effectively, triggers 50 BP Hyper Beam.",
+        "effect": "Electromorphosis + Galvanize.",
         "id": 416,
         "update": "TBD"
     },
     {
         "name": "Atomic Punch",
-        "effect": "Iron Fist + Steelworker.",
+        "effect": "Iron Fist + 30% Steel type damage.",
         "id": 681,
+        "update": "TBD"
+    },
+    {
+        "name": "Aura Armor",
+        "effect": "Takes 35% reduced damage.",
+        "id": 1021,
         "update": "TBD"
     },
     {
@@ -301,9 +343,33 @@
         "id": 291
     },
     {
+        "name": "Aurora's Gale",
+        "effect": "Majestic Bird + North Wind.",
+        "id": 872,
+        "update": "TBD"
+    },
+    {
         "name": "Avenger",
         "effect": "Static\nIf an ally pokemon or trainer has fainted next user's attack gains +10 damages.",
         "id": 292
+    },
+    {
+        "name": "Backflip",
+        "effect": "After using a Dance move, follow up with a 50BP Chip Away.",
+        "id": 977,
+        "update": "TBD"
+    },
+    {
+        "name": "Backstreet Boy",
+        "effect": "Striker + Kicking moves are Dance moves and vise-versa.",
+        "id": 976,
+        "update": "TBD"
+    },
+    {
+        "name": "Backup Power",
+        "effect": "Revives at 25% HP once after fainting in Electric Terrain.",
+        "id": 899,
+        "update": "TBD"
     },
     {
         "name": "Bad Company",
@@ -323,7 +389,7 @@
     },
     {
         "name": "Bad Omen",
-        "effect": "Foes min roll and may miss. Takes 1/4 damage from crits.",
+        "effect": "Foes min roll. Takes 1/4 damage from crits.",
         "id": 671,
         "update": "TBD"
     },
@@ -342,6 +408,12 @@
         "name": "Balloon Bomb",
         "effect": "Aftermath + Inflatable",
         "id": 614,
+        "update": "TBD"
+    },
+    {
+        "name": "Bandit",
+        "effect": "Scavenger + Technician.",
+        "id": 1001,
         "update": "TBD"
     },
     {
@@ -400,7 +472,7 @@
     },
     {
         "name": "Beautiful Music",
-        "effect": "Sound-based moves have 50% chance to infatuate the foe.",
+        "effect": "Sound moves have 50% chance to infatuate, ignoring gender.",
         "id": 622,
         "update": "TBD"
     },
@@ -416,14 +488,20 @@
     },
     {
         "name": "Berserk DNA",
-        "effect": "Sharply ups highest attacking stat but confuses on entry.",
+        "effect": "Sharply ups highest attacking stat but enrages on entry.",
         "id": 529,
         "update": "TBD"
     },
     {
         "name": "Berserker Rage",
-        "effect": "Berserk + Rampage.",
+        "effect": "Tipping Point + Rampage.",
         "id": 480,
+        "update": "TBD"
+    },
+    {
+        "name": "Best Offense",
+        "effect": "Mystic blades + use 20% of spdef during moves.",
+        "id": 844,
         "update": "TBD"
     },
     {
@@ -440,6 +518,18 @@
         "name": "Big Swallow",
         "effect": "Static\nEffect: Connection - Stockpile. Whenever the user uses Swallow or Spit Up, it may treat the Stockpile Count as\nif it was one higher. This Ability has no effect if the Stockpile Counter is already 3.",
         "id": -1
+    },
+    {
+        "name": "Biofilm",
+        "effect": "50% spdef boost under Toxic Terrain.",
+        "id": 836,
+        "update": "TBD"
+    },
+    {
+        "name": "Bird of Prey",
+        "effect": "Big Pecks + Scrappy.",
+        "id": 1003,
+        "update": "TBD"
     },
     {
         "name": "Blade Dance",
@@ -492,6 +582,12 @@
         "update": "TBD"
     },
     {
+        "name": "Blistering Sun",
+        "effect": "Desolate Land + Air Blower.",
+        "id": 869,
+        "update": "TBD"
+    },
+    {
         "name": "Blitz Boxer",
         "effect": "At full HP, gives +1 priority to this Pokémon's punching moves.",
         "id": 277,
@@ -517,7 +613,7 @@
     },
     {
         "name": "Blood Stigma",
-        "effect": "Immune to status. Gets a 50% boost vs bleeding foes.",
+        "effect": "Immune to status. Gets a 2x boost vs bleeding foes.",
         "id": 674,
         "update": "TBD"
     },
@@ -535,7 +631,7 @@
     {
         "name": "Blur",
         "effect": "Static\nEffect: Attacks and Moves targeting you that don’t require an Accuracy Check now require one, as though\nthey had an Accuracy Check of 2. You may only apply half of your Evasion to these Attacks and Moves.\nDefensive.",
-        "id": -1
+        "id": 809
     },
     {
         "name": "Bodyguard",
@@ -559,15 +655,39 @@
         "update": "TBD"
     },
     {
+        "name": "Brain Mass",
+        "effect": "Halves damage taken while at full HP.",
+        "id": 957,
+        "update": "TBD"
+    },
+    {
+        "name": "Brain Overload",
+        "effect": "When hit, sets up Psychic Terrain.",
+        "id": 956,
+        "update": "TBD"
+    },
+    {
         "name": "Brawling Wyvern",
         "effect": "No guard + Dragon type moves become punching moves.",
         "id": 600,
         "update": "TBD"
     },
     {
+        "name": "Break it Down",
+        "effect": "After using an attack, follow up with a 20BP Rapid Spin.",
+        "id": 974,
+        "update": "TBD"
+    },
+    {
         "name": "Breakwater",
         "effect": "Swift Swim + Stall.",
         "id": 741,
+        "update": "TBD"
+    },
+    {
+        "name": "Breezy Neigh",
+        "effect": "KOs raise Speed by one stage.",
+        "id": 858,
         "update": "TBD"
     },
     {
@@ -579,6 +699,12 @@
         "name": "Brimstone",
         "effect": "Static\nEffect: Whenever the user causes a Burn with a damaging Fire-Type Attack, the target is also Poisoned.",
         "id": -1
+    },
+    {
+        "name": "Bruiser",
+        "effect": "Adds Fighting type on entry.",
+        "id": 915,
+        "update": "TBD"
     },
     {
         "name": "Brute Force",
@@ -642,9 +768,21 @@
         "update": "TBD"
     },
     {
+        "name": "Chainsaw",
+        "effect": "Keen edge attacks lower defense by -1.",
+        "id": 945,
+        "update": "TBD"
+    },
+    {
         "name": "Champion's Entrance",
         "effect": "Intimidate + Violent Rush",
         "id": 766,
+        "update": "TBD"
+    },
+    {
+        "name": "Chandelier",
+        "effect": "Illuminate + Pyromancy.",
+        "id": 966,
         "update": "TBD"
     },
     {
@@ -681,9 +819,33 @@
         "id": -1
     },
     {
+        "name": "Chestnut Axe",
+        "effect": "Keen edge + Grass moves become Keen Edge boosted.",
+        "id": 959,
+        "update": "TBD"
+    },
+    {
+        "name": "Chestnut Shield",
+        "effect": "Impenetrable + Bulletproof",
+        "id": 958,
+        "update": "TBD"
+    },
+    {
         "name": "Chilling Neigh",
         "effect": "At-Will – Free Action\nTrigger: The user causes a foe to Faint with a damaging attack\nEffect: The user’s Attack is raised by 1 Combat Stage. In addition, all foes within 3m of the user take a -2\npenalty to evasion for one full round.",
         "id": -1
+    },
+    {
+        "name": "Chilling Pellets",
+        "effect": "Uses 13BP Icicle Spear when hit by contact.",
+        "id": 879,
+        "update": "TBD"
+    },
+    {
+        "name": "Chilling Presence",
+        "effect": "10BP Icy Wind on entry.",
+        "id": 823,
+        "update": "TBD"
     },
     {
         "name": "ChillngNeigh",
@@ -708,6 +870,18 @@
         "update": "TBD"
     },
     {
+        "name": "Chokehold",
+        "effect": "Binding moves lower speed and paralyze.",
+        "id": 837,
+        "update": "TBD"
+    },
+    {
+        "name": "Christmas Nightmare",
+        "effect": "Enemies take 1/8 damage when in hail.",
+        "id": 942,
+        "update": "TBD"
+    },
+    {
         "name": "Christmas Spirit",
         "effect": "Static\nWhile Snowing the user resists all incoming Attacks one step further . Defensive",
         "id": 283
@@ -716,6 +890,12 @@
         "name": "Chrome Coat",
         "effect": "Reduces special damage taken by 40%, but decreases Speed by 10%.",
         "id": 539,
+        "update": "TBD"
+    },
+    {
+        "name": "Chuckster",
+        "effect": "Once per entry, take 1/2 damage and force-switch the target.",
+        "id": 864,
         "update": "TBD"
     },
     {
@@ -857,6 +1037,12 @@
         "id": 126
     },
     {
+        "name": "Cool Exit",
+        "effect": "Uses Chilly Reception at the end of your 2nd turn.",
+        "id": 940,
+        "update": "TBD"
+    },
+    {
         "name": "Copy Master",
         "effect": "Static\nEffect: Connection - Copycat. Whenever the user uses Copycat or Mimic, it gains +1 Combat Stage in a Stat of\nits choice after the Move is resolved.",
         "id": -1
@@ -879,8 +1065,20 @@
     },
     {
         "name": "Cosmic Daze",
-        "effect": "2x damage vs confused. Enemies take 2x confusion damage.",
+        "effect": "Deals 2x damage vs confused and enraged foes.",
         "id": 534,
+        "update": "TBD"
+    },
+    {
+        "name": "Cosmic Dust",
+        "effect": "Magic Guard + Cosmic Daze.",
+        "id": 939,
+        "update": "TBD"
+    },
+    {
+        "name": "Cosmic Wings",
+        "effect": "Flying moves become Fairy-type.",
+        "id": 938,
         "update": "TBD"
     },
     {
@@ -907,6 +1105,18 @@
         "name": "Coward",
         "effect": "Scene – Free Action\nTrigger: When the user enters the battle\nThe user gains one tick of Hit Points as provisoiry HP. Defensive",
         "id": 429
+    },
+    {
+        "name": "Craving",
+        "effect": "Eat a random berry at the end of the turn.",
+        "id": 890,
+        "update": "TBD"
+    },
+    {
+        "name": "Crispy Cream",
+        "effect": "30% to inflict burn/frostbite when hit by contact.",
+        "id": 892,
+        "update": "TBD"
     },
     {
         "name": "Crowned King",
@@ -937,6 +1147,12 @@
         "id": -1
     },
     {
+        "name": "Crushing Jaw",
+        "effect": "Strong Jaw + Biting moves have a 50% chance to lower defense.",
+        "id": 978,
+        "update": "TBD"
+    },
+    {
         "name": "Crust Coat",
         "effect": "Immune to critical hits. Takes 20% less damage from attacks.",
         "id": 753,
@@ -950,7 +1166,7 @@
     },
     {
         "name": "Cryo Proficiency",
-        "effect": "Triggers hail when hit. 30% chance to frostbite on contact.",
+        "effect": "Freezing Point + triggers hail when hit.",
         "id": 493,
         "update": "TBD"
     },
@@ -958,6 +1174,24 @@
         "name": "Cryomancy",
         "effect": "Moves inflict frostbite 5x as often.",
         "id": 456,
+        "update": "TBD"
+    },
+    {
+        "name": "Cryostasis",
+        "effect": "Cryomancy + Frostbite causes flinching.",
+        "id": 982,
+        "update": "TBD"
+    },
+    {
+        "name": "Cryptic Power",
+        "effect": "Doubles own Sp. Atk stat. Boosts raw stat, not base stat.",
+        "id": 301,
+        "update": "TBD"
+    },
+    {
+        "name": "Crystalline Armor",
+        "effect": "Reflects stat drops and immune to critical hits.",
+        "id": 887,
         "update": "TBD"
     },
     {
@@ -979,6 +1213,24 @@
         "name": "CuriusMedicn",
         "effect": "Resets its ally's stat changes on entry.",
         "id": 261,
+        "update": "TBD"
+    },
+    {
+        "name": "Curlipede",
+        "effect": "Let's Roll + Coil Up",
+        "id": 988,
+        "update": "TBD"
+    },
+    {
+        "name": "Current Crash",
+        "effect": "Reckless + Thundercall.",
+        "id": 1007,
+        "update": "TBD"
+    },
+    {
+        "name": "Curse of Famine",
+        "effect": "Eats terrain, restores hp, and boosts a defense.",
+        "id": 886,
         "update": "TBD"
     },
     {
@@ -1024,6 +1276,12 @@
         "id": -1
     },
     {
+        "name": "Daredevil",
+        "effect": "+1 Atk after using recoil move. 1/2 recoil damage.",
+        "id": 1008,
+        "update": "TBD"
+    },
+    {
         "name": "Dark Art",
         "effect": "Static\nEffect: The user gains Last Chance with Dark.",
         "id": -1
@@ -1053,6 +1311,12 @@
         "name": "Dazzling",
         "effect": "Scene x2 – Swift Action\nTarget: An Adjacent Foe\nFor the rest of the Scene, the target's Initiative is lowered by 10 and cannot use Priority Moves\nBonus: Interrupt Moves may not be declared in response to the user's actions.",
         "id": 219
+    },
+    {
+        "name": "Dead Bark",
+        "effect": "Adds Ghost type. Takes 15% less damage. 30% less damage if SE.",
+        "id": 944,
+        "update": "TBD"
     },
     {
         "name": "Dead Power",
@@ -1094,6 +1358,12 @@
         "update": "TBD"
     },
     {
+        "name": "Deep Fried",
+        "effect": "Summons a sea of fire on entry.",
+        "id": 893,
+        "update": "TBD"
+    },
+    {
         "name": "Deep Sleep",
         "effect": "Static\nWhen asleep, this Pokémon restores a Tick of Hit Points at the end of each turn. Defensive.",
         "id": -1
@@ -1107,6 +1377,12 @@
         "name": "Defiant",
         "effect": "Static\nthe user’s Attack is raised 2 Combat Stages.",
         "id": 128
+    },
+    {
+        "name": "Deflect",
+        "effect": "Counters with 20 BP Vacuum Wave when hit. Takes 20% less damage.",
+        "id": 1022,
+        "update": "TBD"
     },
     {
         "name": "Defy Death",
@@ -1148,6 +1424,12 @@
         "update": "TBD"
     },
     {
+        "name": "Depth Explorer",
+        "effect": "Field Explorer + Illuminate.",
+        "id": 902,
+        "update": "TBD"
+    },
+    {
         "name": "Desert Cloak",
         "effect": "Protects its side from status and secondary effects in sand.",
         "id": 412,
@@ -1180,6 +1462,18 @@
         "name": "Determination",
         "effect": "Ups Special Attack by 50% if suffering.",
         "id": 506,
+        "update": "TBD"
+    },
+    {
+        "name": "Deviate",
+        "effect": "Normal moves become Dark. Dark moves are empowered.",
+        "id": 800,
+        "update": "TBD"
+    },
+    {
+        "name": "Devious Present",
+        "effect": "Boosts Ice and throwing moves by 50%.",
+        "id": 941,
         "update": "TBD"
     },
     {
@@ -1247,8 +1541,14 @@
         "id": -1
     },
     {
+        "name": "Draconic Might",
+        "effect": "Draconize + Half Drake.",
+        "id": 841,
+        "update": "TBD"
+    },
+    {
         "name": "Draconize",
-        "effect": "Normal-type moves become Dragon and get a 1.1x boost.",
+        "effect": "Normal moves become Dragon. Dragon moves are empowered.",
         "id": 413,
         "update": "TBD"
     },
@@ -1266,8 +1566,14 @@
     },
     {
         "name": "Dragonfly",
-        "effect": "Adds Dragon type to itself. Avoids Ground attacks.",
+        "effect": "Adds Dragon type on entry. Avoids Ground attacks.",
         "id": 312,
+        "update": "TBD"
+    },
+    {
+        "name": "Dragonfruit",
+        "effect": "Half Drake + Rough Skin.",
+        "id": 918,
         "update": "TBD"
     },
     {
@@ -1279,6 +1585,18 @@
         "name": "Dragon’s Maw",
         "effect": "Scene x2 – Free Action\nTrigger: The user hits with a damaging Dragon-Type Move\nEffect: One target hit by the attack becomes one stage more vulnerable to the attack (applied after all other\nmodifiers). Immune targets are treated as initially double-resistant for the purposes of this Ability, and may be\ndamaged normally.",
         "id": -1
+    },
+    {
+        "name": "Drake Of Rage",
+        "effect": "Tinted Lens + Rampage",
+        "id": 811,
+        "update": "TBD"
+    },
+    {
+        "name": "Drakelp Head",
+        "effect": "Weakens first move taken and drops opponent's attack.",
+        "id": 932,
+        "update": "TBD"
     },
     {
         "name": "Dream Catcher",
@@ -1304,8 +1622,14 @@
     },
     {
         "name": "Dreamcatcher",
-        "effect": "Doubles move power if anyone on the field is asleep.",
+        "effect": "Doubles damage if an opponent is sleeping. Pursues sleeping foes.",
         "id": 305,
+        "update": "TBD"
+    },
+    {
+        "name": "Dreamscape",
+        "effect": "Comatose + Dreamcatcher + Deal 20% more damage.",
+        "id": 859,
         "update": "TBD"
     },
     {
@@ -1317,6 +1641,18 @@
         "name": "Drizzle",
         "effect": "Scene x3 — Swift Action\nThe Weather changes to be Rainy for 1 full round.",
         "id": 2
+    },
+    {
+        "name": "Droideka",
+        "effect": "Heatproof + Shell Armor.",
+        "id": 1015,
+        "update": "TBD"
+    },
+    {
+        "name": "Drop Blocks",
+        "effect": "When hit, set up spikes.",
+        "id": 906,
+        "update": "TBD"
     },
     {
         "name": "Drought",
@@ -1339,9 +1675,21 @@
         "id": 433
     },
     {
+        "name": "Duality",
+        "effect": "Infiltrator + Competitive.",
+        "id": 1024,
+        "update": "TBD"
+    },
+    {
         "name": "Dune Terror",
         "effect": "Static\nGround Moves Gain DB+1 Additionally in sandstorm Ground moves Gain +1 extra DB and User reduce\ndamage by 5 for every 20 level during Sandstorm.",
         "id": 431
+    },
+    {
+        "name": "Dune Veil",
+        "effect": "Desert Cloak + Self Sufficient.",
+        "id": 903,
+        "update": "TBD"
     },
     {
         "name": "Dust Cloud",
@@ -1370,9 +1718,21 @@
         "id": 299
     },
     {
+        "name": "Echolocation",
+        "effect": "In fog, deal 20% more damage and never miss.",
+        "id": 947,
+        "update": "TBD"
+    },
+    {
         "name": "Ectoplasm",
         "effect": "Ups highest attacking stat by 1.5x in fog.",
         "id": 621,
+        "update": "TBD"
+    },
+    {
+        "name": "Edgelord",
+        "effect": "First Keen Edge move each entry gets +1 priority. Resets on KO.",
+        "id": 882,
         "update": "TBD"
     },
     {
@@ -1407,6 +1767,12 @@
         "id": -1
     },
     {
+        "name": "Electro Booster",
+        "effect": "Uses Magnet Rise on entry.",
+        "id": 1006,
+        "update": "TBD"
+    },
+    {
         "name": "Electro Surge",
         "effect": "Casts Electric Terrain on entry. Lasts 8 turns.",
         "id": 226,
@@ -1429,6 +1795,12 @@
         "id": 448
     },
     {
+        "name": "Elemental Aegis",
+        "effect": "Takes 1/2 damage from Fire, Electric and Water-type attacks.",
+        "id": 995,
+        "update": "TBD"
+    },
+    {
         "name": "Elemental Charge",
         "effect": "20% chance to BRN/FRZ/PARA with respective types.",
         "id": 434,
@@ -1441,8 +1813,14 @@
         "update": "TBD"
     },
     {
+        "name": "Elude",
+        "effect": "Uses Speed as defense stat when hit by non-contact.",
+        "id": 810,
+        "update": "TBD"
+    },
+    {
         "name": "Emanate",
-        "effect": "Normal-type moves become Psychic and get a 1.1x boost.",
+        "effect": "Normal moves become Psychic. Psychic moves are empowered.",
         "id": 459,
         "update": "TBD"
     },
@@ -1458,9 +1836,21 @@
         "id": 194
     },
     {
+        "name": "Emperor's Wrath",
+        "effect": "King's Wrath + Queen's Mourning.",
+        "id": 972,
+        "update": "TBD"
+    },
+    {
         "name": "Empower",
         "effect": "Scene - Swift Action\nThe user may use a self-targeting Status-Class Move as a Free Action.",
         "id": -1
+    },
+    {
+        "name": "Empress",
+        "effect": "Queenly Majesty + Rivalry.",
+        "id": 922,
+        "update": "TBD"
     },
     {
         "name": "Enduring Rage",
@@ -1486,6 +1876,12 @@
         "update": "TBD"
     },
     {
+        "name": "Energy Tap",
+        "effect": "Heals the user for 1/8 of the damage they deal.",
+        "id": 875,
+        "update": "TBD"
+    },
+    {
         "name": "Enfeebling Lips",
         "effect": "Static\nEffect: Connection - Lovely Kiss. Whenever the user uses the Move Lovely Kiss, they may choose a Stat. If the\nMove successfully hits, the Pokémon or Trainer being targeted loses 2 Combat Stages in that Stat.",
         "id": -1
@@ -1503,6 +1899,12 @@
         "update": "TBD"
     },
     {
+        "name": "Envenom",
+        "effect": "Moves have a 30% chance to poison the target.",
+        "id": 852,
+        "update": "TBD"
+    },
+    {
         "name": "Equinox",
         "effect": "Boosts Atk or SpAtk to match the higher value.",
         "id": 424,
@@ -1512,6 +1914,12 @@
         "name": "Eternal Blessing",
         "effect": "Celestial Blessing + Regenerator.",
         "id": 651,
+        "update": "TBD"
+    },
+    {
+        "name": "Eternal Flower",
+        "effect": "Reduces the stats of other Megas by 20%.",
+        "id": 979,
         "update": "TBD"
     },
     {
@@ -1532,7 +1940,7 @@
     },
     {
         "name": "Exploit Weakness",
-        "effect": "Deals 1.25x and targets lowest defense vs statused foes.",
+        "effect": "Targets lowest defense vs statused foes.",
         "id": 284,
         "update": "TBD"
     },
@@ -1568,7 +1976,7 @@
     },
     {
         "name": "Fairy Tale",
-        "effect": "Adds Fairy type to itself.",
+        "effect": "Adds Fairy type on entry.",
         "id": 452,
         "update": "TBD"
     },
@@ -1594,15 +2002,27 @@
         "id": 408
     },
     {
-        "name": "Feline Prowess",
-        "effect": "Doubles own Sp. Atk stat. Boosts raw stat, not base stat.",
-        "id": 301,
+        "name": "Feathercoat",
+        "effect": "Takes 10% less damage from attacks, 20% if resisted.",
+        "id": 1004,
         "update": "TBD"
     },
     {
         "name": "Fertilize",
-        "effect": "Normal-type moves become Grass and get a 1.1x boost.",
+        "effect": "Normal moves become Grass. Grass moves are empowered.",
         "id": 507,
+        "update": "TBD"
+    },
+    {
+        "name": "Festivities",
+        "effect": "Sound moves become dance moves and vice versa.",
+        "id": 842,
+        "update": "TBD"
+    },
+    {
+        "name": "Fey Flight",
+        "effect": "Adds Fairy-type and levitates.",
+        "id": 843,
         "update": "TBD"
     },
     {
@@ -1643,9 +2063,33 @@
         "update": "TBD"
     },
     {
+        "name": "Fire Aspect",
+        "effect": "Absorbs fire moves and always burns with fire.",
+        "id": 871,
+        "update": "TBD"
+    },
+    {
+        "name": "Fire Ruler",
+        "effect": "King's Wrath + Flame Shield",
+        "id": 965,
+        "update": "TBD"
+    },
+    {
         "name": "Fire Scales",
         "effect": "Halves damage taken by Special moves. Does NOT double SpDef.",
         "id": 571,
+        "update": "TBD"
+    },
+    {
+        "name": "Fire's Wrath",
+        "effect": "Intimidate + Scare; 10% burn chance on non contact moves.",
+        "id": 971,
+        "update": "TBD"
+    },
+    {
+        "name": "Firefighter",
+        "effect": "Deals 1.5x damage to Fire. Takes 0.5x damage from Fire.",
+        "id": 804,
         "update": "TBD"
     },
     {
@@ -1715,6 +2159,12 @@
         "id": -1
     },
     {
+        "name": "Flawless Precision",
+        "effect": "Fatal + Deadly Precision.",
+        "id": 921,
+        "update": "TBD"
+    },
+    {
         "name": "Flock",
         "effect": "Static\nEffect: The user's Flying Type Moves Gain DB+1.",
         "id": 359
@@ -1729,6 +2179,12 @@
         "name": "Flower Gift",
         "effect": "Scene - Swift Action\nffect: Flower Gift may only be used if the Weather is Sunny or if the user is under 50% Hit Points. When\nactivated, the user may pick two Stats, gaining +2 Combat Stages in each Stat. All targets within 2 meters also\ngain +1 Combat Stage in each of the chosen Stats.",
         "id": 122
+    },
+    {
+        "name": "Flower Necklace",
+        "effect": "This Pokémon's SpDef gets a 1.5x boost in Grassy Terrain.",
+        "id": 984,
+        "update": "TBD"
     },
     {
         "name": "Flower Power",
@@ -1767,9 +2223,33 @@
         "id": -1
     },
     {
+        "name": "Foamy Web",
+        "effect": "Casts an unremovable Sticky Web on entry. Lasts 5 turns.",
+        "id": 951,
+        "update": "TBD"
+    },
+    {
         "name": "Focus",
         "effect": "Static\nThe user gains Last Chance with Fighting.",
         "id": -1
+    },
+    {
+        "name": "Fog Machine",
+        "effect": "When hit, Set up Eerie Fog.",
+        "id": 905,
+        "update": "TBD"
+    },
+    {
+        "name": "Foggy Eye",
+        "effect": "While in Fog, boost Ghost moves by 50% and resist Ghost moves.",
+        "id": 967,
+        "update": "TBD"
+    },
+    {
+        "name": "Food Lovers",
+        "effect": "Hospitality + Friend Guard.",
+        "id": 894,
+        "update": "TBD"
     },
     {
         "name": "Forecast",
@@ -1810,9 +2290,21 @@
         "update": "TBD"
     },
     {
+        "name": "Fortress",
+        "effect": "Filter + Shell Armor.",
+        "id": 1002,
+        "update": "TBD"
+    },
+    {
         "name": "Fossilized",
         "effect": "Static\nResists Rock Type Moves 1 Step Further and Rock-Type Moves DB is increased by 2.Defensive.",
         "id": 303
+    },
+    {
+        "name": "Foul Energy",
+        "effect": "Boosts Dark-type moves by 1.2x, or 1.5x when under 1/3 HP.",
+        "id": 1025,
+        "update": "TBD"
     },
     {
         "name": "Foundry",
@@ -1874,6 +2366,18 @@
         "update": "TBD"
     },
     {
+        "name": "Frost Dragon",
+        "effect": "Triggers 50 BP Blizzard after using a Dragon or Ice-type move.",
+        "id": 1009,
+        "update": "TBD"
+    },
+    {
+        "name": "Frostbind",
+        "effect": "Inflicting Frostbite also inflicts Disable.",
+        "id": 824,
+        "update": "TBD"
+    },
+    {
         "name": "Frostbite",
         "effect": "Static\nEffect: The user’s damaging Ice-Type attacks cause the target to become Slowed on 18+, and the Effect Range\nfor Freeze on these Moves is increased by +1. If the Move does not cause Freezing, it now causes Freezing on\na roll of 20.",
         "id": -1
@@ -1882,6 +2386,12 @@
         "name": "Frostmaw",
         "effect": "Biting moves have a 50% chance to inflict frostbite.",
         "id": 692,
+        "update": "TBD"
+    },
+    {
+        "name": "Frosty Prescence",
+        "effect": "Uses Mist on entry.",
+        "id": 878,
         "update": "TBD"
     },
     {
@@ -1928,6 +2438,12 @@
         "id": 177
     },
     {
+        "name": "Galeforce Wings",
+        "effect": "Flying moves get +1 Priority.",
+        "id": 946,
+        "update": "TBD"
+    },
+    {
         "name": "Gallantry",
         "effect": "Gets no damage for first hit.",
         "id": 583,
@@ -1955,6 +2471,24 @@
         "id": -1
     },
     {
+        "name": "Ghost Frenzy",
+        "effect": "Hyper Aggressive + Soul Eater.",
+        "id": 999,
+        "update": "TBD"
+    },
+    {
+        "name": "Ghost Pepper",
+        "effect": "Grass moves have a 30% to cause burn.",
+        "id": 1014,
+        "update": "TBD"
+    },
+    {
+        "name": "Giant Shuriken",
+        "effect": "Water Shuriken hits once with 100BP and +1 crit.",
+        "id": 960,
+        "update": "TBD"
+    },
+    {
         "name": "Giant Wings",
         "effect": "Static\nAll the users Air, Wind and Wing get their DB increased by 1",
         "id": 371
@@ -1968,6 +2502,12 @@
         "name": "Giver",
         "effect": "Scene x2 - Swift Action\nConnection - Present. After rolling to determine Present's Damage Base, you may choose to ignore the roll\nand act as if you had rolled a 1 or a 5.\nBonus: The user may know any number of TM and Tutor Moves, instead of a maximum of three.",
         "id": -1
+    },
+    {
+        "name": "Glacial Ghost",
+        "effect": "Slush Rush + Snow Cloak.",
+        "id": 825,
+        "update": "TBD"
     },
     {
         "name": "Glacial Rage",
@@ -2003,6 +2543,18 @@
         "id": 82
     },
     {
+        "name": "Gnashing Cannon",
+        "effect": "Mega Launcher + Mind Crunch.",
+        "id": 854,
+        "update": "TBD"
+    },
+    {
+        "name": "Going Berserk",
+        "effect": "Berserk + Rampage",
+        "id": 992,
+        "update": "TBD"
+    },
+    {
         "name": "Good As Gold",
         "effect": "Static\nEffect: This pokemon is immune to Status Afflictions and to Status moves used by other Pokemon. Defensive.",
         "id": 576
@@ -2029,6 +2581,12 @@
         "update": "TBD"
     },
     {
+        "name": "Grass Flute",
+        "effect": "Sound moves inflict Fear.",
+        "id": 831,
+        "update": "TBD"
+    },
+    {
         "name": "Grass Pelt",
         "effect": "Static\nWhen standing on any grassy or leafy terrain that is either Slow or Rough Terrain, the user gains +5 Damage\nReduction. Defensive.",
         "id": 179
@@ -2050,6 +2608,12 @@
         "update": "TBD"
     },
     {
+        "name": "Greedy",
+        "effect": "Uses Thief when it loses an item.",
+        "id": 911,
+        "update": "TBD"
+    },
+    {
         "name": "Grim Neigh",
         "effect": "At-Will – Free Action\nTrigger: The user causes a foe to Faint with a damaging attack\nEffect: The user’s Special Attack is raised by 1 Combat Stage. In addition, all foes within 3m of the user take a\n-2 penalty to Accuracy for one full round.",
         "id": 265
@@ -2066,7 +2630,7 @@
     },
     {
         "name": "Grounded",
-        "effect": "Adds Ground type to itself.",
+        "effect": "Adds Ground type on entry.",
         "id": 298,
         "update": "TBD"
     },
@@ -2079,6 +2643,12 @@
         "name": "Guard Dog",
         "effect": "Static\nTrigger: A foe’s Ability directly lowers the user’s CS (including Accuracy and Effect Ranges, but not including\nthings like Status).\nEffect: The user’s CS are instead raised by the same amount they would have been lowered.\nBonus: The user is immune to Push effects, and the effects of Roar. Defensive.",
         "id": 553
+    },
+    {
+        "name": "Guardian Coat",
+        "effect": "Blocks weather dmg and powders. Takes -20% physical damage.",
+        "id": 838,
+        "update": "TBD"
     },
     {
         "name": "Guilt Trip",
@@ -2119,8 +2689,20 @@
     },
     {
         "name": "Half Drake",
-        "effect": "Adds Dragon type to itself.",
+        "effect": "Adds Dragon type on entry.",
         "id": 310,
+        "update": "TBD"
+    },
+    {
+        "name": "Hammer Fist",
+        "effect": "Boosts punch and hammer moves by 25%.",
+        "id": 931,
+        "update": "TBD"
+    },
+    {
+        "name": "Hand Barnacles",
+        "effect": "Multi-Headed + Water STAB.",
+        "id": 969,
         "update": "TBD"
     },
     {
@@ -2134,9 +2716,21 @@
         "id": 391
     },
     {
+        "name": "Harukaze",
+        "effect": "Setting Grassy Terrain sets Tailwind and vice versa.",
+        "id": 833,
+        "update": "TBD"
+    },
+    {
         "name": "Harvest",
         "effect": "At-Will – Free Action\nEffect: Whenever the user trades in a Digestion Buff from a Berry, flip a coin. On heads, the user gains all the\nbenefits of the Digestion Buff, but the Buff is not used up. On tails, the Buff is consumed normally. While in\nSunny Weather, the Buff is never consumed. The user may trade in a Digestion Buff up to once per turn during\nan encounter, but only until they flip “Tails”.",
         "id": 139
+    },
+    {
+        "name": "Haste Makes Waste",
+        "effect": "Stall + Analytic.",
+        "id": 860,
+        "update": "TBD"
     },
     {
         "name": "Haunt",
@@ -2161,6 +2755,12 @@
         "id": -1
     },
     {
+        "name": "Headstrong",
+        "effect": "+1 Spdef on entry.",
+        "id": 803,
+        "update": "TBD"
+    },
+    {
         "name": "Healer",
         "effect": "Scene – Free Action\nTarget: An Adjacent Pokémon or Trainer\nEffect: The target is cured of all Status conditions.",
         "id": 131
@@ -2169,6 +2769,12 @@
         "name": "Heat Mirage",
         "effect": "At-Will – Free Action\nTrigger: The user uses a Fire-Type Move\nThe user’s Evasion is increased by +3 until the beginning of their next turn.",
         "id": -1
+    },
+    {
+        "name": "Heat Sink",
+        "effect": "Redirects Fire moves. Absorbs them, ups highest Atk.",
+        "id": 865,
+        "update": "TBD"
     },
     {
         "name": "Heatproof",
@@ -2214,6 +2820,12 @@
         "update": "TBD"
     },
     {
+        "name": "Hemotoxin",
+        "effect": "Supresses abilities of the target when they're poisoned.",
+        "id": 832,
+        "update": "TBD"
+    },
+    {
         "name": "High Tide",
         "effect": "Triggers 50 BP Surf after using a Water-type move.",
         "id": 503,
@@ -2223,6 +2835,18 @@
         "name": "Higher Rank",
         "effect": "Priority moves get a 1.2x boost.",
         "id": 662,
+        "update": "TBD"
+    },
+    {
+        "name": "Hollow Ice Zone",
+        "effect": "Ice-type moves apply Ice Statue and then make the user switch.",
+        "id": 981,
+        "update": "TBD"
+    },
+    {
+        "name": "Home Run",
+        "effect": "Landing a crit boosts your 3 lowest stats once per turn.",
+        "id": 914,
         "update": "TBD"
     },
     {
@@ -2286,6 +2910,12 @@
         "update": "TBD"
     },
     {
+        "name": "Hungry Maws",
+        "effect": "Strong Jaw + Jaws of Carnage.",
+        "id": 861,
+        "update": "TBD"
+    },
+    {
         "name": "Hunter's Horn",
         "effect": "Boost horn moves and heals 1/4 HP when defeating an enemy.",
         "id": 464,
@@ -2293,7 +2923,7 @@
     },
     {
         "name": "Hunter's Mark",
-        "effect": "Attacks with 40BP Spirit Shackle when foes try to switch.",
+        "effect": "Ambush + Deadeye.",
         "id": 781,
         "update": "TBD"
     },
@@ -2303,8 +2933,14 @@
         "id": 55
     },
     {
+        "name": "Hydra",
+        "effect": "Multi-Headed + Hubris.",
+        "id": 928,
+        "update": "TBD"
+    },
+    {
         "name": "Hydrate",
-        "effect": "Normal-type moves become Water and get a 1.1x boost.",
+        "effect": "Normal moves become Water. Water moves are empowered.",
         "id": 315,
         "update": "TBD"
     },
@@ -2331,6 +2967,12 @@
         "id": -1
     },
     {
+        "name": "Hyper Cleanse",
+        "effect": "Immune to status. Halves poison damage taken.",
+        "id": 855,
+        "update": "TBD"
+    },
+    {
         "name": "Hyper Cutter",
         "effect": "Static\nThe user’s Crit range is increased by 1. Attack Stat may not be lowered, and its Attack Combat Stages may not\nbe lowered. Defensive.",
         "id": 52
@@ -2341,14 +2983,32 @@
         "id": -1
     },
     {
+        "name": "Hypnotic Touch",
+        "effect": "20% chance to sleep on contact. Also works on offense.",
+        "id": 926,
+        "update": "TBD"
+    },
+    {
+        "name": "Hypnotic Trance",
+        "effect": "Hypnosis never misses and also causes Confusion.",
+        "id": 955,
+        "update": "TBD"
+    },
+    {
         "name": "Hypnotist",
         "effect": "Hypnosis accuracy is 90% when used by this Pokémon.",
         "id": 327,
         "update": "TBD"
     },
     {
+        "name": "I Am Steve",
+        "effect": "Uses No Retreat on entry.",
+        "id": 949,
+        "update": "TBD"
+    },
+    {
         "name": "Ice Age",
-        "effect": "Adds Ice type to itself.",
+        "effect": "Adds Ice type on entry.",
         "id": 309,
         "update": "TBD"
     },
@@ -2365,7 +3025,7 @@
     },
     {
         "name": "Ice Dew",
-        "effect": "Boosts highest Atk instead of being hit by Ice-type moves.",
+        "effect": "Redirects Ice moves. Absorbs them, ups highest Atk.",
         "id": 379,
         "update": "TBD"
     },
@@ -2386,6 +3046,18 @@
         "id": -1
     },
     {
+        "name": "Ice Picks",
+        "effect": "Tough Claws + Slush Rush.",
+        "id": 930,
+        "update": "TBD"
+    },
+    {
+        "name": "Ice Plumes",
+        "effect": "Halves damage taken by Special moves. Does NOT double SpDef.",
+        "id": 873,
+        "update": "TBD"
+    },
+    {
         "name": "Ice Scales",
         "effect": "Static\nThe user resists Special Moves one step further. Defensive.",
         "id": 246
@@ -2394,6 +3066,12 @@
         "name": "Ice Shield",
         "effect": "Scene – Standard Action, Interrupt\nEffect: The user places up to 3 segments of Ice Wall; each segment must be continuous with another segment,\nand at least one must be adjacent to the user. These Ice Walls count as Blocking Terrain and last until the end\nof the encounter or until they are destroyed. Each Ice Wall segment is 2 meters tall, 1 meter wide, and 2\ncentimeters thick. Each segment has 10 Hit Points, 5 Damage Reduction, and takes damage as if it was\nIceType.Defensive.",
         "id": -1
+    },
+    {
+        "name": "Icicle Fist",
+        "effect": "Iron Fist + 30% chance to cause frostbite with punches.",
+        "id": 1017,
+        "update": "TBD"
     },
     {
         "name": "Ignition Boost",
@@ -2431,6 +3109,12 @@
         "name": "Immunity",
         "effect": "Static\nEffect: The user cannot be Poisoned or Badly Poisoned. Defensive",
         "id": 17
+    },
+    {
+        "name": "Impaler",
+        "effect": "Mighty Horn + 30% Bleed chance on horn moves.",
+        "id": 845,
+        "update": "TBD"
     },
     {
         "name": "Impenetrable",
@@ -2588,6 +3272,12 @@
         "update": "TBD"
     },
     {
+        "name": "Jungle Fever",
+        "effect": "If Grassy Terrain is active, gets a 1.5x Speed boost.",
+        "id": 1027,
+        "update": "TBD"
+    },
+    {
         "name": "Jungle's Guard",
         "effect": "Protects Grass-type allies from status and stat drops.",
         "id": 463,
@@ -2621,6 +3311,12 @@
         "id": 51
     },
     {
+        "name": "King of the Jungle",
+        "effect": "Infiltrator + deals 1.5x more damage to Grass-types.",
+        "id": 1028,
+        "update": "TBD"
+    },
+    {
         "name": "King's Wrath",
         "effect": "Lowering any stats on its side raises Atk and Def.",
         "id": 409,
@@ -2635,6 +3331,12 @@
         "name": "Know Your Place",
         "effect": "Contact attacks make foes move last for 5 turns.",
         "id": 735,
+        "update": "TBD"
+    },
+    {
+        "name": "Komodo",
+        "effect": "Adds Dragon-type + moves have 30% Bad Poison chance.",
+        "id": 851,
         "update": "TBD"
     },
     {
@@ -2654,6 +3356,12 @@
         "id": -1
     },
     {
+        "name": "Laser Drill",
+        "effect": "Horn moves have a 50% burn chance.",
+        "id": 907,
+        "update": "TBD"
+    },
+    {
         "name": "Last Chance",
         "effect": "Static\nEffect: The user gains Last Chance with Normal.",
         "id": -1
@@ -2668,6 +3376,12 @@
         "name": "Lawnmower",
         "effect": "Removes terrain on switch-in. Stat up if terrain removed.",
         "id": 602,
+        "update": "TBD"
+    },
+    {
+        "name": "Lead Claws",
+        "effect": "Tough Claws + Mineralize.",
+        "id": 919,
         "update": "TBD"
     },
     {
@@ -2694,6 +3408,18 @@
         "name": "Leek Mastery",
         "effect": "Static\nEffect: Connection - Acrobatics. If the user is holding a Rare Leek, they may still use Acrobatics as if they were\nnot holding an item. The user cannot be disarmed of their Stick, nor can be it be forcefully removed by Trick,\nSwitcheroo, Thief, or any other Moves or effects unless the user wishes it.",
         "id": -1
+    },
+    {
+        "name": "Lepidopteran",
+        "effect": "Swarm + Unaware.",
+        "id": 973,
+        "update": "TBD"
+    },
+    {
+        "name": "Let's Dance",
+        "effect": "Uses Teeter Dance on entry, Confusing the field.",
+        "id": 917,
+        "update": "TBD"
     },
     {
         "name": "Let's Roll",
@@ -2738,6 +3464,18 @@
         "id": -1
     },
     {
+        "name": "Lightning Aspect",
+        "effect": "Absorbs electric moves then ups highest stat by +1.",
+        "id": 868,
+        "update": "TBD"
+    },
+    {
+        "name": "Lightning Born",
+        "effect": "Adds Electric-type on entry.",
+        "id": 847,
+        "update": "TBD"
+    },
+    {
         "name": "Lightning Kicks",
         "effect": "Scene – Free Action\nEffect: The user may activate this Ability to use any Move with “Kick” in the name as a Priority Move.",
         "id": -1
@@ -2746,6 +3484,12 @@
         "name": "Lightning Rod",
         "effect": "Scene – Free Action\nTrigger: A ranged Electric Type Move is used within 10 Meters of the user.\nEffect: The Move is turned into a Single-Target Move and is re-directed at the user without fail, and cannot\nmiss. This negates Lock-On or Mind Reader. Additionally, the user is immune to the damage and effects of\nElectric Type attacks, and each time they are hit by an Electric attack, the user’s Special Attack is raised 1\nCombat Stage. Defensive.",
         "id": 31
+    },
+    {
+        "name": "Lightsaber",
+        "effect": "Adds Fire-type. Keen Edge moves have 25% burn or paralysis.",
+        "id": 908,
+        "update": "TBD"
     },
     {
         "name": "Limber",
@@ -2778,6 +3522,12 @@
         "id": 311
     },
     {
+        "name": "Locust Swarm",
+        "effect": "Changes into Hivemind form until 1/4 HP or less.",
+        "id": 884,
+        "update": "TBD"
+    },
+    {
         "name": "Long Reach",
         "effect": "Static\nAll of the user's Melee range, 1 target moves now have a range of 4, 1 Target. Additionally, all moves that\nwere previously ranged 1 target now have 2 further range.",
         "id": 203
@@ -2797,6 +3547,12 @@
         "name": "Loose Rocks",
         "effect": "Trigger- The Target is hit by a damaging physical move\nWhen the user takes physical damage as a reaction they may use the move Stealth Rock and apply it to the\narea immediately around them.",
         "id": 405
+    },
+    {
+        "name": "Loose Thorns",
+        "effect": "Sets Creeping Thorns when hit by contact.",
+        "id": 909,
+        "update": "TBD"
     },
     {
         "name": "Looter",
@@ -2827,9 +3583,21 @@
         "update": "TBD"
     },
     {
+        "name": "Lucha Libre",
+        "effect": "Dazzling + Defiant.",
+        "id": 964,
+        "update": "TBD"
+    },
+    {
         "name": "Lucky Halo",
         "effect": "Negates self stat drops. Endures the a single KO.",
         "id": 724,
+        "update": "TBD"
+    },
+    {
+        "name": "Lucky Wings",
+        "effect": "Serene Grace + Giant Wings.",
+        "id": 850,
         "update": "TBD"
     },
     {
@@ -2839,7 +3607,7 @@
     },
     {
         "name": "Lumberjack",
-        "effect": "1.5x damage to Grass types.",
+        "effect": "Deals 1.5x damage to Grass. Takes 0.5x damage from Grass.",
         "id": 445,
         "update": "TBD"
     },
@@ -2860,14 +3628,32 @@
         "id": 365
     },
     {
+        "name": "Lunar Wrath",
+        "effect": "After using a Ghost move, follow up with a 50BP Moongeist Beam.",
+        "id": 895,
+        "update": "TBD"
+    },
+    {
         "name": "Lunchbox",
         "effect": "Scene – Free Action\nTrigger: The user trades in a Digestion Buff\nEffect: The user gains 1/2 Tick of Temporary Hit Points. These Temporary Hit Points stack with any Temporary\nHit Points granted by the triggering Buff.",
         "id": -1
     },
     {
+        "name": "Mach 3",
+        "effect": "Deadly Precision + Slipstream.",
+        "id": 934,
+        "update": "TBD"
+    },
+    {
         "name": "Mach Speed",
         "effect": "Static\nEffect: The user gains Last Chance with Flying.",
         "id": -1
+    },
+    {
+        "name": "Madness Enhancement",
+        "effect": "Enrages in fog, halves damage when enraged.",
+        "id": 817,
+        "update": "TBD"
     },
     {
         "name": "Magic Bounce",
@@ -2881,7 +3667,7 @@
     },
     {
         "name": "Magical Dust",
-        "effect": "If hit by a contact move, gives Psychic type to the attacker.",
+        "effect": "Makes foe Psychic-type on contact. Also works on offense.",
         "id": 304,
         "update": "TBD"
     },
@@ -2913,6 +3699,12 @@
         "id": 42
     },
     {
+        "name": "Magus Blades",
+        "effect": "Dual Wield + Best Offense.",
+        "id": 846,
+        "update": "TBD"
+    },
+    {
         "name": "Majestic Bird",
         "effect": "The Pokémon’s Base Special Attack stat is increased by 50%. This may double any bonuses from Nature or\nVitamins, but not bonuses from Trainer Features.",
         "id": 323
@@ -2929,6 +3721,12 @@
         "update": "TBD"
     },
     {
+        "name": "Malodor",
+        "effect": "Suppresses attacker's abilities on contact.",
+        "id": 808,
+        "update": "TBD"
+    },
+    {
         "name": "Marine Apex",
         "effect": "50% more damage to Water-types + Infiltrator.",
         "id": 389,
@@ -2940,6 +3738,18 @@
         "id": 63
     },
     {
+        "name": "Mashed Potato",
+        "effect": "Syrup Bomb effect on the foe for 3 turns.",
+        "id": 923,
+        "update": "TBD"
+    },
+    {
+        "name": "Massive Pelt",
+        "effect": "Tangling Hair + Fluffy.",
+        "id": 948,
+        "update": "TBD"
+    },
+    {
         "name": "Master Hand",
         "effect": "Mega Launcher + Rampage.",
         "id": 683,
@@ -2947,8 +3757,14 @@
     },
     {
         "name": "Max Acceleration",
-        "effect": "Moves use the Speed stat for damage calculations.",
+        "effect": "Speed Boost + Slipstream.",
         "id": 675,
+        "update": "TBD"
+    },
+    {
+        "name": "Mega Drill",
+        "effect": "Mighty Horn + all Drill moves are 30% stronger.",
+        "id": 985,
         "update": "TBD"
     },
     {
@@ -2969,8 +3785,14 @@
     },
     {
         "name": "Menacing Situation",
-        "effect": "20% chance to Fear on contact. Also works on offense.",
+        "effect": "30% chance to Fear on contact. Also works on offense.",
         "id": 630,
+        "update": "TBD"
+    },
+    {
+        "name": "Mental Pollution",
+        "effect": "Suppresses others' abilities when it becomes enraged.",
+        "id": 816,
         "update": "TBD"
     },
     {
@@ -2980,7 +3802,7 @@
     },
     {
         "name": "Metallic",
-        "effect": "Adds Steel type to itself.",
+        "effect": "Adds Steel type on entry.",
         "id": 316,
         "update": "TBD"
     },
@@ -3069,6 +3891,18 @@
         "id": 228
     },
     {
+        "name": "Mixed Martial Arts",
+        "effect": "Normal moves are flagged as Punch + Kick moves.",
+        "id": 813,
+        "update": "TBD"
+    },
+    {
+        "name": "Mob Boss",
+        "effect": "Terrify + Deviate.",
+        "id": 1013,
+        "update": "TBD"
+    },
+    {
         "name": "Mojo",
         "effect": "Static\nEffect: Normal Types are not immune to the user’s Ghost-Type Moves.",
         "id": -1
@@ -3082,6 +3916,18 @@
         "name": "Molten Blades",
         "effect": "Keen Edge + Keen Edge moves have a 20% chance to burn.",
         "id": 593,
+        "update": "TBD"
+    },
+    {
+        "name": "Molten Coat",
+        "effect": "Mineralize + Rock moves have 50% burn chance.",
+        "id": 856,
+        "update": "TBD"
+    },
+    {
+        "name": "Molten Core",
+        "effect": "Furnace + Absorbs Rock-moves/Stealth Rocks.",
+        "id": 870,
         "update": "TBD"
     },
     {
@@ -3102,7 +3948,7 @@
     },
     {
         "name": "Monster Hunter",
-        "effect": "Deals 1.5x more damage to Dark-types.",
+        "effect": "Deals 1.5x damage to Dark. Takes 0.5x damage from Dark.",
         "id": 526,
         "update": "TBD"
     },
@@ -3140,20 +3986,26 @@
         "id": -1
     },
     {
-        "name": "Mountain Will",
-        "effect": "Boosts Rock-type moves by 1.3x, or 1.8x when below 1/3 HP.",
-        "id": 799,
-        "update": "TBD"
-    },
-    {
         "name": "Mountaineer",
         "effect": "Static\nUser is ummne to Rock-Type moves and Stealth Rock.Defensive.",
         "id": 314
     },
     {
+        "name": "Moustache",
+        "effect": "Tangling Hair + Stamina.",
+        "id": 901,
+        "update": "TBD"
+    },
+    {
         "name": "Moxie",
         "effect": "Static\nEffect: Whenever the user’s Move causes a target to faint, it may raise its Attack Combat Stage by +1. You may\nonly trigger Moxie once per Move, even if the Move causes multiple targets to faint.",
         "id": 153
+    },
+    {
+        "name": "Mucus Membrane",
+        "effect": "Takes 30% less damage from attacks + Gooey",
+        "id": 986,
+        "update": "TBD"
     },
     {
         "name": "Mud Dweller",
@@ -3168,7 +4020,13 @@
     {
         "name": "Multi Headed",
         "effect": "Scene – Swift Action\nThe user may use a move again based on the number off heads but deals 20% damage with extra attacks",
-        "id": 347
+        "id": -1
+    },
+    {
+        "name": "Multi-Headed",
+        "effect": "Hits as many times, as it has heads.",
+        "id": 347,
+        "update": "TBD"
     },
     {
         "name": "Multiscale",
@@ -3184,6 +4042,12 @@
         "name": "Mummy",
         "effect": "Daily – Free Action\nTrigger: The user is hit by a Melee Attack",
         "id": 152
+    },
+    {
+        "name": "Musical Notes",
+        "effect": "Status moves become sound-based.",
+        "id": 912,
+        "update": "TBD"
     },
     {
         "name": "Mycelium Might",
@@ -3205,6 +4069,12 @@
         "name": "Mythical Arrows",
         "effect": "Arrow moves become special and deal 30% more damage.",
         "id": 601,
+        "update": "TBD"
+    },
+    {
+        "name": "Narcissist",
+        "effect": "When a stat is lowered, sharply raise both offenses.",
+        "id": 916,
         "update": "TBD"
     },
     {
@@ -3236,9 +4106,21 @@
         "update": "TBD"
     },
     {
+        "name": "Neutralizing Fog",
+        "effect": "Uses Defog on entry.",
+        "id": 839,
+        "update": "TBD"
+    },
+    {
         "name": "Neutralizing Gas",
         "effect": "Static\nthat area (the user is unaffected by this). If the user uses Poison Gas, Smog, Clear Smog, or Strange Steam,",
         "id": 256
+    },
+    {
+        "name": "Nihil Blaster",
+        "effect": "Aura Break + Mega Launcher.",
+        "id": 980,
+        "update": "TBD"
     },
     {
         "name": "Nika",
@@ -3332,6 +4214,12 @@
         "id": -1
     },
     {
+        "name": "Ominous Shroud",
+        "effect": "Phantom + Shadow Shield.",
+        "id": 822,
+        "update": "TBD"
+    },
+    {
         "name": "On the Prowl",
         "effect": "+1 priority for the first turn. Negative priority becomes +0.",
         "id": 648,
@@ -3346,6 +4234,12 @@
         "name": "Orichalcum Pulse",
         "effect": "Scene-Free action\nTrigger: User joins encounter\nEffect: The user turns The weather to Sunny, While sunny the user gains +1 Combat stages in Attack and\nSpecial Attack",
         "id": 584
+    },
+    {
+        "name": "Overcast",
+        "effect": "Low Visibility + Sets Mist on entry.",
+        "id": 983,
+        "update": "TBD"
     },
     {
         "name": "Overcharge",
@@ -3373,6 +4267,12 @@
         "id": -1
     },
     {
+        "name": "Overrule",
+        "effect": "Crits bypass abilities and do 2x damage vs resists.",
+        "id": 815,
+        "update": "TBD"
+    },
+    {
         "name": "Overwatch",
         "effect": "On the Prowl + Stakeout.",
         "id": 727,
@@ -3385,6 +4285,18 @@
         "update": "TBD"
     },
     {
+        "name": "Overwhelming Mind",
+        "effect": "Boosts Psychic-type moves by 1.3x, or 1.8x when below 1/3 HP.",
+        "id": 1023,
+        "update": "TBD"
+    },
+    {
+        "name": "Overzealous (N)",
+        "effect": "User's super-effective moves have +1 prio.",
+        "id": 828,
+        "update": "TBD"
+    },
+    {
         "name": "Own Tempo",
         "effect": "Static\nThe user is immune to Confusion.User is also immune to Intimidate, Scare and Frighten. Defensive.",
         "id": 20
@@ -3393,6 +4305,12 @@
         "name": "Pack Hunt",
         "effect": "At-Will – Free Action\nTrigger: An adjacent foe is damaged by an ally’s Melee Attack\nThe user may make a Physical Attack with an AC of 5 against the triggering foe. If the attack hits, the foe loses\na Tick of Hit Points.",
         "id": -1
+    },
+    {
+        "name": "Paint Shot",
+        "effect": "Mega launcher moves change the target's type to the move used.",
+        "id": 880,
+        "update": "TBD"
     },
     {
         "name": "Parasitic Spores",
@@ -3407,7 +4325,7 @@
     },
     {
         "name": "Parroting",
-        "effect": "Copies sound moves used by others. Immune to sound.",
+        "effect": "Copies sound moves used by others.",
         "id": 545,
         "update": "TBD"
     },
@@ -3429,7 +4347,7 @@
     },
     {
         "name": "Pattern Change",
-        "effect": "Changes type depending on the move it's about to use.",
+        "effect": "Protean + Shed Skin",
         "id": 667,
         "update": "TBD"
     },
@@ -3472,6 +4390,12 @@
         "update": "TBD"
     },
     {
+        "name": "Petal Shield",
+        "effect": "Maxes Def on entry. -1 Def when hit.",
+        "id": 1012,
+        "update": "TBD"
+    },
+    {
         "name": "Petrify",
         "effect": "Clears stat buffs then lowers speed by one stage on entry.",
         "id": 677,
@@ -3479,7 +4403,7 @@
     },
     {
         "name": "Phantom",
-        "effect": "Adds Ghost type to itself.",
+        "effect": "Adds Ghost type on entry.",
         "id": 324,
         "update": "TBD"
     },
@@ -3576,9 +4500,21 @@
         "update": "TBD"
     },
     {
+        "name": "Poison Quills",
+        "effect": "Rough Skin + Poison Point.",
+        "id": 840,
+        "update": "TBD"
+    },
+    {
         "name": "Poison Touch",
         "effect": "Static\nThe Pokémon’s Moves which deal damage Poison Legal Targets on 19+. If a move already has a chance of\nPoisoning foes, Poison Touch increases the effect range by +2.",
         "id": 143
+    },
+    {
+        "name": "Polarity",
+        "effect": "Increases the party's highest stat by 30%",
+        "id": 933,
+        "update": "TBD"
     },
     {
         "name": "Polinate",
@@ -3587,7 +4523,7 @@
     },
     {
         "name": "Pollinate",
-        "effect": "Normal-type moves become Bug and get a 1.1x boost.",
+        "effect": "Normal moves becomes Bug. Immune to powder if Bug-type.",
         "id": 381,
         "update": "TBD"
     },
@@ -3641,9 +4577,21 @@
         "id": 273
     },
     {
+        "name": "Power Leak",
+        "effect": "When hit, set up Electric Terrain.",
+        "id": 898,
+        "update": "TBD"
+    },
+    {
         "name": "Power Metal",
         "effect": "Sound moves get a 1.2x boost and become Steel if Normal.",
         "id": 657,
+        "update": "TBD"
+    },
+    {
+        "name": "Power Outage",
+        "effect": "Boosts first Electric attack by 2x then loses Electric type.",
+        "id": 1005,
         "update": "TBD"
     },
     {
@@ -3806,7 +4754,7 @@
     },
     {
         "name": "Pure Love",
-        "effect": "Infatuates on contact. Heal 25% damage vs infatuated.",
+        "effect": "Cute Charm + heal 25% damage vs infatuated.",
         "id": 508,
         "update": "TBD"
     },
@@ -3835,6 +4783,12 @@
         "name": "Purifying Waters",
         "effect": "Hydration + Water Veil.",
         "id": 501,
+        "update": "TBD"
+    },
+    {
+        "name": "Purple Haze",
+        "effect": "Triggers a 20BP Poison Gas after using a move.",
+        "id": 853,
         "update": "TBD"
     },
     {
@@ -3946,9 +4900,27 @@
         "update": "TBD"
     },
     {
+        "name": "Raging Storm",
+        "effect": "Ups highest attacking stat by 1.5x in rain.",
+        "id": 935,
+        "update": "TBD"
+    },
+    {
         "name": "Rain Dish",
         "effect": "Static\nWhile Rainy, the user gains a Tick of Hit Points at the beginning of each of their turns.",
         "id": 44
+    },
+    {
+        "name": "Rain Shroud",
+        "effect": "Ups evasion by 30% in rain.",
+        "id": 987,
+        "update": "TBD"
+    },
+    {
+        "name": "Rainbow Scales",
+        "effect": "Fire Scales + Taste the Rainbow.",
+        "id": 925,
+        "update": "TBD"
     },
     {
         "name": "Rally",
@@ -3964,6 +4936,12 @@
         "name": "Rapid Response",
         "effect": "Boosts Speed by 50% + SpAtk by 20% on first turn.",
         "id": 573,
+        "update": "TBD"
+    },
+    {
+        "name": "Rat King",
+        "effect": "Allies with a BST below 400 get their stats boosted by 50%.",
+        "id": 891,
         "update": "TBD"
     },
     {
@@ -3991,6 +4969,12 @@
         "name": "Readied Action",
         "effect": "Doubles attack on first turn.",
         "id": 557,
+        "update": "TBD"
+    },
+    {
+        "name": "Reaper's Embarce",
+        "effect": "Tough Claws + Foul Energy.",
+        "id": 1026,
         "update": "TBD"
     },
     {
@@ -4047,9 +5031,21 @@
         "update": "TBD"
     },
     {
+        "name": "Relic Stone",
+        "effect": "Other battlers don't benefit from STAB.",
+        "id": 866,
+        "update": "TBD"
+    },
+    {
         "name": "Reservoir",
         "effect": "Water Absorb + Storm Drain.",
         "id": 749,
+        "update": "TBD"
+    },
+    {
+        "name": "Resilience",
+        "effect": "Heal 1/4 of max HP whenever below 1/2 health",
+        "id": 991,
         "update": "TBD"
     },
     {
@@ -4085,7 +5081,13 @@
     {
         "name": "Revelation",
         "effect": "Scene x2 – Free Action\nTrigger: Someone within 10 meters uses a Damaging Dance Move\nEffect: The user may immediately use the triggering Move as a Standard Action interrupt.\nBonus: Whenever the user uses a Dance Move, they gain +2 to Accuracy Rolls until the end of their next turn",
-        "id": -1
+        "id": 885
+    },
+    {
+        "name": "Reverberate",
+        "effect": "Normal moves are Sound moves.",
+        "id": 812,
+        "update": "TBD"
     },
     {
         "name": "Rhythmic",
@@ -4111,9 +5113,21 @@
         "update": "TBD"
     },
     {
+        "name": "Rite Of Spring",
+        "effect": "Chlorophyll + Solar Power.",
+        "id": 802,
+        "update": "TBD"
+    },
+    {
         "name": "Rivalry",
         "effect": "Static\nWhenever the user deals direct damage to a target of the same gender, increase the Damage dealt by +5.",
         "id": 79
+    },
+    {
+        "name": "Rock Armor",
+        "effect": "Rocky Exterior + takes 10% less damage from attacks.",
+        "id": 1031,
+        "update": "TBD"
     },
     {
         "name": "Rock Head",
@@ -4129,6 +5143,12 @@
         "name": "Rockhard Will",
         "effect": "Boosts Rock-type moves by 1.2x, or 1.5x when under 1/3 HP.",
         "id": 617,
+        "update": "TBD"
+    },
+    {
+        "name": "Rocky Exterior",
+        "effect": "Adds Rock type on entry.",
+        "id": 920,
         "update": "TBD"
     },
     {
@@ -4156,6 +5176,12 @@
         "name": "Roundhouse",
         "effect": "Static\nKick moves get +1 Accuracy\nScene x2 - Free Action\nTrigger: The user uses a Kick move\nEffect : Damages foes weaker defenses.",
         "id": 403
+    },
+    {
+        "name": "Royal Decree",
+        "effect": "Queenly Majesty + Glare on entry once per battle.",
+        "id": 857,
+        "update": "TBD"
     },
     {
         "name": "Rude Awakening",
@@ -4199,6 +5225,12 @@
         "name": "Sand Bender",
         "effect": "Sand Stream + Sand Force.",
         "id": 744,
+        "update": "TBD"
+    },
+    {
+        "name": "Sand Fiend",
+        "effect": "Sand Force + Sand Guard.",
+        "id": 900,
         "update": "TBD"
     },
     {
@@ -4249,9 +5281,21 @@
         "id": 157
     },
     {
+        "name": "Sap Trap",
+        "effect": "Lowers foe's speed at the end of turns. At -3 they get trapped.",
+        "id": 943,
+        "update": "TBD"
+    },
+    {
         "name": "Scare",
         "effect": "Scene – Swift Action\nTarget: Pokémon or Trainer within 5 meters\nLower the target’s Special Attack 1 Combat Stage.",
         "id": 329
+    },
+    {
+        "name": "Scarecrow",
+        "effect": "Scare + Bad Luck.",
+        "id": 821,
+        "update": "TBD"
     },
     {
         "name": "Scavenger",
@@ -4315,6 +5359,12 @@
         "id": 307
     },
     {
+        "name": "Sepia Lens",
+        "effect": "Tinted Lens + Sand Guard.",
+        "id": 805,
+        "update": "TBD"
+    },
+    {
         "name": "Sequence",
         "effect": "Scene – Free Action\nTrigger: The user uses an Electric Attack\nFor every allied Electric-Type Pokémon cardinally adjacent to the user, raise the user’s Attack and Special\nAttack by +1 CS each before calculating damage for the triggering attack. After the attack is resolved, lose all\nCombat Stages gained this way.",
         "id": -1
@@ -4323,6 +5373,12 @@
         "name": "Serene Grace",
         "effect": "Static\nThe user’s Effect Range is increased by +2.",
         "id": 32
+    },
+    {
+        "name": "Serpent Bind",
+        "effect": "50% chance to trap, then drop the their speed by -1 each turn.",
+        "id": 819,
+        "update": "TBD"
     },
     {
         "name": "Serpent’s Mark",
@@ -4374,9 +5430,21 @@
         "update": "TBD"
     },
     {
+        "name": "Sharp Talons",
+        "effect": "Kicking moves have a 50% Bleed chance.",
+        "id": 952,
+        "update": "TBD"
+    },
+    {
         "name": "Sharpness",
         "effect": "Static\n: Cutting moves gain +2DB",
         "id": -1
+    },
+    {
+        "name": "Shattered Armor",
+        "effect": "Battle Armor + Scrapyard.",
+        "id": 997,
+        "update": "TBD"
     },
     {
         "name": "Shed Skin",
@@ -4463,9 +5531,27 @@
         "id": 86
     },
     {
+        "name": "Sinister Claws",
+        "effect": "Mystic Blades + Keen Edge moves lower SpDef.",
+        "id": 1011,
+        "update": "TBD"
+    },
+    {
         "name": "Skill Link",
         "effect": "Scene – Free Action\nTrigger: The user hits with a Move with the Five Strike keyword.\nThe Triggering Move automatically hits 5 Times",
         "id": 92
+    },
+    {
+        "name": "Sleek Scales",
+        "effect": "The Pokémon uses +15% of its Speed when defending.",
+        "id": 1030,
+        "update": "TBD"
+    },
+    {
+        "name": "Slime Mold",
+        "effect": "Sticky Hold + Gooey.",
+        "id": 1033,
+        "update": "TBD"
     },
     {
         "name": "Slipstream",
@@ -4477,6 +5563,12 @@
         "name": "Slow Start",
         "effect": "Static\nFor 3 rounds after joining an encounter, the user’s Speed and Attack Stats are halved and they have 10\nDamage Reduction.",
         "id": 112
+    },
+    {
+        "name": "Sludge Spit",
+        "effect": "follows up with 35BP Venom Bolt after using an attack.",
+        "id": 876,
+        "update": "TBD"
     },
     {
         "name": "Sludgy Mix",
@@ -4493,6 +5585,12 @@
         "name": "Smokey Maneuvers",
         "effect": "Evasion is boosted by 1.25x in fog.",
         "id": 655,
+        "update": "TBD"
+    },
+    {
+        "name": "Smoldering Wood",
+        "effect": "Raw Wood + Flame Body.",
+        "id": 1032,
         "update": "TBD"
     },
     {
@@ -4597,6 +5695,12 @@
         "id": 331
     },
     {
+        "name": "Soul Harvest",
+        "effect": "Fainted Pokemon increase your offenses and spdef by 5%.",
+        "id": 888,
+        "update": "TBD"
+    },
+    {
         "name": "Soul Heart",
         "effect": "Scene x2 – Free Action\nTrigger: A combatant in the encounter Faints\nThe user receives +2 Special Attack Combat Stages and gains a tick of Temporary Hit Points.",
         "id": -1
@@ -4605,6 +5709,12 @@
         "name": "Soul Linker",
         "effect": "Scene – Swift Action\nUser shares damage taken with Target.",
         "id": 332
+    },
+    {
+        "name": "Soul Tap",
+        "effect": "Drain 10% HP from foes at the end of each turn in fog.",
+        "id": 820,
+        "update": "TBD"
     },
     {
         "name": "Soul-Heart",
@@ -4635,7 +5745,7 @@
     },
     {
         "name": "Spectralize",
-        "effect": "Normal-type moves become Ghost and get a 1.1x boost.",
+        "effect": "Normal moves become Ghost. Ghost moves are empowered.",
         "id": 393,
         "update": "TBD"
     },
@@ -4702,6 +5812,18 @@
         "name": "Sprint",
         "effect": "Scene – Swift Action\nThe user gains +2 Speed Combat Stages. Additionally, the user’s Overland Speed is always increased by +2.",
         "id": -1
+    },
+    {
+        "name": "Spyware",
+        "effect": "Sharply raises a stat based on foe's strong point.",
+        "id": 896,
+        "update": "TBD"
+    },
+    {
+        "name": "Stainless Steel",
+        "effect": "Fort Knox + Steelworker.",
+        "id": 829,
+        "update": "TBD"
     },
     {
         "name": "Stakeout",
@@ -4802,6 +5924,18 @@
         "id": -1
     },
     {
+        "name": "Stonecutter",
+        "effect": "Fossilized + Rock moves ignore abilities.",
+        "id": 881,
+        "update": "TBD"
+    },
+    {
+        "name": "Storm Cloud",
+        "effect": "Summon rain on entry for 8 turns. Gain Electric-type STAB.",
+        "id": 989,
+        "update": "TBD"
+    },
+    {
         "name": "Storm Drain",
         "effect": "Scene – Free Action\nTrigger: A ranged Water-Type Move is used within 10 Meters of the user.\nThe Move is turned into a Single-Target Move and is re-directed at the user without fail, and cannot miss. This\nnegates Lock-On or Mind Reader. Additionally, the user is immune to the damage and effects of Water Type\nattacks, and each time they are hit by a WaterType attack, the user’s Special Attack is raised 1 Combat Stage.\nDefensive",
         "id": 114
@@ -4812,9 +5946,27 @@
         "id": -1
     },
     {
+        "name": "Strategic Pause",
+        "effect": "+2 crit rate when moving last + Analytic.",
+        "id": 814,
+        "update": "TBD"
+    },
+    {
+        "name": "Strikeout",
+        "effect": "Forces the foe out if they don't attack for 3 turns.",
+        "id": 913,
+        "update": "TBD"
+    },
+    {
         "name": "Striker",
         "effect": "Static\nIncrease user's kicking moves Damage Base by 2.",
         "id": 361
+    },
+    {
+        "name": "Strong Foundation",
+        "effect": "Takes 1/2 Water and Ground dmg and can't be forced out.",
+        "id": 904,
+        "update": "TBD"
     },
     {
         "name": "Strong Jaw",
@@ -4851,14 +6003,26 @@
     },
     {
         "name": "Sugar Rush",
-        "effect": "Gluttony + eats foe's berry when hitting with contact move.",
+        "effect": "Unburden + Ripen",
         "id": 652,
+        "update": "TBD"
+    },
+    {
+        "name": "Sumo Guard",
+        "effect": "Juggernaut + Thick Fat.",
+        "id": 936,
         "update": "TBD"
     },
     {
         "name": "Sumo Stance",
         "effect": "Static\nThe user’s Weight Class is increased by +1, and the user is immune to Push effects. Defensive.",
         "id": -1
+    },
+    {
+        "name": "Sumo Wrestler",
+        "effect": "Uses 20BP Circle Throw at the end of each 2nd turn.",
+        "id": 937,
+        "update": "TBD"
     },
     {
         "name": "Sun Basking",
@@ -4875,6 +6039,18 @@
         "name": "Sun Worship",
         "effect": "Scene – Swift Action\nTrigger: The user is sent out in Sunny Weather or if Weather becomes Sunny\nIncrease Highest stat by 1 CS.",
         "id": 380
+    },
+    {
+        "name": "Sun's Bounty",
+        "effect": "Leaf Guard + Harvest.",
+        "id": 801,
+        "update": "TBD"
+    },
+    {
+        "name": "Sundae",
+        "effect": "Snow Warning + Ice Body.",
+        "id": 929,
+        "update": "TBD"
     },
     {
         "name": "Sunglow",
@@ -4905,6 +6081,12 @@
         "update": "TBD"
     },
     {
+        "name": "Super Sniper",
+        "effect": "Sniper + Attacks hit switching foes with 1/2 Power.",
+        "id": 806,
+        "update": "TBD"
+    },
+    {
         "name": "Super Strain",
         "effect": "KOs lower Attack by +1. Take 25% recoil damage.",
         "id": 487,
@@ -4913,12 +6095,18 @@
     {
         "name": "Supercell",
         "effect": "Scene – Swift Action\nSupercell may only be used if the Weather is Rainy or a New Moon, or if the user is under 50% Hit Points.\nWhen activated, the user may pick two Stats, gaining +2 Combat Stages in each Stat. All allies within 2 meters\nalso gain +1 Combat Stage in each of the chosen Stats.",
-        "id": -1
+        "id": 867
     },
     {
         "name": "Superconductor",
         "effect": "Steel-type moves become Electric and get a 1.1x boost.",
         "id": 659,
+        "update": "TBD"
+    },
+    {
+        "name": "Superheavy",
+        "effect": "Steadfast + blocks phasing moves.",
+        "id": 848,
         "update": "TBD"
     },
     {
@@ -4947,6 +6135,18 @@
         "name": "Surprise!",
         "effect": "Astonishes enemy priority users in fog.",
         "id": 623,
+        "update": "TBD"
+    },
+    {
+        "name": "Survivor Bias",
+        "effect": "Not very effective moves can't cause fainting.",
+        "id": 1000,
+        "update": "TBD"
+    },
+    {
+        "name": "Swamp Thing",
+        "effect": "Sets the Swamp Pledge effect on entry.",
+        "id": 877,
         "update": "TBD"
     },
     {
@@ -5029,9 +6229,21 @@
         "update": "TBD"
     },
     {
+        "name": "Talon Trap",
+        "effect": "50% chance to trap on contact. 100% if entered this turn.",
+        "id": 975,
+        "update": "TBD"
+    },
+    {
         "name": "Tangled Feet",
         "effect": "Static\nWhile Confused, the user gains +3 Evasion.",
         "id": 77
+    },
+    {
+        "name": "Tangled Tails",
+        "effect": "Know Your Place + Grappler.",
+        "id": 950,
+        "update": "TBD"
     },
     {
         "name": "Tangling Hair",
@@ -5048,6 +6260,12 @@
         "name": "Targeting System",
         "effect": "Scene – Free Action\nConnection – Lock-On. The user may activate this Ability to use Lock-On as a Swift Action.",
         "id": -1
+    },
+    {
+        "name": "Taste the Rainbow",
+        "effect": "Summons the Rainbow Pledge effect on entry.",
+        "id": 924,
+        "update": "TBD"
     },
     {
         "name": "Teamwork",
@@ -5074,6 +6292,24 @@
         "name": "Telepathy",
         "effect": "At-Will - Shift Action, Interrupt\nTrigger: An ally uses an area-of-effect attack that would hit you\nYou may Shift to remove yourself from the areaof-effect.",
         "id": 140
+    },
+    {
+        "name": "Temporal Rupture",
+        "effect": "Roar of Time is altered drastically.",
+        "id": 830,
+        "update": "TBD"
+    },
+    {
+        "name": "Tender Affection",
+        "effect": "Cute Charm + Fairy STAB",
+        "id": 826,
+        "update": "TBD"
+    },
+    {
+        "name": "Tentalock",
+        "effect": "Grappler + Serpent Bind.",
+        "id": 818,
+        "update": "TBD"
     },
     {
         "name": "Tera Shell",
@@ -5111,14 +6347,38 @@
         "update": "TBD"
     },
     {
+        "name": "Thermal Entropy",
+        "effect": "Thermal Exchange + Heatproof.",
+        "id": 1010,
+        "update": "TBD"
+    },
+    {
         "name": "Thermal Exchange",
         "effect": "At-Will - Free Action\nTrigger: The user is hit by a Fire-Type Move.\nEffect: The user receives +1 Attack Combat Stage.\nBonus: The user is immune to Burns. Defensive.",
         "id": 575
     },
     {
+        "name": "Thermal Slide",
+        "effect": "Ups speed by 50% in sun or hail.",
+        "id": 862,
+        "update": "TBD"
+    },
+    {
+        "name": "Thermomancy",
+        "effect": "Pyromancy + Cryomancy.",
+        "id": 863,
+        "update": "TBD"
+    },
+    {
         "name": "Thermosensitive",
         "effect": "Static\nWhile Sunny, the user’s Attack and Special Attack are raised by +2 combat stages each. While Hailing, the\nuser’s movement capabilities are reduced by half.",
         "id": -1
+    },
+    {
+        "name": "Thick Blubber",
+        "effect": "Take 1/4 damage from fire and ice in return for having 1/2 speed.",
+        "id": 889,
+        "update": "TBD"
     },
     {
         "name": "Thick Fat",
@@ -5127,7 +6387,7 @@
     },
     {
         "name": "Thick Skin",
-        "effect": "Takes 25% less damage from Super-effective moves.",
+        "effect": "Takes 35% less damage from Super-effective moves.",
         "id": 582,
         "update": "TBD"
     },
@@ -5140,6 +6400,12 @@
         "name": "Thunder Boost",
         "effect": "At-Will – Free Action\nTrigger: An adjacent Ally uses a damaging ElectricType Move\nThe allied target gains a +5 Bonus to its damage roll with the triggering Move. A target may not benefit from\nmore than one instance of Thunder Boost at a time.",
         "id": -1
+    },
+    {
+        "name": "Thunder Clouds",
+        "effect": "After using a special move, launch a 35 BP Thunderbolt",
+        "id": 993,
+        "update": "TBD"
     },
     {
         "name": "Thundercall",
@@ -5231,9 +6497,21 @@
         "id": -1
     },
     {
+        "name": "Toxic Shell",
+        "effect": "Shell Armor + Poison Point.",
+        "id": 968,
+        "update": "TBD"
+    },
+    {
         "name": "Toxic Spill",
         "effect": "Static\nNone Poison Type arround the user (5m) loose 1 Tick of Hit Points every turn.",
         "id": 411
+    },
+    {
+        "name": "Toxic Surge",
+        "effect": "sets Toxic Terrain on entry.",
+        "id": 834,
+        "update": "TBD"
     },
     {
         "name": "Trace",
@@ -5278,9 +6556,21 @@
         "id": 54
     },
     {
+        "name": "Tummyache",
+        "effect": "Thick Fat + Corrosion.",
+        "id": 954,
+        "update": "TBD"
+    },
+    {
         "name": "Turboblaze",
         "effect": "At-Will - Free Action\nTrigger: The user damages a foe",
         "id": 163
+    },
+    {
+        "name": "Turf War",
+        "effect": "Destroys terrain and boosts highest stat on entry.",
+        "id": 910,
+        "update": "TBD"
     },
     {
         "name": "Twinkle Toes",
@@ -5327,7 +6617,7 @@
     },
     {
         "name": "Ultra Instinct",
-        "effect": "Counters contact with Vacuum Wave. Takes 20% less damage.",
+        "effect": "Counters contact with 20BP Vacuum Wave. Takes .8x damage.",
         "id": 660,
         "update": "TBD"
     },
@@ -5348,7 +6638,7 @@
     },
     {
         "name": "Unicorn",
-        "effect": "Mighty Horn + Dazzling.",
+        "effect": "Mighty Horn + Pixilate.",
         "id": 647,
         "update": "TBD"
     },
@@ -5370,9 +6660,21 @@
         "update": "TBD"
     },
     {
+        "name": "Unrelenting",
+        "effect": "All attacking moves can hit 2-5 times",
+        "id": 994,
+        "update": "TBD"
+    },
+    {
         "name": "Unseen Fist",
         "effect": "Static\nReactions, Interrupts, and Blessings may not be activated in response to the user’s Melee Attacks.",
         "id": 260
+    },
+    {
+        "name": "Unstable Core",
+        "effect": "Power Core + Aftermath.",
+        "id": 1020,
+        "update": "TBD"
     },
     {
         "name": "Vanguard",
@@ -5445,6 +6747,12 @@
         "update": "TBD"
     },
     {
+        "name": "Virus",
+        "effect": "Electric moves have 30% chance to poison as well.",
+        "id": 897,
+        "update": "TBD"
+    },
+    {
         "name": "Vital Spirit",
         "effect": "Static\nThe user is immune to the Sleep condition, and cannot use the move Rest. Defensive.",
         "id": 72
@@ -5471,6 +6779,12 @@
         "id": 430
     },
     {
+        "name": "Voltron",
+        "effect": "Metallic + Battle Armor.",
+        "id": 970,
+        "update": "TBD"
+    },
+    {
         "name": "Voodoo Doll",
         "effect": "Daily – Free Action\nTrigger: The user uses the Move Curse as a Ghost Type\nConnection - Curse. Choose an additional target within 8 meters of the user to become Cursed.",
         "id": -1
@@ -5495,6 +6809,18 @@
         "name": "WandrngSprit",
         "effect": "Trades ability with attacker on contact.",
         "id": 254,
+        "update": "TBD"
+    },
+    {
+        "name": "Warmonger",
+        "effect": "Boosts the user's rock, steel, and fighting moves by 30%.",
+        "id": 883,
+        "update": "TBD"
+    },
+    {
+        "name": "Warrior's Spear",
+        "effect": "Mighty Horn + Fighting Spirit",
+        "id": 1029,
         "update": "TBD"
     },
     {
@@ -5529,6 +6855,12 @@
         "id": 41
     },
     {
+        "name": "Waterborne",
+        "effect": "Aquatic + Adaptability",
+        "id": 990,
+        "update": "TBD"
+    },
+    {
         "name": "Wave Rider",
         "effect": "Static\nWhile in water, the user’s Speed Stat gains +4 Combat Stages. Remove these Combat Stages if the user exits\nthe water.",
         "id": -1
@@ -5543,6 +6875,12 @@
         "name": "Way of Swiftness",
         "effect": "Pretentious + Swift Swim.",
         "id": 680,
+        "update": "TBD"
+    },
+    {
+        "name": "We Will Rock You",
+        "effect": "Boosts Rock-type moves by 1.3x, or 1.8x when below 1/3 HP.",
+        "id": 799,
         "update": "TBD"
     },
     {
@@ -5638,6 +6976,12 @@
         "id": 193
     },
     {
+        "name": "Wind Chimes",
+        "effect": "Amplifier + attacks with 30 BP Hyper Voice when hit.",
+        "id": 1019,
+        "update": "TBD"
+    },
+    {
         "name": "Wind Force",
         "effect": "Static\nThe user is immune to the damage and effects of Flying Type attacks. Whenever a Flying Type attack hits the\nPokémon, raise their Speed by +1 Combat Stage. Defensive.",
         "id": -1
@@ -5670,6 +7014,18 @@
         "update": "TBD"
     },
     {
+        "name": "Wings of Pestilence",
+        "effect": "Every attack has a 20% Bleed chance and 10% Curse chance.",
+        "id": 927,
+        "update": "TBD"
+    },
+    {
+        "name": "Winter Throne",
+        "effect": "1/8 Damage each turn to non-ice. Heals Ice 1/8 each turn.",
+        "id": 874,
+        "update": "TBD"
+    },
+    {
         "name": "Winter’s Kiss",
         "effect": "Static\nThe user does not take damage from Ice-Type Moves. Whenever the user uses or is hit by an IceType Move,\nthe user is healed by a Tick of Hit Points. Defensive.Defensive.",
         "id": -1
@@ -5691,6 +7047,12 @@
         "id": -1
     },
     {
+        "name": "Witch Broom",
+        "effect": "Hyper Aggressive + Hover.",
+        "id": 961,
+        "update": "TBD"
+    },
+    {
         "name": "Witheout",
         "effect": "Static\nDuring Snow user's Ice type moves get damage base +2.",
         "id": -1
@@ -5706,14 +7068,44 @@
         "id": 25
     },
     {
+        "name": "Wonder Scale",
+        "effect": "Shed Skin + Wonder Skin",
+        "id": 827,
+        "update": "TBD"
+    },
+    {
         "name": "Wonder Skin",
         "effect": "Static\nThe user gains +6 Evasion against Status Moves. Defensive.",
         "id": 147
     },
     {
+        "name": "Woodland Curse",
+        "effect": "Uses Forest's Curse on Entry. Adds Grass type on contact.",
+        "id": 807,
+        "update": "TBD"
+    },
+    {
+        "name": "World Serpent",
+        "effect": "Long Reach + Grip Pincer.",
+        "id": 849,
+        "update": "TBD"
+    },
+    {
+        "name": "Wrestle Showman",
+        "effect": "Flying Press gains +10BP and causes Taunt.",
+        "id": 963,
+        "update": "TBD"
+    },
+    {
         "name": "Yuki Onna",
         "effect": "Scare + Intimidate. 30% chance to infatuate on hit.",
         "id": 497,
+        "update": "TBD"
+    },
+    {
+        "name": "Zen Garden",
+        "effect": "Sets up Grassy or Psychic Terrain at random.",
+        "id": 953,
         "update": "TBD"
     },
     {

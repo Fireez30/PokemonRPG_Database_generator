@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from pydantic import BaseModel, Field, BeforeValidator, field_validator, model_validator
+from pydantic import BaseModel, Field, BeforeValidator, field_validator, model_validator,PositiveInt
 from typing import Literal, Annotated
 import json
 
@@ -40,13 +40,13 @@ PokemonType = Annotated[Literal["Bug","Dark","Dragon","Electric","Fairy","Fighti
 
 max_abilities_count = 8
 class Pokemon(BaseModel):
-    name : str
-    stat_hp : int
-    stat_atk : int
-    stat_def : int
-    stat_sp_atk : int
-    stat_sp_def : int
-    stat_spd : int
+    name : str = Field(min_length=1)
+    stat_hp : PositiveInt
+    stat_atk : PositiveInt
+    stat_def : PositiveInt
+    stat_sp_atk : PositiveInt
+    stat_sp_def : PositiveInt
+    stat_spd : PositiveInt
     pokemon_types : list[PokemonType] = Field(min_length=1,max_length=3)
     base_abilities : list[Ability] = Field(min_length=1,max_length=max_abilities_count)
     advanced_abilities : list[Ability] = Field(min_length=1,max_length=max_abilities_count)
@@ -55,8 +55,8 @@ class Pokemon(BaseModel):
     evolutions : list[str] = Field(min_length=1)
     height : str
     weight : str
-    gender_ratio_m : str
-    gender_ratio_f : str
+    gender_ratio_m : float
+    gender_ratio_f : float
     egg_group : str
     average_hatch_rate : int
     diet : str
