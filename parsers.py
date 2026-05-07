@@ -1011,8 +1011,11 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
         if name.lower() == "tm_moves.0.type" or name == "":
             continue
         #print(mega_evolution_ability_aggr)
-        #print(mega_evolution_stats_aggr)
-        mega_evolution_obj = MegaEvolution(type=mega_evolution_types, ability=mega_evolution_ability_aggr.strip(), stats=mega_evolution_stats_aggr.strip())
+        if mega_evolution_stats_aggr.strip() != "":
+            print(mega_evolution_stats_aggr)
+            exit()
+        mega_evo_dict = {"Hp":"+0","Atk":"+0","Def":"+0","SpAtk":"+0","SpDef":"+0","Spd":"+0"}
+        mega_evolution_obj = MegaEvolution(type=mega_evolution_types, ability=mega_evolution_ability_aggr.strip(), stats=StatsModel(stats=mega_evo_dict))
         #print("name: "+name)
         #print("hp: "+str(hp))
         #print("attack: "+str(attack))
@@ -1570,6 +1573,10 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
 
         #print(mega_evolution_ability_aggr)
         #print(mega_evolution_stats_aggr)
+        if mega_evolution_stats_aggr.strip() != "":
+            print(mega_evolution_stats_aggr)
+            exit()
+        mega_evo_dict = {"Hp":"+0","Atk":"+0","Def":"+0","SpAtk":"+0","SpDef":"+0","Spd":"+0"}
         mega_evolution_obj = MegaEvolution(type=mega_evolution_types, ability=mega_evolution_ability_aggr.strip(), stats=mega_evolution_stats_aggr.strip())
         if name.lower() == "tm_moves.0.type" or name == "":
             continue

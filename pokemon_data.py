@@ -1,8 +1,8 @@
 from dataclasses import dataclass
 from pydantic import BaseModel, Field, BeforeValidator, field_validator, model_validator,PositiveInt
-from typing import Literal, Annotated
+from typing import Literal, Annotated, Dict
 import json
-
+import re
 accepted_ACs = ["--","/","TBD"]
 accepted_freqs = ["2x Daily","At-Will","EOT","Scene","Scene x2","Daily","Daily x1","Daily x1 Quick Action","Daily x3","Scene x3","TBD"]
 accepted_types = ["Bug","Dark","Dragon","Electric","Fairy","Fighting","Fire","Flying","Ghost","Grass","Ground","Ice","Light","Normal","Poison","Psychic","Rock","Steel","Water"]
@@ -16,10 +16,35 @@ class Skill(BaseModel):
     name: str
     roll: str
 
+
+STAT_KEYS = {"Hp", "Atk", "Def", "SpAtk", "SpDef", "Spd"}
+STAT_PATTERN = re.compile(r'^[+-]\d+$')
+
+
+class StatsModel(BaseModel):
+    stats: Dict[str, str]
+
+    @field_validator('stats')
+    @classmethod
+    def validate_stats(cls, v: Dict[str, str]) -> Dict[str, str]:
+        if v.keys() != STAT_KEYS:
+            missing = STAT_KEYS - v.keys()
+            extra = v.keys() - STAT_KEYS
+            raise ValueError(f"Invalid keys. Missing: {missing}, Extra: {extra}")
+        result = {}
+        for key, val in v.items():
+            if not STAT_PATTERN.match(val):
+                if re.match(r'^\d+$', val):
+                    val = f"+{val}"
+                else:
+                    raise ValueError(f"'{key}' value '{val}' is not a valid integer string")
+                result[key] = val
+        return result
+
 class MegaEvolution(BaseModel):
     type: list
     ability: str
-    stats: str = ""
+    stats: StatsModel
 
 class Ability(BaseModel):
     name:str
