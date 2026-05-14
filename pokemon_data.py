@@ -127,8 +127,8 @@ class FullMove(BaseModel):
     types: list[PokemonType] = Field(min_length=1, max_length=3)
     frequency : MoveFrequency
     AC : str
-    damage_base : int
-    roll : str
+    damage_base : int | None
+    roll : str | None
     m_class : MoveClass
     range : str
     effect : str
@@ -142,6 +142,8 @@ class FullMove(BaseModel):
     @classmethod
     def clean_extra_long_class(cls, v):
         if not v:
+            return "TBD"
+        if v.lower().startswith('tbd'):
             return "TBD"
         if v.lower().startswith("use_highest_offense"):
             return "Use Highest Offense"
@@ -161,7 +163,7 @@ class FullMove(BaseModel):
         if not v:
             return "TBD"
         v = v.replace("/em>", "")
-        if 'at will' in v.lower():
+        if 'at will' in v.lower() or v.lower() == "at-will":
             return "At-Will"
         return v.replace("Scence", "Scene")
 
@@ -176,6 +178,8 @@ class FullMove(BaseModel):
     @field_validator("roll")
     @classmethod
     def roll_should_not_contain_slash(cls,v: str) -> str:
+        if v is None:
+            return None
         if "/" in v:
             return v.split("/")[0]
         return v
@@ -198,7 +202,10 @@ class FullMove(BaseModel):
             print_ac = "/"
         return print_ac
     def get_type(self):
-        return self.types
+        returnstr = ""
+        for otype in self.types:
+            returnstr += otype + "/"
+        return returnstr[:-1]
     def get_classe(self):
         print_classe = ""
         if self.m_class == "Special":
@@ -216,6 +223,6 @@ class FullMove(BaseModel):
         # this is used to override default formating
         print(self.name)
         print(self.get_type())
-        final_type = ','.join(self.get_type())
-        csv =  self.name+","+self.get_frequency()+","+self.get_AC()+","+final_type+","+self.roll+","+self.get_classe()+","+'"'+self.get_range()+'"'+","+'"'+self.get_effect()+'"'
+        final_type =self.get_type()
+        csv =  self.name+","+self.get_frequency()+","+self.get_AC()+","+final_type+","+(self.roll if self.roll else "")+","+self.get_classe()+","+'"'+self.get_range()+'"'+","+'"'+self.get_effect()+'"'
         return csv
