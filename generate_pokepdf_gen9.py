@@ -286,7 +286,7 @@ def create_pdf(data, output="pokemon.pdf"):
     story.append(Spacer(1,5))
     # -------- IMAGE --------
 
-    img = get_pokemon_image(data["name"].replace("_","").lower())
+    img = get_pokemon_image(data["name"])
 
     if img:
         story.append(img)
@@ -551,7 +551,7 @@ def create_pdf(data, output="pokemon.pdf"):
 
 if __name__ == "__main__":
 
-    pokemon = load_pokemon("output/pte/pokemons.json")
+    pokemon = load_pokemon("output/initials/pokemons_test_9.json")
     for poke in pokemon:
         create_pdf(poke, "output/pdf_temp/"+poke["name"]+".pdf")
 
@@ -563,7 +563,8 @@ if __name__ == "__main__":
         if pdf != "output/pdf_temp/'.pdf":
             merger.append(pdf)
 
-    merger.write("output/pdf/pokedex.pdf")
+    merger.write("output/pdf/pokedex_gen9.pdf")
     merger.close()
+
     shutil.rmtree("output/pdf_temp/")
     os.mkdir("output/pdf_temp/")

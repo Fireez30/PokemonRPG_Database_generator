@@ -1,0 +1,148 @@
+from parsers import parse_extracted_text_gen8,parse_extracted_text_gen9,to_serializable,parse_mega_evolutions
+import json
+
+if __name__ == "__main__":
+    replace_list = [
+        ("wo-chien","wo chien"),
+        ("chien-pao","chien pao"),
+        ("ting-lu","ting lu"),
+        ("chi-yu","chi yu"),
+        ("gimmighoul (chest form)","gimmighoul"),
+        ("gimmighoul (roaming form)","gimmighoul roaming"),
+        ("enamorus incarnate forme","enamorus"),
+        ("enamorus therian forme","enamorus therian"),
+        ("urshifu single strike form","urshifu"),
+        ("urshifu rapid strike form","urshifu rapid strike style"),
+        ("shllnotlc","shiinotic"),
+        ("salandlt","salandit"),
+        ("wishiwashi solo","wishiwashi"),
+        ("wishiwashi schooling","wishiwashi school"),
+        ("nolvern","noivern"),
+        ("nolbat","noibat"),
+        ("mareanle","mareanie"),
+        ("fomantls","fomantis"),
+        ("lurantls","lurantis"),
+        ("bergmlte","bergmite"),
+        ("gourgelst","gourgeist"),
+        ("meowstic (m)","meowstic"),
+        ("meowstic (f)","meowstic female"),
+        ("sklddo","skiddo"),
+        ("lltleo","litleo"),
+        ("dlggersby","diggersby"),
+        ("kyurem normal forme","kyurem"),
+        ("kyurem white fusion forme","kyurem white"),
+        ("kyurem black fusion forme","kyurem black"),
+        ("landorus incarnate forme","landorus"),
+        ("landorus therian forme","landorus therian"),
+        ("thundurus incarnate forme","thundurus"),
+        ("thundurus therian forme","thundurus therian"),
+        ("tornadus incarnate forme","tornadus"),
+        ("tornadus therian forme","tornadus therian"),
+        ("bravlary","braviary"),
+        ("beartlc","beartic"),
+        ("deerllng","deerling"),
+        ("speed:3","reuniclus"),
+        ("trubblsh","trubbish"),
+        ("mlncclno","minccino"),
+        ("clncclno","cinccino"),
+        ("petllll","petilil"),
+        ("darmanitan galar, zen mode","darmanitan zen mode galar"),
+        ("darmanltan standard mode","darmanitan"),
+        ("darmanltan zen mode","darmanitan zen"),
+        ("darmanitan galar, standard mode","darmanitan galar"),
+        ("basculegion male","basculegion"),
+        ("basculegion female","basculegion f"),
+        ("lllllgant","lilligant"),
+        ("excadrlll","excadrill"),
+        ("whlmslcott","whimsicott"),
+        ("slmlsage","simisage"),
+        ("drllbur","drilbur"),
+        ("slmlsear","simisear"),
+        ("mlsmaglus","mismagius"),
+        ("llcklllcky","lickilicky"),
+        ("toxlcroak","toxicroak"),
+        ("draplon","drapion"),
+        ("skorupl","skorupi"),
+        ("hlppowdon","hippowdon"),
+        ("hlppopotas","hippopotas"),
+        ("chlngllng","chingling"),
+        ("drlfloon","drifloon"),
+        ("drlfbllm","drifblim"),
+        ("amblpom","ambipom"),
+        ("cherubl","cherubi"),
+        ("cherrlm","cherrim"),
+        ("bldoof","bidoof"),
+        ("blbarel","bibarel"),
+        ("ratlcate","raticate"),
+        ("dlglett","diglett"),
+        ("dugtrlo","dugtrio"),
+        ("perslan","persian"),
+        ("dodrlo","dodrio"),
+        ("llckltung","lickitung"),
+        ("grlmer","grimer"),
+        ("kofflng","koffing"),
+        ("weezlng","weezing"),
+        ("mlme jr.", "mime jr."),
+        ("giratina origin forme", "giratina origin"),
+        ("shaymin land forme", "shaymin"),
+        ("shaymin sky forme", "shaymin sky"),
+        ("mr. mime galar", "mr mime galar"),
+        ("rotom normal form", "rotom"),
+        ("mr. mlme", "mr. mime"),
+        ("mlsdreavus","misdreavus"),
+        ("alpom","aipom"),
+        ("gllgar","gligar"),
+        ("gllscor","gliscor"),
+        ("teddlursa","teddiursa"),
+        ("ursarlng","ursaring"),
+        ("zlgzagoon","zigzagoon"),
+        ("llnoone","linoone"),
+        ("talllow","taillow"),
+        ("shroomlsh","shroomish"),
+        ("skltty","skitty"),
+        ("gulpln","gulpin"),
+        ("spolnk","spoink"),
+        ("grumplg","grumpig"),
+        ("altarla","altaria"),
+        ("chlmecho","chimecho"),
+        ("glalle","glalie"),
+        ("deoxys normal forme","deoxys"),
+        ("wormadam sandy cloak","wormadam sandy"),
+        ("wormadam plant cloak","wormadam"),
+        ("wormadam trash cloak","wormadam trash"),
+        ("deoxys attack forme","deoxys attack"),
+        ("deoxys defense forme","deoxys defense"),
+        ("deoxys speed forme","deoxys speed"),
+        ("deoxys speed forme","deoxys speed"),
+    ]
+    with open("data/db_pokedex.json", "r") as f:
+        db_pokemons = json.load(f)
+    db_pokemons_names = list(filter(lambda x: x["name"]["english"].lower(),db_pokemons))
+    range_gen_9 = range(3,117)
+    pdf_gen_9 = "input_pdf/Gen 9 Homebrew Dex.pdf"
+    range_gen_9_dlc = range(1,20)
+    pdf_gen_9_dlc = "input_pdf/Gen9 DLC.pdf"
+
+    output_json = "data/pokemon.json"
+    pokemons = []
+    loaded_mons = parse_extracted_text_gen8(pdf_gen_9, range_gen_9,db_pokemons_names)
+    if loaded_mons is not None:
+        for mon in loaded_mons:
+            pokemons.append(mon)
+    loaded_mons = parse_extracted_text_gen9(pdf_gen_9_dlc, range_gen_9_dlc,db_pokemons_names)
+    if loaded_mons is not None:
+        for mon in loaded_mons:
+            pokemons.append(mon)
+    for pokenames in replace_list:
+        to_replace = pokenames[0]
+        replace_with = pokenames[1]
+        for poke in pokemons:
+            if poke.name == to_replace:
+                poke.name = replace_with
+    with open("output/initials/pokemons_test_9.json", "w", encoding="utf-8") as f:
+        json.dump(
+            to_serializable(pokemons),
+            f,
+            indent=2,  # pretty print
+            ensure_ascii=False
+        )

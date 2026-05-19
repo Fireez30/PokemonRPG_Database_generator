@@ -1,8 +1,7 @@
-from dataclasses import dataclass
 from pydantic import BaseModel, Field, BeforeValidator, field_validator, model_validator,PositiveInt
 from typing import Literal, Annotated, Dict
-import json
 import re
+
 accepted_ACs = ["--","/","TBD"]
 accepted_freqs = ["2x Daily","At-Will","EOT","Scene","Scene x2","Daily","Daily x1","Daily x1 Quick Action","Daily x3","Scene x3","TBD"]
 accepted_types = ["Bug","Dark","Dragon","Electric","Fairy","Fighting","Fire","Flying","Ghost","Grass","Ground","Ice","Light","Normal","Poison","Psychic","Rock","Steel","Water"]
@@ -54,12 +53,12 @@ class Ability(BaseModel):
 class Move(BaseModel):
     name: str
     level: int = -1
-    type: str = None
+    type: str | None = None
 
 def normalize(v:str) -> str:
     return v.capitalize()
 
-PokemonType = Annotated[Literal["Bug","Dark","Dragon","Electric","Fairy","Fighting","Fire","Flying","Ghost","Grass","Ground","Ice","Normal","Poison","Psychic","Rock","Steel","Water","Light","Data","Sound","Crystal"],
+PokemonType = Annotated[Literal["Bug","Dark","Dragon","Electric","Fairy","Fighting","Fire","Flying","Ghost","Grass","Ground","Ice","Normal","Poison","Psychic","Rock","Steel","Water","Light","Data","Sound","Crystal","None"],
     BeforeValidator(normalize)
 ]
 
@@ -77,7 +76,7 @@ class Pokemon(BaseModel):
     advanced_abilities : list[Ability] = Field(min_length=1,max_length=max_abilities_count)
     high_abilities : list[Ability] = Field(min_length=1,max_length=max_abilities_count)
     custom_abilities : dict[str,Ability] = Field(default_factory=dict)
-    evolutions : list[str] = Field(min_length=1)
+    evolutions : list[str] = Field(min_length=0)
     height : str
     weight : str
     gender_ratio_m : float
@@ -95,10 +94,48 @@ class Pokemon(BaseModel):
     egg_moves : list[Move] = Field(default_factory=list)
     mega_evolution : MegaEvolution | None = None
 
+    @field_validator("mega_evolution", mode="before")
+    @classmethod
+    def fix_megaevo(cls, v) -> MegaEvolution | None:
+        if v == "":
+            return None
+        return v
+
+    @field_validator("tm_moves", mode="before")
+    @classmethod
+    def clean_tm_moves(cls, v) -> list[Move]:
+        final_tmmoves = []
+        for m in v:
+            if m["name"].lower().strip() == "unofficial homebrew":
+                continue
+            else:
+                m["name"] = m["name"].replace("Unofficial Homebrew","").strip()
+                final_tmmoves.append(m)
+        return final_tmmoves
+
     @field_validator("gender_ratio_m", "gender_ratio_f", mode="before")
     @classmethod
     def coerce_gender_ratio(cls, v) -> str:
         return str(v)
+
+    @model_validator(mode='after')
+    def fix_empty_evo(self) -> Pokemon:
+        if len(self.evolutions) == 0:
+            self.evolutions = [self.name]
+        return self
+
+    @field_validator("pokemon_types", mode="before")
+    @classmethod
+    def split_multiple_types(cls, v) -> list[PokemonType]:
+        final_types = []
+        for typen in v:
+            if " " in typen.strip():
+                splitted = typen.split(" ")
+                for s in splitted:
+                    final_types.append(s)
+            else:
+                final_types.append(typen)
+        return final_types
 
     @field_validator("base_abilities", "advanced_abilities", "high_abilities", mode="before")
     @classmethod

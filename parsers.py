@@ -1,10 +1,37 @@
 import fitz
 from pokemon_data import *
 from pydantic import BaseModel
-import re
+import json
 
 stop_read = False
 import re
+
+
+def adapt_move_to_data(tutor_moves,egg_moves,tm_moves,move_db):
+    tutor_final = []
+    for move_name in tutor_moves:
+        move_objs = [f for f in move_db if f["name"].lower() == move_name.lower()]
+        move_to_add = {"name": move_name, "level": 0, "type": "None"}
+        if len(move_objs) > 0:
+            move_to_add["type"] = move_objs[0]["types"][0]
+        tutor_final.append(move_to_add)
+
+    egg_final = []
+    for move_name in egg_moves:
+        move_objs = [f for f in move_db if f["name"].lower() == move_name.lower()]
+        move_to_add = {"name": move_name, "level": 0, "type": "None"}
+        if len(move_objs) > 0:
+            move_to_add["type"] = move_objs[0]["types"][0]
+        egg_final.append(move_to_add)
+
+    tm_final = []
+    for move_name in tm_moves:
+        move_objs = [f for f in move_db if f["name"].lower() == move_name.lower()]
+        move_to_add = {"name": move_name, "level": 0, "type": "None"}
+        if len(move_objs) > 0:
+            move_to_add["type"] = move_objs[0]["types"][0]
+        tm_final.append(move_to_add)
+    return tutor_final,egg_final,tm_final
 def remove_leading_numbers(s):
     return re.sub(r'^\d+\s*', '', s)
 from dataclasses import asdict, is_dataclass
@@ -581,6 +608,8 @@ def UNUSED_parse_extracted_text_gen7(input_pdf,index):
 def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
     pokemons = []
     texts = extract_two_columns_text(input_pdf, indexes)
+    with open("output/finals/moves.json", "r") as f:
+        move_db = json.load(f)
     for text in texts :
         name = ""
         hp = -1
@@ -618,13 +647,16 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
         egg_moves_aggr = ""
         previous_line = ""
         mega_evolution = False
+        move_parsed = False
         mega_evolution_type_aggr = ""
         mega_evolution_stats_aggr = ""
         mega_evolution_ability_aggr = ""
         if text is None:
             return pokemons
+        pokemon_to_print = "smoliv"
         for line in text.split("\n"):
-            #print(line)
+            if name.lower().strip() == pokemon_to_print:
+                print(line)
             if line.strip() == "":
                 previous_line = line
                 continue
@@ -655,7 +687,10 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
                 mega_evolution_stats_aggr = line.split(':')[1].strip()
                 previous_line = line
                 continue
-            if line.strip().lower() == "basic information" or line.strip().lower() == "basic lnformation":
+            read_type_next = False
+            if line.strip().lower().startswith("basic information") or line.strip().lower().startswith("basic lnformation"):
+                if "type:" in line.lower():
+                    read_type_next = True
                 current_status = "basic_information"
                 previous_line = line
                 continue
@@ -679,15 +714,15 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
                 current_status = "skills"
                 previous_line = line
                 continue
-            if line.strip().lower().startswith("move list"):
+            if line.strip().lower().startswith("move list") and not move_parsed:
                 current_status = "moves"
                 previous_line = line
                 continue
-            if line.strip().lower().startswith("tm move list") or line.strip().lower().startswith("tm/hm move list"):
+            if line.strip().lower().startswith("tm move list") or line.strip().lower().startswith("tm/hm") or line.strip().lower().startswith("tm/hm move list") or line.strip().lower().startswith("tm/tutor moves"):
                 current_status = "tm_moves"
                 previous_line = line
                 continue
-            if line.strip().lower().startswith("tutor move list"):
+            if line.strip().lower().startswith("tutor move list") or ("tutor" in line.strip().lower() and ("m ove" in line.strip().lower() or "move" in line.strip().lower()) and "list" in line.strip().lower()):
                 current_status = "tutor_moves"
                 previous_line = line
                 continue
@@ -759,21 +794,26 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
 
 
             if current_status == "basic_information":
-                if line.strip().lower().startswith("type:"):
+                if line.strip().lower().startswith("type:") or read_type_next:
                     splitted = line.split(':')[1].strip()
                     if '/' in splitted:
                         poketype = [s.strip() for s in splitted.split('/')]
                     else :
-                        poketype = splitted.strip()
+                        poketype = [splitted.strip()]
+                    read_type_next = False
                 if line.strip().lower().startswith("basic ability") and ":" in line.strip().lower():
                     ability = line.split(':')[1].strip()
                     base_abilities.append(ability)
+                read_high_next = False
                 if (line.strip().lower().startswith("adv ability") or line.strip().lower().startswith("advanced ability")) and ":" in line.strip().lower():
-                    ability = line.split(':')[1].strip()
+                    if "High Ability:" in line:
+                        read_high_next = True
+                    ability = line.split(':')[1].strip().replace("High Ability:","")
                     advanced_abilities.append(ability)
-                if line.strip().lower().startswith("high ability") and ":" in line.strip().lower():
+                if (line.strip().lower().startswith("high ability") or line.strip().lower().startswith("edge high ability")) and ":" in line.strip().lower() or read_high_next:
                     ability = line.split(':')[1].strip()
                     high_abilities.append(ability)
+                    read_high_next = False
 
 
             if current_status == "evolution":
@@ -880,8 +920,9 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
                 elif replaced_move.strip().startswith("Evo") and "-" not in replaced_move:
                     found_line = replaced_move.replace("Evo ", "").strip()
                     moves.append(Move(name=found_line.replace("&","-"),level=0))
+                move_parsed = True
 
-            if current_status == "tm_moves":
+            if current_status == "tm_moves" and not line.strip().lower().startswith("move list"):
                 if line.strip() != "":
                     tm_moves_aggr += line.strip() + " "
 
@@ -1002,7 +1043,7 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
         if speed == -1 and len(not_treated) > 0:
             speed = int(not_treated.pop(0).strip())
 
-        #print(mega_evolution_type_aggr)
+        print(mega_evolution_type_aggr)
         mega_evolution_types = []
         if "," in mega_evolution_type_aggr:
             mega_evolution_types = mega_evolution_type_aggr.split(',')
@@ -1016,50 +1057,56 @@ def parse_extracted_text_gen8(input_pdf,indexes,db_pokemon_names):
             exit()
         mega_evo_dict = {"Hp":"+0","Atk":"+0","Def":"+0","SpAtk":"+0","SpDef":"+0","Spd":"+0"}
         mega_evolution_obj = MegaEvolution(type=mega_evolution_types, ability=mega_evolution_ability_aggr.strip(), stats=StatsModel(stats=mega_evo_dict))
-        #print("name: "+name)
-        #print("hp: "+str(hp))
-        #print("attack: "+str(attack))
-        #print("defense: "+str(defense))
-        #print("spattack: "+str(spattack))
-        #print("spdefense: "+str(spdefense))
-        #print("speed: "+str(speed))
-        #print("Types : ")
-        #print(poketype)
-        #print("Evolutions : ")
-        #print(evolutions)
-        #print("Base abilities : ")
-        #print(base_abilities)
-        #print("Advanced abilities : ")
-        #print(advanced_abilities)
-        #print("High abilities : ")
-        #print(high_abilities)
-        #print("Height : ")
-        #print(height)
-        #print("Weigth : ")
-        #print(weight)
-        #print("Gender ratio M : ")
-        #print(gender_ratio_m)
-        #print("Gender ratio F : ")
-        #print(gender_ratio_f)
-        #print("Egg group : ")
-        #print(egg_group)
-        #print("Diet : ")
-        #print(diet)
-        #print("Habitat : ")
-        #print(habitat)
-        #print("Capabilities : ")
-        #print(capabilities)
-        #print("Skills : ")
-        #print(skills)
-        #print("Moves : ")
-        #print(moves)
-        #print("TM Moves : ")
-        #print(tm_moves)
-        #print("Tutor moves : ")
-        #print(tutor_moves)
-        #print("Egg moves : ")
-        #print(egg_moves)
-        pokemons.append(Pokemon(name=name,stat_hp=hp,stat_atk=attack,stat_def=defense,stat_sp_atk=spattack,stat_sp_def=spdefense,stat_spd=speed,pokemon_types=poketype,base_abilities=base_abilities,advanced_abilities=advanced_abilities,high_abilities=high_abilities,evolutions=evolutions,height=height,weight=weight,gender_ratio_m=gender_ratio_m,gender_ratio_f=gender_ratio_f,egg_group=egg_group,average_hatch_rate=average_hatch_rate,diet=diet,habitat=habitat,capabilities=capabilities,skills=skills,moves=moves,tm_moves=tm_moves,tutor_moves=tutor_moves,egg_moves=egg_moves,mega_evolution=mega_evolution_obj if mega_evolution else None))
+        if name.lower().strip() == pokemon_to_print:
+            print("name: "+name)
+            print("hp: "+str(hp))
+            print("attack: "+str(attack))
+            print("defense: "+str(defense))
+            print("spattack: "+str(spattack))
+            print("spdefense: "+str(spdefense))
+            print("speed: "+str(speed))
+            print("Types : ")
+            print(poketype)
+            print("Evolutions : ")
+            print(evolutions)
+            print("Base abilities : ")
+            print(base_abilities)
+            print("Advanced abilities : ")
+            print(advanced_abilities)
+            print("High abilities : ")
+            print(high_abilities)
+            print("Height : ")
+            print(height)
+            print("Weigth : ")
+            print(weight)
+            print("Gender ratio M : ")
+            print(gender_ratio_m)
+            print("Gender ratio F : ")
+            print(gender_ratio_f)
+            print("Egg group : ")
+            print(egg_group)
+            print("Diet : ")
+            print(diet)
+            print("Habitat : ")
+            print(habitat)
+            print("Capabilities : ")
+            print(capabilities)
+            print("Skills : ")
+            print(skills)
+            print("Moves : ")
+            print(moves)
+            print("TM Moves : ")
+            print(tm_moves)
+            print("Tutor moves : ")
+            print(tutor_moves)
+            print("Egg moves : ")
+            print(egg_moves)
+        if len(poketype) == 0 or poketype[0] == "":
+            poketype = ["None"]
+        tutor_final, egg_final, tm_final = adapt_move_to_data(tutor_moves, egg_moves, tm_moves, move_db)
+
+
+        pokemons.append(Pokemon(name=name,stat_hp=hp,stat_atk=attack,stat_def=defense,stat_sp_atk=spattack,stat_sp_def=spdefense,stat_spd=speed,pokemon_types=poketype,base_abilities=base_abilities,advanced_abilities=advanced_abilities,high_abilities=high_abilities,evolutions=evolutions,height=height,weight=weight,gender_ratio_m=gender_ratio_m,gender_ratio_f=gender_ratio_f,egg_group=egg_group,average_hatch_rate=average_hatch_rate,diet=diet,habitat=habitat,capabilities=capabilities,skills=skills,moves=moves,tm_moves=tm_final,tutor_moves=tutor_final,egg_moves=egg_final,mega_evolution=mega_evolution_obj if mega_evolution else None))
     return pokemons
 
 def parse_mega_evolutions(input_pdf,range_to_read):
@@ -1074,7 +1121,8 @@ def parse_mega_evolutions(input_pdf,range_to_read):
     final_text = ""
     for textline in text:
         final_text += textline
-
+    with open("output/finals/moves.json", "r") as f:
+        move_db = json.load(f)
     lines = final_text.split("\n")
     current_poke_name = ""
     current_stats = ""
@@ -1151,6 +1199,8 @@ def parse_mega_evolutions(input_pdf,range_to_read):
 def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
     pokemons = []
     texts = extract_two_columns_text(input_pdf, indexes)
+    with open("output/finals/moves.json", "r") as f:
+        move_db = json.load(f)
     for text in texts:
         name = ""
         stats_aggr = ""
@@ -1195,8 +1245,10 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
         if text is None:
             return pokemons
         text = text.replace(": \n",":")
+        pokemon_to_print = "NoneNoneNone"
         for line in text.split("\n"):
-            print(line)
+            if name == pokemon_to_print:
+                print(line)
             if line.strip() == "":
                 previous_line = line
                 continue
@@ -1251,11 +1303,11 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
                 current_status = "moves"
                 previous_line = line
                 continue
-            if line.strip().lower().startswith("tm move list") or line.strip().lower().startswith("tm/hm move list") or line.strip().lower().startswith("tm/tutor moves"):
+            if line.strip().lower().startswith("tm move list") or line.strip().lower().startswith("tm/hm") or line.strip().lower().startswith("tm/hm move list") or line.strip().lower().startswith("tm/tutor moves"):
                 current_status = "tm_moves"
                 previous_line = line
                 continue
-            if line.strip().lower().startswith("tutor move list"):
+            if line.strip().lower().startswith("tutor move list") or ("tutor" in line.strip().lower() and ("m ove" in line.strip().lower() or "move" in line.strip().lower())):
                 current_status = "tutor_moves"
                 previous_line = line
                 continue
@@ -1293,7 +1345,7 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
                     if '/' in splitted:
                         poketype = [s.strip() for s in splitted.split('/')]
                     else :
-                        poketype = splitted.strip()
+                        poketype = [splitted.strip()]
                 if line.strip().lower().startswith("basic ability") and ":" in line.strip().lower():
                     ability = line.split(':')[1].strip()
                     base_abilities.append(ability)
@@ -1571,59 +1623,64 @@ def parse_extracted_text_gen9(input_pdf,indexes,db_pokemon_names):
         else :
             mega_evolution_types = [mega_evolution_type_aggr]
 
-        #print(mega_evolution_ability_aggr)
-        #print(mega_evolution_stats_aggr)
+        print(mega_evolution_ability_aggr)
+        print(mega_evolution_stats_aggr)
         if mega_evolution_stats_aggr.strip() != "":
             print(mega_evolution_stats_aggr)
             exit()
         mega_evo_dict = {"Hp":"+0","Atk":"+0","Def":"+0","SpAtk":"+0","SpDef":"+0","Spd":"+0"}
-        mega_evolution_obj = MegaEvolution(type=mega_evolution_types, ability=mega_evolution_ability_aggr.strip(), stats=mega_evolution_stats_aggr.strip())
+        mega_evolution_obj = MegaEvolution(type=mega_evolution_types, ability=mega_evolution_ability_aggr.strip(), stats=StatsModel(stats=mega_evo_dict))
         if name.lower() == "tm_moves.0.type" or name == "":
             continue
-        #print("name: "+name)
-        #print("hp: "+str(hp))
-        #print("attack: "+str(attack))
-        #print("defense: "+str(defense))
-        #print("spattack: "+str(spattack))
-        #print("spdefense: "+str(spdefense))
-        #print("speed: "+str(speed))
-        #print("Types : ")
-        #print(poketype)
-        #print("Evolutions : ")
-        #print(evolutions)
-        #print("Base abilities : ")
-        #print(base_abilities)
-        #print("Advanced abilities : ")
-        #print(advanced_abilities)
-        #print("High abilities : ")
-        #print(high_abilities)
-        #print("Height : ")
-        #print(height)
-        #print("Weigth : ")
-        #print(weight)
-        #print("Gender ratio M : ")
-        #print(gender_ratio_m)
-        #print("Gender ratio F : ")
-        #print(gender_ratio_f)
-        #print("Egg group : ")
-        #print(egg_group)
-        #print("Diet : ")
-        #print(diet)
-        #print("Habitat : ")
-        #print(habitat)
-        #print("Capabilities : ")
-        #print(capabilities)
-        #print("Skills : ")
-        #print(skills)
-        #print("Moves : ")
-        #print(moves)
-        #print("TM Moves : ")
-        #print(tm_moves)
-        #print("Tutor moves : ")
-        #print(tutor_moves)
-        #print("Egg moves : ")
-        #print(egg_moves)
-        pokemons.append(Pokemon(name=name,stat_hp=hp,stat_atk=attack,stat_def=defense,stat_sp_atk=spattack,stat_sp_def=spdefense,stat_spd=speed,pokemon_types=poketype,base_abilities=base_abilities,advanced_abilities=advanced_abilities,high_abilities=high_abilities,evolutions=evolutions,height=height,weight=weight,gender_ratio_m=gender_ratio_m,gender_ratio_f=gender_ratio_f,egg_group=egg_group,average_hatch_rate=average_hatch_rate,diet=diet,habitat=habitat,capabilities=capabilities,skills=skills,moves=moves,tm_moves=tm_moves,tutor_moves=tutor_moves,egg_moves=egg_moves,mega_evolution=mega_evolution_obj if mega_evolution else None))
+        if name == pokemon_to_print:
+            print("name: "+name)
+            print("hp: "+str(hp))
+            print("attack: "+str(attack))
+            print("defense: "+str(defense))
+            print("spattack: "+str(spattack))
+            print("spdefense: "+str(spdefense))
+            print("speed: "+str(speed))
+            print("Types : ")
+            print(poketype)
+
+            print("Evolutions : ")
+            print(evolutions)
+            print("Base abilities : ")
+            print(base_abilities)
+            print("Advanced abilities : ")
+            print(advanced_abilities)
+            print("High abilities : ")
+            print(high_abilities)
+            print("Height : ")
+            print(height)
+            print("Weigth : ")
+            print(weight)
+            print("Gender ratio M : ")
+            print(gender_ratio_m)
+            print("Gender ratio F : ")
+            print(gender_ratio_f)
+            print("Egg group : ")
+            print(egg_group)
+            print("Diet : ")
+            print(diet)
+            print("Habitat : ")
+            print(habitat)
+            print("Capabilities : ")
+            print(capabilities)
+            print("Skills : ")
+            print(skills)
+            print("Moves : ")
+            print(moves)
+            print("TM Moves : ")
+            print(tm_moves)
+            print("Tutor moves : ")
+            print(tutor_moves)
+            print("Egg moves : ")
+            print(egg_moves)
+        if len(poketype) == 0 or poketype[0] == "":
+            poketype = ["None"]
+        tutor_final, egg_final, tm_final = adapt_move_to_data(tutor_moves, egg_moves, tm_moves, move_db)
+        pokemons.append(Pokemon(name=name,stat_hp=hp,stat_atk=attack,stat_def=defense,stat_sp_atk=spattack,stat_sp_def=spdefense,stat_spd=speed,pokemon_types=poketype,base_abilities=base_abilities,advanced_abilities=advanced_abilities,high_abilities=high_abilities,evolutions=evolutions,height=height,weight=weight,gender_ratio_m=gender_ratio_m,gender_ratio_f=gender_ratio_f,egg_group=egg_group,average_hatch_rate=average_hatch_rate,diet=diet,habitat=habitat,capabilities=capabilities,skills=skills,moves=moves,tm_moves=tm_final,tutor_moves=tutor_final,egg_moves=egg_final,mega_evolution=mega_evolution_obj if mega_evolution else None))
     return pokemons
 def sections_to_text(all_sections):
     extracted = []
@@ -1904,6 +1961,8 @@ def parse_full_moves(filepath):
 def parse_extracted_text_final(input_pdf,indexes,db_pokemon_names):
     pokemons = []
     texts = extract_two_columns_text(input_pdf, indexes)
+    with open("output/finals/moves.json", "r") as f:
+        move_db = json.load(f)
     for text in texts :
         name = ""
         hp = -1
@@ -2086,7 +2145,7 @@ def parse_extracted_text_final(input_pdf,indexes,db_pokemon_names):
                     if '/' in splitted:
                         poketype = [s.strip() for s in splitted.split('/')]
                     else :
-                        poketype = splitted.strip()
+                        poketype = [splitted.strip()]
                 if line.strip().lower().startswith("basic ability") and ":" in line.strip().lower():
                     ability = line.split(':')[1].strip()
                     base_abilities.append(ability)
@@ -2346,6 +2405,8 @@ def parse_extracted_text_final(input_pdf,indexes,db_pokemon_names):
         #print("speed: "+str(speed))
         #print("Types : ")
         #print(poketype)
+        if len(poketype) == 0 or poketype[0] == "":
+            poketype = ["None"]
         #print("Evolutions : ")
         #print(evolutions)
         #print("Base abilities : ")
@@ -2380,5 +2441,6 @@ def parse_extracted_text_final(input_pdf,indexes,db_pokemon_names):
         #print(tutor_moves)
         #print("Egg moves : ")
         #print(egg_moves)
-        pokemons.append(Pokemon(name=name,stat_hp=hp,stat_atk=attack,stat_def=defense,stat_sp_atk=spattack,stat_sp_def=spdefense,stat_spd=speed,pokemon_types=poketype,base_abilities=base_abilities,advanced_abilities=advanced_abilities,high_abilities=high_abilities,evolutions=evolutions,height=height,weight=weight,gender_ratio_m=gender_ratio_m,gender_ratio_f=gender_ratio_f,egg_group=egg_group,average_hatch_rate=average_hatch_rate,diet=diet,habitat=habitat,capabilities=capabilities,skills=skills,moves=moves,tm_moves=tm_moves,tutor_moves=tutor_moves,egg_moves=egg_moves,mega_evolution=mega_evolution_obj if mega_evolution else None))
+        tutor_final, egg_final, tm_final = adapt_move_to_data(tutor_moves, egg_moves, tm_moves, move_db)
+        pokemons.append(Pokemon(name=name,stat_hp=hp,stat_atk=attack,stat_def=defense,stat_sp_atk=spattack,stat_sp_def=spdefense,stat_spd=speed,pokemon_types=poketype,base_abilities=base_abilities,advanced_abilities=advanced_abilities,high_abilities=high_abilities,evolutions=evolutions,height=height,weight=weight,gender_ratio_m=gender_ratio_m,gender_ratio_f=gender_ratio_f,egg_group=egg_group,average_hatch_rate=average_hatch_rate,diet=diet,habitat=habitat,capabilities=capabilities,skills=skills,moves=moves,tm_moves=tm_final,tutor_moves=tutor_final,egg_moves=egg_final,mega_evolution=mega_evolution_obj if mega_evolution else None))
     return pokemons

@@ -1,0 +1,1996 @@
+Bind : Normal
+Body Slam : Normal
+Bullet Seed : Grass
+Defense Curl : Normal
+Fury Cutter : Bug
+Giga Drain : Grass
+Grass Pledge : Grass
+Knock Off : Dark
+Mud- Slap
+Natural Gift : Normal
+Secret Power : Normal
+Seed Bomb : Grass
+Snore : Normal
+String Shot : Bug
+Synthesis : Grass
+Worry Seed : Grass
+Numbing Venom : Poison
+Wild Growth 
+Block : Normal
+Frenzy Plant : Grass
+Mud-Slap : Ground
+Outrage : Dragon
+Stomping Tantrum : Ground
+Knoc off
+Earth Power : Ground
+Weather Ball : Normal
+Solar Therapy : Light
+Terrain Pulse : Normal
+Fertile Fangs : Grass
+Pestilence : Poison
+Energy wave
+Powder Strom
+Wild Growth : Grass
+Ancient Power : Rock
+Double-Edge : Normal
+Fury  Cutter
+lron Tail
+Magic Coat : Psychic
+Role Play : Psychic
+Butterfly Knife : Fairy
+Fair Play : Fairy
+Karma : Poison
+Counter : Fighting
+Laser Focus : Normal
+Petal Blizzard (N)
+Alluring Voice : Fairy
+Draining kiss
+Dragon Tail : Dragon
+Curse : Ghost
+Grassy Terrain : Grass
+Grassy Glide : Grass
+Crush : Fairy
+Fey Wild : Fairy
+Devotion Dance : Fairy
+Drain Punch : Fighting
+Dynamic Punch : Fighting
+Endeavor : Normal
+Focus Punch : Fighting
+Low Kick : Fighting
+Mega Kick : Normal
+Mega Punch : Normal
+Seismic Toss : Fighting
+Swift : Normal
+Thunder Punch : Electric
+Primal Energy 
+Dragon Pulse : Dragon
+Dual Chop : Dragon
+Fury Cutter (N)
+Leaf Storm (N)
+Night Slash (N)
+Rock Climb : Rock
+Throat Chop : Dark
+Rock Slide : Rock
+Shed Tail : Normal
+Rampage
+Defiant Sting
+Shocking Edge : Electric
+Seismic Blade : Ground
+Primal Energy : Dragon
+Stealth Rock : Rock
+Superpower : Fighting
+Tectonic Fangs 
+lron Head
+Wood Hammer (N)
+SuperPower
+Crunch : Dark
+Skitter Smack : Bug
+High Horsepower : Ground
+Brutal Beatdown
+Boulder Bash : Normal
+Sediment Smack : Rock
+Tectonic Fangs : Ground
+Dragon Force : Dragon
+Aftershock : Ground
+Shifting Soil : Ground
+Tectonic Burst : Ground
+Aqua Tail : Water
+Defog : Flying
+Gastro Acid : Poison
+Snatch : Dark
+Silver Cyclone : Bug
+Imposing Stare : Dragon
+Slipstream 
+Draco meteor
+Mud Slap
+Knock off
+Deagon Dance
+Power Whip : Grass
+Weatherball
+Scale shot
+Grassy  Glide
+Grassy terrain
+Nasty Plot : Dark
+Yggdrasil Force : Grass
+Slipstream : Water
+Helping Hand : Normal
+lron Defense
+Pain Split : Normal
+Super Fang : Normal
+Zen Headbutt : Psychic
+
+Belly Drum (N)
+Feint (N)
+Hammer Arm (N)
+Needle Arm (N)
+Gyroball
+Smack Down : Rock
+Double Edge
+Meteor Mash : Steel
+Coaching : Fighting
+Body Press : Fighting
+Spikes : Ground
+Jagged Punch : Rock
+Double Lariat : Fighting
+Covet : Fairy
+Sky Attack : Flying
+Umbral Assault 
+Umbral Assault : Dark
+Feather Storm 
+Phantom Force (N)
+Shadow Sneak (N)
+Spite : Ghost
+Tailwind : Flying
+U-Turn (N)
+Air Cutter : Flying
+Omnious Wind
+Baton Pass : Normal
+Solar Blade : Grass
+Psycho Cut : Psychic
+Roost : Flying
+Second Wing
+Poltergeist : Ghost
+Feather Storm : Flying
+Fire Pledge : Fire
+Fire Punch : Fire
+Heat Wave : Fire
+Rage : Normal
+Draco Jet : Dragon
+Fired Up : Fire
+Metal Claw : Steel
+Bright Punch : Light
+Etheral Claw : Light
+Fired Up 
+Air Slash (N)
+Blast Burn : Fire
+Double- Edge
+Dragon Claw (N)
+Flare Blitz (N)
+Heat Wave (N)
+Hold Hands : Normal
+Ominous Wind : Ghost
+Shadow Claw (N)
+Twister : Dragon
+Photonic lmpact
+Shield Breaker : Light
+Scorched Lands
+Aerial Combat : Flying
+Rollout : Rock
+Extrasansory
+Double Kick : Fighting
+Reversal : Fighting
+Quick Attack : Normal
+Flame Burst : Fire
+Charged Velocity : Electric
+Fire Wall : Fire
+Fire Wall 
+Double-Edge (N)
+Eruption (N, Fire Pledge, Fire Punch, Focus Punch, Fury Cutter, Gyro Ball (N)
+Earth Powe
+Extrasensory : Psychic
+WeatherBall
+Aura Sphere : Fighting
+Mystical Fire : Fire
+Blaze Kick : Fire
+Sparking Flare
+Shining Comet : Light
+Radiant Shield : Light
+Energy Wave : Normal
+Bounce : Flying
+Last Resort : Normal
+Swift 
+Vacuum Wave : Fighting
+Double Lariat 
+Double Kick (N)
+Fire Punch (N)
+High Jump Kick (N)
+Mirror Move : Flying
+Aurasphere
+Power up Punch
+Shield Break
+Gunk Shot : Poison
+Uproar : Normal
+Mach Punch (N)
+Seismic Punch
+Play Rough : Fairy
+Power up punch
+Scorching sand
+Encore : Normal
+Submission : Fighting
+Fake Out : Normal
+Punch
+White . Punch
+lot
+Weather Rampage Ball
+Dual Jagged Chop Punch Bright
+Meteor
+Double Lariat Nasty  P
+Brutal Beatdown 
+Arm Thrust (N)
+Sucker Punch : Dark
+Close Combat : Fighting
+Meteor Mash. High Horsepower
+Foul Play : Dark
+Magic Room : Psychic
+Ally Switch : Psychic
+Recycle : Normal
+Shock Wave : Electric
+Skill Swap : Psychic
+Telekinesis : Psychic
+Trick : Psychic
+Wonder Room : Psychic
+Mystic Circle 
+Future Sight (N , Heat Wave, lron Tail, Laser Focus, Low Kick, Magic Coat, Magic Room, Recycle, Role Play (N, Shadow Ball (N, Shock Wave, Signal Beam, Skill Swap, Snatch, Snore, Switcheroo (N, Telekinesis, Thunder Punch, Trick, WonderRoom, Zen Headbutt, Signal Beam, Aura Sphere, Mystical Fire, Nasty Plot, Fire Fang, Thuunder Fang, Scorching Sands, Expanding Force, Radiant Force, Lightray Pulse, Shinning Storm, Radiant Shield, Astral Assault , Energy wave, Scornful Vortex, Shadow Bolt ,Mystic Circle
+Bulk Up (N)
+Throat Chop (N)
+Hone Claws : Dark
+Crunche
+Heat Crash : Fire
+Fire Fang : Fire
+Revenge : Fighting
+Meteor Mash Rampage
+Scornful Vortex : Dark
+Dive : Water
+lce Punch
+lcy Wind
+Water Pledge : Water
+Water Pulse : Water
+Brine : Water
+Avalanche : Ice
+Flash Cannon (N)
+Hydro Cannon : Water
+Liquidation : Water
+Signal Beam : Bug
+Geyser Surge : Water
+Ancestral Fury 
+Ancestral Fury : Dragon
+Dragon Force 
+Agility (N)
+Psychic Fang
+Furry Cutter
+Dragon Dance : Dragon
+Scale Shot : Dragon
+Agility : Psychic
+Frost Brand : Ice
+Whirlpool : Water
+Cernent Throw
+Karma 
+Cement Throw : Rock
+Power Up Punch
+Flip Turn : Water
+lce Breaker
+Pluck : Flying
+Gale Force : Flying
+Frost Typhoon : Ice
+Icicle Storm : Ice
+Avalanche. Covet
+Knock  Off
+Metal Claw  (N)
+Stealth  Rock
+Water  Pulse
+Brave Bird : Flying
+Air Slash : Flying
+Aurora Beam : Ice
+Dual Wingbeat : Flying
+V Formation : Flying
+Pressure Wash : Water
+Aurora Pillar : Ice
+Icebreaker
+Scrap Shield : Steel
+Water Pulse 
+Megahorn (N)
+Aqua Fang : Water
+Focus Blast : Fighting
+Drill Run : Ground
+Psycho cut
+Flip turn
+Focus Energy : Normal
+Second Wind : Fighting
+Aura Burst : Fighting
+Assassinate : Poison
+Haze (N)
+Mat Block (N)
+Role Play (N)
+Toxic Spikes : Poison
+Aqua Ring : Water
+Hyper Voice : Normal
+Triple Dive : Water
+Cutsie Slap 
+Triple Axe
+Daining Kiss
+Misty Terrain : Fairy
+Stored Power : Psychic
+Life Dew : Water
+Shining terrain
+Halo : Light
+Magical Bomb : Fairy
+Bug Bite : Bug
+Electroweb : Electric
+Snore 
+String Shot 
+lnfestation
+Teleport : Psychic
+Darining Kiss
+Silk Trap : Bug
+Lightray Pulse : Light
+Giga Leech : Bug
+Locust Swarm : Bug
+Concussive Burst : Flying
+Electroweb 
+Silver Wind : Bug
+Pin Missile : Bug
+Cross Poison : Poison
+Gung Shot
+Acidic Impact : Poison
+Blighted Touch : Poison
+Air slash
+Karma - Poison
+Tempest : Flying
+Grass Whistle (N)
+Bug Bite (N)
+False Swipe  (N)
+Heal Bell : Normal
+Steel wing
+Focus energy
+Hone claws
+Enchanted Blade : Fairy
+Pixie Slash : Fairy
+Wrathful Blitz 
+lron Defense (N)
+Megahorn (N , Signal Beam, Snatch, Snore, Stomping Tantrum, Superpower, Throat Chop, Spikes, Pin Missil, Toxic Spikes, Sediment Smack , Rampage , Boulder Bash ,  Karma, Numbing Venom, Locust Swarm,Wrathful Blitz, Acidic Impact
+Bug Bite 
+lron Defense 
+Poison Powder (N)
+Powder (N)
+Sleep Powder (N)
+Stun Spore (N)
+Magnet Rise : Electric
+Plasma Storm : Electric
+Volt Crush 
+Charge (N)
+Hurricane : Flying
+Thunder Fang : Electric
+Mud Shot : Ground
+Retribution : Light
+Gigavolt : Electric
+Lightning Lance : Electric
+Plasma Bolt : Electric
+Volt Crush : Electric
+Draco Meteor : Dragon
+Draconic Aura : Dragon
+Primal Storm : Dragon
+Iron Blade 
+Primal Storm 
+Outrage (N, Shock Wave, Snore, Stomping Tantrum, Superpower, Bug Bite, First lmpression, Furry Cutter, Hone Claws, Psycho Cut, Scale Shot, Rampage, Boulder Bash , Brutal Beatdown , Shocking Edge, Seismic Blade,Ancestral Fury, Draconic Aura, Dragon Force, Imposing Stare, Primal Storm
+Disarming Voice : Fairy
+Wish : Normal
+Cutsie Slap : Fairy
+Volt Tackle : Electric
+Plasma Tail : Electric
+Thunderbolt (N   , Thunder Punch, Uproar, Volt Tackle, Play Rough, Aurora Beam, Rising Voltage, Agility, Electric Terrain,Encore, Endeavor, Radiant Shield , Cutsie Slap, Charged Velocity, Gigavolt, Plasma Storm, Plasma Tail, Volt Crush, Sparkling Slam
+Speed Swap (N)
+Thunderbolt (N, Agility, Electric  Terrain Encore, Endeavor, Expanding Force, Play Rough, Rising Voltage, Signal Beam, Radiant Shield, Charged Velocity, Gigavolt, Plasma Bolt, Plasma Storm, Plasma Tail, Volt Crush
+Gravity : Psychic
+Plasma Storm 
+Electric Terrain (N)
+Zap Cannon (N )
+Lightning Lance Plasma Bolt
+Ferrous Flash 
+Barrier (N)
+Iron Head : Steel
+Magnetic Flux (N)
+Mirror Coat (N)
+Zap Cannon (N , Body Press, Rising Voltage, Signal Beam, Self Destruct, Swift, Teleport, Radiant Shield ,  Energy Wave, Lightning Lance, Plasma Bolt, Plasma Storm, Ferrous Flash
+lon Deluge (N)
+White Punch : Light
+After You : Normal
+Light Daze 
+Light Daze : Normal
+Supernova 
+After Vou
+Body Slarn
+Dragon Pulse (N)
+Dynarnic Punch
+Ion Deluge (N)
+Iron Tail : Steel
+Seisrnic Toss
+Signal Bearn
+Zap Cannon (N)
+Aurora Bearn
+Rising Voltage : Electric
+Shining Cornet
+Supernova : Normal
+Ferrous Flash : Steel
+Electric Terrain (N, Fury Cutter, lron Tail, Laser Focus, Magnet Rise, Mud-Slap, Shock Wave, Signal Beam, Snore, Superpower, Throat Chop, Agility, Body Slam, Counter, Furry Cutter, Play Rough, Revenge, Reversal, Rising Voltage, Superpower, Swagger, Swift, Shining Fang , Jagged Fangs, Shadow Fangs, Iron Fangs, Brutal Beatdown, Umbral Assault, Imposing Stare, Charged Velocity, Gigavolt, Plasma Storm, Plasma Tail, Volt Crush, Sparkling Slam
+Magnet Rise 
+Charge Beam (N, Gastro Acid, Giga Drain, Headbutt (N)
+Spark (N, Super Fang, Throat Chop,  Thunder Wave , Numbing Venom, Giga Leech, Plasma Bolt, Plasma Storm, Volt Crush 
+Charge Beam (N , Crunch (N)
+Crush Claw (N)
+Discharge (N , Dragon Pulse, Drain Punch, Fire Punch, Focus Punch, Gastro Acid (N)
+Headbutt (N)
+Spark (N , Super Fang, Superpower, Thrash (N)
+Thunder Wave (N)
+Zap Cannon (N, Agility , Agility, Body Slam, Electric Terrain, Fire Punch, Hone Claws, Throat Chop, Thunder Punch, Accrobatics, Shield Breaker, Sparkling Flare, Rampage, Brutal Beatdown , Sediment Smack , Mud Shot ,  Karma,Numbing Venom , Giga Leech, Gigavolt, Lightning Lance, Plasma Bolt, Plasma Storm, Plasma Tail, Volt Crush, Acidic Impact
+Soft-Boiled : Normal
+Glittering Mist : Fairy
+Magical Bomb 
+Disarming Voice (N , Double-Edge, Drain Punch, Dynamic Punch, Endeavor, Fire Punch, Focus Punch, Gravity, Heal Bell, Helping Hand, Hyper Voice, lce Punch, lcy Wind, lron Tail, Knock Off, Last Resort, Magic Coat, Mega Kick, Mega Punch, Mimic, Mud-Slap, Recycle, Role Play, Rollout, Seismic Toss, Shock Wave, Signal Beam, Snatch, Snore, Soft-Boiled, Spotlight (N)
+Sparkling Spin : Fairy
+Mystic Circle : Fairy
+Meteor Shower : Rock
+Disarming Voice (N , Double-Edge, Drain Punch, Dynamic Punch, Endeavor, Fire Punch, Focus Punch, Gravity, Heal Bell, Helping Hand, Hyper Voice, lce Punch, lcy Wind, lron Tail, Knock Off, Laser Focus, Last Resort, Magic Coat, Mega Kick, Mega Punch, Mimic, Mud-Slap, Recycle, Role Play, Rollout, Seismic Toss, Shock Wave, Signal Beam, Snatch, Snore, Soft- Boiled, Spotlight (N)
+Draining Kiss : Fairy
+Misty Explosion : Fairy
+Glitter Bomb : Fairy
+Starlight Spark : Fairy
+Mimic : Normal
+Magical Leaf (N)
+After You (N)
+Air Slash (N , Ancient Power, Aura Sphere (N)
+Extreme Speed (N)
+Sky Attack (N , Snore, Soft-Boiled, Swift, Tailwind, Telekinesis, Trick, Uproar, Water Pulse, Zen Headbutt, Fey Wild , Sparklin Spin, Glittering Mist, Magical Bomb, Aura Burst
+Pixie Dust : Fairy
+Light of Ruin : Fairy
+Safe Passage : Normal
+Disarming Voice (N)
+Flower Shield (N)
+Grass Knot (N)
+Moonblast (N)
+Petal Dance (N)
+Eearth Power
+Leaf storm
+Metronome : Normal
+Wide Guard (N)
+Rock Blast : Rock
+Swagger White Punch
+lcebreaker
+Sediment Smash
+Focus  Punch
+Seismig Fist
+Brutal  Beetdown
+Wild Swing : Normal
+Fire Up
+Thunder Punch (N)
+roar
+Aura Spher Flare Blitz
+Scorching Sand
+Tailwind 
+Tempest 
+Brave Bird (N)
+Ember (N)
+Flare Blitz : Fire
+Hone Claw
+Swagger : Normal
+Mach Speed : Flying
+Phantom Glove : Ghost
+Shadow Bolt : Dark
+Haunting Aura : Ghost
+Terrify : Ghost
+Shadow Punch (N , Skill Swap, Snatch, Snore, Spite, Sucker Punch, Telekinesis, Thunder Punch, Trick, Uproar, Wonder Room, Aura Sphere, lnfestation, Nasty Plot, Phantom Force, Astral Assault, Pestillence, Poltergeist , Mind Step, Karma, Scornful Vortex, Shadow Bolt, Umbral Assault, Haunting Aura, Terrify
+Backlash : Dark
+Chaos Strike : Dark
+Bind (N, Body Slam, Counter, Double- Edge, Dynamic Punch, Fire Punch (N, Focus Punch, Future Sight (N, Gravity (N, lce Punch (N, lcy Wind, Mega Kick, Mega Punch, Metronome, Mud-Slap, Ominous Wind, Pain Split, Seismic Toss, Skill Swap, Snatch, Snore, Spite, Sucker Punch, Telekinesis, Thunder Punch, Trick, Wonder Room, Poltergheist, Karma, Backlash, Chaos Strike, Scornful Vortex, Shadow Bolt, Phantom Fury
+Bind (N)
+Future Sight (N)
+Gravity (N)
+lce Punch (N)
+lcy  Wind
+Shadow Punch (N)
+Astral Assault : Psychic
+Phantom Fury : Ghost
+Wrathful Blitz : Ghost
+Pain Split (N)
+Mind  Step
+Nature Power : Normal
+Strength Sap : Grass
+Strength Sap 
+Aromatherapy (N)
+Powder Strom 
+Leaf Blade (N , Leaf Storm (N , Nature Power, Secret Power, Seed Bomb, Snore, Sunny Day (N)
+Shining Terrain : Light
+Numbing Venom 
+Spit Up (N, Stockpile (N, Sucker Punch, Swallow (N, Sweet Scent (N, Synthesis, Worry Seed,Encore, Body Slam, lnfestation,Gunk Shot, Pestilence, Rampage , Karma, Fertile Fangs, Seismic Blade, Numbing Venom, Wild Swing 
+Silver Cyclone 
+Worry Seed 
+Ripping Abyss : Dark
+Nasty Plot (N)
+Razor Leaf (N)
+Whirlwind (N)
+Grassy Terrain (N)
+Venom Drench (N)
+Weather Ball (N)
+Pin Missil
+Zen Headbutt 
+Double Slap (N)
+Punishment (N)
+Acrobatics : Flying
+Playrough
+Triple Axel : Ice
+Uproar 
+Horn Drill {N)
+Ice Punch : Ice
+Icy Wind : Ice
+Covet {N)
+Night Slash : Dark
+Psych Up : Normal
+Jagged Punch 
+Final Gambit {N)
+Fling {N)
+Vacuum Wave 
+Close Combat (N)
+Mega Kick {N)
+Revenge (N)
+Reversal (N)
+Light Kick : Light
+Chakra Block 
+Close Combat (N, Counter {N)
+Focus Punch (N, Ice Punch, Helping Hand, Laser Focus, Low Kick, Mega Kick, Metronome, Mud- Slap, Revenge (N, Role Play, Seismic Toss, Snore, Swift, Throat Chop, Thunder Punch, Uproar, Vacuum Wave, White Punch, Bright Punch , Boulder Bash , Brutal Beatdown , Fair Play, Second Wind , Jagged Punch, Chakra Block , Phantom Fury 
+Detect {N)
+Endeavor {N)
+Scornful Vortex 
+Brine {N)
+Aura Blast : Fighting
+Chakra Block : Fighting
+Pressure Point : Fighting
+Force Punch : Psychic
+Fire Punch {N
+Ice Punch {N
+Thunder Punch {N
+Zen Headbutt (N, Close Combat, Aura Sphere, Expanding Force,White Punch, Light Kick, Astral Assault , Second Wind, Fair Play,  Energy Wave, Jagged Punch, Aura Blast, Aura Burst, Chakra Block, Pressure Point, Force Punch
+Iron Defense : Steel
+Laser Focus {N
+Metal Claw (N, Mud-Slap, Role Play, Snore, Swift, Thunder Punch, Vacuum Wave, Water Pulse, Zen Headbutt, White Punch, Second Wind, Boulder Bash , Fair Play , Mind Step, Astral Assault ,  Energy Wave, Jagged Punch, Mind Break, Aura Blast, Aura Burst, Chakra Block, Astral Hand
+Aura Sphere (N)
+Entrainment {N)
+Low Sweep (N)
+Arctic Quake : Ice
+Icicle Storm 
+Mind Step : Psychic
+Flamethrower {N)
+Imprison {N)
+Nasty Plot {N)
+Safeguard {N)
+Shining Terrain Mystical Fire
+Scorched Earth : Fire
+Shining Storm : Light
+Light Tail : Light
+Sparkling Slam 
+Body Slam. Covet
+Fire Fang (N)
+Thunder Fang {N
+Jagged Fangs : Rock
+Iron Fangs : Steel
+Shadow Fangs : Ghost
+Sparkling Slam : Fairy
+Megahorn {N)
+Poison Jab {N)
+Scorching Sands : Ground
+Fair Play. Fey Wild
+Earth Power {N)
+Horn Drill  (N)
+Ice  Punch
+Poison Jab (N)
+Rock Wrecker (N)
+Seismic fist
+Jagged  Punch
+Dust Cloud : Ground
+Shifting Soil 
+Sonic Boom (N)
+Dragon Breath (N)
+Dragon Dance (N, Dragon Pulse, Earth Power, Fire Punch, Fury Cutter, Giga Drain, Heat Wave, Iron Tail, Laser Focus, Mud-Slap,Ominous Wind, Outrage, Signal Beam, Silver Wind, Snore, Sonic Boom, Superpower, Swift, Tailwind, Throat Chop, Thunder Punch, Twister , Stealth Rock, Air Slash, Crunch, Scorching Sands, Scorching sand, Scale Shot, Etheral Claw, Bould er Bash , Cediment Smack , Tectonic Fangs, Silver Cyclone, Scorched Lands ,Tempest, Dust Cloud, Shifting Soil
+Power Trip (N , Snatch, Snore, Spite, Stealth Rock, Stomping Tantrum, Superpower, Throat Chop, Uproar, Body Slam, Close Combat, Fury Cutter, High Horsepower, Hone Claws, Fire Fang, Ice Fang, Thunder Fang, Psychic Fangs, Skitter Smack, Rampage, Brutal Beatdown, Boulder Bash, Sediment Smack , Seismic Blade,Jagged Punch, Tectonic Fangs , Jagged Fangs , Chaos Strike, Scornful Vortex , Ancestral Fury, Dragon Force
+Ancient Power (N)
+Peck (N)
+Fury Attack (N)
+Scary Face (N)
+Icicle Spear : Ice
+lce Hammer
+Crunch (N)
+Swagger (N)
+Freeze-Dry (N)
+Sheer Cold (N)
+Hydro Pump : Water
+V formation
+Aerial Combat 
+Hurricane (N , Laser Focus, Mud-Slap, Ominous Wind, Pluck, Sky Attack, Snore, Swift, Tailwind, Twister, Uproar, Agility, Air Slash, Hyper Voice, Mimic, V formation, Concussive Burst , Feather Storm, Tempest, Aerial Combat
+Glittering Mist 
+Play Rough (N)
+ThunderPunch
+Expanding Force : Psychic
+Mistic Explosion
+Star Crash : Fairy
+Shining Terrain 
+Defense Curl (N)
+Double-Edge (N , Drain Punch, Dynamic Punch, Endeavor, Fire Punch, Focus Punch, Gravity, Growl (N)
+Final Flash : Normal
+Double-Edge (N, Drain Punch, Dynamic Punch, Endeavor, Fire Punch, Focus Punch, Gravity, Growl (N)
+Prismatic Shot 
+Conversion (N)
+Conversion2 (N)
+Magic Coat (N)
+Trick Room (N)
+Electric Terrain : Electric
+Prismatic Shot : Normal
+Focus Energy (N)
+Wild Swing 
+Fling (N)
+Brutal Beatdwon : Dark
+Bite (N)
+Boomburst (N)
+Ice Fang (N)
+Thunder Fang (N)
+Ice Fang : Ice
+Psychic Fangs : Psychic
+Safe Passage 
+Rock Blast (N)
+Tectonic Burst 
+Mud-5/ap
+tomping Tantrum
+Superpower (N)
+Dual Quake : Ground
+DrillRun
+Berserker Horn : Fighting
+Screech (N)
+Final Flash 
+Expandin Force
+Lightray Puls
+e Mind Step
+Heal Charge : Light
+Healing Wish (N, Helping Hand, Hyper Voice, Ice Punch, Icy Wind, Laser Focus, Magic Coat, Magic Room, Misty Terrain (N, Moonblast (N, Mud-Slap, Pain Split, Recycle, Role Play, Shock Wave, Signal Beam, Skill Swap, Snatch, Snore, Stored Power (N, Swift, Telekinesis, Thunder Punch, Trick, Wonder Room, Zen Headbutt, Aura Sphere, Expanding Force, Misty Explosion, Mistical Fire, Triple Axel , Heal Charge, Shining Storm, Devotion Dance , Astral Assault, Fair Play, Devotion Dance, Mind Step , Energy Wave, Mystic Circle, Starlight Spark, Aura Burst
+Close Combat (N, Defense Curl, Double- Edge, Drain Punch, Dual Chop, Fire Punch, Focus Punch, Fury Cutter, Helping Hand, Hyper Voice, lce Punch, lcy Wind, Knock Off, Laser Focus, Leaf Blade (N, Leer (N, Low Kick, Magic Coat, Magic Room, Mud-Slap, Night Slash (N, Pain Split, Recycle, Role Play, Shock Wave, Signal Beam, Skill Swap, Snatch, Snore, Stored Power (N, Swift, Telekinesis, Throat Chop, Thunder Punch, Trick, Vacuum Wave, Wonder Room, Zen Headbutt, Aura Sphere,Coaching, Encore,Expanding Force, Power Up Punch, Solar Blade, Triple Axel , Light Kick, Astral Assault , Enchanted Blade, Fair Play , Icebreaker, Mind Step , Shocking Edge, Frost Brand, Seismic Blade, Pixie Slash, Mystic Circle
+Shadow Veil 
+Play Nice (N, Recycle, Role Play, Shock Wave, Signal Beam, Skill Swap, Snatch, Snore, Telekinesis, Trick, Uproar, Zen Headbutt , Mind Step, Ripping Abyss,Shadow Bolt , Shadow Veil 
+Magic  Coat
+Play Nice (N, Recycle, Role Play, Shock Wave, Signal Beam, Skill Swap, Snatch, Snore, Telekinesis, Trick, Uproar, Zen Headbutt , Devotion Dance,Mind Step , Energy Wave  , Mind Break , Ripping Abyss, Shadow Bolt, Shadow Veil
+Fair Play 
+Psychic Terrain : Psychic
+Mind Break : Psychic
+Astral Hand : Psychic
+Aftershock 
+Heavy Slam (N)
+Iron Coating : Steel
+Scrap Shield 
+Power Gem (N)
+Meteor Beam : Rock
+Iron Coating 
+Mega Horn
+Scrap Shield Mega Evolution Type: Steel Ability: Filter Stats: +3 Atk
++5 Def
++2 Sp. Def
+Metallurgy : Steel
+Gear Up (N)
+Spite Enchanted Blade
+Execution : Steel
+Iron Blade : Steel
+Metallurgy 
+Head Smash (N)
+Iron Defense (N)
+Iron Head (N, King's Shield (N)
+Power Trick (N)
+Sacred Sword (N)
+Circle Throw (N)
+Perish Song (N)
+Cediment Smack
+Dragon Pu/se
+Hydro Pump (N)
+Yawn (N)
+Camouflage : Normal
+Copycat : Normal
+Water Pu/se
+Tackle (N)
+Mega Drain (N)
+Nature Power (N)
+Minci Step
+Acidic Impact 
+Infestation : Bug
+Seismic Fist : Ground
+Mud shot
+Geyser Surge 
+Cross Poison (N)
+Grassy Glide Skitter Smack
+Disable (N)
+Mind Flay 
+Bug Buzz (N)
+Quiver Dance (N)
+Silver Wind (N)
+Poison Fang : Poison
+Mind Flay : Psychic
+Vacuum Wave (N)
+Bullet Punch (N)
+Tailwind. Agility
+Ice Breaker : Ice
+Power UP Punch
+Light Punch
+Assassinate 
+Bug Bite (N, Double-Edge, Electroweb, Fell Stinger (N, Focus Energy (N)
+Disable : Normal
+Lunge : Bug
+Pursuit : Dark
+Rage powder
+Twineedle : Bug
+Quiver Dance : Bug
+Locust Swarm 
+Bug Bite (N, Counter, Defense Curl, Drill Run, Giga Drain, Gravity, Heavy Slam (N, Iron Defense, Laser Focus, Magnet Rise (N)
+Toxic Spikes (N)
+Self Destruct
+Mirror Shot : Steel
+Ominous Wind (N, Quiver Dance (N, Signal Beam, Snore, String Shot, Swift, Tailwind, Twister, Water Pulse, Whirlwind (N)
+Bug Bite (N, Defog, Double-Edge, Fury Cutter, Giga Drain, Laser Focus, Mud-Slap, Ominous Wind, Silver Wind, Snore, Spite, String Shot, Swift, Uproar, Air Slash, Aerial Ace, Hone Claws, Hurricane, Quiver Dance, Skitter Smack, Silk Trap, Defiant Sting , Locust Swarm, Silver Cyclone, Phantom Fury, Assassinate 
+Agilty
+Furry cutter
+Hex : Ghost
+Bug Bite (N, Bullet Seed, Electroweb, Endeavor, Giga Drain, Natural Gift, Seed Bomb, Signal Beam, Skill Swap, Snore, String Shot, Sucker Punch (N)
+Bug Bite (N, Earth Power, Electroweb, Endeavor, Mud-Slap, Natural Gift, Signal Beam, Skill Swap, Snore, Stealth Rock, String Shot, Sucker Punch (N)
+Telluriforce
+Metal Burst (N)
+Sucker Punch (N)
+Bug Bite (N, Defog, Electroweb, Endeavor, Giga Drain, Mud-Slap, Natural Gift, Ominous Wind, Roost, Signal Beam, Skill Swap, Snore, String Shot, Swift, Tailwind, Twister, Agility, Silk Trap , Defiant Sting , Fury Cutter, Butterfly Knife,Powder Strom, Silver Cyclone, Concussive Burst , Migraine 
+Confuse Ray (N)
+Destiny Bond (N)
+Fell Stinger (N)
+Poison Sting (N)
+Honce Claws
+Toxic Spike
+Imposing Stare 
+Shell Smash (N)
+Rock blast
+Fell Stinger (N, Giga Drain, Iron Defense, Iron Head, Knock Off, Laser Focus, Signal Beam, Snore, Body Slam, Close Combat, Razor Shell , Defiant Sting, Icebreaker , Double Lariat , Execution, Metallurgy, Scrap Shield
+Sleep Talk : Normal
+Final Gambit (N)
+Power Swap (N)
+Water Shuriken (N)
+Bug Buzz : Bug
+Amnesia (N)
+Fiery Dance (N)
+Flame Wheel (N)
+Hurricane (N)
+Rage Powder (N)
+Thrash (N)
+Body slam
+Razor Shell : Water
+Giga Leech 
+Night Slash (N, Ominous Wind, Pluck, Sky Attack, Snatch, Snore, Spite, Sucker Punch (N, Superpower, Swift, Tailwind, Telekinesis, Twister, Uproar, Air Slash, Brave Bird, Dual Wingbeat, Hurricane,Brutal Beatdown , V Formation, Backlash , Ripping Abyss, Shadow Bolt, Umbral Assault, Feather Storm 
+Assurance (N, Avalanche, Counter, Defense Curl, Double-Edge, Dynamic Punch, Embargo (N)
+Inferno (N)
+Crunch (N, Double- Edge, Fire Fang (N)
+Thief (N, Throat Chop, Thunder Fang (N)
+Lovely Bite : Fairy
+Shadow Veil : Dark
+Phantom Fury 
+Hyper Voice Imprison (N)
+Night Daze (N, Snatch, Snore, Spite, Sucker Punch, Throat Chop, Trick, Uproar, U-Turn (N)
+Guillotine (N)
+Iron Head (N)
+Psychic Cut
+Brave Bird (N, Defog, Foul Play, Heat Wave, Iron Defense, Knock Off, Mirror Move (N)
+Drain Brain : Psychic
+Stored Power Swagger
+Mind Breaker
+Rising voltage
+Photonic Bite : Light
+Shining Fang
+Lightning Lance 
+Eerie Impulse (N)
+Electrify (N)
+Parabolic Charge (N , Razor Wind (N , Shock Wave, Signal Beam, Snore, Thunder (N , Thunder Punch, Agility, Electric Terrain, Rising Voltage, Scale Shot, Weather Ball, Light Terrain, Radiant Force, Lightray Pulse, Lightning Lance, Light Daze
+Fire Fang (N, Focus Punch, Heal Bell, Hyper Voice, Ice Punch, Ice Fang (N, Last Resort, Low Kick, Mega Kick, Mega Punch, Mud- Slap, Seismic Toss, Shock Wave, Snore, Super Fang, Superpower, Thunder Punch, Thunder Fang (N)
+Fire Fang (N, Focus Punch, Heal Bell, Hyper Voice, Ice Punch, Ice Fang (N, Iron Tail, Last Resort, Low Kick, Mega Kick, Mega Punch, Mud-Slap, Outrage (N, Seismic Toss, Shock Wave, Snore, Stomping Tantrum, Super Fang, Superpower, Thunder Punch, Thunder Fang (N, Water Pulse, Coaching, Jagged Fangs, Iron Fangs, Rampage, Brutal Beatdown, Boulder Bash, Mud Shot, Butterfly Knife, Fey Wild, Cutsie Slap , Tectonic Fangs, Glittering Mist
+Aromatic Mist (N)
+Heal Pulse (N)
+Eruption (N)
+Fissure (N)
+Hyper Beam (N, Hyper Voice, Iron Tail, Snatch, Snore Wild Charge, Psychic Fangs,Butterfly Knife,Fair Play,Backlash , Umbral Assault,Imposing Stare 
+Dragon Pulse (N, Heat Wave, Hurricane (N, Hyper Voice, Iron Tail, Laser Focus, Moonlight (N)
+Poltergheist
+Lucky Chant (N)
+Mystical Fire (N)
+Phantom Force (N, Power Gem (N)
+Knock Off (N)
+Phantom Force (N, Role Play, Shock Wave, Skill Swap, Snatch, Snore, Spite, Sucker Punch, Telekinesis, Throat Chop, Trick , Poltergheist, Furry Cutter, Butterfly Knife, Ripping Abyss , Haunting Aura, Phantom Fury, Wrathful Blitz, Mind Flay
+Silver Wind  Spite
+Phantom Force (N, Recycle, Role Play, Rollout, Shock Wave, Silver Wind, Skill Swap, Snore, Spite, Sucker Punch, Swift, Tailwind, Telekinesis, Trick , Silver Cyclone, Terrify
+Power Gem : Rock
+Horn Leech (N)
+FeyWild
+Explosion (N)
+Flame Charge : Fire
+Raging Souls : Ghost
+Confusion (N, Double-Edge, Giga Drain, Gravity, Low Kick, Rollout, Seed Bomb (N, Skill Swap, Snore, Stomping Tantrum, Synthesis, Telekinesis, Uproar, Worry Seed, Zen Headbutt, Grassy Terrain, Grassy Glide, Earthpower , Powder Strom 
+Grassy Terrain. Grassy Glide
+Zen Headbut
+Drain Brain 
+Block (N)
+Pound (N)
+Leaf Storm : Grass
+ucker Punch
+Worry Seed Scorching Sands
+Synth esis
+P lay Rough
+Whiteout 
+Whiteout : Ice
+Seed Bomb (N, Snore, Superpower, Synthesis, Throat Chop, Uproar, Worry Seed , Fury Cutter, Butterfly Knife , Energy Wave 
+Energy Wave 
+Snorem Synthesis
+Starlight Spark 
+Solad Blade
+Heall Bell
+Bodf Slam
+Worry See
+Rock Climb (N)
+Earthquake (N)
+Yggdrasil Force 
+X- Scissor (N)
+Rototiller (N)
+Tri Attack (N)
+Shadow Punch : Ghost
+Drain Punch 
+Fla me Slame
+Uproa
+Fire Fang (N Fury Cutter, Guillotine (N, Ice Fang (N, Iron Tail, Knock Off (N, Poison Jab (N, Rock Climb, Sky Attack, Snore, Stealth Rock, Swift, Tailwind, Throat Chop, Thunder Fang (N)
+Jagged Fanged
+Leech Life : Bug
+Dust Cloud 
+Bulldoze (N)
+Horn Attack (N)
+Teleport (N)
+Fire Fang (N, Ice Fang (N, Iron Head, Iron Tail, Mud-Slap, Snore, Stealth Rock, Stomping Tantrum, Superpower, Thunder Fang (N)
+Second wind
+Force Punch 
+High Ally Switch
+Horsepower (N)
+Zen headbutt
+Migraine : Psychic
+Draining Kiss (N)
+Destiny Bond (N, Double-Edge, lce Punch, lcy Wind, Laser Focus, Ominous Wind, Pain Split, Rollout, Shock Wave, Signal Beam, Snatch, Snore, Spite, Sucker Punch, Telekinesis, Trick, Water Pulse, Power Gem, Moon Blast, Poltergheist, Aurora Pillar , Astral Assault ,Karma , Haunting Aura, Frost Typhoon, Icicle Storm
+Aqua Jet (N)
+Thrash (N) Throat Chop
+Skull Bash (N)
+Swords Dance (N)
+Fertile Fangs 
+Drill Run (N)
+Pluck (N, Sky Attack, Snore, Swift, Tailwind, Throat Chop, Twister, Uproar, Agility , V Formation, Tempest , Aerial Combat 
+Swift (N)
+Switcheroo (N)
+Dazzling Gleam : Fairy
+Axe Kick Light Kick
+Power Whip (N)
+Wring Out (N)
+Last Resort (N)
+Lick (N, Metronome (N, Mud-Slap, Outrage, Recycle (N, Rock Climb, Rollout, Seed Bomb, Shock Wave, Snatch, Snore, Stomping Tantrum, Superpower, Thunder Punch, Uproar, Water Pulse, Zen Headbutt, Sparkling Slam 
+Coil (N, Covet, Defense Curl, Double-Edge, Dynamic Punch, Fire Punch, Focus Punch, Fury Cutter, Helping Hand, Hyper Voice, Ice Punch, Iron Tail, Knock Off, Last Resort, Mud-Slap, Rollout, Shock Wave, Snore, Sucker Punch, Super Fang, Swift, Thunder Punch, Trick, Water Pulse, Uproar, Sparkling Slam 
+Dream Eater (N)
+Sky Attack (N, Snore, Swift, Tailwind, Twister, Uproar, Zen Headbutt, Stored Power, Dual Wingbeat , Butterfly Knife , Fury Cutter, V formation, Silver Cyclone, Feather Storm , Migraine 
+Dual Chop (N)
+Covet(N, Defense Curl, Dynamic Punch, Fire Punch, Fling (N)
+Covet(N, Defense Curl, Dynamic Punch, Fire Punch, Focus Punch, Fury Cutter, Gunk Shot, Hammer Arm (N)
+Throat C hop
+Butterfly Knife 
+Pluck (N)
+Sky Attack (N)
+Aqua Tai/
+Superpower 
+Frustration (N)
+Bounce (N)
+Healing Wish (N)
+Axe Kick : Fighting
+Low Kick (N)
+Shning Fang
+White Punch Punch
+Bullet Seed (N)
+Helping Hand (N)
+Worry Seed Butterfly Knife
+Graddy Glide
+Brave Bird (N, Defog, Heat Wave, Laser Focus, Pluck, Snore, Sky Attack, Superpower (N)
+Whirlwind : Normal
+Steel Wing : Steel
+Hammer Arm (N, Ice Punch, Iron Head, Iron Tail, Knock Off, Last Resort, Low Kick, Recycle, Rollout, Rototiller (N, Snatch, Snore, Stomping Tantrum, Super Fang, Superpower, Swords Dance (N, Thunder Punch, Uproar, Meteor Mash, White Punch , Jagged Punch , Wild Swing,Tectonic Fangs
+Smashin’ Realities
+Moral Support Tutor Moves Bind
+Body Slam (N)
+Gunk Shot (N)
+Thunder Fang (N) Shadow Fang
+Steel Fangs
+Dragon Tail (N)
+Encore (N)
+Torment (N)
+Searing Shot : Fire
+Healping Hand
+Future Sight (N, Ice Punch, Low Kick, Magic Coat, Magic Room, Mega Kick, Mega Punch, Metronome, Mimic, Nasty Plot (N)
+Nightmare (N)
+Wonder Room. Mystic Circle 
+Guard Swap (N, Helping Hand, Ice Punch, Icy Wind, Iron Defense, Magic Coat, Magic Room, Magical Leaf (N, Mega Kick, Mega Punch, Metronome, Misty Terrain (N, Mud-Slap, Power Swap (N, Quick Guard (N, Recycle, Role Play, Seismic Toss, Shock Wave, Signal Beam, Skill Swap, Snatch, Snore, Telekinesis, Thunder Punch, Trick, Uproar, Wide Guard (N, Wonder Room, Zen Headbutt , Cutsie Slap,Magical Bomb, Mystic Circle
+Mind Step 
+Tailwind (N)
+Astral Hand 
+Belch (N)
+Teleport. Expanding Force
+Mud Bomb : Ground
+Migraine 
+Healing Wish (N, Helping Hand, Hyper Voice, Icy Wind, Knock Off, Laser Focus, Last Resort, Magic Coat, Recycle, Role Play, Rollout, Shock Wave, Signal Beam, Skill Swap, Snatch, Snore, Swift, Synchronoise (N, Telekinesis, Trick, Uproar, Zen Headbutt, Stored Power, Teleport , Mystic Circle, Starlight Spark
+Psychic Terrain (N)
+Synchronoise (N, Telekinesis, Trick, Uproar, Wonder Room, Zen Headbutt, Aura Sphere, Expanding Force, Astral Assault ,Energy Wave , Drain Brain , Mind Break, Plasma Bolt , Force Punch
+Mean Look (N)
+Quick Guard (N)
+Me First (N)
+Stored Power (N, Sucker Punch, Telekinesis, Trick, Wonder Room, Zen Headbutt, Expanding Force, Teleport , Fair Play , Mind Step, Astral Assault ,Energy Wave , Shadow Bolt, Imposing Stare, Mystic Circle, Force Punch
+Fire Fang (N, Ice Fang (N, Iron Head, Iron Tail, Magnet Rise, Mud- Slap, Rock Climb, Rollout, Snore, Stealth Rock, Stomping Tantrum, Thunder Fang (N)
+Magnet Rise (N)
+Stone Edge (N)
+Ice Brand
+Quick Attack (N, Quick Guard (N, Rock Climb, Snore, Stealth Rock, Stomping Tantrum, Sucker Punch, Zen Headbutt. Play Rough , Psychic Fangs , Shining Fang , Butterfly Knife, Second wind , Seismic Blade, Tectonic Fangs , Jagged Fangs, Dust Cloud, Tectonic Burst 
+Reversal (N, Rock Climb, Snore, Stealth Rock, Stomping Tantrum, Sucker Punch, Taunt (N, Throat Chop, Thunder Punch, Uproar, Zen Headbutt, Play Rough, Rock Blast, Crunch, Shining Fang, Brutal Beatdown, Rampage, Boulder Bash , Seismic Blade, Jagged Punch , Jagged Fangs, Tectonic Fangs, Scornful Vortex 
+Accelerock (N)
+Counter (N, Covet, Earth Power, Drill Run, Endeavor, Hyper Voice, Iron Defense, Iron Head, Iron Tail, Last Resort, Outrage, Rock Climb, Snore, Stealth Rock, Stomping Tantrum, Sucker Punch, Zen Headbutt,Play Rough, Shield Breaker, Etheral Claw, Photonic Bite, Shining Fang, Butterfly Knife , Fair Play , Fey Wild ,Seismic Blade, Tectonic Fangs, Jagged Fangs 
+Rain Dance (N)
+Sunny Day (N)
+Nastly Plot
+Reflect Type (N)
+Power Whipe
+Seismic toss
+Zen Headbutt Psychic Terrain
+Chilly Rception
+Hidden Power (N)
+Icy Wind (N, Iron Tail, Liquidation, Signal Beam (N, Snore, Water Pulse, Triple Axel, Flip Turn, Triple Dive, Fair Play, Aurora Pillar , Frost Typhoon, Icicle Storm,Whiteout, Slipstream
+Whirlpool 
+Aurora Beam (N)
+Icebreaker 
+Hydro Pump (N, Icy Wind, Magic Coat, Pain Split, Recycle, Role Play, Signal Beam, Skill Swap, Snore, Spotlight (N)
+Flash Canon
+Bounce 
+Twiste
+r
+Uproarr Wate Pulse
+Dragon Rush : Dragon
+Triple Dive  Shining Fanig
+Jagged Fang
+Spotlight (N)
+Shinning Storm
+Psybeam (N)
+Roost (N)
+Signal Beam (N)
+Soak (N, Swift, Tailwind (N, Twister, Water Pulse, Uproar, Dual Wingbeat, Weather Ball, Feather Storm , Frost Typhoon, Icicle Storm 
+Noble Roar (N)
+Soak (N)
+Triple Dive ͕ ÇĞĐƚŽŶŝĐ .ƵƌƐƚ 
+Mud-Slap (N, Snore, Water Pulse, Whirlpool , Shifting Soil, Slipstream 
+Mud-Slap (N, Snore, Stomping Tantrum, Tickle (N)
+Zen Headbutt (N)
+Discharge : Electric
+Iron Defense Knock Off
+Water Gun (N, Water Pulse (N, Whirlpool, Wrap (N)
+Whirlpool (N) 
+Whirlpool (N , Flipt Turn, Power Whip, Scale Shot, Psychic Fangs, Triple Dive Photonic Bite, Shield Breaker, Shining Fang, Fertile Fangs, Frost Brand, Shadow Bolt,Assassinate, Slipstream 
+Confusion (N)
+Whirlpool (N, Dragon Dance, Scale Shot, Flip Turn, Triple Dive, Light Tail, Light ray Pulse, Halo, Fair Play , Devotion Dance, Fey Wild , Astral Assault , Numbing Venom, Drain Brain, Mind Flay, Slipstream
+Crunch (N, Dive, Focus Punch, Fury Cutter, Helping Hand, Ice Fang (N, Ice Punch, Icy Wind, Iron Tail, Liquidation, Low Kick, Mud-Slap, Snore, Swift, Water Pulse, Whirlpool, Triple Dive ,Frost Typhoon , Slipstream 
+Soak (N, Swift, Twister, Tailwind, Water Pulse, Whirlpool, Triple Dive, Aurora Pillar , Silver Cyclone, Frost Typhoon, Shining Terrain , Final Flash, Slipstream 
+Defog (N)
+Sky
+Aqua Jet : Water
+Haunting Aura 
+Water Spout (N)
+Dark Pulse (N)
+Dark Pulse : Dark
+Triple Attack
+Megahorn : Bug
+Sword Dance
+Rollout (N)
+Sticky Web (N)
+Arm Thrust (N, Body Slam, Bug Bite, Bullet Seed (N)
+String Shit
+Fury Cutter (N, Guillotine (N)
+Metal Sound (N)
+Execution 
+Leaf Blade : Grass
+Mind Flay e .
+. Scorched Lands
+Nuzzle (N)
+Rising
+Voltage
+Discharge (N, Electroweb, Foul Play, Mud-Slap, Ominous Wind, Pain Split, Shock Wave, Signal Beam, Snatch, Snore, Spite, Sucker Punch, Swift, Telekinesis, Trick (N)
+Draini ng Kiss
+Electric terrain
+Soothing Light : Light
+Pressure Point 
+Hone Claws (N)
+Shock wave
+Iron tail
+Body press
+Scale Shield : Dragon
+Curse (N)
+Schock Wave
+Phantom Force : Ghost
+Polterg heist
+Cotton Guard (N)
+Spiky Shield (N)
+Fissure (N, Flail (N, Foul Play, Magnet Rise, Pain Split, Shock Wave, Snore, Spite, Stealth Rock, Stomping Tantrum, Uproar, Water Pulse, , Electric Terrain, Volt Crush , Shifting Soil
+Water Puls
+Brave Bird (N, Covet, Defog, Double-Edge, Fury Cutter (N)
+Thinder Fang
+Zen Headbutt shield breaker
+wild swing
+close combat
+Guard Swap (N)
+Psychic fangs
+Expending Force
+Berserker Horn 
+Wild Charge : Electric
+Thief (N)
+Chatter (N)
+Confide (N)
+Hyper Voice (N)
+Taunt (N)
+Hyper Voice (N, Ice Punch, Icy Wind, Iron Tail, Knock Off, Laser Focus, Last Resort (N, Low Kick, Magic Coat, Misty Terrain (N)
+Astral Assault 
+Quash : Dark
+Psyshock (N)
+Iron Head (N, Knock Off, Laser Focus, Last Resort, Magnet Rise, Mega Kick, Mega Punch, Mud-Slap, Pain Split, Play Rough (N, Seismic Toss, Snatch, Snore, Stealth Rock, Sucker Punch, Super Fang, Taunt (N)
+Drain Kiss
+Zen
+Headbutt Flip tur
+triple Dive
+Flail (N)
+Mud Sport (N)
+Water Gun (N)
+Primal Beam : Dragon
+Hydro Pump (N, Icy Wind, Knock Off, Liquidation, Magic Coat, Pain Split, Play Nice (N)
+Mud Shot 
+Baton Pass (N)
+Spite 
+Photonic Bight
+Covet (N)
+Helping Hand (N, Hyper Voice, Icy Wind, Iron Tail, Laser Focus, Last Resort, Mud-Slap, Signal Beam, Snore, Swift, Water Pulse, Whirlpool, Flip Turn, Recover, Triple Dive, Aurora Pillar, Slipstream 
+Helping Hand (N, Hyper Voice, Iron Tail, Laser Focus, Last Resort, Magnet Rise, Mud-Slap, Shock Wave, Signal Beam, Snore, Swift, Electric Terrain, Shocking Edge, Gigavolt, Lightning Lance, Plasma Storm, Plasma Tail, Volt Crush, Final Flash 
+Leer : Normal
+Helping Hand (N, Hyper Voice, Iron Tail, Laser Focus, Last Resort, Magic Coat, Magic Room, Mud- Slap, Role Play, Signal Beam, Skill Swap, Snore, Swift, Telekinesis, Trick, Zen Headbutt, Psychic Fangs, Power Gem, Teleport, Mystical Fire , Mind Step, Astral Assault, Drain Brain, Migraine 
+Helping Hand (N, Hyper Voice, Iron Tail, Laser Focus, Last Resort, Mud-Slap, Role Play, Snatch, Snore, Spite, Sucker Punch, Swift, Throat Chop, Wonder Room, Ripping Abyss, Shadow Bolt, Shadow Veil, Umbral Assault 
+Helping Hand (N, Hyper Voice, Iron Tail, Knock Off, Laser Focus, Last Resort, Mud-Slap, Seed Bomb, Snore, Swift, Synthesis, Worry Seed, Shield Breaker, Butterfly Knife , Pixie Slash 
+Helping Hand (N, Hyper Voice, Icy Wind, Iron Tail, Laser Focus, Last Resort, Mud-Slap, Signal Beam, Snore, Swift, Water Pulse, Triple Axel, Power Gem , Aurora Pillar, Frost Brand , Icicle Storm,Whiteout 
+Helping Hand (N, Hyper Voice, Iron Tail, Laser Focus, Last Resort, Magic Coat, Mud-Slap, Skill Swap, Snore, Swift, Telekinesis, Mystical Fire, Butterfly Knife , Fair Play, Devotion Dance, Glittering Mist, Pixie Dust, Sparkling Slam, Starlight Spark
+Icicle Crash (N, Icy Wind, Iron Defense, Iron Head, Iron Tail, Knock Off, Metal Burst (N)
+Slash (N)
+Ice Beam (N, Icy Wind, Imprison (N)
+Safeguard (N)
+Quash (N)
+Blighted Touch 
+Frost Brand 
+Rock Smash : Fighting
+Tri
+ple Dive
+Ancient  Power
+Rollout (N, Snore, Stealth Rock, Superpower, Water Pulse, Whirlpool, Zen Headbutt, Mud Shot , Boulder Bash , Jagged Punch , Tectonic Burst, Arctic Quake, Geyser Surge, Slipstream 
+Head Smash (N, Hyper Voice, Iron Defense, Iron Head, Iron Tail, Outrage, Snore, Stealth Rock, Stomping Tantrum, Superpower, Zen Headbutt, Close Combat, High Horsepower, Hone Claws, Heat Crash, Play Rough, Scale Shot , Photonic Bite, Etheral Claw, Shining Fang , Psychic Fangs, Jagged Fangs, Steel Fangs , Boulder Bash, Rampage, Brutal Beatdown,Tectonic Fangs, Ancestral Fury, Draconic Aura, Imposing Stare, Primal Storm
+Power  Gem
+Fire Fang {N}
+Ice Fang {N}
+Iron Head {N}
+Thunder Fang {N}
+vC:Oae LlLaC
+vC:1a4ewctmL
+AclC:1L
+VNimlLC
+Twister (N)
+Hurricane (N, Ice Punch, Icy Wind, Iron Tail, Ominous Wind, Outrage, Roost (N)
+Fire Fang (N, Fire Punch, Focus Punch, Foul Play, Fury Cutter, Ice Fang (N, Ice Punch, Iron Defense, Iron Head, Iron Tail, Low Kick, Mega Kick, Mega Punch, Mud-Slap, Outrage, Seismic Toss, Shock Wave, Snore, Spite, Stealth Rock, Stomping Tantrum, Superpower, Thunder Fang (N)
+Scale Shield 
+Dragon Tail (N, Fire Fang (N, Fury Cutter, Heat Wave, Hyper Voice, Iron Defense, Iron Tail, Laser Focus, Mud- Slap, Ominous Wind, Outrage, Protect (N, Rollout, Snore, Swift, Tailwind, Thunder Fang (N)
+Infinity Beam : Light
+Draconic Aura 
+Double Hit (N)
+Outrage (N)
+Mystic Dance : Dragon
+Autotomize (N)
+Sky Uppercut (N, Snore, Stealth Rock, Stomping Tantrum, Superpower, Thunder Punch, Uproar, Water Pulse, Aura Sphere, Hone Claws, Meteor Mash, Scale Shot, White Punch , Boulder Bash, Jagged Punch Draconic Aura, Dragon Force, Imposing Stare, Primal Storm, Scale Shield, Aura Burst , Scrap Shield
+Power Gem Triple Axel
+Eternal Light : Light
+V formation 
+Laser Focus (N)
+Astral Hand Mega Evolution X Mega Evolution Y Type: Psychic / Fighting Type: Unchanged Ability: Steadfast Ability: Insomnia Stats: +8 Atk
++1 Def
+Stats: +4 Atk
+-2 Def
++1 Sp. Def +4 Sp. Atk
++3 Sp. Def
++1 Speed
+Mew can be Tutored to learn any Move 
+Discharge (N, Double-Edge, Extrasensory (N)
+Etheral Claw Halo
+Fey Wild 
+Extrasensory (N)
+Lava Plume (N)
+Sacred Fire (N)
+Scale Shot Aqua Fang
+Skyfreez
+Thunder Cloud : Electric
+Firestorm : Fire
+Burn Up (N)
+Shhield Breaker
+Shinning Comet
+Sacred Thunder : Electric
+Sacred Aqua Veil : Water
+Heal Bell (N)
+Icy Wind (N)
+Crush Grip (N)
+Ice Punch (N)
+White P unch
+Thungsten Armor : Steel
+Freez Wall : Ice
+Rock Recover : Rock
+Helping Hand (N}, lcy Wind, Laser Focus, Last Resort, Magic Coat, Magic Room, Memento (N}, Mud-Slap, Outrage, Role Play, Shock Wave, Snore, Sucker Punch, Swift, Tailwind, Telekinesis, Trick, Twister, Water Pulse, Whirlpool, Zen Headbutt, Air Slash, Hydro Pump, Mystical Fire,Teleport, Astral Assault
+Water Pulse (N)
+Aurora Pillar Primal Reversion Type: Unchanged Ability: Wash Away Stats: +5 Atk
++3 Sp. Atk
++2 Sp. Def 
+Jagged Fang s
+Tectonic Fangs Primal Reversion Type: Ground / Fire Ability: Heat Mirage Stats: +3Atk
++2 Def
++5 Sp. Atk
+§ Dragon Ascent
+Focus Bunch
+Zen M Heeatdebour tBe
+aAmura Sphere
+Aamura Sphere
+Meteor Beam 
+Memento (N)
+Natural Gift (N)
+Fair Play Nasty Plot
+P sycho Cut
+Copycat (N)
+Dragon dance
+Teleport 
+Ancient Power (N, Bug Bite, Dragon Pulse, Earth Power (N, Fire Spin (N)
+Magma Storm (N)
+Lunar Dance (N)
+Moonlight (N)
+Psycho Cut (N)
+Psycho Shift (N)
+Meteor Beam. Psychic Terrain
+Ominous Wind (N)
+Pestilence 
+Flip Turn 
+§ Searing Shot (N)
+Aur a Sphere. V create Expanding Force
+Bolt Strike : Electric
+Blue flare
+Glaciate : Ice
+Fusion Bolt : Electric
+Fusion Flare : Fire
+Pixie Slash M 
+Zen  Headbutt
+Leaf Blade (N)
+§ Secret Sword
+Pixie Slash 
+Uproar (N)
+Weather Ball 
+Weather Ball Rising Voltage
+Uproar Focus Blast
+Weather Ball Rising Voltage 
+Block {N}
+Fissure {N}
+Hammer Arm {N}
+Outrage {N}
+Aura Sphere . Boulder Bash
+Body rPess
+Rampage TShcuanledSehroPtu
+nDcuha
+lZWeninHgbeaedatb
+uBto
+dRyisPinregsVs
+oDltuaagleW
+ingbeat
+Dual Wingbeat Aura Sphere
+§ Relic Song
+Zen HTreipadlebAutxe
+lAura Sphere
+§ Techno Blast (N)
+Defiant Sting 
+Laser M Foicsutys
+EOxpultorasigoen
+SAnuorareS
+pWhoerned
+eAruRroooramB
+eZaemn
+HDeraadinbiuntg
+Kiss
+Air Flash
+Zen Headbutt Zygarde Cube Move List § Core Enforcer
+Extreme Speed : Normal
+§ Thousand Arrows
+§ Thousand Waves 
+Boulder Bash Zygarde Cube Move List § Core Enforcer
+§ Thousand Waves
+Ally Switch (N)
+§ Hyperspace Hole (N)
+Astral Assault Linked Moves Confined Unbound Hyperspace Hole Hyperspace Fury Shadow Ball Dark Pulse Phantom Force Knock Off
+§ Hyperspace Fury (N)
+Teleport Linked Moves Confined Unbound Hyperspace Hole Hyperspace Fury Shadow Ball Dark Pulse Phantom Force Knock Off 
+§ Steam Eruption (N)
+Heal Block (N)
+Imprison (N)
+Laser  Focus
+Poison Fang (N)
+Star Crash 
+Wood Hammer (N, Worry Seed, Zen Headbutt, Meteor Mash, Solar Blade , Weather Ball , Fair Play, Fey Wild , Boulder Bash, Brutal Beatdown, Berserker Horn, Star Crash 
+Misty Terrain (N)
+Moonblast (N, Snore, Telekinesis, Trick, Water Pulse, Wonder Room, Play Rough, Stored Power, Weather Ball, Triple Dive, Fair Play, Devotion Dance, Aurora Pillar ,Star Crash 
+Cosmic Power (N)
+Wake-Up Slap (N)
+E Expanding Force
+Mind Break 
+Hypnosis (N)
+Hypnosis : Psychic
+Charge Beam (N)
+Mirror Shot (N)
+Morning Sun (N)
+Teleport Ultra Burst Type: Psychic / Dragon Ability: Neuroforce Adv Ability 1 becomes Illuminate
+Gains Glow. Stats: +1 Atk
+-3 Def
++6 Sp. Atk
+-1 Sp. Def
++5 Speed
+Gains Glow. Stats: +6 Atk
+-1 Def
++1 Sp. Atk
+-3 Sp. Def
+Guard Split (N)
+Power Split (N)
+Fell Stinger (N, Focus Punch, Ice Punch (N)
+Reversal (N, Snore, Stomping Tantrum, Superpower, Thunder Punch (N)
+Coaching Meteor Mash
+Tail Glow (N)
+§ Sacred Sword (N)
+Dragon Pulse {N}
+Dragon Pulse (N, Gastro Acid, Gunk Shot, Heat Wave, Helping Hand, Iron Tail, Laser Focus, Outrage, Shock Wave, Signal Beam, Sky Attack, Snatch, Snore, Tailwind, Throat Chop, Uproar, Scale Shot, Dual Wingbeat, Leech Life, Cross Poison, Hex, Pin Missil, Outrage, Swagger, Toxic Spikes , Defiant Sting, Pestilence , Karma, Numbing Venom, Silver Cyclone, Shadow Bolt, Dragon Force, Primal Storm, Lightning Lance, Acidic Impact,Assassinate, Blighted Touch
+Outburst : Normal
+Crafty Shield (N)
+Shift Gear (N)
+Assurance (N)
+Counter (N)
+Drain Punch (N)
+Endure : Normal
+Power- Uo Punch
+Knock Off Baton Pass
+Revange
+Power-Up Punch : Fighting
+Light kick
+Radiant Kick : Light
+Acrobatics (N)
+Fell Stinger : Bug
+Ice Shard : Ice
+Plasma Boltm
+Steel Beam : Steel
+Air
+Slash : Normal
+Light Screen (N)
+Reflect (N)
+Shock wave Magnet Rise
+Swagger GrassyGlide
+Spore : Grass
+Razor Shell (N)
+Rock Polish (N)
+Rock Tomb. Aqua Tail
+Sugnal Beam
+Phot onic Bite
+Flame Charge (N)
+Growth (N)
+Recycle (N)
+Worry seed
+Gastro Acide
+A ir Slash
+Sweet Scent (N)
+Aqua Tail Dragon Tail
+Snatch Tailwind
+Aqua Fangs
+Tearful Look (N)
+Acid Spray (N)
+Leer (N)
+Thunder Shock (N)
+Singal Beam Fire Punch
+Octazooka (N)
+Dynamic
+Power-Up Double Edge
+ClosePunchCombat
+BoulderRerversal
+Bash
+Second Mud Shot
+Wind
+Coaching Brutal
+Beatdown : Dark
+Strength Sap (N)
+Brutal Swing (N)
+swagger
+Shinning Terrain
+Radiant Force : Light
+Shinning Force
+False Surrender (N)
+Power- UpPunch(N)
+Metroome
+Magic Co at
+Mystical fire
+Megahron
+Last resort
+Recover : Normal
+terrain Pulse
+Power- Up Punch
+Aura Wheel (N)
+Zhunder Punch
+Electro Web
+Thuder Fang
+Dzak Chop
+Double-Ed ge
+Bright Fang
+Draconic Fangs : Dragon
+Dual Cho p
+SShield Breaker
+Shining
+Fang
+IceFang
+Zen Headbutt P sychic Fangs
+Foul Play Gunk Shot
+Iron Defense (N)Iron Head
+(N, Iron Tail, Metal Burst (N)
+Fury Cutter Snatch
+Clo se Combat
+First Impression (N)
+Meteor Assault (N, Sky Attack, Snore, Superpower, Throat Chop, Air Cutter, Brave Bird, Close Combat, Coaching, Counter, Focus Energy,  Fury Cutter, Leaf Blade, Grassy Glide,  Mimic, Mud Slap, Revenge, Solar Blade, Swagger  , Icebreaker, Shocking Edge, Frost Brand, Seismic Blade, Scornful Vortex, Chakra Block
+Strange Steam (N, Uproar, Wonder Room, Double Edge, Infestation, Misty Explosion, Misty Terrain, Omnious Wind, Play Rough, Self Destruct, Outburst, Shock Wave, Swagger, Toxic Spikes,Pestilence , Karma, Volt Crush, Magical Bomb
+Dazzling Gleam (N, Drain Punch, Encore (N)
+Mimic (N)
+Protect (N)
+Pin Mis sile
+Baby-DollEyes(N)
+Cross Chop (N)
+IcePunch
+Pin Missile (N)
+Submission(N)
+Switcheroo(N)
+Omnious  Wind
+Panthom Force
+Rock Bast
+Thunder Fangs
+Stored power
+Weather  Ball
+Quick Guard : Fighting
+Wild Chagre
+Reverse
+§ Metal Burst (N)
+Ho ne Clwas
+mimic
+Mystival Fire
+Electric Terra in
+Shockwave
+Lash Out : Dark
+Zen Headbutt Aura Sphere
+Close Comb at
+Meteor Ma sh
+Self Destruc
+§ High Horsepower (N)
+Megahorn Iron defense
+Magic coat
+§ Phantom Force (N)
+Ominious Wind
+Magical Leaf : Grass
+Charm : Fairy
+Facade : Normal
+Fake Tears : Dark
+Protect : Normal
+Seed Bomb (N)
+Take Down : Normal
+Tera Blast : Normal
+Trailblaze : Grass
+Double Team : Normal
+Cutsie Slapy
+Dig : Ground
+Fire Spin : Fire
+Scorching Breath : Dragon
+Hex (N)
+Imprison : Psychic
+Night Shade : Ghost
+Chilling Water : Water
+Liquidation (N)
+Brick Break (N)
+Ice Spinner : Ice
+Amnesia : Psychic
+Poison Tail : Poison
+Pounce : Bug
+Scary Face : Normal
+Smart Strike : Steel
+Mud Shot (N)
+Confuse Ray : Ghost
+Earth Power (N)
+Electro Ball : Electric
+Psych Up (N)
+StompingTantrum
+Play Rough(N)
+FoulPlay
+Thief : Dark
+Astonish(N)
+Guard Swap(N)
+Power Swap(N)
+Work Up : Normal
+Order Up (N)
+Psychic Fangs (N)
+Snowscape : Ice
+Frost brand
+Ice Pucnh
+Grassy Terrain(N)
+TeraBlast
+Pollen Puff : Bug
+ZenHeadbutt
+Acid Spray : Poison
+Spiral Drain : Water
+Flash Cannon : Steel
+Gunk Shot(N)
+Rain Dance : Water
+Sandstorm : Rock
+Sludge Bomb : Poison
+Substitute : Normal
+Sunny Day : Fire
+Taunt : Dark
+Blazing Torque
+Combat Torque : Fighting
+Gunk Shot N)
+Heavy Slam : Steel
+Magical Torque
+Noxious Torque
+Rest : Psychic
+Wicked Torque : Dark
+Acidic Impact T A T ( T S S T Z C
+Ice Spinner (N)
+Snowscape (N)
+IceSpinner (N)
+TakeDown
+DracoMeteor
+Shinning Fang
+Boulder
+Snowcape
+Eerie Impulse : Electric
+Low Sweep : Fighting
+FirePunch
+Tera White Blast
+Thunder Bright Fang
+Thunder Shield Punch
+Breaker
+U-Turn : Bug
+Volt Switch : Electric
+Photon Beam : Light
+Stealth Rock (N)
+Bright Kick
+Firry Cutter
+Boulder Bashh
+Explosion : Normal
+Power  Gem (N)
+Charm (N)
+Grass Knot : Grass
+Make It Rain (N)
+NastyPlot
+Terrifye
+Stomping Tantrum (N)
+ConfuseRay
+Crunch(N)
+Fire Fang(N)
+Metronome(N)
+Psybeam : Psychic
+Zen Headbutt Pulse
+Lightray
+Shinning Nova
+Sody Press
+LeechLife
+DragonPulse
+IronHead
+Smart Strike (N)
+Stomping Tantrum(N)
+Take Down (N)
+Sparkling Flare : Light
+Stomping
+Tantrum
+ThunderPunch (N)
+jagged punch
+Dragon Pulse(N)
+Electric Terrain(N)
+DragonDance
+ElectricTerrain
+Stomping Tantrum Take Down
+Shinning Fan
+Aurora Veil : Ice
+Psychock (N)
+Bulldoze : Ground
+Spikes (N)
+Swords Dance : Normal
+Brutal BeatdownTera Blast
+Aurora Pillar (N)
+Ruination (N)
+Scroching Earth. Scorched Earth
+Tera Blast (N)
+Metal Claw (N)
+Rock Tomb (N)
+Ice Hammer : Ice
+Ancient strike
+Landslide : Ground
+Smashin Realities
+Solar Blade (N)
+EarthPower(N)
+MudShot
+Reflect Type(N)
+ScaryFace
+Guillotine(N)
+Iron Head(N)
+Metal burst
+Reversal Sleep Talk
+Poison Jab : Poison
+Dragon Claw : Dragon
+Hyper Beam : Normal
+Solar Beam : Grass
+Trailblaze (N)
+X- Scissor
+Lovely bite
+Psychic Noise : Psychic
+Trail Blaze
+Halo Shining Storm
+New Moon : Dark
+Haze : Ice
+Mist : Ice
+Jaw Lock : Fighting
+Zen Headbutt Lightray Pulse
+Blizzard (N)
+Ice Beam (N)
+Thunder (N)
+Thunderbolt (N)
+Plasma Pulse : Electric
+Freez Shock
+Clear Smog : Poison
+Sludge Wave : Poison
+Memento : Dark
+Weather Ball. Leech Seed
+Morning Sun : Normal
+OutrageR
+ollout
+Dragon Hammer : Dragon
+Breaking Swipe : Dragon
+Hammer Harm
+Heat Wave Defense
+Iron Head Magnet Rise
+Fire Lash : Fire
+Destiny Bond : Ghost
+Grudge : Ghost
+Light Terrain
+Bullet Seed (N) Covet
+Furry Cuter
+Wood Hammer : Grass
+Light Therapy
+AncienPt ower
+Power Trip : Dark
+Rock Wrecker : Rock
+Scorhed Earth
+Fired Up . Astral Assault
+Air Cutter (N)
+Fairy Wind (N)
+Allugring Voice
+Shadow Sneak : Ghost
+Rainbow Beam : Light
+Fire Fangs
+Metronome (N)
+Steamroller : Bug
+Yawn : Normal
+Fly (N)
+Frost Breath (N)
+Freez Dry
+Acid : Poison
+Headbutt : Normal
+Gyro Ball (N)
+Focus Blast (N)
+Ara Sphere
+dragon Dance
+High Jump Kick : Fighting
+Mach Punch : Fighting
+Bright Kick. Light Kick
+Stored Power (N)
+Burning Light : Normal
+Tail Slap : Normal
+Fire Spin (N)
+Will-O-Wisp (N)
+Cackle : Dark
+Medusa Ray* (N)
+Free Dry
+Final Gambit : Fighting
+Ancient Roar* (N)
+Zen Headbutt retribution
+solar therapy
+lightray pulse
+shining Terrauin
+Shinning storm
+etheral claw
+shield breaker
+Camouflage (N)
+Sacred Sword : Fighting
+Feint Attack : Dark
+Wing Arrack
+Quick Attack (N)
+Scorched Sands
+Scorching Earth
+Embargo (N)
+New Moon* (N)
+Rock Smash (N)
+Signal Bram
+Magic Room (N)
+Telekinesis (N)
+Shock Wave (N)
+Zen Headbutt (N )
+FouPl lay
+Zhunder Thunder Fang
+Shhadow Fangs
+Energy Ball (N)
+Light  Kick Bright
+Kick
+Supercell Slam : Electric
+Entrainment (N)
+Play Nice (N)
+Jagged Fangs Dual Wingbeat
+Infestation (N)
+Shadow Sneak Shock Wave
+Dragon Damce
+Scale  Shot
+Wish (N)
+Meteor Mash Play Rough
+Purify (N)
+Detect (N)
+Foresight (N)
+Sand Tomb (N)
+Scorching earth
+Work Up Seismic Fist
+Cross Chop : Fighting
+headbutt
+Aqua Ring (N)
+Bubble (N)
+Recover (N)
+Feather Dance (N)
+Gust (N)
+Teleport Recover
+T hunder Punch
+Ingrain (N)
+Venom Drench : Poison
+Vice Grip : Bug
+Night Daze : Dark
+Torment : Dark
+Parting Shot : Dark
+Dazzling Gleam (N)
+Flame Burst (N)
+Devotion
+Focus Punch (N)
+Vital Throw (N)
+Bullet Punch : Steel
+St eel Roller
+Ice fang (N)
+Pestilence Brutal Beatdown
+Hyperspace Hole (N)
+Sludge Wave (N)
+Spatial Rend (N)
+Venoshock (N)
+Power whip
+Endure (N)
+Aeroblast (N)
+Aerial Ace : Flying
+Bulk Up : Fighting
+Energy Ball : Grass
+False Swipe : Normal
+Giga Impact : Normal
+Shadow Claw : Ghost
+Muf Shot
+Jump Kick : Fighting
+Triple Kick : Fighting
+Calm Mind : Psychic
+Flamethrower : Fire
+Shadow Ball : Ghost
+AerialAce
+Ice Beam : Ice
+Tackle(N)
+X-Scissor : Bug
+Rest Rock Slide
+Snarl : Dark
+Stone Edge : Rock
+Charge Beam : Electric
+Ice Ball : Ice
+Thunderbolt : Electric
+Volt Crush HM Move List Take Down
+Reflect : Psychic
+Thunder Wave : Electric
+Thunder : Electric
+Charge : Electric
+Gyro Ball : Steel
+Fluttering Leaf : Grass
+Ion Capture : Electric
+Volt Crush TM Move : Take Down
+Flash : Light
+Burst Light : Light
+Light Pulse : Light
+Glint : Steel
+Ion Capture͕ CůŽƌĂů .ƵƌƐƚ
+GigIa mpact
+Slipstream HM Move List Take Down
+Venoshock : Poison
+Sleep Tail
+Waterfall : Water
+Surf : Water
+Blizzard : Ice
+Toxic : Poison
+Mud Slide : Rock
+Blood Shot : Dark
+Blindside : Dark
+Siphon Life : Dark
+Execution HM Move List Take Down
+Fling : Dark
+Brick Break : Fighting
+Gash : Dark
+Spiteful Fury : Ghost
+Power Shift : Normal
+Pestilence . Quicksilver
+Seismic Blade͕ .ůŝŐŚƚĞĚ ÇŽƵĐŚ
+Rock Tomb : Rock
+U-turn
+HyperBeam
+Upper Hand : Fighting
+Absorb (N)
+Baby-Doll Eyes : Fairy
+Cutsie Slap Butterfly Knife
+fey Wild
+fair Play
+Sugar Rush : Fairy
+Pixie Slash HM Move List Take Down
+Petal Blizzard : Grass
+Overgrowth : Grass
+Moral Support : Fairy
+Floral Burst : Grass
+Mystic Powder : Grass
+Pain
+Phantom Force Hyper Voice
+Mind Flay T
+Psychic : Psychic
+Quick Attack(N)
+Aerial Combat HM Move List Take Down
+Psyshock : Psychic
+Fly : Flying
+Feather Dance : Flying
+Future Sight : Psychic
+Heavy Winds : Flying
+Take Flight : Flying
+Water Pulse HM Move List Take Down
+Muddy Water : Water
+Acid Rain : Poison
+Bravado : Normal
+WaterPulse
+Dragon Force͕ ÇĞĐƚŽŶŝĐ .ƵƌƐƚ
+Icicle Storm HM Move List Take Down
+Earthquake : Ground
+Hard Press : Steel
+Wash Away : Water
+Flash Freez
+Arctic Quake͕ CƌŽƐƚďŝƚĞ
+Migraine HM Move list Take Down
+Light Screen : Psychic
+Trick Room : Psychic
+Roar : Normal
+Force Dash : Psychic
+Mind Crush : Psychic
+Struggle Bug : Bug
+Wind Shift : Flying
+Swi t
+Scornful Vortex HM Move List Take Down
+Flame Slam : Fire
+Last Respect  Shadow Fangs
+Ghastly eco
+Dark Fog : Ghost
+Devious Strike : Ghost
+Spiteful Fury Note: Basculegion’s 2 nd Advanced Ability depends on the colour of the Basculin it evolves from. In addition
+Basculin now has a White colouration that grants it Rattled as its 2 nd Advanced Ability
+in addition to the existing Red and Blue options.
+Shadow Fangs  Shadow Fangs
+Last Respect
+Twister *Origin Forme: Dialga is in its Origin Forme when exposed to an Adamant Crystal as an Extended Action. Exposing it in Origin Forme reverts it to its Altered Forme (found in the Main ).
+Twister *Origin Forme: Palkia is in its Origin Forme when exposed to a Lustrous Globe as an Extended Action. Exposing it in Origin Forme reverts it to its Altered Forme (found in the Main ).
+Double Lariat HM Move List Take Down
+Astral Assault *Therian Forme: The User changes to its Therian Forme if holding a Reveal Glass
+and uses its Incarnate Form otherwise.
+Zen Headbutt HM Move List Take Down
+Aura sphere
+Bulk up
+Calm mind
+Dragon cheer
+Dragon claw
+Dragon pulse
+Dragon tail
+Earth power
+Eerie fog
+Fire blast
+Focus blast
+Giga impact
+Helping hand
+Hidden power
+Hyper beam
+Hyper voice
+Night shade
+Power gem
+Refresh : Normal
+Return : Normal
+Safeguard : Normal
+Secret power
+Shadow ball
+Shadow claw
+Sleep talk
+Will-o-wisp
+Attract : Normal
+Charge beam
+Iron defense
+Pebble shower
+Rock slide
+Rock throw
+Solar beam
+Stealth rock
+Stone edge
+Sunny day
+Thunder wave
+Weather ball
+Wide guard
+Blood shot
+Caltrops : Steel
+Energy ball
+Flash cannon
+Flash freeze
+Foul play
+Hard press
+Nasty plot
+Retaliate : Normal
+Skill swap
+Toxic spikes
+Trick room
+Dazzling gleam
+Low kick
+Miracle eye
+One-inch punch
+Play rough
+Psychic noise
+Rapid spin
+Spotlight : Normal
+Black magic
+Dark pulse
+Eerie spell
+Frustration : Normal
+Light screen
+Night slash
+Psychic terrain
+Shadow punch
+Swords dance
+Bite : Dark
+Crush claw
+Drill run
+Iron head
+Laser focus
+Rock tomb
+Sand tomb
+Tectonic fangs
+Confuse ray
+Take down
+Drill peck
+Hail : Ice
+Ice beam
+Ice punch
+Icicle crash
+Icy wind
+Life dew
+Powder snow
+Rain dance
+Soak : Water
+Wing attack
+Feint : Normal
+Foresight : Normal
+Horn attack
+Karate chop
+Cut : Normal
+False swipe
+Metal claw
+Mirror coat
+Baby-doll eyes
+Heal block
+Moonblast : Fairy
+Take flight
+Focus punch
+Force palm
+Power-up punch
+Rototiller : Ground
+Seed bomb
+Thunder punch
+Acid armor
+Clear smog
+Corrosive gas
+Fire spin
+Flame charge
+Gunk shot
+Heat wave
+Sludge bomb
+Bug bite
+Bug buzz
+Leech life
+Poison jab
+Spider web
+String shot
+Topsy-turvy
+Vexing void
+X-scissor
+Aromatherapy : Grass
+Misty terrain
+Pixie beam
+Aurora beam
+Double lariat
+Lick : Ghost
+Vacuum wave
+Sweet kiss
+Volt switch
+Wild charge
+Absorb : Grass
+Aqua bash
+Aqua ring
+Creeping thorns
+Heavy slam
+Hydro pump
+Razor leaf
+Fire punch
+Terrain pulse
+Breaking swipe
+Magnet rise
+Supersonic : Normal
+Water pulse
+Work up
+Poison tail
+Tearful look
+Venom drench
+Circle throw
+Heat crash
+Fluttering leaf
+Leaf tornado
+Leech seed
+Solar blade
+Ingrain : Grass
+Iron fangs
+Mirror shot
+Smolder bash
+Aqua tail
+Bubble : Water
+Shocking jab
+Dragon jab
+Icicle impale
+Jagged horns
+Mach punch
+Oni fist
+Gastro acid
+Sky drop
+Cotton spore
+Floral healing
+Low sweep
+Metal sound
+Safe passage
+Nature power
+Mind break
+Sky quake
+Berserker horn
+Rolling kick
+Clear skies

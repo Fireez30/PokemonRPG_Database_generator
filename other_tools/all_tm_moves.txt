@@ -1,0 +1,829 @@
+Work Up : Normal
+Toxic : Poison
+Venoshock : Poison
+Hidden Power : Normal
+Sunny Day : Fire
+Light Screen : Psychic
+Protect : Normal
+Safeguard : Normal
+Frustration : Normal
+Solar Beam : Grass
+Return : Normal
+Double Team : Normal
+Sludge Bomb : Poison
+Facade : Normal
+Rest : Psychic
+Attract : Normal
+Round : Normal
+Echoed Voice : Normal
+Energy Ball : Grass
+Swords Dance : Normal
+Grass Knot : Grass
+Swagger : Normal
+Sleep Talk : Normal
+Substitute : Normal
+Nature Power : Normal
+Confide : Normal
+Solar Blast : Light
+Flash : Light
+Corrode : Poison
+Traiblaze
+Fluttering Leaf : Grass
+Roar : Normal
+Hyper Beam : Normal
+Earthquake : Ground
+Giga lmpact
+Bulldoze : Ground
+Landslide : Ground
+Floral Burst : Grass
+Reflect : Psychic
+Crush : Fairy
+Nature Alluring Power
+Voice
+Traiblaze100 Confide
+
+Fluttering Flash Leaf
+Fae Blessing : Fairy
+Alluring Voice : Fairy
+Calm Mind Earthquake
+Dragon Tail : Dragon
+Giga Drain : Grass
+Draining Kiss : Fairy
+Dazzling Gleam : Fairy
+Moonblast : Fairy
+Halo : Light
+Soothing Light : Light
+Brick Break : Fighting
+Rock Tomb : Rock
+Aerial Ace : Flying
+Fling : Dark
+Acrobatics : Flying
+Rock Slide : Rock
+Upper Hand : Fighting
+Low Sweep : Fighting
+False Swipe : Normal
+X-Scissor : Bug
+Blindside : Dark
+Dragon Claw : Dragon
+X- Scissor
+Overgrowth : Grass
+Dragon Cheer : Dragon
+Draco Jet : Dragon
+Aftershock : Ground
+Sandstorm : Rock
+Rock Polish : Rock
+Stone Edge : Rock
+Stregth
+Rock Smash : Fighting
+Dual Quake : Ground
+Calm Mind : Psychic
+Taunt : Dark
+Torment : Dark
+Cut : Normal
+Blood Shot : Dark
+Scorching Breath : Dragon
+Brutal Swing : Dark
+Breaking Swipe : Dragon
+Bulk Up : Fighting
+Smack Down : Rock
+Shadow Claw : Ghost
+Payback : Dark
+Gyro Ball : Steel
+Poison Jab : Poison
+Moral Support : Fairy
+Concentration : Fighting
+Boulder Bash : Normal
+Focus Blast : Fighting
+Strengh
+Roost : Flying
+Steel Wing : Steel
+Heavy Winds : Flying
+Spiteful Fury : Ghost
+Shadow Ball : Ghost
+U-Turn : Bug
+Lunar Canon : Dark
+Devious Strike : Ghost
+Flamethrower : Fire
+Fire Blast : Fire
+Flame Charge : Fire
+Overheat : Fire
+Will-O-Wisp : Fire
+Temper Flare : Fire
+Flame Slam : Fire
+Solar blast
+Sky Drop : Flying
+Fly : Flying
+Firestorm : Fire
+Wild Charge : Electric
+Flam Slam
+Cleansing Flames : Fire
+Mach Speed : Flying
+Mudslide
+Melting Boulder : Normal
+Sulfur Plume : Poison
+Hand
+Strength : Rock
+Climb
+rock smash
+Heaven Force : Light
+Will-O- Wisp
+Scald : Water
+Psyshock : Psychic
+Rain Dance : Water
+Psychic : Psychic
+Thief : Dark
+Embargo : Dark
+Psych Up : Normal
+Dream Eater : Psychic
+Crimson Glow : Light
+Solar Flare : Light
+Dark Waves : Dark
+Spellbind : Fairy
+Fire Wall : Fire
+Will- O-Wisp
+Trick Room : Psychic
+Thunderbolt : Electric
+Nasty Plot : Dark
+Crimson
+Psychic Noise : Psychic
+Leech Life : Bug
+Gash : Dark
+Quash : Dark
+Snarl : Dark
+Dark Pulse : Dark
+Hail : Ice
+lce Beam
+Blizzard : Ice
+Surf : Water
+Waterfall : Water
+lce Spinner
+Wave Dash : Water
+Frost Blast : Ice
+Chilling Water : Water
+Flash Cannon : Steel
+Dive : Water
+Sediment Smack : Rock
+Cut Stregth
+Rock Climb : Rock
+Frostbite : Ice
+Sludge Wave : Poison
+Wash Away : Water
+Flash Freez
+Photon Beam : Light
+Glint : Steel
+Quicksilver : Steel
+Smart Strike : Steel
+Mud Slide : Rock
+Shadow Strike : Dark
+Cutsie Slap : Fairy
+Infestation : Bug
+Flying
+Shadowball
+U turn
+Radiant Shield : Light
+Pheromone Haze : Bug
+Wind Shift : Flying
+Pounce : Bug
+Thunder Spear : Electric
+Mystic Powder : Grass
+New Moon : Dark
+Pheremone Haze
+Wild Growth : Grass
+None
+Take Flight : Flying
+Charge Beam : Electric
+Volt Switch : Electric
+Thunder Wave : Electric
+Ion Capture : Electric
+Thunder : Electric
+Light Pulse : Light
+Burning Thunder : Electric
+Supercell Slam : Electric
+Alluring voice
+Moral Support T B D H M S B P R R P
+Flash Surf
+Mind Step : Psychic
+Explosion : Normal
+Trailblaze : Grass
+S olar Flare
+Photon Bearn
+Gleam : Light
+U- Turn
+U Turn
+Flash Canon
+Dragon Pulse : Dragon
+Fire Siam
+Mud Siide
+Water Pulse : Water
+Confide Flash
+Intense Aura : Fighting
+Sugar Rush : Fairy
+Rock  Climb
+Cernent Throw
+Sulfur Plume T B P W M S S K W
+Temper Fiare
+lnfestation
+Ghastly Echo : Ghost
+Siphon Life : Dark
+Dark Fog : Ghost
+Cackle : Dark
+flash
+Burst Light : Light
+Karma : Poison
+Solar Blast Corrode
+Mind Crush : Psychic
+Trailbalze
+Solarbeam
+Giga Impact : Normal
+Sparkling Spin : Fairy
+Ice Beam : Ice
+Bravado : Normal
+Ice Spinner : Ice
+Force Dash : Psychic
+trailblaze
+Substitue
+Cement Throw : Rock
+Frost Breath : Ice
+Power-Up Punch : Fighting
+Burst of Light
+Solar Flar
+Crush Crimson Glow
+Flame Slame
+Cernent
+Quicksand : Ground
+Fire Slam
+Gleaming Ore : Rock
+PsychicNoise
+Luster Shock : Normal
+Burning Thunder Ternper Flare
+ConfideC orrode
+Burning Light : Normal
+Molten Boulder
+Confide Strength
+Rockslide
+Sur
+Drain Punch : Fighting
+5scald
+surf
+light Pulse
+Focis Blast
+5hadow Ba//
+Aeria/ Ace
+Solar Force : Light
+Trail Blaze
+Frostbite EggMove List Assist
+Avalanche : Ice
+Bite : Dark
+Counter : Fighting
+Crush Claw : Normal
+Double Hit : Normal
+Fake Out : Normal
+Feint : Normal
+Foresight : Normal
+Ice Punch : Ice
+Ice Shard : Ice
+Icicle Crash : Ice
+Pursuit : Dark
+Spite : Ghost
+Throat Chop : Dark
+Punishment : Dark
+Quick Strike : Flying
+Metal Swipe : Steel
+Crismon Glow
+TrailBlaze
+Glint Supercell Slam
+Burst light
+Pouncem Halo
+Supercell Slarn
+Raging Souls : Ghost
+Flammethrower Fire Blast
+Incinerate : Fire
+F/ing
+Solar Flare Solar Blast
+Sleep TalkFluttering Leaf
+Soothing Lighgt  Trailblaze
+Dig : Ground
+F/amethrower
+Fire B/ast
+Impact
+Giga 76 Fly
+Aurora Veil : Ice
+5hadow Ball
+Psychic Noisee
+Heavy Wind
+Strength Rock Smash
+Draco Jest
+Synchronoise : Psychic
+Chilling Water.
+Acid Rain : Poison
+Wash away
+Safeguard 
+Cleansing Light
+Mind Crush Halo
+Chilling Wazer
+Cackle. Gash
+Confide. Strength
+Chilling Water. Wash Away
+Light Burst
+Sand Cannon : Ground
+giga Impact
+Confid
+Rock Smash Chilling Water
+Gash Cut
+Chiling Water
+strength
+dive
+Fin Swipe : Water
+Flip Turn : Water
+Haol
+Trai lblaze
+Moral SupportPounce
+Ancestral Fury : Dragon
+Flash Burst Light
+Brick Break Cut
+Bulk Up. 10 Hidden Power
+Terrify : Ghost
+Confide. Strengh
+Streng
+Hidden Power 
+Flash Photon Beam
+Flammethrower
+Melting Boulder Tutor Move List Ally Switch
+Ancient Power : Rock
+Body Slam : Normal
+Defense Curl : Normal
+Double-Edge : Normal
+Earth Power : Ground
+Flare Blitz (N)
+Gravity : Psychic
+Heat Wave : Fire
+Helping Hand : Normal
+Iron Defense : Steel
+Iron Head : Steel
+Laser Focus : Normal
+Magic Coat : Psychic
+Pain Split : Normal
+Recycle : Normal
+Role Play : Psychic
+Rollout : Rock
+Seismic Toss : Fighting
+Signal Beam : Bug
+Skill Swap : Psychic
+Snore : Normal
+Stealth Rock : Rock
+Stomping Tantrum : Ground
+Swift : Normal
+Telekinesis : Psychic
+Wonder Room : Psychic
+Zen Headbutt : Psychic
+Chare Beam
+Will O Wisp
+Shield Breaker : Light
+Fired Up : Fire
+Astral Assault : Psychic
+Meteor Shower : Rock
+lce Bearn
+Trailblaze. Overgrowth
+Spellbind͕ CůŽƌĂů .ƵƌƐƚ
+Confide Alluring Voice
+Inertial Throw : Steel
+Pestilence : Poison
+Chlling Water
+Strengh Rock Smash
+Confide Ice Spinner
+Thermodrain : Ice
+Photon Bea m
+ChillingWater
+Mind Crush ͕ LŶĞƌƚŝĂů ÇŚƌŽǁ
+Power
+Melting boulder
+Scorching Breath Tutor Moves : Aqua Tail
+Draco Meteor : Dragon
+Dual Chop (N)
+Fire Fang (N)
+Fury Cutter : Bug
+Iron Tail : Steel
+Mud-Slap : Ground
+Outrage : Dragon
+Twister : Dragon
+Whirlpool : Water
+Psychic Fangs : Psychic
+ScaleScale Shot
+Shot
+Solar Solar Blade
+Blade
+Etheral Claw : Light
+Rampage
+Seismic Blade : Ground
+Jagged Punch : Rock
+Tectonic Fangs : Ground
+Draconic Aura : Dragon
+Dragon Force : Dragon
+Imposing Stare : Dragon
+Primal Storm : Dragon
+rock Polish
+Take Flight Ice Spinner
+Mew can learn any TM
+Melting Mud Slide Boulder
+Trick Room 100 Confide
+Cut . Upper Hand
+DracoJet
+SupercellSlam
+DragonCheer
+Work Up. 04 Calm Mind
+Floral Burstm
+Dark Wave
+New Moons
+Attract 06 Toxic
+Ghastly eco
+CalmMind
+Light Beam : Light
+ThunderWave
+Crush. Sugar Rush
+Flash Free
+Frost Blast Tutor Move Attract (N)
+Bug Bite : Bug
+Defog : Flying
+Endure : Normal
+Helping Hand(N)
+Icy Wind (N)
+Tailwind : Flying
+Quiver Dance : Bug
+Teleport : Psychic
+Dual Wingbeat : Flying
+Hurricane : Flying
+Triple Axel : Ice
+SkitterSmack
+Weather Ball : Normal
+Icicle Spear : Ice
+Air Slash : Flying
+Play Rough : Fairy
+Aurora Pillar : Ice
+Giga Leech : Bug
+Locust Swarm : Bug
+Powder Strom
+Silver Cyclone : Bug
+Shadow Veil : Dark
+Frost Typhoon : Ice
+Icicle Storm : Ice
+Spellbind ͕CůŽƌĂů .ƵƌƐƚ
+TauIcent
+Beam
+100 Confide
+GigIa mpact
+Dragon T 87 Swagger
+Substitut91 Flashe Cannon
+Ghastly Eco
+Frost Blast Tutor
+Mind Crush Tutor
+cut
+Rock smash
+Enchanted Blade : Fairy
+Strengh.
+Take Down : Normal
+Charm : Fairy
+Fake Tears : Dark
+Agility : Psychic
+Disarming Voice : Fairy
+Magical Leaf : Grass
+Bullet Seed : Grass
+U-turn
+Seed Bomb : Grass
+Grassy Terrain : Grass
+Grass Pledge : Grass
+Leaf Storm : Grass
+Terra Blast
+Low Kick : Fighting
+Thunder Punch : Electric
+Foul Play : Dark
+Spikes : Ground
+Toxic Spikes : Poison
+Power Gem : Rock
+Trick : Psychic
+Aura Sphere : Fighting
+Pollen Puff : Bug
+Frenzy Plant : Grass
+Fire Fang : Fire
+Thunder Fang : Electric
+Fire Spin : Fire
+Stomping tantrum
+Will-o-Wisp
+Crunch : Dark
+Hyper voice
+Encore : Normal
+FlameThrower
+Fire Pledge : Fire
+Flare Blitz : Fire
+Scary Face : Normal
+Hex : Ghost
+Imprison 103 Substitute
+Blast Burn : Fire
+Solar Beam 171
+Air Cutter : Flying
+Liquidation : Water
+Baton Pass : Normal
+Misty Terrain : Fairy
+Hydro Pump : Water
+Water Pledge : Water
+Brave Bird : Flying
+Agility 007 Protect
+Icy Wind : Ice
+Reversal : Fighting
+Hydro Cannon : Water
+Hyper Beam 164 Brave Bird
+Close Combat : Fighting
+Terra Blast. Crush
+Mud Shot : Ground
+Body Press : Fighting
+Poison Tail : Poison
+Stored Power : Psychic
+Drill Run : Ground
+Shadow ball
+Hyper Voice : Normal
+Heavy Slam : Steel
+Amnesia : Psychic
+Struggle Bug : Bug
+Bug Buzz : Bug
+Scary Face 007 Protect
+Low Kick 015 Struggle Bug
+Giga Impact 162 Bug Buzz
+Terra Blas
+Concentratipn
+Gunk Shot : Poison
+Sludge Bomb 162 Bug Buzz
+Psybeam : Psychic
+Confuse Ray : Ghost
+Electro Ball : Electric
+Psychic Terrain : Psychic
+Ice Fang : Ice
+Night Shade : Ghost
+Phantom Force : Ghost
+Sleep Talk 084 Stomping Tantrum
+Mud-slap
+Psybeam 017 Confuse Ray
+Thunder wave
+Imprison : Psychic
+Earthquake 152 Giga Impact
+Snowscape : Ice
+Will- o-Wisp
+Acid Spray : Poison
+Steel Beam : Steel
+ron Defense
+Sulfur Plume T E Z J C Ir O S M
+U- turn
+Aerial Ace 034 Icy Wind
+Dragon Dance : Dragon
+070 Sleep Talk
+Metal Claw : Steel
+Eerie Impulse : Electric
+Electric Terrain : Electric
+Fire Punch : Fire
+Metronome : Normal
+Lightning Lance : Electric
+Rock Blast : Rock
+Bulk Up 065 Air Slash
+Heavy Windst
+. Mud Slide
+Light  Pulse
+Halo 171 Terra Blast
+Venoshock047 Endure
+Mud Slap
+sparkling Spin
+Draining Kiss 041 Stored Power
+GigaDrain
+Flare Blast
+FlameSlam
+BurningThunder
+Glint. sparkling Spin
+Confuse
+Psychic Terrain 141 Fire Blast
+Hex 038 Flame Charge
+SandStorm
+Iron Head 103 Substitute
+Tera Blast : Normal
+Poison Tail 028 Bulldoze
+Water Fall
+Hydro pump
+Electric Terrain (N)
+Magical Leaf (N)
+Quash (N)
+Trailblaze (N)
+Aqua Jet (N)
+Aurora Beam (N)
+Breaking Swipe (N)
+Dragon Rush (N)
+Hone Claws (N)
+Knock Off : Dark
+Outrage (N)
+Sunny Day (N)
+Cement Throw Unofficial Homebrew
+Ancient Power (N)
+Double Kick (N)
+Draco Meteor (N)
+Fire Blast (N)
+Flamethrower (N)
+Heat Crash : Fire
+Incinerate (N)
+Noble Roar (N)
+Scale Shot : Dragon
+Scorching Sands : Ground
+Snarl (N)
+Wither (N)
+Burning Thunder Melting Boulder
+Butterfly Knife : Fairy
+Rampage Unofficial Homebrew
+Body Press (N)
+Earthquake (N)
+Electroweb : Electric
+Stomp (N)
+Supercell Slam (N)
+Wild Charge (N)
+Zap Cannon (N)
+Burning Thunder Unofficial Homebrew
+Coaching : Fighting
+Metal Sound : Steel
+Shocking Edge Yggdrasil Force Unofficial Homebrew
+Double- Edge
+Giga Impact (N)
+Meteor Beam : Rock
+Solar Blade : Grass
+Stone Edge (N)
+Zen Headbutt (N)
+Brutal Beatdown
+Frost Brand : Ice
+Shocking Edge : Electric
+Pixie Slash : Fairy
+Berserker Horn Unofficial Homebrew
+Expanding Force : Psychic
+Metal Burst (N)
+Metal Claw (N)
+Psycho Cut (N)
+Sacred Sword (N)
+Slash (N)
+Smart Strike (N)
+Mind Step Frost Brand
+Pixie Slash Unofficial Homebrew
+Aqua Tail : Water
+Dragon Cheer (N)
+Grassy Glide : Grass
+Misty Explosion : Fairy
+Poison Tail (N)
+Rollout (N)
+Skitter Smack : Bug
+Sucker Punch : Dark
+Sugar Rush (N)
+Primal Energy : Dragon
+Wild Growth Unofficial Homebrew
+Curse : Ghost
+Double Edge
+Uproar : Normal
+Defiant Sting
+Fluttering Leaf Silver Cyclone
+Belch : Poison
+Ember : Fire
+Fairy Wind : Fairy
+Lava Plume : Fire
+Leech Seed : Grass
+Poltergeist : Ghost
+Sleep Powder : Grass
+Sludge : Poison
+Haunting Aura : Ghost
+Mystic Powder Unofficial Homebrew
+Infestation (N)
+Devotion Dance : Fairy
+Karma Siphon Life
+Drain Punch (N)
+Focus Punch : Fighting
+Hard Press : Steel
+High Horsepower : Ground
+Lash Out : Dark
+Thief (N)
+Second Wind : Fighting
+Double Lariat Unofficial Homebrew
+Confuse Ray (N)
+Hex (N)
+Mud Bomb : Ground
+Psyshock (N)
+Spite (N)
+Vacuum Wave : Fighting
+Venoshock (N)
+Astral Assault Unofficial Homebrew
+Aerial Ace (N)
+Air Slash (N)
+Blaze Kick : Fire
+Dazzling Gleam (N)
+Disarming Voice (N)
+Dual Wingbeat (N)
+Flash Step*
+Psy Kick*
+Sludge Bomb (N)
+Fey Wild : Fairy
+Take Flight Unofficial Homebrew
+Horn Leech (N)
+Retaliate (N)
+Scary Face (N)
+Belly Drum : Normal
+Wither*
+Yawn : Normal
+Boulder Bash jagged punch
+Chaos Strike : Dark
+Scornful Vortex : Dark
+Shadow Strike New Moon
+Mind Flay : Psychic
+Bravado Unofficial Homebrew
+Dragon Claw (N)
+Laser Focus (N)
+Night Slash : Dark
+Rock Smash (N)
+Steel Roller : Steel
+Shocking Edge Chaos Strike
+Primal Storm͕ CĞƌƌŽƵƐ CůĂƐŚ
+Metallurgy : Steel
+Gyro Ball (N)
+Heavy Slam (N)
+Iron Head (N)
+Power Gem (N)
+Rock Slide (N)
+Shell Smash (N)
+Tera Blast (N)
+Energy Wave Unofficial Homebrew
+Astonish (N)
+Defense Curl (N)
+Extrasensory (N)
+Gunk Shot (N)
+Mean Look (N)
+Poison Fang (N)
+Poltergeist (N)
+Shadow Punch (N)
+Blood Shot Unofficial Homebrew
+Hone Claws : Dark
+Retaliate : Normal
+A2 Fly
+Dragon Claw  05 Roar
+I3 ce Beam
+Solare Flare
+Rock  Tomb
+Flame   charge
+Gyroball 75 Swords Dance
+Ripping Abyss : Dark
+Spellbind Spiteful Fury
+Substitute 98 Power-Up Punch
+Substitute 98 Power- Up Punch
+Ice Beam. 14 Blizzard
+Power- Up Punch
+Strengt
+Burst Ligt
+Fluttering Leaf Landslide
+: Solar Blast
+Solar flare
+Radiant shield
+A3 Surf
+olar Blast
+Strenth
+Cut Strength
+A5 Waterfall
+A6 Dive
+Supercell
+Burning Thunder Slam
+A4 Strength
+Chilling Water. Quicksilver
+A1 Cut
+Chilling Wate
+Confide Burst Light
+radiant Shield
+Buldoze
+Dazzling Gleam  100 Confide
+Fire Blast 42 Facade
+Dazzlin g Gleam
+Dragon Tail 83 Infestation
+DazzlinGleam
+LightPulse
+Trailblaze. Glint
+Dazzling Gleam   Light Pulse
+Acid Rain T A
+Dark Pulse. Will-O-Wisp
+Dazzling Gleam Flash
+Rock Smash Solar Blast
+A4Strength
+HyperBeam
+Haze : Ice
+Feather Dance : Flying
+X Scissor
+Aura Blast : Fighting
+Aura Burst : Fighting
+Burning Jealousy : Fire
+Endeavor : Normal
+Poltergheist
+Mach Speed Egg Move  List Covet
+Double Kick : Fighting
+Head Smash : Rock
+Morning Sun : Normal
+Thrash : Normal
+Snuggle : Fairy
+Fire Claw : Fire
+Swords Dace
+T S F t K S V N F O O A C Take Down
+Night Shad Fling
+Foul Play  Body Slam
+EnergyWave
+Spiteful Furye
