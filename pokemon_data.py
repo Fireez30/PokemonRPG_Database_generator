@@ -19,7 +19,44 @@ class Skill(BaseModel):
 STAT_KEYS = {"Hp", "Atk", "Def", "SpAtk", "SpDef", "Spd"}
 STAT_PATTERN = re.compile(r'^[+-]\d+$')
 
+def DAMAGE_BASE_TO_ROLL():
+    return {
+    1: '1d6+1',
+    2: '1d6+3',
+    3:  '1d6+5',
+    4:  '1d8+6',
+    5:  '1d8+8',
+    6:  '2d6+8',
+    7:  '2d6+10',
+    8:  '2d8+10',
+    9:  '2d10+10',
+    10: '3d8+10',
+    11: '3d10+10',
+    12: '3d12+10',
+    13: '4d10+10',
+    14: '4d10+15',
+    15: '4d10+20',
+}
 
+def ROLL_TO_DAMAGE_BASE():
+    return {
+        '1d6+1' : 1,
+        '1d6+3' : 2,
+        '1d6+5' : 3,
+        '1d8+6': 4,
+        '1d8+8': 5,
+        '2d6+8': 6,
+        '2d6+10': 7,
+        '2d8+10': 8,
+        '3d6+10': 8,
+        '2d10+10': 9,
+        '3d8+10': 10,
+        '3d10+10': 11,
+        '3d12+10': 12,
+        '4d10+10': 13,
+        '4d10+15': 14,
+        '4d10+20': 15
+}
 class StatsModel(BaseModel):
     stats: Dict[str, str]
 
@@ -173,7 +210,7 @@ class FullMove(BaseModel):
     special_effect : str | None = None
     contest_types : str | None = None
     contest_effect : str | None = None
-    extra_lines : list[str]
+    extra_lines : list[str] | None = None
 
     @field_validator("m_class", mode="before")
     @classmethod
